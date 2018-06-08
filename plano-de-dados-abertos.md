@@ -63,13 +63,13 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado no link .  [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
 
-882.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
+**2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
 
 Desdobramento do PEI-MP para a área de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
 O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
 
 
-3.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC) Gustavo
+**3.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** ==Gustavo==
 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
 
@@ -78,7 +78,7 @@ Diretriz D6: Estabelecer, gerir, incentivar e manter políticas públicas por me
 Princípio P5: Garantia de suporte de informação adequado, dinâmico, confiável e eficaz;
 
 
-4.	Comitê Estratégico de Tecnologia da Informação e Comunicação(CETIC)
+**4.	Comitê Estratégico de Tecnologia da Informação e Comunicação(CETIC)**
 
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
@@ -160,7 +160,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDE2MjEwOSwtOTY3NzcwODgzLC01MT
+eyJoaXN0b3J5IjpbMTAwNjM2MjgxMywtOTY3NzcwODgzLC01MT
 Y3NjA1MTUsMTI3MDk4MTc3NywtMjE5ODYxMzIyLC0yMDg5Njg2
 MTQ1LDM2MjEzMzU5MCwxMTYyNTEyNDg0XX0=
 -->
