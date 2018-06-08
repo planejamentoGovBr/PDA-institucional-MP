@@ -19,7 +19,7 @@ Sua elaboração vem ao encontro do disposto na [Lei de Acesso à Informação (
 
 Considerando a existência de cartilhas e modelos que dispõem sobre arquitetura, ontologias e aspectos técnicos relacionados à formatação operacional para a catalogação e publicação de dados, este documento visa orientar o planejamento para a abertura de dados, citando a literatura e materiais disponí­veis sobre o ferramental técnico.
 
-Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico), Planejamento Estratégico de Tecnologia da Informação (PETI) e o Plano Diretor de Tecnologia da Informação (PDTI) ambos do MP.
+Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico), Planejamento Estratégico de Tecnologia da Informação (PETI) e o [Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti) ambos do MP.
 
 A partir das diretrizes estratégicas, este Plano de Dados Abertos preve no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados.
 
@@ -89,6 +89,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA2MjQ5ODksMTYwNTU2NjQ0MSwtMT
-gwOTYwMTQwMSwtNjczNjQzMjQ4LDY4NjA1NjY2OF19
+eyJoaXN0b3J5IjpbMzA2MDA3NDU3LDE2MDU1NjY0NDEsLTE4MD
+k2MDE0MDEsLTY3MzY0MzI0OCw2ODYwNTY2NjhdfQ==
 -->
