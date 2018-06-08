@@ -53,7 +53,8 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 ### Cenário Institucional
 
 A elaboração e a revisão do PDA se relacionam e estão alinhadas com os seguintes instrumentos e instâncias de gestão: 
-1. **Planejamento Estratégico Institucional (PEI – MP - 2016-2019)**
+
+**1. Planejamento Estratégico Institucional (PEI – MP - 2016-2019)**
 O planejamento estratégico do MP está organizado de forma simples e consta as definições de  missão, visão e as perspectivas que contribuem para a consecução da missão. 
 
 ***Missão***: Promover o desenvolvimento, a gestão eficiente, a melhoria do gasto público e a ampliação dos investimentos, visando à oferta de bens e serviços de qualidade ao cidadão.
@@ -62,7 +63,7 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 O PDA está diretamente ligado a um Objetivo Estratégico "Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência", com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas. <link XXXXXXX> Validar se esta versão já foi publicada no MP.
 
-2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)
+2.	**Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
 
 Desdobramento do PEI-MP para a área de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
 O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
@@ -159,7 +160,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTQ0MDkxNywxMjcwOTgxNzc3LC0yMT
+eyJoaXN0b3J5IjpbMTY0NzAyNzEzMywxMjcwOTgxNzc3LC0yMT
 k4NjEzMjIsLTIwODk2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0
 ODRdfQ==
 -->
