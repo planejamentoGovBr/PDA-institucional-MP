@@ -63,7 +63,7 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado no link .  [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
 
-2.	**Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
+882.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
 
 Desdobramento do PEI-MP para a área de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
 O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
@@ -160,7 +160,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Nzc3MDg4MywtNTE2NzYwNTE1LDEyNz
-A5ODE3NzcsLTIxOTg2MTMyMiwtMjA4OTY4NjE0NSwzNjIxMzM1
-OTAsMTE2MjUxMjQ4NF19
+eyJoaXN0b3J5IjpbMjEwMDE2MjEwOSwtOTY3NzcwODgzLC01MT
+Y3NjA1MTUsMTI3MDk4MTc3NywtMjE5ODYxMzIyLC0yMDg5Njg2
+MTQ1LDM2MjEzMzU5MCwxMTYyNTEyNDg0XX0=
 -->
