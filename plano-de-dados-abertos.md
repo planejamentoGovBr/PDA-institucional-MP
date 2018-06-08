@@ -61,7 +61,7 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 ***Visão***: Ser reconhecido pela excelência e competência na gestão pública.
 
-O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado.  [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
+O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado no link .  [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
 
 2.	**Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
 
@@ -160,7 +160,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcyMDE1MDIsLTUxNjc2MDUxNSwxMj
-cwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYxNDUsMzYyMTMz
-NTkwLDExNjI1MTI0ODRdfQ==
+eyJoaXN0b3J5IjpbLTk2Nzc3MDg4MywtNTE2NzYwNTE1LDEyNz
+A5ODE3NzcsLTIxOTg2MTMyMiwtMjA4OTY4NjE0NSwzNjIxMzM1
+OTAsMTE2MjUxMjQ4NF19
 -->
