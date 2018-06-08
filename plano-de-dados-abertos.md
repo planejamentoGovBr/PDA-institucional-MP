@@ -33,9 +33,9 @@ O cidadão poderá usar a [plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/
 
 ## **I) Introdução**
 
-Na sociedade em rede, os dados produzidos pelos cidadãos, ou em seu nome, são a força motriz da economia e da nação — o governo tem a responsabilidade de tratar esta informação como precioso recurso nacional. Os cidadãos, hoje,...
+O MP atualiza o seu PDA para o biênio 2018-2019 documento no qual são estabelecidas as ações para a implementação e promoção de abertura de dados sob sua responsabilidade.
 
-Os principais normativos aplicáveis para a confecção deste Plano são:
+Os principais normativos aplicáveis a confecção deste Plano são:
 
 - A [Lei nº 12.527](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), de 18 de Novembro de 2011, Lei de Acesso à Informação – LAI;
 - O [Decreto nº 8.777,](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm) de 11 de maio de 2016, que institui a Política de Dados Abertos do Poder Executivo Federal;
@@ -89,6 +89,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MDA3NDU3LDE2MDU1NjY0NDEsLTE4MD
-k2MDE0MDEsLTY3MzY0MzI0OCw2ODYwNTY2NjhdfQ==
+eyJoaXN0b3J5IjpbMTc3NDQyMDE1LDMwNjAwNzQ1NywxNjA1NT
+Y2NDQxLC0xODA5NjAxNDAxLC02NzM2NDMyNDgsNjg2MDU2NjY4
+XX0=
 -->
