@@ -39,7 +39,7 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 
 - A [Lei nº 12.527](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), de 18 de Novembro de 2011, Lei de Acesso à Informação – LAI;
 - O [Decreto nº 8.777,](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm) de 11 de maio de 2016, que institui a Política de Dados Abertos do Poder Executivo Federal;
-- [Resolução CGINDA nº 3](INDA), de 13 de outubro de 2017, que aprova as normas sobre elaboração e publicação de Planos de Dados Abertos, conforme disposto no Decreto nº 8.777, de 11 de maio de 2016.
+- [Resolução CGINDA nº 3](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx#Resolu%C3%A7%C3%B5es_0), de 13 de outubro de 2017, que aprova as normas sobre elaboração e publicação de Planos de Dados Abertos, conforme disposto no Decreto nº 8.777, de 11 de maio de 2016.
 - O disposto no art. 48 da [Lei Complementar nº 101](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm), de 4 de maio de 2000, que determina ao Poder Público a adoção de instrumentos de transparência na gestão fiscal  em meios eletrônicos de acesso público às informações orçamentárias e prestações de contas;
 - O [Decreto Presidencial nº 6.666](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm), de 27 de novembro de 2008, que instituiu a criação da Infraestrutura Nacional de Dados Espaciais – INDE, e determina que o compartilhamento e disseminação dos dados geoespaciais e seus metadados é obrigatório para todos os órgãos e entidades do Poder Executivo Federal, salvo os protegidos por sigilo;
 - [Decreto s/nº de 15 de setembro de 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/dsn/dsn13117.htm), que institui o Plano de Ação Nacional sobre Governo Aberto, o qual estabelece o compromisso do governo de implantar a Infraestrutura Nacional de Dados Abertos (INDA);
@@ -90,5 +90,5 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDIxOTczNF19
+eyJoaXN0b3J5IjpbLTIyMDIxNzI5NF19
 -->
