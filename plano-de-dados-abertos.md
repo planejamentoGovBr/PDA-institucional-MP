@@ -51,6 +51,7 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
 
 ### *Objetivo Geral*
+
  
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
 
@@ -91,6 +92,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQxNzk5NTgsMzc2NjQxMjUzLC0yMD
+eyJoaXN0b3J5IjpbLTE0MTI2MDM2NTYsMzc2NjQxMjUzLC0yMD
 g5Njg2MTQ1LDM2MjEzMzU5MCwxMTYyNTEyNDg0XX0=
 -->
