@@ -2,7 +2,7 @@
 
 ----------
 
-Versão [3.6.0](https://github.com/planejamentogovbr/PDA-institucional-MP/releases/xxxxxx) de julho/18 - Vigência 2018/2019
+Versão [3.0.0](https://github.com/planejamentogovbr/PDA-institucional-MP/releases/xxxxxx) de julho/18 - Vigência 2018/2019
 
 
 ## **Sumário**
@@ -71,5 +71,5 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcyNjkwOThdfQ==
+eyJoaXN0b3J5IjpbNjg2MDU2NjY4XX0=
 -->
