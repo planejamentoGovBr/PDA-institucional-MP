@@ -50,6 +50,75 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabilidade do governo eletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
 - Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
 
+# Cenário Institucional
+
+A elaboração e a revisão do PDA se relacionam e estão alinhadas com os seguintes instrumentos e instâncias de gestão: 
+
+1.	Planejamento Estratégico Institucional (PEI – MP - 2016-2019)
+
+O planejamento estratégico do MP está organizado de forma simples e consta as definições de  missão, visão e as perspectivas que contribuem para a consecução da missão. 
+
+Missão: Promover o desenvolvimento, a gestão eficiente, a melhoria do gasto público e a ampliação dos investimentos, visando à oferta de bens e serviços de qualidade ao cidadão.
+
+Visão: Ser reconhecido pela excelência e competência na gestão pública.
+
+
+O PDA está diretamente ligado a um Objetivo Estratégico "Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência", com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas. <link XXXXXXX> Validar se esta versão já foi publicada no MP.
+
+
+2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)
+
+Desdobramento do PEI-MP para a área de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
+O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
+
+
+3.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC) Gustavo
+
+O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
+
+As iniciativas para o PDA estão alinhadas:
+Diretriz D6: Estabelecer, gerir, incentivar e manter políticas públicas por meios eletrônicos;
+Princípio P5: Garantia de suporte de informação adequado, dinâmico, confiável e eficaz;
+
+
+4.	Comitê Estratégico de Tecnologia da Informação e Comunicação(CETIC)
+
+O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
+
+
+5.	Estratégia Governança Digital (EGD) Atualizar no portal
+
+O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
+O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
+
+6.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):
+O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
+O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê.
+	Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
+	Revisão do Manual de Elaboração do Plano de Dados Abertos; 
+	Monitoramento  da Publicação dos Planos de Dados Abertos;
+	Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
+	Monitoramento da implementação dos Planos de Dados Abertos publicados.
+
+7.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):
+O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia
+
+8.	Comissão Nacional de Cartografia (CONCAR)
+A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração publica, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
+O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
+
+9.	Comitê Interministerial Governo Aberto (CIGA)
+O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo o compromisso do país em inovar para fortalecer a transparência dos atos governamentais. 
+
+10.	Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)
+
+Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados são: 
+
+Compromisso nº 1: Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes. MP.
+	Compromisso n.º 9: Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
+	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
+	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
+
 ### Objetivo Geral
 
  
@@ -94,7 +163,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDA1MDQxMCwxMjcwOTgxNzc3LC0yMT
+eyJoaXN0b3J5IjpbLTI0NjQxODEzNywxMjcwOTgxNzc3LC0yMT
 k4NjEzMjIsLTIwODk2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0
 ODRdfQ==
 -->
