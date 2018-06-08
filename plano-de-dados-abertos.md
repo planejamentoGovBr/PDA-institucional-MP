@@ -50,12 +50,12 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabilidade do governo eletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
 - Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
 
-### *Objetivo Geral*
+### Objetivo Geral
 
  
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
 
-### *Objetivos Específicos*
+### Objetivos Específicos
 
 No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
 
@@ -94,7 +94,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjE4NDgsMTI3MDk4MTc3NywtMjE5OD
-YxMzIyLC0yMDg5Njg2MTQ1LDM2MjEzMzU5MCwxMTYyNTEyNDg0
-XX0=
+eyJoaXN0b3J5IjpbMTI4MDA1MDQxMCwxMjcwOTgxNzc3LC0yMT
+k4NjEzMjIsLTIwODk2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0
+ODRdfQ==
 -->
