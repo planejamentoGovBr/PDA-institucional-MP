@@ -90,5 +90,5 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjUxMjQ4NF19
+eyJoaXN0b3J5IjpbMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
