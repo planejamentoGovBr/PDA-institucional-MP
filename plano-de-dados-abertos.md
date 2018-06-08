@@ -58,13 +58,14 @@ Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, 
 ### *Objetivos Específicos*
 
 No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
-•	Identificar prioridades e disponibilizar dados em formatos abertos, e, sempre que possível, georeferenciados;
-•	Melhorar a qualidade dos dados disponibilizados;
-•	Estimular a interoperabilidade de dados e sistemas governamentais pela publicação de dados em formato processável por máquina, conforme padrões estabelecidos .
+
+* Identificar prioridades e disponibilizar dados em formatos abertos, e, sempre que possível, georeferenciados;
+* Melhorar a qualidade dos dados disponibilizados;
+- Estimular a interoperabilidade de dados e sistemas governamentais pela publicação de dados em formato processável por máquina, conforme padrões estabelecidos .
 •	Melhorar a gestão da informação e de dados; 
 •	Incrementar os processos de transparência e de acesso a informações públicas;
 •	Estimular a visualização da informação das ações de governo no território; e
-•	Priorizar a abertura de dados e a melhoria de qualidade com base ns demandas por dados identificados na sociedade.
+•	Priorizar a abertura de dados e a melhoria de qualidade com base nas demandas por dados identificados na sociedade.
 
  
  ----------
@@ -94,6 +95,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTAxODA3NSwzNzY2NDEyNTMsLTIwOD
+eyJoaXN0b3J5IjpbMTIwODA0OTA4MywzNzY2NDEyNTMsLTIwOD
 k2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
