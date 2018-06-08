@@ -50,11 +50,11 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabilidade do governo eletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
 - Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
 
-# Cenário Institucional
+### Cenário Institucional
 
 A elaboração e a revisão do PDA se relacionam e estão alinhadas com os seguintes instrumentos e instâncias de gestão: 
 
-1.	Planejamento Estratégico Institucional (PEI – MP - 2016-2019)
+1 - Planejamento Estratégico Institucional (PEI – MP - 2016-2019)
 
 O planejamento estratégico do MP está organizado de forma simples e consta as definições de  missão, visão e as perspectivas que contribuem para a consecução da missão. 
 
@@ -163,7 +163,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjQxODEzNywxMjcwOTgxNzc3LC0yMT
-k4NjEzMjIsLTIwODk2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0
-ODRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODk1MzM2MzgsMTI3MDk4MTc3NywtMj
+E5ODYxMzIyLC0yMDg5Njg2MTQ1LDM2MjEzMzU5MCwxMTYyNTEy
+NDg0XX0=
 -->
