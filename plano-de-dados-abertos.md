@@ -95,26 +95,26 @@ O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta n
 *	Revisão do Manual de Elaboração do Plano de Dados Abertos; 
 *	Monitoramento  da Publicação dos Planos de Dados Abertos;
 *	Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
-	Monitoramento da implementação dos Planos de Dados Abertos publicados.
+*	Monitoramento da implementação dos Planos de Dados Abertos publicados.
 
-7.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):
+**7.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):**
 O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia
 
-8.	Comissão Nacional de Cartografia (CONCAR)
+**8.	Comissão Nacional de Cartografia (CONCAR)**
 A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração publica, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
 O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
 
-9.	Comitê Interministerial Governo Aberto (CIGA)
+**9.	Comitê Interministerial Governo Aberto (CIGA)**
 O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo o compromisso do país em inovar para fortalecer a transparência dos atos governamentais. 
 
-10.	Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)
+**10.	Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)**
 
 Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados são: 
 
-Compromisso nº 1: Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes. MP.
-	Compromisso n.º 9: Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
-	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
-	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
+* Compromisso nº 1: Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes. MP.
+*	Compromisso n.º 9: Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
+*	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
+*	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
 ### Objetivo Geral
 
@@ -160,7 +160,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzQwNDk0MywtOTY3NzcwODgzLC01MT
-Y3NjA1MTUsMTI3MDk4MTc3NywtMjE5ODYxMzIyLC0yMDg5Njg2
-MTQ1LDM2MjEzMzU5MCwxMTYyNTEyNDg0XX0=
+eyJoaXN0b3J5IjpbMjE2MTExNTI3LC05Njc3NzA4ODMsLTUxNj
+c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
+NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
