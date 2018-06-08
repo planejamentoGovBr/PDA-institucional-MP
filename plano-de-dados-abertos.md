@@ -56,7 +56,7 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
 
 ### *Objetivos Específicos*
-| teste | 
+
 No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
 •	Identificar prioridades e disponibilizar dados em formatos abertos, e, sempre que possível, georeferenciados;
 •	Melhorar a qualidade dos dados disponibilizados;
@@ -94,6 +94,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTEwNDkwLDM3NjY0MTI1MywtMjA4OT
-Y4NjE0NSwzNjIxMzM1OTAsMTE2MjUxMjQ4NF19
+eyJoaXN0b3J5IjpbLTY1MTAxODA3NSwzNzY2NDEyNTMsLTIwOD
+k2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
