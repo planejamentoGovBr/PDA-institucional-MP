@@ -83,18 +83,18 @@ Princípio P5: Garantia de suporte de informação adequado, dinâmico, confiáv
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 
-5.	Estratégia Governança Digital (EGD) Atualizar no portal
+**5.	Estratégia Governança Digital (EGD) Atualizar no portal**
 
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
 O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
 
-6.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):
+**6.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):**
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
 O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê.
-	Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
-	Revisão do Manual de Elaboração do Plano de Dados Abertos; 
-	Monitoramento  da Publicação dos Planos de Dados Abertos;
-	Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
+*	Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
+*	Revisão do Manual de Elaboração do Plano de Dados Abertos; 
+*	Monitoramento  da Publicação dos Planos de Dados Abertos;
+*	Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
 	Monitoramento da implementação dos Planos de Dados Abertos publicados.
 
 7.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):
@@ -160,7 +160,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjM2MjgxMywtOTY3NzcwODgzLC01MT
+eyJoaXN0b3J5IjpbLTU1NzQwNDk0MywtOTY3NzcwODgzLC01MT
 Y3NjA1MTUsMTI3MDk4MTc3NywtMjE5ODYxMzIyLC0yMDg5Njg2
 MTQ1LDM2MjEzMzU5MCwxMTYyNTEyNDg0XX0=
 -->
