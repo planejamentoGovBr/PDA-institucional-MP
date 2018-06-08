@@ -12,6 +12,24 @@ Versão [3.0.0](https://github.com/planejamentogovbr/PDA-institucional-MP/releas
 
 ----------
 
+## **Apresentação**
+O Plano de Dados Abertos (PDA) é o documento orientador para as ações de implementação e promoção de abertura de dados no Ministério do Planejamento, Desenvolvimento e Gestão (MP), obedecendo aos padrões mínimos de qualidade, de forma a facilitar o entendimento e a reutilização das informações. É ele quem organiza o planejamento referente à implantação e racionalização dos processos de publicação de dados abertos.
+
+Sua elaboração vem ao encontro do disposto na Lei de Acesso à Informação (LAI), na Instrução Normativa SLTI nº 4, de 13 de abril de 2012, que institui a Infraestrutura Nacional de Dados Abertos, no Decreto Presidencial nº 6.666, de 27 de novembro de 2008, que institui a Infraestrutura Nacio­nal de Dados Espaciais, bem como dos compromissos assumidos pelo Brasil no âmbito do 3º Plano de Ação Nacional sobre Governo Aberto, entre outros normativos que abordam o tema de transparência.
+
+Considerando a existência de cartilhas e modelos que dispõem sobre arquitetura, ontologias e aspectos técnicos relacionados à formatação operacional para a catalogação e publicação de dados, este documento visa orientar o planejamento para a abertura de dados, citando a literatura e materiais disponí­veis sobre o ferramental técnico.
+
+Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o Planejamento Estratégico Institucional (PEI), Planejamento Estratégico de Tecnologia da Informação (PETI) e o Plano Diretor de Tecnologia da Informação (PDTI) ambos do MP.
+
+A partir das diretrizes estratégicas, este Plano de Dados Abertos preve no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados.
+
+O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018, é a atualização do Plano de Ações do PDA anterior, referente ao Biênio de 2016-2017. Além disso, foi revisado quanto ao cumprimento das metas anteriores e a inserção de novos dados que serão abertos para a sociedade.
+
+O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa mesma periodicidade, identificadas no mês de sua liberação, as quais, podem ser motivadas pela revisão do _status_ das metas ou novas inserções de abertura de dados. Esse será divulgado à sociedade por meio de sua publicação no Portal Brasileiro de Dados Abertos e no sítio eletrônico do MP.
+
+O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolvendo todas as unidades do MP e considerando os princípios da publicidade e da transparência da administração pública. Para se estabelecer priorização dos conjuntos de dados que serão disponibilizados foram considerados o grau de relevância das informações para o cidadão, os compromissos assumidos pelo Ministério no PDA anterior, além das competências e os conjuntos de dados efetivamente mantidos pelo MP.
+
+O cidadão poderá usar o sistema e-Ouv, por meio do endereço eletrônico: _https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_, para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
 ## **I) Introdução**
 
@@ -71,5 +89,5 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MDU2NjY4XX0=
+eyJoaXN0b3J5IjpbLTU0MDM0OTg4Niw2ODYwNTY2NjhdfQ==
 -->
