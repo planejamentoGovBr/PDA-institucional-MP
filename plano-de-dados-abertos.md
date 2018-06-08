@@ -53,16 +53,14 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 ### Cenário Institucional
 
 A elaboração e a revisão do PDA se relacionam e estão alinhadas com os seguintes instrumentos e instâncias de gestão: 
-1. Planejamento Estratégico Institucional (PEI – MP - 2016-2019)**
+1. **Planejamento Estratégico Institucional (PEI – MP - 2016-2019)**
 O planejamento estratégico do MP está organizado de forma simples e consta as definições de  missão, visão e as perspectivas que contribuem para a consecução da missão. 
 
-Missão: Promover o desenvolvimento, a gestão eficiente, a melhoria do gasto público e a ampliação dos investimentos, visando à oferta de bens e serviços de qualidade ao cidadão.
+***Missão***: Promover o desenvolvimento, a gestão eficiente, a melhoria do gasto público e a ampliação dos investimentos, visando à oferta de bens e serviços de qualidade ao cidadão.
 
-Visão: Ser reconhecido pela excelência e competência na gestão pública.
-
+***Visão***: Ser reconhecido pela excelência e competência na gestão pública.
 
 O PDA está diretamente ligado a um Objetivo Estratégico "Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência", com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas. <link XXXXXXX> Validar se esta versão já foi publicada no MP.
-
 
 2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)
 
@@ -161,7 +159,7 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NDQ3OTg3LDEyNzA5ODE3NzcsLTIxOT
-g2MTMyMiwtMjA4OTY4NjE0NSwzNjIxMzM1OTAsMTE2MjUxMjQ4
-NF19
+eyJoaXN0b3J5IjpbLTk2NTQ0MDkxNywxMjcwOTgxNzc3LC0yMT
+k4NjEzMjIsLTIwODk2ODYxNDUsMzYyMTMzNTkwLDExNjI1MTI0
+ODRdfQ==
 -->
