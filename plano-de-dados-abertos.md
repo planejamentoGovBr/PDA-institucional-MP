@@ -29,7 +29,7 @@ O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa
 
 O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolvendo todas as unidades do MP e considerando os princípios da publicidade e da transparência da administração pública. Para se estabelecer priorização dos conjuntos de dados que serão disponibilizados foram considerados o grau de relevância das informações para o cidadão, os compromissos assumidos pelo Ministério no PDA anterior, além das competências e os conjuntos de dados efetivamente mantidos pelo MP.
 
-O cidadão poderá usar o sistema e-Ouv, por meio do endereço eletrônico: _https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_, para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
+O cidadão poderá usar [a plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
 ## **I) Introdução**
 
@@ -89,6 +89,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk2MDE0MDEsLTY3MzY0MzI0OCw2OD
-YwNTY2NjhdfQ==
+eyJoaXN0b3J5IjpbOTQxODgzMDE5LC0xODA5NjAxNDAxLC02Nz
+M2NDMyNDgsNjg2MDU2NjY4XX0=
 -->
