@@ -1,9 +1,8 @@
-# PDA-institucional-MP
-Repositório versionado do Plano de Dados Abertos do Ministério do Planejamento
+## Sobre o documento e sua manutenção
 
-O PDA do Ministério do Planejamento está disponível em http://plano.dados.planejamento.gov.br. A escolha em publicar o PDA em formato HTML navegável tem como objetivo facilitar a edição, a publicação, a busca e compartilhamento deste documento, além de garantir nativamente o rastreamento das modificações.
+O PDA do Ministério do Planejamento está disponível em http://plano.dados.planejamento.gov.br. A escolha em publicar o **PDA em formato HTML navegável** tem como objetivo facilitar a edição, a publicação, a busca e compartilhamento deste documento, além de garantir nativamente o rastreamento das modificações.
 
-A página do PDA é construída com o uso do CMS WordPress e um [plugin WordPress](https://github.com/culturagovbr/WP-MarkDown-Converter) desenvolvido para converter automaticamente o documento Markdown em HTML.
+A página do PDA é construída com o uso do CMS WordPress e um [plugin-WP](https://github.com/culturagovbr/WP-MarkDown-Converter) que converte automaticamente o documento Markdown em HTML. O Ministério da Cultura desenvolveu este plugin e também publicou seu [PDA em html](http://plano.dados.cultura.gov.br/), inspirando-nos em copiar este modelo.
 
 ### Versionamento do documento
 Inspirado em práticas de desenvolvimento de software, convencionamos a utilizaço de uma adaptação do [Senver](http://semver.org/) como padrão para a definição das versões do documento, da seguinte forma:
