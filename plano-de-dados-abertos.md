@@ -73,10 +73,6 @@ O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar 
 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
 
-As iniciativas para o PDA estão alinhadas:
-Diretriz D6: Estabelecer, gerir, incentivar e manter políticas públicas por meios eletrônicos;
-Princípio P5: Garantia de suporte de informação adequado, dinâmico, confiável e eficaz;
-
 
 **4.	Comitê Estratégico de Tecnologia da Informação e Comunicação(CETIC)**
 
@@ -203,5 +199,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk4NTM1MTVdfQ==
+eyJoaXN0b3J5IjpbLTE0ODUzNzc4MzddfQ==
 -->
