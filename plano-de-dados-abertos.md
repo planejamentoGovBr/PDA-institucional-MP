@@ -241,7 +241,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 ### **Peso dos Critérios**
 
 | Critério | Nome do Critério  | Peso |
-|--:|:--:|:--:|:--:|:--:|:--:|
+|--:|:--:|:--:|
 | **C1** | Grau de Relevância ao Cidadão |**4** |
 | **C2** | Estímulo ao Controle Social| **3** |
 | **C3** | Obrigatoriedade legal ou compromisso assumido| **1** |
@@ -256,7 +256,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
-| Nome da Base de Dados | C1  | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 |Total |
+| Nome da Base de Dados | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
 | **Informações sobre a arrecadação anual sobre o Patrimônio da União** | 12 | 9 | 3 | 2 | 12 | 9| 15 | 8 | 15| **85** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
@@ -345,7 +345,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI0MDYzMjQsLTEwMDg4NzA3OTQsLT
-E1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5
-ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbOTE0NjM4OTE0LC0xMDA4ODcwNzk0LC0xNT
+Y3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4
+ODQsMTUxODAyMTc3MV19
 -->
