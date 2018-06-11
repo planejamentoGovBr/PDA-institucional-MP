@@ -244,8 +244,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 |--:|:--:|:--:|:--:|:--:|:--:|
 | **Relevância ao Cidadão** | Grau de Relevância ao Cidadão |**4** |
 | **Controle Social** | Estímulo ao Controle Social| **3** |
-| **Obrigatoriedade legalControle Social** | Estímulo ao Controle Social| **3** |
-| **Controle Social** | Estímulo ao Controle Social| **3** |
+| **Obrigatoriedade Legal** | Obrigatoriedade legal ou compromisso assumido| **1** |
+| **Projetos Estratégicos** | Refere a projetos Estratégicos do Governoao Controle Social| **3** |
 | **Controle Social** | Estímulo ao Controle Social| **3** |
 | **Controle Social** | Estímulo ao Controle Social| **3** |
 
@@ -338,6 +338,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTkwMzc1LC0xNTU2NTE1NDE5LC0zNz
-ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTIwMzA1MzU3NjEsLTE1NTY1MTU0MTksLT
+M3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
