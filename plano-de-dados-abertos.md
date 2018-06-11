@@ -139,16 +139,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
 
-O Ministério do Planejamento, em consequência do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as*Objetivo Geral*
-
-A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do um governo mais aberto.
-
-### *Objetivos Específicos*
-
- - Identificar e priorizar a abertura de dados com maior grau de relevância para o cidadão;
- - Incrementar os processos de transparência e de acesso a informações públicas;
- - Fornecer dados atualizados implementando as melhores práticas de publicação de dados e por meio de padrões consolidados;
- - Estimular a interoperabilidade informacional entratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
+O Ministério do Planejamento, em consequência do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as etratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
 
 ### Premissas
 
@@ -178,14 +169,11 @@ O MP adotará, sempre que possível, a publicação em diversos formatos e por m
 
 Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
 
-Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dadose instituições públicas;
- - Reduzir a assimetria de informações entre a sociedade e o governo;
- - Fomentar a participação social e a inovação tecnológica;
- - Estimular o crescimento da economia pela produção de novos serviços digitais e a reutilização dos recursos informacionais de caráter público.
- 
+Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
+
  ----------
 
-## **II) Dados para Abertura**
+## **Dados para Abertura**
 
 Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
 
@@ -213,7 +201,4 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 eyJoaXN0b3J5IjpbMjE2MTExNTI3LC05Njc3NzA4ODMsLTUxNj
 c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ4MTc1NjFdfQ==
 -->
