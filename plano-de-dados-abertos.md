@@ -276,8 +276,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Previdência Complementar dos Servidores do Poder Executivo Civil** | 4 | 3 | 1 | 4 | 4 | 3 | 5 | 4 | 10 |**38** |
 | **Pensionistas do Poder Executivo Federal** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 8 | 5 |**38** |
 | **Boletim das Empresas Estatais Federais** | 8 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**38** |
-| **Informações sobre imóveis da antiga RFFSA** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-| **Relação de órgãos que utilizam a malha da INFOVIA** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Informações sobre imóveis da antiga RFFSA** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**34** |
+| **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 ### ** Melhoria da qualidade dos dados**
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
@@ -355,8 +355,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNjM0MDQzLC0xNDMwNjczMjU4LC0zMz
-A1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1
-MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX
-0=
+eyJoaXN0b3J5IjpbLTIxMzYzODI3NTMsLTE0MzA2NzMyNTgsLT
+MzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1
+NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3Nz
+FdfQ==
 -->
