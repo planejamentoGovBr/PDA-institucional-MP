@@ -267,12 +267,15 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 1 | 1 | 2 | 2 | **6** |
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 1 | 1 | 2 | 1 | **5** |
 | **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 1 | 1 | 2 | 1 | **5** |
+| **Gastos de pessoal com Auxílios** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Catálogo de bases da dados que integram o GovData** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Catálogo de APIs que integram o ConcectaGov** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Informações sobre Imóveis Funcionais e Permissionários** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Informações sobre o valor de depreciação dos imóveis de Uso Especial** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-
 ### ** Melhoria da qualidade dos dados**
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
@@ -350,7 +353,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM0NjQxNjQsLTEwMDg4NzA3OTQsLT
+eyJoaXN0b3J5IjpbLTE0Mjc4NjA5NTEsLTEwMDg4NzA3OTQsLT
 E1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5
 ODg4NCwxNTE4MDIxNzcxXX0=
 -->
