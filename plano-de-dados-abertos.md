@@ -246,10 +246,10 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 | **C2** | Estímulo ao Controle Social| **3** |
 | **C3** | Obrigatoriedade legal ou compromisso assumido| **1** |
 | **C4** | Refere a projetos Estratégicos do Governo| **2** |
-| **C5erviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
-| **Desenvolvimento Sustentável** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
-| **Fomento a negócios** | Possibilidade de Fomento a Negócios| **5** |
-| **Transparência Passiva** | Solicitado em Transparência Passiva a LAI| **4** |
+| **C5** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
+| **C6** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
+| **C7** | Possibilidade de Fomento a Negócios| **5** |
+| **C8** | Solicitado em Transparência Passiva a LAI| **4** |
 | **Maturidade da Informação** | Nível de maturidade e organização das informações pertencentes ao conjunto de dados abertos| **5** |
 
 ### **Matriz de Aplicação Critérios**
@@ -345,7 +345,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjQ3NjEyOCwtMTAwODg3MDc5NCwtMT
-U2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4
-ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTE5ODY4NjA1NTgsLTEwMDg4NzA3OTQsLT
+E1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5
+ODg4NCwxNTE4MDIxNzcxXX0=
 -->
