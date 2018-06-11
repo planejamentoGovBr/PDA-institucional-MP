@@ -314,7 +314,7 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
 
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
-![Governança](d:\\Governança)
+![Governança](https://github.com/planejamentoGovBr/PDA-institucional-MP/blob/master/governan%C3%A7a.png
 
 
  ----------
@@ -356,8 +356,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMT
-QzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3
-MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4OD
-QsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbNTE3NzA3NDgyLC0zOTIyMDI2NzAsLTE4ND
+QwNDMzNTYsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3
+MDc5NCwtMTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMz
+IsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
