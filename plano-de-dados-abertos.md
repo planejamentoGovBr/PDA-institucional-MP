@@ -306,8 +306,11 @@ Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de pu
 
 ### Comunicação e Participação social
 A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
+
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, Academia, imprensa, sociedade organizada e cidadão comum (não se vincula a organização ou entidade específica).
+
 O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
+
 1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
 2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
 3.	Consultas Públicas;
@@ -317,13 +320,15 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
 7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
 8.	Outros espaços de divulgação.
 
-VII) Plano de Ação
+ ----------
+## **VI. Plano de Ação**
+
 Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
-a)	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
-b)	As ações planejadas para as bases que necessitam de ação de melhoria;
-c)	As ações relacionadas ao monitoramento e controle do PDA;
+1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
+2.	As ações planejadas para as bases que necessitam de ação de melhoria;
+3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMzcyOTk2LC0zNzExMjAzMiwtODM2OT
-g4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04Mz
+Y5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
