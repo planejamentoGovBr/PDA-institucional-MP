@@ -22,7 +22,7 @@ Considerando a existência de cartilhas e modelos que dispõem sobre arquitetura
 
 Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico), Planejamento Estratégico de Tecnologia da Informação (PETI) e o [Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti) ambos do MP.
 
-A partir das diretrizes estratégicas, este Plano de Dados Abertos prevê no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados.
+A partir das diretrizes estratégicas, este Plano de Dados Abertos prevê no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados. 
 
 O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018, é a atualização do Plano de Ações do PDA anterior, referente ao Biênio de 2016-2017. Além disso, foi revisado quanto ao cumprimento das metas anteriores e a inserção de novos dados que serão abertos para a sociedade.
 
@@ -135,7 +135,45 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
  
  ----------
 
-## **II) Dados para Abertura**
+### **III) Estratégia para Abertura**
+
+As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
+
+==Texto destacando o caráter duplo do MP na abertura dos sistemas estruturantes==
+
+### Premissas
+
+1. Publicar os dados considerados relevantes para a sociedade, no formato disponível e informando as eventuais limitações de qualidade dos dados;
+2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
+3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA. No caso de dados Georreferenciados, deve-se levar em conta as normas e padrões da INDE;
+4. Publicar os dados do Ministério seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA e pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+5. Catalogar os dados abertos do Ministério no Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do governo federal;
+6. Catalogar os dados geoespacializados na INDE;
+7. Promover a integração entre os catálogos de metadados INDA e INDE;
+8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
+9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
+10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal.
+
+### Evolução das Plataformas tecnológicas
+
+
+
+### Formatos e Interfaces de acesso aos dados
+
+Para ser considerado aberto de fato, um dado deve estar publicado utilizando se de um formato aberto e não proprietário como o CSV e JSON.
+A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
+O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.
+
+
+### Processos de Desenvolvimento de Softwares
+
+Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
+
+Novos sistemas que estão sendo desenvolvidos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
+
+ ----------
+
+## **Dados para Abertura**
 
 Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
 
