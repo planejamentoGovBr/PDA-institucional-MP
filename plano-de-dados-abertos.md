@@ -262,7 +262,7 @@ O processo de catalogação será feito diretamente por cada uma das áreas resp
 No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
 
 
-##IV. Sustentação
+##**IV. Sustentação**
 A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. A curadoria compreende as seguintes atividades:
 a) Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
 b) Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
@@ -280,6 +280,6 @@ O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjE4MzM3OCwtODM2OTg4ODQsMTUxOD
+eyJoaXN0b3J5IjpbMTEzNzk4OTQ4NiwtODM2OTg4ODQsMTUxOD
 AyMTc3MV19
 -->
