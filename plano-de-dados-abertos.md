@@ -171,10 +171,9 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 ## **Definição das Ações de Abertura e Melhoria de Dados**
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério do Planejamento, Desenvolvimento e da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
-
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério do Planejamento, Desenvolvimento e Gestão. 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
-
+A dinâmica consistiu em formar, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
 O processo adotado no MP para definição das ações de abertura e melhoria de dados seguiu fluxo levando em consideração o resultado dos PDAs anteriores e qual o papel deste plano no atedimento da Política de Dados Abertos.
 
 Também deve ser considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação. 
@@ -270,5 +269,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTk5NzA4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTE2MTM2MzY3NjcsMTUxODAyMTc3MV19
 -->
