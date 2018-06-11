@@ -243,7 +243,11 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | Critério | Nome do Critério  | Peso |
 |--:|:--:|:--:|:--:|:--:|:--:|
 | **Relevância ao Cidadão** | Grau de Relevância ao Cidadão |**4** |
-| **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
+| **Controle Social** | Estímulo ao Controle Social| **3** |
+| **Obrigatoriedade legalControle Social** | Estímulo ao Controle Social| **3** |
+| **Controle Social** | Estímulo ao Controle Social| **3** |
+| **Controle Social** | Estímulo ao Controle Social| **3** |
+| **Controle Social** | Estímulo ao Controle Social| **3** |
 
 | Nome da Base de Dados | Grau de Relevância ao Cidadão (Peso 4)  | Estímulo ao Controle Social (Peso 3) | ObrigatoriedadeAlinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
@@ -334,6 +338,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDM4ODI5MCwtMTU1NjUxNTQxOSwtMz
-cxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbNjY1OTkwMzc1LC0xNTU2NTE1NDE5LC0zNz
+ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
