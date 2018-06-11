@@ -131,7 +131,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
  
  ----------
 
-## **III) Estratégia para Abertura**
+## **II) Estratégia para Abertura**
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
 
@@ -171,15 +171,10 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 ## **Definição das Ações de Abertura e Melhoria de Dados**
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
+A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
 
-- Relevância para a sociedade
-- Pincipais solicitações por intermédio da LAI
-- Obrigações legais
-- Alinhamento estratégico
-- Facilidade para abertura
+O processo adotado no MP para definição das ações de abertura e melhoria de dados seguiu fluxo levando em consideração o resultado dos PDAs anteriores e qual o papel deste plano no atendimento da Política de Dados Abertos.
 
-Como resultado desta dinâmica obtivemos a seguinte tabela:
 
 | Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
@@ -199,5 +194,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3OTA3MzAxLDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDE4Mzc0MDMsMTUxODAyMTc3MV19
 -->
