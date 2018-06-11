@@ -265,8 +265,13 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Sistema de Transportes de Servidores Públicos - TaxiGov** | 1 | 1 | 2 | 2 | **6** |
 | **Cargos Vagos do Poder Executivo Civil** | 1 | 1 | 2 | 2 | **6** |
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 1 | 1 | 2 | 2 | **6** |
-| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
-| **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
+| **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 1 | 1 | 2 | 1 | **5** |
+| **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 1 | 1 | 2 | 1 | **5** |
+| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 
 ### ** Melhoria da qualidade dos dados**
 
@@ -345,7 +350,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUyNzE3NTQsLTEwMDg4NzA3OTQsLT
+eyJoaXN0b3J5IjpbLTE4MjM0NjQxNjQsLTEwMDg4NzA3OTQsLT
 E1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5
 ODg4NCwxNTE4MDIxNzcxXX0=
 -->
