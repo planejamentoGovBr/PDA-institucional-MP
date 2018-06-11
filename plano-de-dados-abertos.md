@@ -248,8 +248,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Projetos Estratégicos** | Refere a projetos Estratégicos do Governo| **2** |
 | **Resultado Serviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
 | **Desenvolvimento Sustentável** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
-| **Projetos Estratégicos** | Refere a projetos Estratégicos do Governo| **2** |
-| **Resultado Serviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
+| **Fomento a negócios** | Possibilidade de Fomento a Negócios| **5** |
+| **Transparência Passiva** | Solicitado em Transparência PassivaDemonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
 | **Desenvolvimento Sustentável** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
 
 
@@ -344,6 +344,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzY2NjU1MCwtMTU1NjUxNTQxOSwtMz
-cxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzYwODUzMTksLTE1NTY1MTU0MTksLT
+M3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
