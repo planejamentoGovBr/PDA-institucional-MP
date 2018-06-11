@@ -169,7 +169,7 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
  ----------
 
-## **Definição das Ações de Abertura e Melhoria de Dados**
+## **III. Definição das Ações de Abertura e Melhoria de Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
 
@@ -257,7 +257,29 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a sociedade.
+Catalogação no Portal Brasileiro de Dados Abertos
+O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
+No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
+
+
+##IV. Sustentação
+A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. A curadoria compreende as seguintes atividades:
+a) Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
+b) Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
+c) Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura de dados. As propostas deverão ser construídas a partir da experiência do SIC com as demandas de informação pela sociedade e da gestão de dados da DTI que gerencia e oferece soluções transversais para as necessidades de compartilhamento de dados entre os diferentes sistemas mantidos pelas unidades do MP;
+d) Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da SETIC.
+Ressalta-se que os responsáveis pelas informações são as unidades setoriais, que devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
+Governança
+De acordo com § 4º do art. 5º do Decreto 8777/2016, autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
+I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
+II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
+III - monitorar a implementação dos Planos de Dados Abertos; e
+IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos. 
+O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
+O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNDAwNjIsLTgzNjk4ODg0LDE1MTgwMj
-E3NzFdfQ==
+eyJoaXN0b3J5IjpbLTY3NjE4MzM3OCwtODM2OTg4ODQsMTUxOD
+AyMTc3MV19
 -->
