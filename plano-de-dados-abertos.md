@@ -181,14 +181,14 @@ Também foi considerada a colaboração da sociedade no processo de melhoria da 
 
 Um insumo importante considerado neste processo foram as informações do Relatório de Acompanhamento e Monitoramento do PDA 2016-2017, onde foram observados os seguintes itens:
 
-As manifestações nos canais de comunicação: e-Ouv, e-SIC e canal de comunicação da ASCOM com a imprensa;
-O número de acessos aos links do conjuntos de dados disponibilizadas;
+* As manifestações nos canais de comunicação: e-Ouv, e-SIC e canal de comunicação da ASCOM com a imprensa;
+* O número de acessos aos links do conjuntos de dados disponibilizadas;
 * Os compromissos do Plano de Ação constante no PDA anterior e que ainda não foram cumpridos;
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
 
 b)	Grupo representantes de todas as áreas
 
-Além disso foram realizadas reuniões com representantes das Secretarias do MP com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e novos conjuntos de dados a serem disponibilizados. 
+
 
 c)	Inventário de Bases de Dados
 
@@ -267,6 +267,6 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTMwNDQ4MiwtODM2OTg4ODQsMTUxOD
+eyJoaXN0b3J5IjpbLTkzMDc1MDI1OCwtODM2OTg4ODQsMTUxOD
 AyMTc3MV19
 -->
