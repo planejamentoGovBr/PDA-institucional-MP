@@ -173,7 +173,7 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica representantes de todas as secretarias do MP seguindo o fluxo de ações considerando desde os PDA´s anteriores até a aplicação de critérios de priorização nas bases de Dados candidatas a abertura.
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica representantes de todas as secretarias do MP e foi adotado um processo que se iniciou com a avaliação dos PDA´s anteriores até a aplicação de critérios de priorização nas Bases de Dados candidatas a abertura neste plano.
 
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação. 
 
@@ -190,9 +190,7 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 * Os compromissos do Plano de Ação constante no PDA anterior e que ainda não foram cumpridos;
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
 
-
-
-c)	Inventário de Bases de Dados
+**c)	Inventário de Bases de Dados**
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP certificando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
@@ -269,6 +267,6 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzA5Njg0NywtODM2OTg4ODQsMTUxOD
+eyJoaXN0b3J5IjpbMTEwNjI5NzIzOCwtODM2OTg4ODQsMTUxOD
 AyMTc3MV19
 -->
