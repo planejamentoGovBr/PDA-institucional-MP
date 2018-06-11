@@ -263,7 +263,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Acompanhamento físico das ações** | 12 | 9 | 1 | 6 | 12 | 6 | 10 | 4 | 10 | **70** |
 | **Programa de Desligamento Voluntário - PDV** | 8 | 9 | 1 | 6 | 8 | 3 | 5 | 8 | 15 | **63** |
 | **Sistema de Transportes de Servidores Públicos - TaxiGov** | 4 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **6** |
-| **Cargos Vagos do Poder Executivo Civil** | 4 | 9 | 1 | 2 | 8 | **6** |
+| **Cargos Vagos do Poder Executivo Civil** | 12 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 |**59** |
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 1 | 1 | 2 | 2 | **6** |
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 1 | 1 | 2 | 1 | **5** |
 | **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 1 | 1 | 2 | 1 | **5** |
@@ -355,7 +355,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4ODE3MzEyLC0zMzA1NjI5MDAsLTEwMD
-g4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEy
-MDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbMTg4MjAwODEzNywtMzMwNTYyOTAwLC0xMD
+A4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzEx
+MjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
