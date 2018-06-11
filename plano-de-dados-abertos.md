@@ -174,6 +174,78 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
 
 O processo adotado no MP para definição das ações de abertura e melhoria de dados seguiu fluxo levando em consideração o resultado dos PDAs anteriores e qual o papel deste plano no atendimento da Política de Dados Abertos.
+Também deve ser considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação. 
+
+**a)	Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
+
+Um insumo importante considerado neste processo foram as informações do Relatório de Acompanhamento e Monitoramento do PDA 2016-2017, onde foram observados os seguintes itens:
+
+	As manifestações nos canais de comunicação: e-Ouv, e-SIC e canal de comunicação da ASCOM com a imprensa;
+	O número de acessos aos links do conjuntos de dados disponibilizadas;
+	Os compromissos do Plano de Ação constante no PDA anterior e que ainda não foram cumpridos;
+	Os normativos e compromissos formalmente assumidos pelo Ministério;
+
+b)	Grupo representantes de todas as áreas
+
+Além disso foram realizadas reuniões com representantes das Secretarias do MP com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e novos conjuntos de dados a serem disponibilizados. 
+
+c)	Inventário de Bases de Dados
+
+O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP certificando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
+
+Este trabalho resultou em um inventário contendo uma relação de 40 sistemas além dos 10 sistemas estruturantes citados abaixo. 
+
+
+	Sistema Integrado de Planejamento e Orçamento - SIOP;
+	Sistema de Informações das Estatais - SIEST;
+	Sistema Integrado de Administração de Pessoas – SIAPE;
+	Sistema de Informações Organizacionais – SIORG;
+	Sistema Integrado de Administração de Serviços Gerais - SIASG;
+	Sistema de Gestão de Convênios e Contratos de Repasses – SICONV;
+	Sistema Integrado de Administração Patrimonial – SIAPA;
+	Sistema Estruturante de Gestão de diárias e passagens – SCDP
+	Portal de Acesso e módulos de Serviços da SPU - SPUnet
+
+Os sistemas estruturantes sob gestão do MP são de uso obrigatório transversal para órgãos da Administração Pública Federal (APF) e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
+
+Atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
+
+Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. As demais Bases do Inventário que não farão parte deste plano serão considerados no próximo PDA 2020-2021.
+
+d)	Consulta Pública
+
+Entre os dias 2 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
+
+O resultado da consulta pública influenciou na adequação da oferta de informações do Planejamento à demanda da sociedade sobre os dados abertos que constam no presente Plano.
+
+Cumprindo o compromisso de garantir a transparência do processo  foi publicada a devolutiva da Consulta Pública no Portal Institucional do MP  esclarecendo sobre as solicitações de abertura de dados que não serão contempladas neste plano.
+
+Todo processo de consulta pública foi amplamente divulgado nos seguintes canais:
+
+•	Site do Ministério (www.planejamento.gov.br)
+•	Redes sociais oficiais do Ministério
+
+
+e)	Critérios para priorização das Bases a serem abertas
+
+Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseados nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
+
+1.	Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
+2.	Estímulo ao controle social;
+3.	Obrigatoriedade legal ou compromisso assumido: normativos legais e compromissos formalmente assumidos pelo Ministério, inclusive perante organismos internacionais;
+4.	Refere a projetos do governo;
+5.	Demonstra resultados efetivos de serviços;
+6.	Capacidade de fomento ao desenvolvimento sustentável;
+7.	Fomento a negócios;
+8.	Solicitado em transparência passiva a LAI; e
+9.	Nível de Maturidade e organização das informações pertencentes ao conjunto de dados abertos.
+
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta no Anexo VII e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
+
+
+Melhoria da qualidade dos dados
+A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
+No presente plano adotamos como premissa a disponibilização de dados relavantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencais dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a soicedade.
 
 
 | Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
@@ -194,5 +266,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE4Mzc0MDMsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTI2ODg4OTA0NCwxNTE4MDIxNzcxXX0=
 -->
