@@ -242,11 +242,11 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 | Critério | Nome do Critério  | Peso |
 |--:|:--:|:--:|:--:|:--:|:--:|
-| **Relevância ao Cidadão** | Grau de Relevância ao Cidadão |**4** |
-| **Controle Social** | Estímulo ao Controle Social| **3** |
-| **Obrigatoriedade Legal** | Obrigatoriedade legal ou compromisso assumido| **1** |
-| **Projetos Estratégicos** | Refere a projetos Estratégicos do Governo| **2** |
-| **Resultado Serviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
+| **C1** | Grau de Relevância ao Cidadão |**4** |
+| **C2** | Estímulo ao Controle Social| **3** |
+| **C3** | Obrigatoriedade legal ou compromisso assumido| **1** |
+| **C4** | Refere a projetos Estratégicos do Governo| **2** |
+| **C5erviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
 | **Desenvolvimento Sustentável** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
 | **Fomento a negócios** | Possibilidade de Fomento a Negócios| **5** |
 | **Transparência Passiva** | Solicitado em Transparência Passiva a LAI| **4** |
@@ -345,7 +345,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzYxNzkyOCwtMTAwODg3MDc5NCwtMT
+eyJoaXN0b3J5IjpbMTQ5NjQ3NjEyOCwtMTAwODg3MDc5NCwtMT
 U2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4
 ODg0LDE1MTgwMjE3NzFdfQ==
 -->
