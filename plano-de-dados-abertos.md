@@ -238,8 +238,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 8.	Solicitado em transparência passiva a LAI; e
 9.	Nível de Maturidade e organização das informações pertencentes ao conjunto de dados abertos.
 
-A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta no Anexo VII e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
-
+### **Peso dos Critérios**
 | Critério | Nome do Critério  | Peso |
 |--:|:--:|:--:|:--:|:--:|:--:|
 | **Relevância ao Cidadão** | Grau de Relevância ao Cidadão |**4** |
@@ -252,8 +251,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Transparência Passiva** | Solicitado em Transparência Passiva a LAI| **4** |
 | **Maturidade da Informação** | Nível de maturidade e organização das informações pertencentes ao conjunto de dados abertos| **5** |
 
-
-
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta no Anexo VII e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
 | Nome da Base de Dados | Grau de Relevância ao Cidadão (Peso 4)  | Estímulo ao Controle Social (Peso 3) | ObrigatoriedadeAlinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
@@ -344,6 +342,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzEyMDMxMTksLTE1NTY1MTU0MTksLT
-M3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbOTk2NDE2OTQxLC0xNTU2NTE1NDE5LC0zNz
+ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
