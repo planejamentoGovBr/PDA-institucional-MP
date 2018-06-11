@@ -33,7 +33,7 @@ O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolve
 O cidadão poderá usar a [plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
  ----------
-## **I) Introdução**
+## **I. Introdução**
 
 O MP atualiza o seu PDA para o biênio 2018-2019 documento no qual são estabelecidas as ações para a implementação e promoção de abertura de dados sob sua responsabilidade.
 
@@ -356,8 +356,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE1MTM3MDEsLTE0MzA2NzMyNTgsLT
-MzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1
-NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3Nz
-FdfQ==
+eyJoaXN0b3J5IjpbMjY3Mjc4MzI2LC0xNDMwNjczMjU4LC0zMz
+A1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1
+MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX
+0=
 -->
