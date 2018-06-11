@@ -173,11 +173,15 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica seguindo o fluxo de ações considerando desde os PDA´s anteriores até a aplicação de critérios de priorização nas bases de Dados candidatas a abertura.
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica representantes de todas as secretarias do MP seguindo o fluxo de ações considerando desde os PDA´s anteriores até a aplicação de critérios de priorização nas bases de Dados candidatas a abertura.
 
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação. 
 
-**a)	Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
+**a)	Grupo representantes de todas as áreas**
+
+Além disso foram realizadas reuniões com representantes das Secretarias do MP com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e novos conjuntos de dados a serem disponibilizados. 
+
+**b)	Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
 
 Um insumo importante considerado neste processo foram as informações do Relatório de Acompanhamento e Monitoramento do PDA 2016-2017, onde foram observados os seguintes itens:
 
@@ -185,8 +189,6 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 * O número de acessos aos links do conjuntos de dados disponibilizadas;
 * Os compromissos do Plano de Ação constante no PDA anterior e que ainda não foram cumpridos;
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
-
-b)	Grupo representantes de todas as áreas
 
 
 
@@ -267,6 +269,6 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDc1MDI1OCwtODM2OTg4ODQsMTUxOD
+eyJoaXN0b3J5IjpbLTg5NzA5Njg0NywtODM2OTg4ODQsMTUxOD
 AyMTc3MV19
 -->
