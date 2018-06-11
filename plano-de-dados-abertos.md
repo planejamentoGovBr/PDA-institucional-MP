@@ -221,12 +221,10 @@ O resultado da consulta pública influenciou na adequação da oferta de informa
 Cumprindo o compromisso de garantir a transparência do processo  foi publicada a devolutiva da Consulta Pública no Portal Institucional do MP  esclarecendo sobre as solicitações de abertura de dados que não serão contempladas neste plano.
 
 Todo processo de consulta pública foi amplamente divulgado nos seguintes canais:
-
 •	Site do Ministério (www.planejamento.gov.br)
 •	Redes sociais oficiais do Ministério
 
-
-e)	Critérios para priorização das Bases a serem abertas
+**e)	Critérios para priorização das Bases a serem abertas**
 
 Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseados nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
 
@@ -242,12 +240,6 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta no Anexo VII e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
-
-Melhoria da qualidade dos dados
-A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
-No presente plano adotamos como premissa a disponibilização de dados relavantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencais dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a soicedade.
-
-
 | Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
 | **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
@@ -260,12 +252,10 @@ No presente plano adotamos como premissa a disponibilização de dados relavante
 | **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
+Melhoria da qualidade dos dados
+A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
+No presente plano adotamos como premissa a disponibilização de dados relavantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencais dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a soicedade.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MTExNTI3LC05Njc3NzA4ODMsLTUxNj
-c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
-NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNDU3OTcwLC04MzY5ODg4NCwxNTE4MD
-IxNzcxXX0=
+eyJoaXN0b3J5IjpbLTQ3MTYyMjExOCwtODM2OTg4ODQsMTUxOD
+AyMTc3MV19
 -->
