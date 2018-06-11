@@ -74,12 +74,12 @@ O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
 
 
-**4.	Comitê Estratégico de Tecnologia da Informação e Comunicação(CETIC)**
+**4.	Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 
-**5.	Estratégia Governança Digital (EGD) Atualizar no portal**
+**5.	Estratégia Governança Digital (EGD) ==Atualizar no portal==**
 
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
 O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
@@ -199,5 +199,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUzNzc4MzddfQ==
+eyJoaXN0b3J5IjpbMTUxODAyMTc3MV19
 -->
