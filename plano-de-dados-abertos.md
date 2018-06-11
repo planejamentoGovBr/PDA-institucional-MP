@@ -260,8 +260,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
 | **Informações sobre a arrecadação anual sobre o Patrimônio da União** | 12 | 9 | 3 | 2 | 12 | 9| 15 | 8 | 15| **85** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**70** |
-| **Acompanhamento físico das ações** | 12 | 9 | 1 | 6 | 12 **6** |
-| **Programa de Desligamento Voluntário - PDV** | 1 | 1 | 2 | 2 | **6** |
+| **Acompanhamento físico das ações** | 12 | 9 | 1 | 6 | 12 | 6 | 10 | 4 | 10 | **70** |
+| **Programa de Desligamento Voluntário - PDV** | 8 | 9 | 1 | 6 | 8 | 3 | 5 | 8 | 15 |**63** |
 | **Sistema de Transportes de Servidores Públicos - TaxiGov** | 1 | 1 | 2 | 2 | **6** |
 | **Cargos Vagos do Poder Executivo Civil** | 1 | 1 | 2 | 2 | **6** |
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 1 | 1 | 2 | 2 | **6** |
@@ -355,7 +355,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NTE5MTA2LC0xMDA4ODcwNzk0LC0xNT
-Y3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4
-ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTE2NTkwMjI0ODQsLTEwMDg4NzA3OTQsLT
+E1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5
+ODg4NCwxNTE4MDIxNzcxXX0=
 -->
