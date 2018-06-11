@@ -246,8 +246,14 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Controle Social** | Estímulo ao Controle Social| **3** |
 | **Obrigatoriedade Legal** | Obrigatoriedade legal ou compromisso assumido| **1** |
 | **Projetos Estratégicos** | Refere a projetos Estratégicos do Governo| **2** |
-| **Resultado Serviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estadoocial| **3** |
-| **Controle Social** | Estímulo ao Controle Social| **3** |
+| **Resultado Serviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
+| **Desenvolvimento Sustentável** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
+| **Projetos Estratégicos** | Refere a projetos Estratégicos do Governo| **2** |
+| **Resultado Serviços Públicos** | Demonstra Resultados diretos e efetivos dos serviços públicos disponibilizados ao cidadão pelo Estado| **4** |
+| **Desenvolvimento Sustentável** | Capacidade de fomento ao desenvolvimento sustentável| **3** |
+
+
+
 
 | Nome da Base de Dados | Grau de Relevância ao Cidadão (Peso 4)  | Estímulo ao Controle Social (Peso 3) | ObrigatoriedadeAlinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
@@ -338,6 +344,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU3MTI3MjksLTE1NTY1MTU0MTksLT
-M3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbMTQyMzY2NjU1MCwtMTU1NjUxNTQxOSwtMz
+cxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
