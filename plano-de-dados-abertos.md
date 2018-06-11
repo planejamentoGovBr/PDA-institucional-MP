@@ -272,8 +272,10 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Catálogo de APIs que integram o ConcectaGov** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Informações sobre Imóveis Funcionais e Permissionários** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Informações sobre o valor de depreciação dos imóveis de Uso Especial** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Alterações orçamentárias (créditos)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Previdência Complementar dos Servidores do Poder Executivo Civil** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Pensionistas do Poder Executivo Federal** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Boletim das Empresas Estatais Federais** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 ### ** Melhoria da qualidade dos dados**
@@ -353,7 +355,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc4NjA5NTEsLTEwMDg4NzA3OTQsLT
-E1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5
-ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTk4MzEzNzE4MiwtMTAwODg3MDc5NCwtMT
+U2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4
+ODg0LDE1MTgwMjE3NzFdfQ==
 -->
