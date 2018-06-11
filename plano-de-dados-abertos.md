@@ -32,6 +32,7 @@ O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolve
 
 O cidadão poderá usar a [plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
+ ----------
 ## **I) Introdução**
 
 O MP atualiza o seu PDA para o biênio 2018-2019 documento no qual são estabelecidas as ações para a implementação e promoção de abertura de dados sob sua responsabilidade.
@@ -168,7 +169,6 @@ Vislumbrando os desafios de caráter tecnológico para implementação deste pla
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
  ----------
-
 ## **III. Definição das Ações de Abertura e Melhoria de Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
@@ -261,9 +261,11 @@ Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
 
+ ----------
+## **IV. Sustentação**
 
-##**IV. Sustentação**
 A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. A curadoria compreende as seguintes atividades:
+
 a) Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
 b) Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
 c) Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura de dados. As propostas deverão ser construídas a partir da experiência do SIC com as demandas de informação pela sociedade e da gestão de dados da DTI que gerencia e oferece soluções transversais para as necessidades de compartilhamento de dados entre os diferentes sistemas mantidos pelas unidades do MP;
@@ -280,6 +282,6 @@ O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzk4OTQ4NiwtODM2OTg4ODQsMTUxOD
+eyJoaXN0b3J5IjpbMTAyODA2OTY3OCwtODM2OTg4ODQsMTUxOD
 AyMTc3MV19
 -->
