@@ -290,7 +290,38 @@ O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de 
 An image: ![Alt](Governança.jpeg)
 
 
+
+) Monitoramento e Controle 
+O PDA será acompanhado por Comitê a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
+O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo como atribuição institucionalizada:
+1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
+2.	Avaliar se as ações adotadas estão aderentes a Política de Dados Abertos;
+3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
+4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
+5.	Monitorar o atendimento as regras da INDA e INDE
+6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
+Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
+
+Comunicação e Participação social
+A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
+Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, Academia, imprensa, sociedade organizada e cidadão comum (não se vincula a organização ou entidade específica).
+O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
+1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
+2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
+3.	Consultas Públicas;
+4.	Criação de trilhas de participação social;
+5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
+6.	Publicação de relatório anual, contendo estatísticas de consulta aos dados, uso das APIs e acesso aos dados na fonte;
+7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
+8.	Outros espaços de divulgação.
+
+VII) Plano de Ação
+Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
+a)	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
+b)	As ações planejadas para as bases que necessitam de ação de melhoria;
+c)	As ações relacionadas ao monitoramento e controle do PDA;
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNTcxNTExLC0zNzExMjAzMiwtODM2OT
-g4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTE2NzY2NjczODgsLTM3MTEyMDMyLC04Mz
+Y5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
