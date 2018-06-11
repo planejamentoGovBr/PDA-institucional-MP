@@ -252,10 +252,12 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
-Melhoria da qualidade dos dados
+** Melhoria da qualidade dos dados**
+
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
-No presente plano adotamos como premissa a disponibilização de dados relavantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencais dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a soicedade.
+
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a sociedade.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTYyMjExOCwtODM2OTg4ODQsMTUxOD
-AyMTc3MV19
+eyJoaXN0b3J5IjpbOTkzNDAwNjIsLTgzNjk4ODg0LDE1MTgwMj
+E3NzFdfQ==
 -->
