@@ -251,7 +251,9 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 | **Transparência Passiva** | Solicitado em Transparência Passiva a LAI| **4** |
 | **Maturidade da Informação** | Nível de maturidade e organização das informações pertencentes ao conjunto de dados abertos| **5** |
 
-A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta no Anexo VII e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
+### **Matriz de Aplicação Critérios**
+
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
 | Nome da Base de Dados | Grau de Relevância ao Cidadão (Peso 4)  | Estímulo ao Controle Social (Peso 3) | ObrigatoriedadeAlinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
@@ -342,6 +344,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NDE2OTQxLC0xNTU2NTE1NDE5LC0zNz
+eyJoaXN0b3J5IjpbMTIxMjQ4MTUzLC0xNTU2NTE1NDE5LC0zNz
 ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
