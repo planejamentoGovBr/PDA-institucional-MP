@@ -274,8 +274,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Informações sobre o valor de depreciação dos imóveis de Uso Especial** | 4 | 3 | 1 | 2 | 4 | 3 | 5 | 4 | 15 |**41** |
 | **Alterações orçamentárias (créditos)** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 5 |**39** |
 | **Previdência Complementar dos Servidores do Poder Executivo Civil** | 4 | 3 | 1 | 4 | 4 | 3 | 5 | 4 | 10 |**38** |
-| **Pensionistas do Poder Executivo Federal** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-| **Boletim das Empresas Estatais Federais** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Pensionistas do Poder Executivo Federal** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 8 | 5 |**38** |
+| **Boletim das Empresas Estatais Federais** | 8 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**38** |
 | **Informações sobre imóveis da antiga RFFSA** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 ### ** Melhoria da qualidade dos dados**
@@ -355,8 +355,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU5NDExMjEsLTE0MzA2NzMyNTgsLT
-MzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1
-NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3Nz
-FdfQ==
+eyJoaXN0b3J5IjpbNTAzNjM0MDQzLC0xNDMwNjczMjU4LC0zMz
+A1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1
+MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX
+0=
 -->
