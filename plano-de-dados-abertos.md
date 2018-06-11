@@ -171,8 +171,10 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 ## **Definição das Ações de Abertura e Melhoria de Dados**
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério do Planejamento, Desenvolvimento e Gestão. 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
+
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica seguindo o fluxo com a participação de representantes de cada secretaria do Ministério do Planejamento, Desenvolvimento e Gestão. 
+
 A dinâmica consistiu em formar, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
 O processo adotado no MP para definição das ações de abertura e melhoria de dados seguiu fluxo levando em consideração o resultado dos PDAs anteriores e qual o papel deste plano no atedimento da Política de Dados Abertos.
 
@@ -269,5 +271,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM2MzY3NjcsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
