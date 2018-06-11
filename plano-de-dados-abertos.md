@@ -252,7 +252,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
-** Melhoria da qualidade dos dados**
+## ** Melhoria da qualidade dos dados**
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
@@ -270,9 +270,13 @@ A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dad
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
 3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura de dados. As propostas deverão ser construídas a partir da experiência do SIC com as demandas de informação pela sociedade e da gestão de dados da DTI que gerencia e oferece soluções transversais para as necessidades de compartilhamento de dados entre os diferentes sistemas mantidos pelas unidades do MP;
 4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
+
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da SETIC.
+
 Ressalta-se que os responsáveis pelas informações são as unidades setoriais, que devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
-Governança
+
+**Governança**
+
 De acordo com § 4º do art. 5º do Decreto 8777/2016, autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
 I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
 II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
@@ -282,6 +286,6 @@ O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMzMzM4NDIsLTgzNjk4ODg0LDE1MT
+eyJoaXN0b3J5IjpbLTE2MTMzNzU3ODQsLTgzNjk4ODg0LDE1MT
 gwMjE3NzFdfQ==
 -->
