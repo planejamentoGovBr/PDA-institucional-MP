@@ -196,16 +196,15 @@ O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, u
 
 Este trabalho resultou em um inventário contendo uma relação de 40 sistemas além dos 10 sistemas estruturantes citados abaixo. 
 
-
-	Sistema Integrado de Planejamento e Orçamento - SIOP;
-	Sistema de Informações das Estatais - SIEST;
-	Sistema Integrado de Administração de Pessoas – SIAPE;
-	Sistema de Informações Organizacionais – SIORG;
-	Sistema Integrado de Administração de Serviços Gerais - SIASG;
-	Sistema de Gestão de Convênios e Contratos de Repasses – SICONV;
-	Sistema Integrado de Administração Patrimonial – SIAPA;
-	Sistema Estruturante de Gestão de diárias e passagens – SCDP
-	Portal de Acesso e módulos de Serviços da SPU - SPUnet
+* Sistema Integrado de Planejamento e Orçamento - SIOP;
+* Sistema de Informações das Estatais - SIEST;
+*	Sistema Integrado de Administração de Pessoas – SIAPE;
+*	Sistema de Informações Organizacionais – SIORG;
+*	Sistema Integrado de Administração de Serviços Gerais - SIASG;
+*	Sistema de Gestão de Convênios e Contratos de Repasses – SICONV;
+*	Sistema Integrado de Administração Patrimonial – SIAPA;
+*	Sistema Estruturante de Gestão de diárias e passagens – SCDP
+*	Portal de Acesso e módulos de Serviços da SPU - SPUnet
 
 Os sistemas estruturantes sob gestão do MP são de uso obrigatório transversal para órgãos da Administração Pública Federal (APF) e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
 
@@ -213,7 +212,7 @@ Atendendo a premissa de procurar disponibilizar os dados considerados mais relev
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. As demais Bases do Inventário que não farão parte deste plano serão considerados no próximo PDA 2020-2021.
 
-d)	Consulta Pública
+**d)	Consulta Pública**
 
 Entre os dias 2 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
 
@@ -267,6 +266,6 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjI5NzIzOCwtODM2OTg4ODQsMTUxOD
-AyMTc3MV19
+eyJoaXN0b3J5IjpbNjExNDU3OTcwLC04MzY5ODg4NCwxNTE4MD
+IxNzcxXX0=
 -->
