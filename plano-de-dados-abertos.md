@@ -252,7 +252,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
-## ** Melhoria da qualidade dos dados**
+### ** Melhoria da qualidade dos dados**
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
@@ -275,7 +275,7 @@ No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e 
 
 Ressalta-se que os responsáveis pelas informações são as unidades setoriais, que devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
 
-## **Governança**
+### **Governança**
 
 De acordo com § 4º do art. 5º do Decreto 8777/2016, autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
 
@@ -290,9 +290,11 @@ O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de 
 An image: ![Alt](Governança.jpeg)
 
 
+ ----------
+## **V. Monitoramento e Controle**
 
-) Monitoramento e Controle 
 O PDA será acompanhado por Comitê a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
+
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo como atribuição institucionalizada:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
 2.	Avaliar se as ações adotadas estão aderentes a Política de Dados Abertos;
@@ -302,7 +304,7 @@ O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que nece
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
-Comunicação e Participação social
+### Comunicação e Participação social
 A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, Academia, imprensa, sociedade organizada e cidadão comum (não se vincula a organização ou entidade específica).
 O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
@@ -322,6 +324,6 @@ b)	As ações planejadas para as bases que necessitam de ação de melhoria;
 c)	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY2NjczODgsLTM3MTEyMDMyLC04Mz
-Y5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbNzgyMzcyOTk2LC0zNzExMjAzMiwtODM2OT
+g4ODQsMTUxODAyMTc3MV19
 -->
