@@ -139,7 +139,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
 
-==Texto destacando o caráter duplo do MP na abertura dos sistemas estruturantes==
+O Ministério do Planejamento, em consequência do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as etratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
 
 ### Premissas
 
@@ -156,7 +156,7 @@ As ações de abertura de dados que serão implementadas pelo MP seguem os princ
 
 ### Evolução das Plataformas tecnológicas
 
-
+==Esclarecer sobre ações de melhoria das bases de dados==
 
 ### Formatos e Interfaces de acesso aos dados
 
@@ -169,7 +169,7 @@ O MP adotará, sempre que possível, a publicação em diversos formatos e por m
 
 Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
 
-Novos sistemas que estão sendo desenvolvidos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
+Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
  ----------
 
