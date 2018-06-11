@@ -131,7 +131,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
  
  ----------
 
-### **III) Estratégia para Abertura**
+## **III) Estratégia para Abertura**
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
 
@@ -169,7 +169,7 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
  ----------
 
-## **Dados para Abertura**
+## **Definição das Ações de Abertura e Melhoria de Dados**
 
 Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
 
@@ -199,5 +199,5 @@ c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
 NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbMjg3OTA3MzAxLDE1MTgwMjE3NzFdfQ==
 -->
