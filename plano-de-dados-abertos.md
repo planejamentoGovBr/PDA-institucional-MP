@@ -272,8 +272,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Catálogo de APIs que integram o ConcectaGov** | 4 | 3 | 1 | 6 | 8 | 3 | 15 | 4 | 5 |**49** |
 | **Informações sobre Imóveis Funcionais e Permissionários** | 8 | 6 | 3 | 2 | 4 | 3 | 5 | 8 | 10 |**49** |
 | **Informações sobre o valor de depreciação dos imóveis de Uso Especial** | 4 | 3 | 1 | 2 | 4 | 3 | 5 | 4 | 15 |**41** |
-| **Alterações orçamentárias (créditos)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
-| **Previdência Complementar dos Servidores do Poder Executivo Civil** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
+| **Alterações orçamentárias (créditos)** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 5 |**39** |
+| **Previdência Complementar dos Servidores do Poder Executivo Civil** | 4 | 3 | 1 | 4 | 4 | 3 | 5 | 4 | 10 |**38** |
 | **Pensionistas do Poder Executivo Federal** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Boletim das Empresas Estatais Federais** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Informações sobre imóveis da antiga RFFSA** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
@@ -355,8 +355,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzc1MjQ4MCwtMTQzMDY3MzI1OCwtMz
-MwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2
-NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV
-19
+eyJoaXN0b3J5IjpbLTEwNTU5NDExMjEsLTE0MzA2NzMyNTgsLT
+MzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1
+NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3Nz
+FdfQ==
 -->
