@@ -275,17 +275,20 @@ No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e 
 
 Ressalta-se que os responsáveis pelas informações são as unidades setoriais, que devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
 
-**Governança**
+## **Governança**
 
 De acordo com § 4º do art. 5º do Decreto 8777/2016, autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
+
 I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
 II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
 III - monitorar a implementação dos Planos de Dados Abertos; e
 IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos. 
+
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
+
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMzNzU3ODQsLTgzNjk4ODg0LDE1MT
-gwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MD
+IxNzcxXX0=
 -->
