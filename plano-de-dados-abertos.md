@@ -132,7 +132,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
  
  ----------
 
-## **II) Estratégia para Abertura**
+## **II. Estratégia para Abertura**
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
 
@@ -356,8 +356,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3Mjc4MzI2LC0xNDMwNjczMjU4LC0zMz
-A1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1
-MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX
-0=
+eyJoaXN0b3J5IjpbLTcxMjUzODkyNywtMTQzMDY3MzI1OCwtMz
+MwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2
+NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV
+19
 -->
