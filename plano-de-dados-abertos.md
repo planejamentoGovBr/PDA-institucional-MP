@@ -257,7 +257,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 | Nome da Base de Dados | Relevância ao Cidadão  | Controle Social |Obrigatoriedade Legal  | Projetos Estratégicos | Resultado Serviços Públicos | Desenvolvimento Sustentável | Fomento a negócios | Transparência Passiva | Maturidade da Informação | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
-| **Informações sobre a arrecadação anual sobre o Patrimînio da União** | 12 | 9 | 3 | 2 | | 12 | 9| 15 | 8 | 15| **85** |
+| **Informações sobre a arrecadação anual sobre o Patrimînio da União** | 12 | 9 | 3 | 2 | 12 | 9| 15 | 8 | 15| **85** |
 | **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
 | **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
 | **Rede Cultura Viva** | 1 | 1 | 2 | 2 | **6** |
@@ -344,6 +344,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNTA2ODU3LC0xNTU2NTE1NDE5LC0zNz
-ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLT
+M3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
