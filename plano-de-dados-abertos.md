@@ -257,8 +257,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
  Obrigatoriedade Legal  |  Projetos Estratégicos | Resultado Serviços Públicos  | Desenvolvimento Sustentável | Fomento a negócios | Transparência Passiva | Maturidade da Informação | Total |
 | Nome da Base de Dados | Relevância ao Cidadão  | Controle Social |Nome da Base de Dados | Relevância ao Cidadão  | Controle Social | 
-|--:|:--:|:--:|:--:|:--:|:--:|
-|--:|:--:|:--:|:--:|:--:|:--:|
+|--:|:--:|:--:|:--:|:--:|:--:|--:|:--:|:--:|:--:|:--:|:--:|
+
 | **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
 | **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
 | **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
@@ -346,6 +346,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDc3MjMxMywtMTU1NjUxNTQxOSwtMz
-cxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbOTM1NjkwMjc1LC0xNTU2NTE1NDE5LC0zNz
+ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
