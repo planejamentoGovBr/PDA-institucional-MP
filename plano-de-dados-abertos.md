@@ -265,8 +265,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Sistema de Transportes de Servidores Públicos - TaxiGov** | 4 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **62** |
 | **Cargos Vagos do Poder Executivo Civil** | 4 | 9 | 1 | 2 | 8 | 3 | 5 | 12 | 15 |**59** |
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 12 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 | **59** |
-| **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 1 | 1 | 2 | 1 | **5** |
-| **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 1 | 1 | 2 | 1 | **5** |
+| **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 8 | 3 | 1 | 6 | 4 | 3 | 10 | 4 | 15 |**54** |
+| **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | **5** |
 | **Gastos de pessoal com Auxílios** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de bases da dados que integram o GovData** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
 | **Catálogo de APIs que integram o ConcectaGov** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**7** |
@@ -355,7 +355,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgzOTA2MzQsLTMzMDU2MjkwMCwtMT
-AwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcx
-MTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbMTQ5NjQwMDYzMCwtMzMwNTYyOTAwLC0xMD
+A4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzEx
+MjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
