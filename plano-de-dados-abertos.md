@@ -240,7 +240,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta no Anexo VII e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
-| Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
+| Nome da Base de DadosConjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|
 | **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
 | **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
@@ -329,6 +329,6 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04Mz
-Y5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbMjA1ODUwNjU2NiwtMTU1NjUxNTQxOSwtMz
+cxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
