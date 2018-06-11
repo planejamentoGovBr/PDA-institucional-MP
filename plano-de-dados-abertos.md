@@ -239,6 +239,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 9.	Nível de Maturidade e organização das informações pertencentes ao conjunto de dados abertos.
 
 ### **Peso dos Critérios**
+
 | Critério | Nome do Critério  | Peso |
 |--:|:--:|:--:|:--:|:--:|:--:|
 | **Relevância ao Cidadão** | Grau de Relevância ao Cidadão |**4** |
@@ -344,7 +345,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLT
-E1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIx
-NzcxXX0=
+eyJoaXN0b3J5IjpbMTI3MzYxNzkyOCwtMTAwODg3MDc5NCwtMT
+U2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4
+ODg0LDE1MTgwMjE3NzFdfQ==
 -->
