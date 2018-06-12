@@ -422,10 +422,10 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
    4. Dados a serem publicados;
    5. Dados disponibilizados.
 
- **Frequência de Atualização:** Mensal
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SGP
-**Ponto Focal:** e-Ouv
+   **Frequência de Atualização:** Mensal
+   **Meta/Prazo:** Setembro/2018
+   **Unidade responsável:** SGP
+   **Ponto Focal:** e-Ouv
 
 * **MP_14 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 
@@ -658,10 +658,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTc2MCwtODE2Mzg3NjIxLC03NDUxOD
-YxMjQsLTIxMzcyMzYwNjIsLTE4MTU0OTEwMzMsLTY0NDE0OTI3
-Niw5MTUxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMT
-g0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4
-ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMj
-AzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbNzAzMTIzMDQyLC04MTYzODc2MjEsLTc0NT
+E4NjEyNCwtMjEzNzIzNjA2MiwtMTgxNTQ5MTAzMywtNjQ0MTQ5
+Mjc2LDkxNTE5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC
+0xODQ0MDQzMzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEw
+MDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MT
+EyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
