@@ -376,7 +376,7 @@ Informações sobre a arrecadação anual aferidas pela União a título de arre
 * **MP_05 - Dados Referente aos Imóveis Funcionais da União**
 Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
-   **Atividade:**
+     **Atividade:**
    1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
    2) Publicar as informações no Portal de Dados Aberto da SPU;
    3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
@@ -390,14 +390,15 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
    **Ponto Focal:** e-Ouv
 
 * **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
+Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de proprieda da União no transcurso de sua vida útil.
 
-**Atividade:**
-1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
-2) Publicar as informações no Portal de Dados Aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+   **Atividade:**
+   1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
+   2) Publicar as informações no Portal de Dados Aberto da SPU;
+   3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
-**Produtos:**
-1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+   **Produtos:**
+   1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
 
 **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Setembro/2018
@@ -656,10 +657,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjM4NzYyMSwtNzQ1MTg2MTI0LC0yMT
-M3MjM2MDYyLC0xODE1NDkxMDMzLC02NDQxNDkyNzYsOTE1MTk1
-NzY4LC0xMDg4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNT
-YsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwt
-MTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNj
-k4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbMTAyNjI3MDA2NCwtODE2Mzg3NjIxLC03ND
+UxODYxMjQsLTIxMzcyMzYwNjIsLTE4MTU0OTEwMzMsLTY0NDE0
+OTI3Niw5MTUxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MC
+wtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0x
+MDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNz
+ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
