@@ -358,6 +358,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 ### 1. Plano de Ação - Conjuntos de Dados a serem abertos
 
 * **MP_04 - Dados Referente a Arrecadação Patrimonial**
+Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimînio da União.
 
    **Atividade:**
    1) Converter em formato para publicação no Portal de Dados Aberto;
@@ -373,6 +374,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
    **Ponto Focal:** e-Ouv
 
 * **MP_05 - Dados Referente aos Imóveis Funcionais da União**
+Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
    **Atividade:**
    1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
@@ -654,10 +656,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTE4NjEyNCwtMjEzNzIzNjA2MiwtMT
-gxNTQ5MTAzMywtNjQ0MTQ5Mjc2LDkxNTE5NTc2OCwtMTA4ODY5
-Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjczMj
-U4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUs
-LTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MD
-IxNzcxXX0=
+eyJoaXN0b3J5IjpbLTgxNjM4NzYyMSwtNzQ1MTg2MTI0LC0yMT
+M3MjM2MDYyLC0xODE1NDkxMDMzLC02NDQxNDkyNzYsOTE1MTk1
+NzY4LC0xMDg4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNT
+YsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwt
+MTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNj
+k4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
