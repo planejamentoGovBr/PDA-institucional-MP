@@ -650,13 +650,13 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Unidade responsável:** SGP
 **Ponto Focal:** e-Ouv
 
-### 2. Plano de Ação - Melhoria nos Conjuntos de Dados já dispobilizados
+### 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU0OTEwMzMsLTY0NDE0OTI3Niw5MT
-UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
-MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
-k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
-ODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTIxMzcyMzYwNjIsLTE4MTU0OTEwMzMsLT
+Y0NDE0OTI3Niw5MTUxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIw
+MjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOT
+AwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5
+LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
