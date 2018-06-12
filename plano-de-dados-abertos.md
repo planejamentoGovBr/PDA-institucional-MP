@@ -383,18 +383,17 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 5)  Cadastramento no Dados.gov.br
 
 **Produtos:**
-1) 1) Catálogo com as informações sobre PPA e sobre os Programas Federais em formato aberto
-
+1) Catálogo com as informações sobre PPA e sobre os Programas Federais em formato aberto
 2) Dados dos Programas Federais relacionados aos atributos do PPA 2012-2015, em formato aberto
 
-**Frequência de Atualização:** Anualmente
+**Frequência de Atualização:** Dados históricos - sem atualização
 **Meta/Prazo:** Novembro/2018
 **Unidade responsável:** SEPLAN
 **Ponto Focal:** e-Ouv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ3NzYxOTUsLTEwODg2OTI5ODksLT
-M5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMw
-NTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NT
-E1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbMTUxNDEyMDg4NSwtMTA4ODY5Mjk4OSwtMz
+kyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjczMjU4LC0zMzA1
+NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1MT
+U0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 
 -->
