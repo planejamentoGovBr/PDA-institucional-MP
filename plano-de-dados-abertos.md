@@ -394,26 +394,28 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 * **MP_03 - Sistema de Transportes de Servidores Públicos - TaxiGov**
 
 **Atividade:**
-1)  1)  Disponibilização do PPA Mais Brasil e da base de dados original em ambiente de teste pela SETIC;
-2)  Extração dos dados formatados conforme metodologia padronizada estabelecida no PDA;
+1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3)  Conferência dos Dados;
-4)  Criação do dicionário de Dados;
-5)  Cadastramento no Dados.gov.br
+4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5)  Automatização da extração dos dados via API
 
 **Produtos:**
-1) Catálogo com as informações sobre PPA e sobre os Programas Federais em formato aberto
-2) Dados dos Programas Federais relacionados aos atributos do PPA 2012-2015, em formato aberto
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
 
-**Frequência de Atualização:** Dados históricos - sem atualização
-**Meta/Prazo:** Novembro/2018
-**Unidade responsável:** SEPLAN
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAwNTMwODEsLTEwODg2OTI5ODksLT
-M5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMw
-NTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NT
-E1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
-
+eyJoaXN0b3J5IjpbOTE0ODIxNzAsLTEwODg2OTI5ODksLTM5Mj
+IwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYy
+OTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1ND
+E5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
