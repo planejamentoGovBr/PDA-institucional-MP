@@ -363,14 +363,15 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 3)  Conferência dos Dados;
 4)  Criação do dicionário de Dados;
 5)  Cadastramento no Dados.gov.br
+
 **Frequência de Atualização:** Anualmente
 **Meta/Prazo:** Novembro/2018
-** Unidade responsável:** SEPLAN
+**Unidade responsável:** SEPLAN
 **Ponto Focal:** e-Ouv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTAwODc4OSwtMTA4ODY5Mjk4OSwtMz
-kyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjczMjU4LC0zMzA1
-NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUsLTE1NTY1MT
-U0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTE5MDQwNDEzMDMsLTEwODg2OTI5ODksLT
+M5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMw
+NTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NT
+E1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 
 -->
