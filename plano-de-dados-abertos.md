@@ -470,15 +470,34 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
+* **MP_08 - Boletim das Empresas Estatais Federais**
 
+**Atividade:**
+1) Seleção da base de dados e extração a partir do SIEST e SIOP em formato CSV;
+2) Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3) Conferência dos dados;
+4) Envio para publicação no Dados.gov.br;
+5) Automatização da extração dos dados via API.
+
+**Produtos:**
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
+**Ponto Focal:** e-Ouv
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk4MDk2MzYsOTE1MTk1NzY4LC0xMD
-g4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2
-NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0OD
-c1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1
-MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTY0NDE0OTI3Niw5MTUxOTU3NjgsLTEwOD
+g2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3
+MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4Nz
+U1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUx
+ODAyMTc3MV19
 -->
