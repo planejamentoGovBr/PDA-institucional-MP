@@ -1,3 +1,11 @@
+---
+published: true
+permalink: /
+layout: slate
+filename: plano-de-dados-abertos.md
+title: Plano de Dados Abertos do Ministério do Planejamento
+desc: Este é o Plano de Dados Abertos do Ministério do Planejamento.
+---
 
 **Plano de Dados Abertos do Ministério do Planejamento**
 
