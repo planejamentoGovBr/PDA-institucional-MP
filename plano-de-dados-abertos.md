@@ -400,28 +400,29 @@ Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causand
    **Produtos:**
    1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
 
-**Frequência de Atualização:** Mensal
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
-**Ponto Focal:** e-Ouv
+   **Frequência de Atualização:** Mensal
+   **Meta/Prazo:** Setembro/2018
+   **Unidade responsável:** SPU
+   **Ponto Focal:** e-Ouv
 
 * **MP_13 - Dados de Pessoal do Executivo Federal - Cargos Vagos**
+A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
-**Atividade:**
-1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
-2. Desenvolvimento de serviço;
-3. Implantação da rotina desenvolvida em produção (SIAPE);
-4. Atualização do catálago de Serviços;
-5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+   **Atividade:**
+   1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
+   2. Desenvolvimento de serviço;
+   3. Implantação da rotina desenvolvida em produção (SIAPE);
+   4. Atualização do catálago de Serviços;
+   5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
-**Produtos:**
-1. Catálago com os cargos vagos do Executivo Federal em formato aberto;
-2. Disponibilização dos Dados de forma automática;
-3. Ambiente preparado;
-4. Dados a serem publicados;
-5. Dados disponibilizados.
+   **Produtos:**
+   1. Catálago com os cargos vagos do Executivo Federal em formato aberto;
+   2. Disponibilização dos Dados de forma automática;
+   3. Ambiente preparado;
+   4. Dados a serem publicados;
+   5. Dados disponibilizados.
 
-**Frequência de Atualização:** Mensal
+ **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Setembro/2018
 **Unidade responsável:** SGP
 **Ponto Focal:** e-Ouv
@@ -657,10 +658,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjI3MDA2NCwtODE2Mzg3NjIxLC03ND
-UxODYxMjQsLTIxMzcyMzYwNjIsLTE4MTU0OTEwMzMsLTY0NDE0
-OTI3Niw5MTUxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MC
-wtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0x
-MDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNz
-ExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbMTM1NTc2MCwtODE2Mzg3NjIxLC03NDUxOD
+YxMjQsLTIxMzcyMzYwNjIsLTE4MTU0OTEwMzMsLTY0NDE0OTI3
+Niw5MTUxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMT
+g0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4
+ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMj
+AzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
