@@ -480,11 +480,25 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 5) Automatização da extração dos dados via API.
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
-1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos atributos do Taxi atualizados no portal de dados abertos
-5) Publicação dos Dados
+1) Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
+
+2) Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
+
+3) Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
+
+4) Dados dos atributos de Governança e Avaliação das Estatais atualizados trimestralmente em formato aberto;
+
+5) Catálogo com os dados dos atributos do Orçamento das Estatais em formato aberto;
+
+6) Dados dos atributos do Orçamento das Estatais atualizados trimestralmente em formato aberto;
+
+7) Catálogo com os dados dos atributos de Política de Pessoal e Previdência das Estatais em formato aberto;
+
+8) Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
+
+9) Publicação dos Dados
+
+1) Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
 
 **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Julho/2019
@@ -495,9 +509,9 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDE0OTI3Niw5MTUxOTU3NjgsLTEwOD
-g2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3
-MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4Nz
-U1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUx
-ODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTg3NDAzNjY2LC02NDQxNDkyNzYsOTE1MT
+k1NzY4LC0xMDg4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMz
+NTYsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NC
+wtMTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgz
+Njk4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
