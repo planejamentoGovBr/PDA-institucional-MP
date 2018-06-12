@@ -364,12 +364,16 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 4)  Criação do dicionário de Dados;
 5)  Cadastramento no Dados.gov.br
 
+**Produtos:**
+1) Catálogo com as informações sobre PPA e sobre ODS em formato aberto
+2) Dados dos Atributos do PPA relacionados aos ODS atualizados anualmente, em formato aberto
+
 **Frequência de Atualização:** Anualmente
 **Meta/Prazo:** Novembro/2018
 **Unidade responsável:** SEPLAN
 **Ponto Focal:** e-Ouv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQwNDEzMDMsLTEwODg2OTI5ODksLT
+eyJoaXN0b3J5IjpbLTEyNzg1MzYxNTEsLTEwODg2OTI5ODksLT
 M5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMw
 NTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NT
 E1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
