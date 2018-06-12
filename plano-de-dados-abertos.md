@@ -443,34 +443,29 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
-* **MP_06 - Sistema de Transportes de Servidores Públicos - TaxiGov**
+* **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
 
 **Atividade:**
-1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
-2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3)  Conferência dos Dados;
-4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
-5)  Automatização da extração dos dados via API
+1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
+2) Publicar as informações no Portal de Dados Aberto da SPU;
+3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
-1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos atributos do Taxi atualizados no portal de dados abertos
-5) Publicação dos Dados
+1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+
 
 **Frequência de Atualização:** Mensal
-**Meta/Prazo:** Julho/2019
-**Unidade responsável:** SEGES
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY2MzE4NzcsOTE1MTk1NzY4LC0xMD
-g4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2
-NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0OD
-c1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1
-MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbNDEzMjA1NjIyLDkxNTE5NTc2OCwtMTA4OD
+Y5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjcz
+MjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NT
+UsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4
+MDIxNzcxXX0=
 -->
