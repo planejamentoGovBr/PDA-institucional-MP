@@ -361,11 +361,11 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 
    **Atividade:**
    1) Converter em formato para publicação no Portal de Dados Aberto;
-2) Publicar na página de dados aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
+   2) Publicar na página de dados aberto da SPU;
+   3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
 
    **Produtos:**
-1. Catálogo com os dados da Arrecadação do Patrimônio da União
+   1. Catálogo com os dados da Arrecadação do Patrimônio da União
 
    **Frequência de Atualização:** Anual
    **Meta/Prazo:** Setembro/2018
@@ -654,10 +654,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE4MTY2NDIsLTIxMzcyMzYwNjIsLT
-E4MTU0OTEwMzMsLTY0NDE0OTI3Niw5MTUxOTU3NjgsLTEwODg2
-OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3Mz
-I1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1
-LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxOD
-AyMTc3MV19
+eyJoaXN0b3J5IjpbLTc0NTE4NjEyNCwtMjEzNzIzNjA2MiwtMT
+gxNTQ5MTAzMywtNjQ0MTQ5Mjc2LDkxNTE5NTc2OCwtMTA4ODY5
+Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjczMj
+U4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUs
+LTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MD
+IxNzcxXX0=
 -->
