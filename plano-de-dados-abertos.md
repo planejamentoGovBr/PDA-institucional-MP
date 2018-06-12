@@ -384,6 +384,7 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Meta/Prazo:** Setembro/2018
 **Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
+
 * **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
 
 **Atividade:**
@@ -398,6 +399,42 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Meta/Prazo:** Setembro/2018
 **Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
+
+* **MP_13 - Dados de Pessoal do Executivo Federal - Cargos Vagos**
+
+**Atividade:**
+1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
+
+2.Desenvolvimento de serviço;
+
+3. Implantação da rotina desenvolvida em produção (SIAPE);
+
+4. Atualização do catálago de Serviços;
+
+5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+**Produtos:**
+1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
+**Ponto Focal:** e-Ouv
+
+* **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
+
+**Atividade:**
+1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
+2) Publicar as informações no Portal de Dados Aberto da SPU;
+3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+
+**Produtos:**
+1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
+**Ponto Focal:** e-Ouv
+
 
 * **MP_01 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 
@@ -565,9 +602,9 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYwNjQ5NjEsLTY0NDE0OTI3Niw5MT
-UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
-MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
-k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
-ODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbMjEyNjk2NTI3OCwtNjQ0MTQ5Mjc2LDkxNT
+E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
+MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
+QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
+MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
