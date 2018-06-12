@@ -403,21 +403,22 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 * **MP_13 - Dados de Pessoal do Executivo Federal - Cargos Vagos**
 
 **Atividade:**
-1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
-
-2.Desenvolvimento de serviço;
-
+1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
+2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
-
 4. Atualização do catálago de Serviços;
-
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+
 **Produtos:**
-1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+1. Catálago com os cargos vagos do Executivo Federal em formato aberto;
+2. Disponibilização dos Dados de forma automática;
+3. Ambiente preparado;
+4. Dados a serem publicados;
+5. Dados disponibilizados.
 
 **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
+**Unidade responsável:** SGU
 **Ponto Focal:** e-Ouv
 
 * **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
@@ -602,7 +603,7 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjk2NTI3OCwtNjQ0MTQ5Mjc2LDkxNT
+eyJoaXN0b3J5IjpbMjEwNTAyMjkzOSwtNjQ0MTQ5Mjc2LDkxNT
 E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
 MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
 QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
