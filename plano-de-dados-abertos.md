@@ -384,9 +384,40 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Meta/Prazo:** Setembro/2018
 **Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
+* **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
 
+**Atividade:**
+1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
+2) Publicar as informações no Portal de Dados Aberto da SPU;
+3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+
+**Produtos:**
+1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
+**Ponto Focal:** e-Ouv
 
 * **MP_01 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+
+**Atividade:**
+1)  Atualização da base de dados original com as informações de 2017;
+2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3)  Conferência dos Dados;
+4)  Criação do dicionário de Dados;
+5)  Cadastramento no Dados.gov.br
+
+**Produtos:**
+1) Catálogo com as informações sobre PPA e sobre ODS em formato aberto
+2) Dados dos Atributos do PPA relacionados aos ODS atualizados anualmente, em formato aberto
+
+**Frequência de Atualização:** Anualmente
+**Meta/Prazo:** Novembro/2018
+**Unidade responsável:** SEPLAN
+**Ponto Focal:** e-Ouv
+
+* **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
 
 **Atividade:**
 1)  Atualização da base de dados original com as informações de 2017;
@@ -443,27 +474,13 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
-* **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
 
-**Atividade:**
-1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
-2) Publicar as informações no Portal de Dados Aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
-
-**Produtos:**
-1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
-
-
-**Frequência de Atualização:** Mensal
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
-**Ponto Focal:** e-Ouv
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMjA1NjIyLDkxNTE5NTc2OCwtMTA4OD
+eyJoaXN0b3J5IjpbNzE1NDgwODc0LDkxNTE5NTc2OCwtMTA4OD
 Y5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjcz
 MjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NT
 UsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4
