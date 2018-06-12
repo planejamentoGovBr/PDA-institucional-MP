@@ -463,6 +463,47 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Unidade responsável:** SETIC
 **Ponto Focal:** e-Ouv
 
+* **MP_11 - Sistema de Transportes de Servidores Públicos - TaxiGov**
+
+**Atividade:**
+1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3)  Conferência dos Dados;
+4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5)  Automatização da extração dos dados via API
+
+**Produtos:**
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
+**Ponto Focal:** e-Ouv
+
+* **MP_03 - Sistema de Transportes de Servidores Públicos - TaxiGov**
+
+**Atividade:**
+1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3)  Conferência dos Dados;
+4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5)  Automatização da extração dos dados via API
+
+**Produtos:**
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
+**Ponto Focal:** e-Ouv
 
 * **MP_03 - Sistema de Transportes de Servidores Públicos - TaxiGov**
 
@@ -534,7 +575,7 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjQ2ODcwOCwtNjQ0MTQ5Mjc2LDkxNT
+eyJoaXN0b3J5IjpbLTYyMDY3Mjk3MywtNjQ0MTQ5Mjc2LDkxNT
 E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
 MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
 QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
