@@ -422,19 +422,17 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 **Produtos:**
 Catálogo com os dados da Arrecadação do Patrimônio da União
 
-**Frequência de Atualização:** Mensal
-**Meta/Prazo:** Julho/2019
-**Unidade responsável:** SEGES
+**Frequência de Atualização:** Anual
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
 
 * **MP_05 - Dados Referente aos Imóveis Funcionais da União**
 
 **Atividade:**
-1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
-2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3)  Conferência dos Dados;
-4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
-5)  Automatização da extração dos dados via API
+1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
+2) Publicar as informações no Portal de Dados Aberto da SPU;
+3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
 **Produtos:**
 1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
@@ -449,9 +447,9 @@ Catálogo com os dados da Arrecadação do Patrimônio da União
 **Ponto Focal:** e-Ouv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2OTU0NjY2LDkxNTE5NTc2OCwtMTA4OD
-Y5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjcz
-MjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NT
-UsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4
-MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbMTEzMTY4MzIyNCw5MTUxOTU3NjgsLTEwOD
+g2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3
+MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4Nz
+U1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUx
+ODAyMTc3MV19
 -->
