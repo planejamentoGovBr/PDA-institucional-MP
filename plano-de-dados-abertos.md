@@ -435,19 +435,15 @@ Catálogo com os dados da Arrecadação do Patrimônio da União
 3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
-1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos atributos do Taxi atualizados no portal de dados abertos
-5) Publicação dos Dados
+Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
 
-**Frequência de Atualização:** Mensal
-**Meta/Prazo:** Julho/2019
-**Unidade responsável:** SEGES
+**Frequência de Atualização:** Trimestral
+**Meta/Prazo:** Setembro/2019
+**Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTY4MzIyNCw5MTUxOTU3NjgsLTEwOD
+eyJoaXN0b3J5IjpbMTIzODQ0Nzc4Miw5MTUxOTU3NjgsLTEwOD
 g2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3
 MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4Nz
 U1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUx
