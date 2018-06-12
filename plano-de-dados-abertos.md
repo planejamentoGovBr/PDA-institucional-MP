@@ -560,6 +560,34 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
+* **MP_15 - Dados de Pessoal do Executivo Federal - Gasto de Pessoal com Auxílios**
+
+**Atividade:**
+1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
+
+2.Desenvolvimento de serviço;
+
+3. Implantação da rotina desenvolvida em produção (SIAPE);
+
+4. Atualização do catálago de Serviços;
+
+5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+
+`
+
+**Produtos:**
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
+**Ponto Focal:** e-Ouv
+
+
 * **MP_08 - Boletim das Empresas Estatais Federais**
 
 **Atividade:**
@@ -609,7 +637,7 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI0NzMyODEsLTY0NDE0OTI3Niw5MT
+eyJoaXN0b3J5IjpbLTE3MDM1OTM2NTYsLTY0NDE0OTI3Niw5MT
 UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
 MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
 k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
