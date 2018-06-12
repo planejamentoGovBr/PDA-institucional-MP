@@ -564,27 +564,22 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
-
-2.Desenvolvimento de serviço;
-
+2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
-
 4. Atualização do catálago de Serviços;
-
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
-`
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
-1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos atributos do Taxi atualizados no portal de dados abertos
-5) Publicação dos Dados
+1.Catálago de dados do Executivo Federal com os valores dos auxílios
+2. Disponibilização dos Dados de forma automática;
+3. Ambiente preparado;
+4. Dados a serem publicados;
+5. Dados disponibilizados.
 
-**Frequência de Atualização:** Mensal
+**Frequência de Atualização:** Após publicação legislação
 **Meta/Prazo:** Julho/2019
-**Unidade responsável:** SEGES
+**Unidade responsável:** SGP
 **Ponto Focal:** e-Ouv
 
 
@@ -632,14 +627,31 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Unidade responsável:** SOF
 **Ponto Focal:** e-Ouv
 
+* **MP_16 - Dados referentes ao Acompanhamento Físico e Financeiro das Ações Orçamentárias**
 
+**Atividade:**
+1) Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
+2)  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
+3)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+4) Conferência dos dados;
+5) Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
+
+**Produtos:**
+1) Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
+2) Dados não sigilosos do acompanhamento físico e financeiro das ações em formato de dados abertos (.csv);
+3) Publicação dos dados.
+
+**Frequência de Atualização:** Anual
+**Meta/Prazo:** Novembro/2019
+**Unidade responsável:** SOF
+**Ponto Focal:** e-Ouv
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM1OTM2NTYsLTY0NDE0OTI3Niw5MT
-UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
-MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
-k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
-ODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbMTU3MTMwMzgwLC02NDQxNDkyNzYsOTE1MT
+k1NzY4LC0xMDg4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMz
+NTYsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NC
+wtMTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgz
+Njk4ODg0LDE1MTgwMjE3NzFdfQ==
 -->
