@@ -417,19 +417,6 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 **Unidade responsável:** SEPLAN
 **Ponto Focal:** e-Ouv
 
-* **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
-
-**Atividade:**
-1) Proceder a Incorporação dos Imóveis nos Sistema da SPU;
-2) Publicar as informações dos imóveis da antiga RFFSA.
-
-**Produtos:**
-1. Catágolo dos imóveis incorporados ao Patrimônio da União
-
-**Frequência de Atualização:** Mensal
-**Meta/Prazo:** Dezembro/2018
-**Unidade responsável:** SPU
-**Ponto Focal:** e-Ouv
 
 * **MP_02 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
 
@@ -461,6 +448,20 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Novembro/2018
 **Unidade responsável:** SETIC
+**Ponto Focal:** e-Ouv
+
+* **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
+
+**Atividade:**
+1) Proceder a Incorporação dos Imóveis nos Sistema da SPU;
+2) Publicar as informações dos imóveis da antiga RFFSA.
+
+**Produtos:**
+1. Catágolo dos imóveis incorporados ao Patrimônio da União
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Dezembro/2018
+**Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
 
 * **MP_11 - Catálogo de bases da dados que integram o GovData**
@@ -564,9 +565,9 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDcwMjE4NSwtNjQ0MTQ5Mjc2LDkxNT
-E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
-MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
-QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
-MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTE3ODYwNjQ5NjEsLTY0NDE0OTI3Niw5MT
+UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
+MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
+k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
+ODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
