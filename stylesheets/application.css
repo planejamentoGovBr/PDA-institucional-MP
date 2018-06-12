@@ -1527,27 +1527,17 @@ body {
   body:last-child:after {
     clear: both; }
   body > header.masthead {
-	padding: 15px 0 0 0;
-	background-color: #19882c;
- /* Old browsers */
-	background-color: #0A5517;
-	background-image: -moz-radial-gradient(center, ellipse cover,  #19882c 1%, #025310 100%);
- /* FF3.6+ */
-	background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%,#19882c), color-stop(100%,#025310));
- /* Chrome,Safari4+ */
-	background-image: -webkit-radial-gradient(center, ellipse cover,  #19882c 1%,#025310 100%);
- /* Chrome10+,Safari5.1+ */
-	background-image: -o-radial-gradient(center, ellipse cover,  #19882c 1%,#025310 100%);
- /* Opera 12+ */
-	background-image: -ms-radial-gradient(center, ellipse cover,  #19882c 1%,#025310 100%);
- /* IE10+ */
-	background-image: radial-gradient(ellipse at center,  #19882c 1%,#025310 100%);
- /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#19882c', endColorstr='#025310',GradientType=1 );
- /* IE6-9 fallback on horizontal gradient */
-
-	color: #fff;
-    /*luiz>*/
+	
+    padding: 14px 0 0 0;
+background-color: #34378F;
+background-image: -moz-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%, #1074BC), color-stop(100%, #34378F));
+background-image: -webkit-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+background-image: -o-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+background-image: -ms-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+background-image: radial-gradient(ellipse at center, #1074BC 1%, #34378F 100%);
+color: #fff;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1074BC", endColorstr="#34378F", GradientType=1);
 }
     body > header.masthead > .container {
       max-width: 980px;
@@ -1651,6 +1641,7 @@ body > header.masthead #news {
       float: right;
       height: 35px;
       margin-top: -32px;
+	margin-right: -20px;
       }
       body > header.masthead #news li {
         display: block;
@@ -2164,8 +2155,8 @@ body.no-sidebar .row .content-outer {
 }
 
 #accessibility span {
-    background: none repeat scroll 0 0 #9ED5AB;
-    color: #006600;
+    background: #34378F;
+    color: #fff;
     padding: 0 4px;
 }
 
@@ -2182,4 +2173,48 @@ body.no-sidebar .row .content-outer {
     width: 940px;
     padding-top:20px;
 
+}
+
+.container,
+.inner{
+	width: 100% !important;
+	max-width: 1074px !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+#toc > i {
+	display: none !important;
+}
+
+#portal-siteactions{
+	position: absolute;
+	right: 0;
+	top: 0;
+	list-style-type: none;
+	border-bottom: 1px #fff dotted;
+	padding: 0;
+	margin: 0;
+}
+
+#portal-siteactions li a {
+	padding: 4px 0 4px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 11px;
+}
+
+#menu-de-navegacao {
+	width: 100%;
+	display: block;
+	clear: both;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+}
+
+#menu-de-navegacao li {
+	display: inline-block;
+	margin-left: 15px;
 }
