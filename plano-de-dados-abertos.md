@@ -432,10 +432,12 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 **Meta/Prazo:** Julho/2019
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTk1NzY4LC0xMDg4NjkyOTg5LC0zOT
-IyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2NzMyNTgsLTMzMDU2
-MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1NjUxNT
-QxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMDM5ODczNzIsOTE1MTk1NzY4LC0xMD
+g4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2
+NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0OD
+c1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1
+MTgwMjE3NzFdfQ==
 -->
