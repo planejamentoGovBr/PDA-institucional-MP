@@ -490,6 +490,31 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 8) Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
 9) Publicação dos Dados
 
+**Frequência de Atualização:** Trimestral
+**Meta/Prazo:** Novembro/2019
+**Unidade responsável:** SEST
+**Ponto Focal:** e-Ouv
+
+* **MP_09 - Dados referentes ao Acompanhamento Físico e Financeiro das Ações Orçamentárias**
+
+**Atividade:**
+1) Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
+2)  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
+3)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+4) Conferência dos dados;
+5) Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
+
+**Produtos:**
+1) Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
+2) Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
+3) Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
+4) Dados dos atributos de Governança e Avaliação das Estatais atualizados trimestralmente em formato aberto;
+5) Catálogo com os dados dos atributos do Orçamento das Estatais em formato aberto;
+6) Dados dos atributos do Orçamento das Estatais atualizados trimestralmente em formato aberto;
+7) Catálogo com os dados dos atributos de Política de Pessoal e Previdência das Estatais em formato aberto;
+8) Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
+9) Publicação dos Dados
+
 
 **Frequência de Atualização:** Trimestral
 **Meta/Prazo:** Novembro/2019
@@ -499,10 +524,11 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzYxMTY1NSwtNjQ0MTQ5Mjc2LDkxNT
-E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
-MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
-QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
-MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTE4NjcyNjE5NTgsLTY0NDE0OTI3Niw5MT
+UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
+MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
+k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
+ODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
