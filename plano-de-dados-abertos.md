@@ -355,6 +355,37 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
+* **MP_04 - Dados Referente a Arrecadação Patrimonial**
+
+**Atividade:**
+1) Converter em formato para publicação no Portal de Dados Aberto;
+2) Publicar na página de dados aberto da SPU;
+3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
+
+**Produtos:**
+Catálogo com os dados da Arrecadação do Patrimônio da União
+
+**Frequência de Atualização:** Anual
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
+**Ponto Focal:** e-Ouv
+
+* **MP_05 - Dados Referente aos Imóveis Funcionais da União**
+
+**Atividade:**
+1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
+2) Publicar as informações no Portal de Dados Aberto da SPU;
+3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+
+**Produtos:**
+Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
+
+**Frequência de Atualização:** Trimestral
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SPU
+**Ponto Focal:** e-Ouv
+
+
 * **MP_01 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 
 **Atividade:**
@@ -412,40 +443,34 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
-* **MP_04 - Dados Referente a Arrecadação Patrimonial**
+* **MP_06 - Sistema de Transportes de Servidores Públicos - TaxiGov**
 
 **Atividade:**
-1) Converter em formato para publicação no Portal de Dados Aberto;
-2) Publicar na página de dados aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
+1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3)  Conferência dos Dados;
+4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5)  Automatização da extração dos dados via API
 
 **Produtos:**
-Catálogo com os dados da Arrecadação do Patrimônio da União
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
 
-**Frequência de Atualização:** Anual
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
-* **MP_05 - Dados Referente aos Imóveis Funcionais da União**
 
-**Atividade:**
-1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
-2) Publicar as informações no Portal de Dados Aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
-**Produtos:**
-Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
-
-**Frequência de Atualização:** Trimestral
-**Meta/Prazo:** Setembro/2019
-**Unidade responsável:** SPU
-**Ponto Focal:** e-Ouv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODQ0Nzc4Miw5MTUxOTU3NjgsLTEwOD
-g2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3
-MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4Nz
-U1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUx
-ODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTE2MjY2MzE4NzcsOTE1MTk1NzY4LC0xMD
+g4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2
+NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0OD
+c1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1
+MTgwMjE3NzFdfQ==
 -->
