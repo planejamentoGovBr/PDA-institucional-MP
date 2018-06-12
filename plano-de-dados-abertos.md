@@ -359,18 +359,18 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 
 * **MP_04 - Dados Referente a Arrecadação Patrimonial**
 
-**Atividade:**
+   **Atividade:**
 1) Converter em formato para publicação no Portal de Dados Aberto;
 2) Publicar na página de dados aberto da SPU;
 3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
 
-**Produtos:**
-Catálogo com os dados da Arrecadação do Patrimônio da União
+   **Produtos:**
+1. Catálogo com os dados da Arrecadação do Patrimônio da União
 
-**Frequência de Atualização:** Anual
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
-**Ponto Focal:** e-Ouv
+   **Frequência de Atualização:** Anual
+   **Meta/Prazo:** Setembro/2018
+   **Unidade responsável:** SPU
+   **Ponto Focal:** e-Ouv
 
 * **MP_05 - Dados Referente aos Imóveis Funcionais da União**
 
@@ -654,9 +654,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcyMzYwNjIsLTE4MTU0OTEwMzMsLT
-Y0NDE0OTI3Niw5MTUxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIw
-MjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOT
-AwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5
-LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTQ4MTM0ODA4NywtMjEzNzIzNjA2MiwtMT
+gxNTQ5MTAzMywtNjQ0MTQ5Mjc2LDkxNTE5NTc2OCwtMTA4ODY5
+Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjczMj
+U4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUs
+LTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MD
+IxNzcxXX0=
 -->
