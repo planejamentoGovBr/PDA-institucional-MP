@@ -420,19 +420,15 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 * **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
 
 **Atividade:**
-1)  Atualização da base de dados original com as informações de 2017;
-2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3)  Conferência dos Dados;
-4)  Criação do dicionário de Dados;
-5)  Cadastramento no Dados.gov.br
+1) Proceder a Incorporação dos Imóveis nos Sistema da SPU;
+2) Publicar as informações dos imóveis da antiga RFFSA.
 
 **Produtos:**
-1) Catálogo com as informações sobre PPA e sobre ODS em formato aberto
-2) Dados dos Atributos do PPA relacionados aos ODS atualizados anualmente, em formato aberto
+1. Catágolo dos imóveis incorporados ao Patrimônio da União
 
-**Frequência de Atualização:** Anualmente
-**Meta/Prazo:** Novembro/2018
-**Unidade responsável:** SEPLAN
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Dezembro/2018
+**Unidade responsável:** SPU
 **Ponto Focal:** e-Ouv
 
 * **MP_02 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
@@ -480,9 +476,9 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDgwODc0LDkxNTE5NTc2OCwtMTA4OD
-Y5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjcz
-MjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NT
-UsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4
-MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTE1OTk4MDk2MzYsOTE1MTk1NzY4LC0xMD
+g4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2
+NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0OD
+c1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1
+MTgwMjE3NzFdfQ==
 -->
