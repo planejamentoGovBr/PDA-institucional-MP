@@ -627,31 +627,33 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Unidade responsável:** SOF
 **Ponto Focal:** e-Ouv
 
-* **MP_16 - Dados referentes ao Acompanhamento Físico e Financeiro das Ações Orçamentárias**
+* **MP_16 - Dados de Pessoal do Executivo Federal - Previdência complementar**
 
 **Atividade:**
-1) Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
-2)  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
-3)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-4) Conferência dos dados;
-5) Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
+1. Seleção da base de dados de Sevidores Ativos;
+2. Desenvolvimento de serviço;
+3. Implantação da rotina desenvolvida em produção (SIAPE);
+4. Atualização do catálago de Serviços;
+5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-1) Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
-2) Dados não sigilosos do acompanhamento físico e financeiro das ações em formato de dados abertos (.csv);
-3) Publicação dos dados.
+1. Catálogo de dado do Executivo Federal
+2. Disponibilização dos Dados de forma automática;
+3. Ambiente preparado;
+4. Dados a serem publicados;
+5. Dados publicados e disponibilizados.
 
-**Frequência de Atualização:** Anual
-**Meta/Prazo:** Novembro/2019
-**Unidade responsável:** SOF
+**Frequência de Atualização:** XXXXXX
+**Meta/Prazo:** Dezembro/2019
+**Unidade responsável:** SGPOF
 **Ponto Focal:** e-Ouv
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTMwMzgwLC02NDQxNDkyNzYsOTE1MT
-k1NzY4LC0xMDg4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMz
-NTYsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NC
-wtMTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgz
-Njk4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTgxNzM1NDU0NCwtNjQ0MTQ5Mjc2LDkxNT
+E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
+MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
+QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
+MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
