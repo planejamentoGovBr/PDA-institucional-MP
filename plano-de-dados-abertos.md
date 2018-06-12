@@ -412,10 +412,30 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
+* **MP_04 - Dados Referente a Arrecadação Patrimonial**
 
+**Atividade:**
+1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3)  Conferência dos Dados;
+4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5)  Automatização da extração dos dados via API
+
+**Produtos:**
+1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2) Dados dos atributos do Taxi atualizados no portal de dados abertos
+5) Publicação dos Dados
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Julho/2019
+**Unidade responsável:** SEGES
+**Ponto Focal:** e-Ouv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0ODIxNzAsLTEwODg2OTI5ODksLTM5Mj
-IwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYy
-OTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1ND
-E5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbOTE1MTk1NzY4LC0xMDg4NjkyOTg5LC0zOT
+IyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2NzMyNTgsLTMzMDU2
+MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1NjUxNT
+QxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFdfQ==
+
 -->
