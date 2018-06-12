@@ -360,7 +360,7 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 * **MP_04 - Dados Referente a Arrecadação Patrimonial**
 
    **Atividade:**
-1) Converter em formato para publicação no Portal de Dados Aberto;
+   1) Converter em formato para publicação no Portal de Dados Aberto;
 2) Publicar na página de dados aberto da SPU;
 3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
 
@@ -374,18 +374,18 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 
 * **MP_05 - Dados Referente aos Imóveis Funcionais da União**
 
-**Atividade:**
-1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
-2) Publicar as informações no Portal de Dados Aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+   **Atividade:**
+   1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
+   2) Publicar as informações no Portal de Dados Aberto da SPU;
+   3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
-**Produtos:**
-Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
+   **Produtos:**
+   1. Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
 
-**Frequência de Atualização:** Trimestral
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
-**Ponto Focal:** e-Ouv
+   **Frequência de Atualização:** Trimestral
+   **Meta/Prazo:** Setembro/2018
+   **Unidade responsável:** SPU
+   **Ponto Focal:** e-Ouv
 
 * **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
 
@@ -654,10 +654,10 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTM0ODA4NywtMjEzNzIzNjA2MiwtMT
-gxNTQ5MTAzMywtNjQ0MTQ5Mjc2LDkxNTE5NTc2OCwtMTA4ODY5
-Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQzMzU2LC0xNDMwNjczMj
-U4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OTQsLTE1NjcyNDg3NTUs
-LTE1NTY1MTU0MTksLTM3MTEyMDMyLC04MzY5ODg4NCwxNTE4MD
-IxNzcxXX0=
+eyJoaXN0b3J5IjpbLTExMDE4MTY2NDIsLTIxMzcyMzYwNjIsLT
+E4MTU0OTEwMzMsLTY0NDE0OTI3Niw5MTUxOTU3NjgsLTEwODg2
+OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0MzM1NiwtMTQzMDY3Mz
+I1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNzk0LC0xNTY3MjQ4NzU1
+LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwtODM2OTg4ODQsMTUxOD
+AyMTc3MV19
 -->
