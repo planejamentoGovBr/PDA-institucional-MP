@@ -437,9 +437,9 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 4. Dados a serem publicados;
 5. Dados disponibilizados.
 
-**Frequência de Atualização:** Mensal
+**Frequência de Atualização:** Após publicação da Legislação
 **Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SPU
+**Unidade responsável:** SGP
 **Ponto Focal:** e-Ouv
 
 
@@ -609,7 +609,7 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk5MzcwNzAsLTY0NDE0OTI3Niw5MT
+eyJoaXN0b3J5IjpbLTE5MjI0NzMyODEsLTY0NDE0OTI3Niw5MT
 UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
 MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
 k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
