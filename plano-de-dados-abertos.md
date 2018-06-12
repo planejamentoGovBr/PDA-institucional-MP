@@ -418,18 +418,24 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 
 **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SGU
+**Unidade responsável:** SGP
 **Ponto Focal:** e-Ouv
 
-* **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
+* **MP_14 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 
 **Atividade:**
-1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
-2) Publicar as informações no Portal de Dados Aberto da SPU;
-3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
+2. Desenvolvimento de serviço;
+3. Implantação da rotina desenvolvida em produção (SIAPE);
+4. Atualização do catálago de Serviços;
+5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
+1.Catálago com a relacão de Servidores que aderiram ao PDV no Executivo Federal em formato aberto;
+2. Disponibilização dos Dados de forma automática;
+3. Ambiente preparado;
+4. Dados a serem publicados;
+5. Dados disponibilizados.
 
 **Frequência de Atualização:** Mensal
 **Meta/Prazo:** Setembro/2018
@@ -603,9 +609,9 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTAyMjkzOSwtNjQ0MTQ5Mjc2LDkxNT
-E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
-MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
-QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
-MzY5ODg4NCwxNTE4MDIxNzcxXX0=
+eyJoaXN0b3J5IjpbLTIwNzk5MzcwNzAsLTY0NDE0OTI3Niw5MT
+UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
+MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
+k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
+ODM2OTg4ODQsMTUxODAyMTc3MV19
 -->
