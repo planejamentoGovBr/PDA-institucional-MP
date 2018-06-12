@@ -355,6 +355,8 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 3.	As ações relacionadas ao monitoramento e controle do PDA;
 
+### 1. Plano de Ação - Conjuntos de Dados a serem abertos
+
 * **MP_04 - Dados Referente a Arrecadação Patrimonial**
 
 **Atividade:**
@@ -651,9 +653,9 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQwODM1NzcsLTY0NDE0OTI3Niw5MT
-UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
-MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
-k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
-ODM2OTg4ODQsMTUxODAyMTc3MV19
+eyJoaXN0b3J5IjpbLTE4NzYyNjc0OSwtNjQ0MTQ5Mjc2LDkxNT
+E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
+MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
+QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
+MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
