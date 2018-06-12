@@ -481,37 +481,28 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 
 **Produtos:**
 1) Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
-
 2) Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
-
 3) Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
-
 4) Dados dos atributos de Governança e Avaliação das Estatais atualizados trimestralmente em formato aberto;
-
 5) Catálogo com os dados dos atributos do Orçamento das Estatais em formato aberto;
-
 6) Dados dos atributos do Orçamento das Estatais atualizados trimestralmente em formato aberto;
-
 7) Catálogo com os dados dos atributos de Política de Pessoal e Previdência das Estatais em formato aberto;
-
 8) Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
-
 9) Publicação dos Dados
 
-1) Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
 
-**Frequência de Atualização:** Mensal
-**Meta/Prazo:** Julho/2019
-**Unidade responsável:** SEGES
+**Frequência de Atualização:** Trimestral
+**Meta/Prazo:** Novembro/2019
+**Unidade responsável:** SEST
 **Ponto Focal:** e-Ouv
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDAzNjY2LC02NDQxNDkyNzYsOTE1MT
-k1NzY4LC0xMDg4NjkyOTg5LC0zOTIyMDI2NzAsLTE4NDQwNDMz
-NTYsLTE0MzA2NzMyNTgsLTMzMDU2MjkwMCwtMTAwODg3MDc5NC
-wtMTU2NzI0ODc1NSwtMTU1NjUxNTQxOSwtMzcxMTIwMzIsLTgz
-Njk4ODg0LDE1MTgwMjE3NzFdfQ==
+eyJoaXN0b3J5IjpbLTUzNzYxMTY1NSwtNjQ0MTQ5Mjc2LDkxNT
+E5NTc2OCwtMTA4ODY5Mjk4OSwtMzkyMjAyNjcwLC0xODQ0MDQz
+MzU2LC0xNDMwNjczMjU4LC0zMzA1NjI5MDAsLTEwMDg4NzA3OT
+QsLTE1NjcyNDg3NTUsLTE1NTY1MTU0MTksLTM3MTEyMDMyLC04
+MzY5ODg4NCwxNTE4MDIxNzcxXX0=
 -->
