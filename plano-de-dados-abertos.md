@@ -505,20 +505,13 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 5) Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
-2) Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
-3) Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
-4) Dados dos atributos de Governança e Avaliação das Estatais atualizados trimestralmente em formato aberto;
-5) Catálogo com os dados dos atributos do Orçamento das Estatais em formato aberto;
-6) Dados dos atributos do Orçamento das Estatais atualizados trimestralmente em formato aberto;
-7) Catálogo com os dados dos atributos de Política de Pessoal e Previdência das Estatais em formato aberto;
-8) Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
-9) Publicação dos Dados
+1) Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
+2) Dados não sigilosos do acompanhamento físico e financeiro das ações em formato de dados abertos (.csv);
+3) Publicação dos dados.
 
-
-**Frequência de Atualização:** Trimestral
+**Frequência de Atualização:** Anual
 **Meta/Prazo:** Novembro/2019
-**Unidade responsável:** SEST
+**Unidade responsável:** SOF
 **Ponto Focal:** e-Ouv
 
 
@@ -526,7 +519,7 @@ Catálogo de dados com informações dos Imóveis da união destinados a residê
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcyNjE5NTgsLTY0NDE0OTI3Niw5MT
+eyJoaXN0b3J5IjpbLTEwMzYwMTI2NDEsLTY0NDE0OTI3Niw5MT
 UxOTU3NjgsLTEwODg2OTI5ODksLTM5MjIwMjY3MCwtMTg0NDA0
 MzM1NiwtMTQzMDY3MzI1OCwtMzMwNTYyOTAwLC0xMDA4ODcwNz
 k0LC0xNTY3MjQ4NzU1LC0xNTU2NTE1NDE5LC0zNzExMjAzMiwt
