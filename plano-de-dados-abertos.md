@@ -445,6 +445,7 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
    **Ponto Focal:** e-Ouv
 
 ### **MP_14 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
+O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017.  O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
 **Atividade:**
 1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
@@ -470,6 +471,7 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
 
 
 ### **MP_01 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019
 
 **Atividade:**
 1.  Atualização da base de dados original com as informações de 2017;
@@ -711,5 +713,5 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzYyMDEzNV19
+eyJoaXN0b3J5IjpbMzQ1NTYwODczXX0=
 -->
