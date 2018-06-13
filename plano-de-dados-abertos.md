@@ -765,8 +765,8 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 
 **Ponto Focal:** e-Ouv
 
-### **MP_02M - Melhoria da Qualidade e organização dos conjuntos de dados disponibilizados**
-Durante o processo de elaboração Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
+### **MP_02M - Melhoria da Qualidade e organização(Acurácia) dos conjuntos de dados disponibilizados**
+Durante o processo de elaboração Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações gedeste Plano, foram identificadas várias pontos de melhoria na qualidade dos conjuntos de dados do MP disponibilizados no Portal de Dados Abertos. Estas melhorias são necessáridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste planoa maioria dos 77 conjunto de dados publicados. Para facilitar a padronização e a gestão deste trabalho dentro do MP optou-se por realizar estas ações em um único plano de ação englobando os 77 conjuntos de dados.
 
 **Atividade:**
 1. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
@@ -812,5 +812,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM0NDA4NzJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTkxMzIxNTksLTE5NjM0NDA4NzJdfQ
+==
 -->
