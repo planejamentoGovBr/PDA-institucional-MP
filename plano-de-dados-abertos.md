@@ -752,7 +752,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 ### **MP_M_01 - Dados referentes aos Financiamentos  Externos do Setor Público** ==validar==
 
-Projetos com financiamento externo juntos à organismo financeiros de desenvolvimento bilaterais e multilaterais == descrever que este dado consta como pendencia 
+Projetos com financiamento externo juntos à organismo financeiros de desenvolvimento bilaterais e multilaterais == descrever que este dado consta como pendencia de dados aberto e que nao estava atualizado==
 
 **Atividade:**
 1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .xls;
@@ -868,6 +868,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIxNTc3NSwtMTIzMjU5NjY1OCwtMT
+eyJoaXN0b3J5IjpbMTc2MjU3Mjc0MCwtMTIzMjU5NjY1OCwtMT
 U2MzcyMzA1NywzMzA1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
