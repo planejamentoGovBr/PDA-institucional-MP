@@ -740,21 +740,22 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 ### **MP_01M - Inventário de Bases MP**
-Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se já contemplam nos Plano Ação deste plano.
+Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
 
 **Atividade:**
-1. Seleção da base de dados de Sevidores Ativos;
-2. Desenvolvimento de serviço;
-3. Implantação da rotina desenvolvida em produção (SIAPE);
-4. Atualização do catálago de Serviços;
-5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+1. Avaliar as informações geridas por cada sistema estruturante da APF;
+2. Identificar os conjuntos de dados já disponibilizadosSeleção da base de dados de Sevidores Ativos;
+3. Desenvolvimento de serviço;
+4. Implantação da rotina desenvolvida em produção (SIAPE);
+5. Atualização do catálago de Serviços;
+6. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-1. Catálogo de dado do Executivo Federal
-2. Disponibilização dos Dados de forma automática;
-3. Ambiente preparado;
-4. Dados a serem publicados;
-5. Dados publicados e disponibilizados.
+7. Catálogo de dado do Executivo Federal
+8. Disponibilização dos Dados de forma automática;
+9. Ambiente preparado;
+10. Dados a serem publicados;
+11. Dados publicados e disponibilizados.
 
 **Frequência de Atualização:** XXXXXX
 
@@ -787,8 +788,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NDkzNzU5LDEyMjc3NDk3MjEsLTU2OT
-k0MDQ5MCwtMjEzNTA1Njc0LC0xNjIxNzAxNTE0LC0xMTYxNDE2
-MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQzODA5LD
-E1ODg3NjM5MzZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTI1NTAyMjcsMTIyNzc0OTcyMSwtNT
+Y5OTQwNDkwLC0yMTM1MDU2NzQsLTE2MjE3MDE1MTQsLTExNjE0
+MTYyMjUsMTg0MzcwNzQ3NiwtMTM3MzY1OTk2NSwxNDg5NDM4MD
+ksMTU4ODc2MzkzNl19
 -->
