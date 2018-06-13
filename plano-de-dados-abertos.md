@@ -342,14 +342,14 @@ Os materiais de divulgação levam em conta os interesses de diferentes segmento
 
 O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
 
-1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
+==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
 2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
 3.	Consultas Públicas;
 4.	Criação de trilhas de participação social;
 5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
 6.	Publicação de relatório anual, contendo estatísticas de consulta aos dados, uso das APIs e acesso aos dados na fonte;
 7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
-8.	Outros espaços de divulgação.
+8.	Outros espaços de divulgação.==
 
  ----------
 # **VI. Plano de Ação**
@@ -740,7 +740,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUwNTY3NCwtMTYyMTcwMTUxNCwtMT
-E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
-MzgwOSwxNTg4NzYzOTM2XX0=
+eyJoaXN0b3J5IjpbLTU2OTk0MDQ5MCwtMjEzNTA1Njc0LC0xNj
+IxNzAxNTE0LC0xMTYxNDE2MjI1LDE4NDM3MDc0NzYsLTEzNzM2
+NTk5NjUsMTQ4OTQzODA5LDE1ODg3NjM5MzZdfQ==
 -->
