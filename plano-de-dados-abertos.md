@@ -805,11 +805,8 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 .
 
 **Frequência de Atualização:** Anual
-
 **Meta/Prazo:** Julho/2019
-
 **Unidade responsável:** SETIC
-
 **Ponto Focal:** e-Ouv
 
 ### **MP_04M - Viagens a Serviço do Governo Federal** ==validar==
@@ -857,5 +854,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MjkwMjEzLC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbMjIwMjM1MDk5LC0xOTYzNDQwODcyXX0=
 -->
