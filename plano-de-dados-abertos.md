@@ -779,13 +779,14 @@ f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
 2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
 3. Promover as alterações no Portal de Dados Abertos
 4. Informar a CGU as alterações realizadas
-5. Incluir esse processo no monitoramento e controle dos conjuntos de dados em fase de publicaçã
+5. Incluir esse processo no monitoramento e controle dos conjuntos de dados em fase de publicação.
 
 
 **Produtos:**
 6. Critério de acurácia (qualidade) dos dados
-7. relação de Bases a serem trabalhadas no PDA 2020-2021; 
-8. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+7. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acima;
+8. Processo de acurácia implementado no monitoramentrelação de Bases a serem trabalhadas no PDA 2020-2021; 
+9. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
 .
 
 **Frequência de Atualização:** Anual
@@ -817,5 +818,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2OTc1MzM3LC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbMzI0NTk2OCwtMTk2MzQ0MDg3Ml19
 -->
