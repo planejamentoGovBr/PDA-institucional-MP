@@ -179,7 +179,7 @@ Também foi considerada a colaboração da sociedade no processo de melhoria da 
 
 **a) Grupo representantes de todas as áreas**
 
-Os representantes das Secretarias do MP com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e novos conjuntos de dados a serem disponibilizados. 
+Os representantes das Secretarias do MP se reuniram com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e identificarem novos conjuntos de dados a serem disponibilizados. 
 
 **b) Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
 
@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTIzMTk0MiwtMTYyMTcwMTUxNCwtMT
-E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
-MzgwOSwxNTg4NzYzOTM2XX0=
+eyJoaXN0b3J5IjpbMzMwMjI4OTE5LC0xNjIxNzAxNTE0LC0xMT
+YxNDE2MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQz
+ODA5LDE1ODg3NjM5MzZdfQ==
 -->
