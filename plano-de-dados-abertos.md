@@ -745,18 +745,19 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 **Atividade:**
 1. Avaliar as informações geridas por cada sistema estruturante da APF, Identificando os conjuntos de dados já disponibilizados em formato aberto;
 2. Verificar se as informações não disponibilziadas se econtram planejadas neste plano;
-3. Incluir no proximo PDA os conjuntos de dados ainda Seleção da base de dados de Sevidores Ativos;
-4. Desenvolvimento de serviço;
-5. Implantação da rotina desenvolvida em produção (SIAPE);
-6. Atualização do catálago de Serviços;
-7. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes Seleção da base de dados de Sevidores Ativos;
+5. Desenvolvimento de serviço;
+6. Implantação da rotina desenvolvida em produção (SIAPE);
+7. Atualização do catálago de Serviços;
+8. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-8. Catálogo de dado do Executivo Federal
-9. Disponibilização dos Dados de forma automática;
-10. Ambiente preparado;
-11. Dados a serem publicados;
-12. Dados publicados e disponibilizados.
+9. Catálogo de dado do Executivo Federal
+10. Disponibilização dos Dados de forma automática;
+11. Ambiente preparado;
+12. Dados a serem publicados;
+13. Dados publicados e disponibilizados.
 
 **Frequência de Atualização:** XXXXXX
 
@@ -789,8 +790,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg4NjU3MTIsMTIyNzc0OTcyMSwtNT
-Y5OTQwNDkwLC0yMTM1MDU2NzQsLTE2MjE3MDE1MTQsLTExNjE0
-MTYyMjUsMTg0MzcwNzQ3NiwtMTM3MzY1OTk2NSwxNDg5NDM4MD
-ksMTU4ODc2MzkzNl19
+eyJoaXN0b3J5IjpbLTg4NDk1OTk4NywxMjI3NzQ5NzIxLC01Nj
+k5NDA0OTAsLTIxMzUwNTY3NCwtMTYyMTcwMTUxNCwtMTE2MTQx
+NjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0MzgwOS
+wxNTg4NzYzOTM2XX0=
 -->
