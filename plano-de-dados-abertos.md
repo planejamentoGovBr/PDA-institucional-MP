@@ -733,31 +733,10 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 **Ponto Focal:** e-Ouv
 
 ## 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
-# **II) Dados para Abertura**
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
-
-- Relevância para a sociedade
-- Pincipais solicitações por intermédio da LAI
-- Obrigações legais
-- Alinhamento estratégico
-- Facilidade para abertura
-
-Como resultado desta dinâmica obtivemos a seguinte tabela:
-
-| Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
-|--:|:--:|:--:|:--:|:--:|:--:|
-| **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
-| **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
-| **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
-| **Rede Cultura Viva** | 1 | 1 | 2 | 2 | **6** |
-| **Sistema Nacional de Bibliotecas Públicas** | 1 | 1 | 2 | 2 | **6** |
-| **Plataforma Museus BR** | 1 | 1 | 2 | 2 | **6** |
-| **Sistema Nacional de Cultura - SNC** | 1 | 1 | 2 | 2 | **6** |
-| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
-| **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzcwNzQ3NiwtMTM3MzY1OTk2NSwxND
-g5NDM4MDksMTU4ODc2MzkzNiwtNDI1OTg0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTExNjE0MTYyMjUsMTg0MzcwNzQ3NiwtMT
+M3MzY1OTk2NSwxNDg5NDM4MDksMTU4ODc2MzkzNiwtNDI1OTg0
+NzQ2XX0=
 -->
