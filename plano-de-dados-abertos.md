@@ -275,13 +275,11 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 8 | 15 |**45** |
 | **Alterações orçamentárias (créditos)** | 8 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 5 |**43** |
 | **Informações sobre o valor de depreciação dos imóveis de Uso Especial** | 4 | 3 | 1 | 2 | 4 | 3 | 5 | 4 | 15 |**41** |
-
 | **Previdência Complementar dos Servidores do Poder Executivo Civil** | 4 | 3 | 1 | 4 | 4 | 3 | 5 | 4 | 10 |**38** |
 | **Pensionistas do Poder Executivo Federal** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 8 | 5 |**38** |
 | **Boletim das Empresas Estatais Federais** | 8 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**38** |
 | **Informações sobre imóveis da antiga RFFSA** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**34** |
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
-
 
 
 ### **Melhoria da qualidade dos dados**
@@ -866,6 +864,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQxOTc5MjMsLTE1NjM3MjMwNTcsMz
-MwNTE2ODAyLC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbMjEzMTE2MDU0MSwtMTU2MzcyMzA1NywzMz
+A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
