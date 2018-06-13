@@ -769,7 +769,7 @@ c. Melhorar a descrição dos conjunto de dados se atentando a deixar claro quai
 d. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maior e mais fávil entendimento
 e. Identificar conjunto de dados que constam dentro de outro conjunto de dados, primando pela informação única, confiável, atualizada e disponível em diversos formatos, inclusive INDE (Caso PAC);
 f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
-Desenvolver consultas específicas das informaç~eos mais solicitadas via LAI, visando facilitar o acesso 
+g. Desenvolver consultas específicas das informações mais solicitadas via LAI, visando facilitar o entendimento e acesso aos dados divulgados (SOF);
 2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
 3. Promover as alterações no Portal de Dados Abertos
 4. Informar a CGU as alterações realizadas
@@ -857,6 +857,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzNTM0NjksLTE5NjM0NDA4NzJdfQ
-==
+eyJoaXN0b3J5IjpbNzg1MjkwMjEzLC0xOTYzNDQwODcyXX0=
 -->
