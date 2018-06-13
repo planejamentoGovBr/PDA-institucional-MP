@@ -162,9 +162,8 @@ a {
   text-decoration: none; }
 
 a:hover {
-  color: #005580;
-  text-decoration: underline; }
-
+    color: #cde5f2;
+    text-decoration: underline;}
 p {
   margin: 0 0 9px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1984,6 +1983,19 @@ body.index .span9.content-outer {
       width: 940px;
       clear: both;
       margin-top: 2em; }
+	.outer .rodape {
+	    width: 33%;
+	    float: left;
+	}
+	.outer .title {
+	    color: #fff;
+	}
+	.outer ul.menu li {
+	    list-style: none;
+	}
+	.outer ul.menu li a {
+	    text-decoration: none;
+	}
 
 #acesso-brasil-rodape .logo-acesso {
   float: left;
