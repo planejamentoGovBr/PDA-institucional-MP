@@ -466,7 +466,7 @@ O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisó
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-1.Catálago com a relacão de Servidores que aderiram ao PDV no Executivo Federal em formato aberto;
+1. Catálago com a relação de Servidores que aderiram ao PDV no Executivo Federal em formato aberto;
 2. Disponibilização dos Dados de forma automática;
 3. Ambiente preparado;
 4. Dados a serem publicados;
@@ -751,7 +751,8 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 ### **MP_M_01 - Dados referentes aos Financiamentos  Externos do Setor Público** ==validar==
-Projetos com financiamento externo juntos à organismo financeiros de desenvolvimento bilaterais e multilaterais
+
+Projetos com financiamento externo juntos à organismo financeiros de desenvolvimento bilaterais e multilaterais == descrever que este dado consta como pendencia 
 
 **Atividade:**
 1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .xls;
@@ -867,6 +868,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDQ1MDIwNywtMTIzMjU5NjY1OCwtMT
+eyJoaXN0b3J5IjpbLTE4NTIxNTc3NSwtMTIzMjU5NjY1OCwtMT
 U2MzcyMzA1NywzMzA1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
