@@ -743,19 +743,20 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
 
 **Atividade:**
-1. Avaliar as informações geridas por cada sistema estruturante da APF;
-2. Identificar os conjuntos de dados já disponibilizadosSeleção da base de dados de Sevidores Ativos;
-3. Desenvolvimento de serviço;
-4. Implantação da rotina desenvolvida em produção (SIAPE);
-5. Atualização do catálago de Serviços;
-6. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+1. Avaliar as informações geridas por cada sistema estruturante da APF, Identificando os conjuntos de dados já disponibilizados em formato aberto;
+2. Verificar se as informações não disponibilziadas se econtram planejadas neste plano;
+3. Incluir no proximo PDA os conjuntos de dados ainda Seleção da base de dados de Sevidores Ativos;
+4. Desenvolvimento de serviço;
+5. Implantação da rotina desenvolvida em produção (SIAPE);
+6. Atualização do catálago de Serviços;
+7. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-7. Catálogo de dado do Executivo Federal
-8. Disponibilização dos Dados de forma automática;
-9. Ambiente preparado;
-10. Dados a serem publicados;
-11. Dados publicados e disponibilizados.
+8. Catálogo de dado do Executivo Federal
+9. Disponibilização dos Dados de forma automática;
+10. Ambiente preparado;
+11. Dados a serem publicados;
+12. Dados publicados e disponibilizados.
 
 **Frequência de Atualização:** XXXXXX
 
@@ -788,7 +789,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI1NTAyMjcsMTIyNzc0OTcyMSwtNT
+eyJoaXN0b3J5IjpbLTEyNTg4NjU3MTIsMTIyNzc0OTcyMSwtNT
 Y5OTQwNDkwLC0yMTM1MDU2NzQsLTE2MjE3MDE1MTQsLTExNjE0
 MTYyMjUsMTg0MzcwNzQ3NiwtMTM3MzY1OTk2NSwxNDg5NDM4MD
 ksMTU4ODc2MzkzNl19
