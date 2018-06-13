@@ -360,6 +360,8 @@ Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
+==justificar os 04 conjuntos de dados que foram para consulta publica
+
 
 ### **MP_04 - Dados Referente a Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
@@ -856,5 +858,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTQ4NjM3MiwtMTk2MzQ0MDg3Ml19
+eyJoaXN0b3J5IjpbLTE5Mzg1NTAxNzgsLTE5NjM0NDA4NzJdfQ
+==
 -->
