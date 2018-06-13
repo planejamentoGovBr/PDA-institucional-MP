@@ -409,7 +409,7 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
    **Ponto Focal:** e-Ouv
 
 ### **MP_I_03 - Dados Referentes aos valores de depreciação de imóveis**
-Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de proprieda da União no transcurso de sua vida útil.
+Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de propriedade da União no transcurso de sua vida útil.
 
    **Atividade:**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
@@ -864,6 +864,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM3NjQ5OSwtMTU2MzcyMzA1NywzMz
-A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI1OTY2NTgsLTE1NjM3MjMwNTcsMz
+MwNTE2ODAyLC0xOTYzNDQwODcyXX0=
 -->
