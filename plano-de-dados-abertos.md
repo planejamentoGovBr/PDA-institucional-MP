@@ -580,7 +580,7 @@ Relação de quais são as bases de dados que integram a plataforma de análise 
 **Ponto Focal:** e-Ouv
 
 ### **MP_I_11 - Catálogo de APIs que integram o ConcectaGov**
-Relação de quais são os serviços que integram o catálodo de APIs para interoperabilidade
+Relação de quais são os serviços que integram o catálogo de APIs para interoperabilidade
 
 
 **Atividade:**
@@ -863,5 +863,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNTE2ODAyLC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbLTYxMTAwMzQ3LDMzMDUxNjgwMiwtMTk2Mz
+Q0MDg3Ml19
 -->
