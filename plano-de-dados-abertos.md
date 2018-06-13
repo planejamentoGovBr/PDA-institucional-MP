@@ -69,7 +69,7 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 ***Visão***: Ser reconhecido pela excelência e competência na gestão pública.
 
-O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado no link no endereço (http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
+O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas e pode ser acessado no endereço (http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
 
 
 **2.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** 
@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE3MDE1MTQsLTExNjE0MTYyMjUsMT
-g0MzcwNzQ3NiwtMTM3MzY1OTk2NSwxNDg5NDM4MDksMTU4ODc2
-MzkzNl19
+eyJoaXN0b3J5IjpbLTc3NjI0MTU2OSwtMTYyMTcwMTUxNCwtMT
+E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
+MzgwOSwxNTg4NzYzOTM2XX0=
 -->
