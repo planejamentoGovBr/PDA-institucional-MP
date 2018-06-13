@@ -350,10 +350,10 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
  ----------
 # **VI. Plano de Ação**
 
-Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
+Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
-3.	As ações relacionadas ao monitoramento e controle do PDA;
+
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
 
@@ -758,6 +758,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM2NTk5NjUsMTQ4OTQzODA5LDE1OD
-g3NjM5MzYsLTQyNTk4NDc0Nl19
+eyJoaXN0b3J5IjpbMTg0MzcwNzQ3NiwtMTM3MzY1OTk2NSwxND
+g5NDM4MDksMTU4ODc2MzkzNiwtNDI1OTg0NzQ2XX0=
 -->
