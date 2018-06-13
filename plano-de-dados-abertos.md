@@ -356,7 +356,8 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
 # **VI. Plano de Ação**
 
 
-Esta Sessão detalha as atividades os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade de lotação, produtos, avel e prazo prevsita para disponibilidade do conesta dividida em 02 Planos de Ações, organizados conforme abaixo:
+Esta Sessão detalha as atividades os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade de lotação, produtos e prazo previsto para disponibilidade do conjunto de dados.
+Destaca-se que o MP optou por manter como canal única de comunicação dom as entidades externas e o públicos em geral em não conesta dividida em 02 Planos de Ações, organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 
@@ -865,6 +866,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njc2OTM1LC0xMjMyNTk2NjU4LC0xNT
+eyJoaXN0b3J5IjpbODg4MjkyMjY4LC0xMjMyNTk2NjU4LC0xNT
 YzNzIzMDU3LDMzMDUxNjgwMiwtMTk2MzQ0MDg3Ml19
 -->
