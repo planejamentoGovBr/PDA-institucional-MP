@@ -688,6 +688,8 @@ http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais
 **Ponto Focal:** e-Ouv
 
 ### **MP_09 - Dados referentes ao Acompanhamento Físico e Financeiro das Ações Orçamentárias**
+Captação física das ações que compõem o orçamento sendo executado
+
 
 **Atividade:**
 1. Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
@@ -710,6 +712,7 @@ http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais
 **Ponto Focal:** e-Ouv
 
 ### **MP_16 - Dados de Pessoal do Executivo Federal - Previdência complementar**
+Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 **Atividade:**
 1. Seleção da base de dados de Sevidores Ativos;
@@ -737,5 +740,5 @@ http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDE2MDUwMV19
+eyJoaXN0b3J5IjpbLTQyNTk4NDc0Nl19
 -->
