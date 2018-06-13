@@ -365,55 +365,65 @@ Esta Sessão esta dividida em 03 Planos de Ações, organizados conforme abaixo:
 
 ### 1. Plano de Ação - Conjuntos de Dados a serem abertos
 
-* **MP_04 - Dados Referente a Arrecadação Patrimonial**
+#### **MP_04 - Dados Referente a Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimînio da União.
 
    **Atividade:**
-   1) Converter em formato para publicação no Portal de Dados Aberto;
-   2) Publicar na página de dados aberto da SPU;
-   3) Criar link no Portal de Dados Aberto apontando para o site da SPU.
+   1. Converter em formato para publicação no Portal de Dados Aberto;
+   2. Publicar na página de dados aberto da SPU;
+   3. Criar link no Portal de Dados Aberto apontando para o site da SPU.
 
    **Produtos:**
    1. Catálogo com os dados da Arrecadação do Patrimônio da União
 
    **Frequência de Atualização:** Anual
+
    **Meta/Prazo:** Setembro/2018
+
    **Unidade responsável:** SPU
+
    **Ponto Focal:** e-Ouv
 
-* **MP_05 - Dados Referente aos Imóveis Funcionais da União**
+#### **MP_05 - Dados Referente aos Imóveis Funcionais da União**
 Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
-     **Atividade:**
-   1) Criar Arquivo dom Informações dos Imóveis e Permissionários;
-   2) Publicar as informações no Portal de Dados Aberto da SPU;
-   3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+**Atividade:**
+
+   1. Criar Arquivo dom Informações dos Imóveis e Permissionários;
+   2. Publicar as informações no Portal de Dados Aberto da SPU;
+   3. Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
    **Produtos:**
    1. Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
 
    **Frequência de Atualização:** Trimestral
+
    **Meta/Prazo:** Setembro/2018
+
    **Unidade responsável:** SPU
+
    **Ponto Focal:** e-Ouv
 
-* **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
+#### **MP_06 - Dados Referentes aos valores de depreciação de imóveis**
 Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de proprieda da União no transcurso de sua vida útil.
 
    **Atividade:**
-   1) Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
-   2) Publicar as informações no Portal de Dados Aberto da SPU;
-   3) Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
+   1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
+   2. Publicar as informações no Portal de Dados Aberto da SPU;
+   3. Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
    **Produtos:**
    1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
 
    **Frequência de Atualização:** Mensal
+
    **Meta/Prazo:** Setembro/2018
+
    **Unidade responsável:** SPU
+
    **Ponto Focal:** e-Ouv
 
-* **MP_13 - Dados de Pessoal do Executivo Federal - Cargos Vagos**
+#### **MP_13 - Dados de Pessoal do Executivo Federal - Cargos Vagos**
 A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
    **Atividade:**
@@ -431,11 +441,14 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
    5. Dados disponibilizados.
 
    **Frequência de Atualização:** Mensal
+
    **Meta/Prazo:** Setembro/2018
+
    **Unidade responsável:** SGP
+
    **Ponto Focal:** e-Ouv
 
-* **MP_14 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
+#### **MP_14 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 
 **Atividade:**
 1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
@@ -452,96 +465,114 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
 5. Dados disponibilizados.
 
 **Frequência de Atualização:** Após publicação da Legislação
+
 **Meta/Prazo:** Setembro/2018
+
 **Unidade responsável:** SGP
+
 **Ponto Focal:** e-Ouv
 
 
-* **MP_01 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+#### **MP_01 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 
 **Atividade:**
-1)  Atualização da base de dados original com as informações de 2017;
-2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3)  Conferência dos Dados;
-4)  Criação do dicionário de Dados;
-5)  Cadastramento no Dados.gov.br
+1.  Atualização da base de dados original com as informações de 2017;
+2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3.  Conferência dos Dados;
+4.  Criação do dicionário de Dados;
+5.  Cadastramento no Dados.gov.br
 
 **Produtos:**
-1) Catálogo com as informações sobre PPA e sobre ODS em formato aberto
-2) Dados dos Atributos do PPA relacionados aos ODS atualizados anualmente, em formato aberto
+1. Catálogo com as informações sobre PPA e sobre ODS em formato aberto
+2. Dados dos Atributos do PPA relacionados aos ODS atualizados anualmente, em formato aberto
 
 **Frequência de Atualização:** Anualmente
+
 **Meta/Prazo:** Novembro/2018
+
 **Unidade responsável:** SEPLAN
+
 **Ponto Focal:** e-Ouv
 
 
-* **MP_02 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
+#### **MP_02 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
 
 **Atividade:**
-1)  Disponibilização do PPA Mais Brasil e da base de dados original em ambiente de teste pela SETIC;
-2)  Extração dos dados formatados conforme metodologia padronizada estabelecida no PDA;
-3)  Conferência dos Dados;
-4)  Criação do dicionário de Dados;
-5)  Cadastramento no Dados.gov.br
+1. Disponibilização do PPA Mais Brasil e da base de dados original em ambiente de teste pela SETIC;
+2. Extração dos dados formatados conforme metodologia padronizada estabelecida no PDA;
+3.  Conferência dos Dados;
+4.  Criação do dicionário de Dados;
+5.  Cadastramento no Dados.gov.br
 
 **Produtos:**
-1) Catálogo com as informações sobre PPA e sobre os Programas Federais em formato aberto
-2) Dados dos Programas Federais relacionados aos atributos do PPA 2012-2015, em formato aberto
+1. Catálogo com as informações sobre PPA e sobre os Programas Federais em formato aberto
+2. Dados dos Programas Federais relacionados aos atributos do PPA 2012-2015, em formato aberto
 
 **Frequência de Atualização:** Dados históricos - sem atualização
+
 **Meta/Prazo:** Novembro/2018
+
 **Unidade responsável:** SEPLAN
+
 **Ponto Focal:** e-Ouv
 
-* **MP_10 - Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)**
+#### **MP_10 - Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)**
 
 **Atividade:**
-1) Validar as informações a serem disponibilizadas;  
-2) Publicar dados em formato de dados abertos.
+1. Validar as informações a serem disponibilizadas;  
+2. Publicar dados em formato de dados abertos.
 
 **Produtos:**
 Catalogar no Portal Brasileiro de Dados Abertos
 
 **Frequência de Atualização:** Mensal
+
 **Meta/Prazo:** Novembro/2018
+
 **Unidade responsável:** SETIC
+
 **Ponto Focal:** e-Ouv
 
-* **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
+#### **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
 
 **Atividade:**
-1) Proceder a Incorporação dos Imóveis nos Sistema da SPU;
-2) Publicar as informações dos imóveis da antiga RFFSA.
+1. Proceder a Incorporação dos Imóveis nos Sistema da SPU;
+2. Publicar as informações dos imóveis da antiga RFFSA.
 
 **Produtos:**
 1. Catágolo dos imóveis incorporados ao Patrimônio da União
 
 **Frequência de Atualização:** Mensal
+
 **Meta/Prazo:** Dezembro/2018
+
 **Unidade responsável:** SPU
+
 **Ponto Focal:** e-Ouv
 
-* **MP_11 - Catálogo de bases da dados que integram o GovData**
+#### **MP_11 - Catálogo de bases da dados que integram o GovData**
 
 **Atividade:**
-1) Validar as informações a serem disponibilizadas;  
-2) Publicar dados em formato de dados abertos.
+1. Validar as informações a serem disponibilizadas;  
+2. Publicar dados em formato de dados abertos.
 
 **Produtos:**
 1. Catalogar no Portal Brasileiro de Dados Abertos
 
 **Frequência de Atualização:** Mensal
+
 **Meta/Prazo:** Fevereiro/2019
+
 **Unidade responsável:** SETIC
+
 **Ponto Focal:** e-Ouv
 
-* **MP_12 - Catálogo de APIs que integram o ConcectaGov**
+#### **MP_12 - Catálogo de APIs que integram o ConcectaGov**
 
 **Atividade:**
-1) Construir e executar o processo de extração e carga dos dados;  
-2) Validar as informações a serem disponibilizadas;  
-3) Publicar dados em formato de dados abertos.
+1. Construir e executar o processo de extração e carga dos dados;  
+2. Validar as informações a serem disponibilizadas;  
+3. Publicar dados em formato de dados abertos.
 
 **Produtos:**
 1. Extração e carga;  
@@ -549,32 +580,38 @@ Catalogar no Portal Brasileiro de Dados Abertos
 3. Catalogar no Portal Brasileiro de Dados Abertos
 
 **Frequência de Atualização:** Mensal
+
 **Meta/Prazo:** Maio/2019
+
 **Unidade responsável:** SETIC
+
 **Ponto Focal:** e-Ouv
 
-* **MP_03 - Sistema de Transportes de Servidores Públicos - TaxiGov**
+#### **MP_03 - Sistema de Transportes de Servidores Públicos - TaxiGov**
 
 **Atividade:**
-1)  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
-2)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3)  Conferência dos Dados;
-4)  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
-5)  Automatização da extração dos dados via API
+1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3.  Conferência dos Dados;
+4.  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5.  Automatização da extração dos dados via API
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
-1) Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
-2) Dados dos atributos do Taxi atualizados no portal de dados abertos
-5) Publicação dos Dados
+1. Catálogo com os dados dos atributos do TaxiGov em formato aberto
+2. Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
+1. Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
+2. Dados dos atributos do Taxi atualizados no portal de dados abertos
+5. Publicação dos Dados
 
 **Frequência de Atualização:** Mensal
+
 **Meta/Prazo:** Julho/2019
+
 **Unidade responsável:** SEGES
+
 **Ponto Focal:** e-Ouv
 
-* **MP_15 - Dados de Pessoal do Executivo Federal - Gasto de Pessoal com Auxílios**
+#### **MP_15 - Dados de Pessoal do Executivo Federal - Gasto de Pessoal com Auxílios**
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
@@ -592,56 +629,65 @@ Catalogar no Portal Brasileiro de Dados Abertos
 5. Dados disponibilizados.
 
 **Frequência de Atualização:** Após publicação legislação
+
 **Meta/Prazo:** Julho/2019
+
 **Unidade responsável:** SGP
+
 **Ponto Focal:** e-Ouv
 
 
-* **MP_08 - Boletim das Empresas Estatais Federais**
+#### **MP_08 - Boletim das Empresas Estatais Federais**
 
 **Atividade:**
-1) Seleção da base de dados e extração a partir do SIEST e SIOP em formato CSV;
-2) Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3) Conferência dos dados;
-4) Envio para publicação no Dados.gov.br;
-5) Automatização da extração dos dados via API.
+1. Seleção da base de dados e extração a partir do SIEST e SIOP em formato CSV;
+2. Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3. Conferência dos dados;
+4. Envio para publicação no Dados.gov.br;
+5. Automatização da extração dos dados via API.
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
-2) Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
-3) Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
-4) Dados dos atributos de Governança e Avaliação das Estatais atualizados trimestralmente em formato aberto;
-5) Catálogo com os dados dos atributos do Orçamento das Estatais em formato aberto;
-6) Dados dos atributos do Orçamento das Estatais atualizados trimestralmente em formato aberto;
-7) Catálogo com os dados dos atributos de Política de Pessoal e Previdência das Estatais em formato aberto;
-8) Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
-9) Publicação dos Dados
+1. Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
+2. Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
+3. Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
+4. Dados dos atributos de Governança e Avaliação das Estatais atualizados trimestralmente em formato aberto;
+5. Catálogo com os dados dos atributos do Orçamento das Estatais em formato aberto;
+6. Dados dos atributos do Orçamento das Estatais atualizados trimestralmente em formato aberto;
+7. Catálogo com os dados dos atributos de Política de Pessoal e Previdência das Estatais em formato aberto;
+8. Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
+9. Publicação dos Dados
 
 **Frequência de Atualização:** Trimestral
+
 **Meta/Prazo:** Novembro/2019
+
 **Unidade responsável:** SEST
+
 **Ponto Focal:** e-Ouv
 
-* **MP_09 - Dados referentes ao Acompanhamento Físico e Financeiro das Ações Orçamentárias**
+#### **MP_09 - Dados referentes ao Acompanhamento Físico e Financeiro das Ações Orçamentárias**
 
 **Atividade:**
-1) Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
-2)  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
-3)  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-4) Conferência dos dados;
-5) Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
+1. Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
+2.  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
+3.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+4. Conferência dos dados;
+5. Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
-1) Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
-2) Dados não sigilosos do acompanhamento físico e financeiro das ações em formato de dados abertos (.csv);
-3) Publicação dos dados.
+1. Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
+2. Dados não sigilosos do acompanhamento físico e financeiro das ações em formato de dados abertos (.csv);
+3. Publicação dos dados.
 
 **Frequência de Atualização:** Anual
+
 **Meta/Prazo:** Novembro/2019
+
 **Unidade responsável:** SOF
+
 **Ponto Focal:** e-Ouv
 
-* **MP_16 - Dados de Pessoal do Executivo Federal - Previdência complementar**
+#### **MP_16 - Dados de Pessoal do Executivo Federal - Previdência complementar**
 
 **Atividade:**
 1. Seleção da base de dados de Sevidores Ativos;
@@ -658,9 +704,13 @@ Catalogar no Portal Brasileiro de Dados Abertos
 5. Dados publicados e disponibilizados.
 
 **Frequência de Atualização:** XXXXXX
+
 **Meta/Prazo:** Dezembro/2019
+
 **Unidade responsável:** SGP
+
 **Ponto Focal:** e-Ouv
 
 ### 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
+
 
