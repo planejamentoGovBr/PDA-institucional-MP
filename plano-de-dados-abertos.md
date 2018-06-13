@@ -80,7 +80,7 @@ Podendo ser acessado no link no endereço http://www.planejamento.gov.br/publica
 **3.	Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
-PORTARIA Nº 385 , DE DE DE 2017.
+Foi criado pela Portaria Nº 385 , de 11 de DE 2017.
 
 **4.	Estratégia Governança Digital (EGD)**
 
@@ -758,6 +758,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc5MzI1OTQsMTQ4OTQzODA5LDE1OD
-g3NjM5MzYsLTQyNTk4NDc0Nl19
+eyJoaXN0b3J5IjpbNDk5OTE5NjAsMTQ4OTQzODA5LDE1ODg3Nj
+M5MzYsLTQyNTk4NDc0Nl19
 -->
