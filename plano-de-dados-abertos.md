@@ -770,7 +770,7 @@ d. Incluir links de portais de gestão, permitindo assim que o cidadão tenha ac
 e. Identificar conjunto de dados que constam dentro de outro conjunto de dados, primando pela informação única, confiável, atualizada e disponível em diversos formatos, inclusive INDE (Caso PAC);
 f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
 g. Desenvolver consultas específicas das informações mais solicitadas via LAI, visando facilitar o entendimento e acesso aos dados divulgados (SOF);
-h. Disponibilziar o dicionario de dados; ==?==
+h. Disponibilizar o dicionario de dados; ==?==
 i. Disponibilizar os dados me formato da INDE sempre que disponível; ==?==
 2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
 3. Promover as alterações no Portal de Dados Abertos
@@ -779,8 +779,8 @@ i. Disponibilizar os dados me formato da INDE sempre que disponível; ==?==
 
 
 **Produtos:**
-1. Critério de acurácia (qualidade) dos dados
-2. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acima;
+1. Critério de acurácia (qualidade) dos dados definidos;
+2. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acurácia;
 3. Processo de acurácia implementado no monitoramento do PDA.
 
 **Frequência de Atualização:** 
@@ -856,5 +856,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTkwNTk1OCwtMTk2MzQ0MDg3Ml19
+eyJoaXN0b3J5IjpbLTk4OTQ4NjM3MiwtMTk2MzQ0MDg3Ml19
 -->
