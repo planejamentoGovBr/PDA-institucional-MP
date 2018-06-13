@@ -356,7 +356,7 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
 # **VI. Plano de Ação**
 
 
-Esta Sessão detalha as atividades, produtos, área respon´savel e prazo prevsita para disponibilidade do conesta dividida em 02 Planos de Ações, organizados conforme abaixo:
+Esta Sessão detalha as atividades os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade de lotação, produtos, avel e prazo prevsita para disponibilidade do conesta dividida em 02 Planos de Ações, organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 
@@ -865,6 +865,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYxMjUzMjgsLTEyMzI1OTY2NTgsLT
-E1NjM3MjMwNTcsMzMwNTE2ODAyLC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbMTQ2Njc2OTM1LC0xMjMyNTk2NjU4LC0xNT
+YzNzIzMDU3LDMzMDUxNjgwMiwtMTk2MzQ0MDg3Ml19
 -->
