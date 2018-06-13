@@ -41,7 +41,7 @@ O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolve
 O cidadão poderá usar a [plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
  ----------
-# **I. Introdução**
+# **I Introdução**
 
 O MP atualiza o seu PDA para o biênio 2018-2019 documento no qual são estabelecidas as ações para a implementação e promoção de abertura de dados sob sua responsabilidade.
 
@@ -50,13 +50,12 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - A [Lei nº 12.527](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), de 18 de Novembro de 2011, Lei de Acesso à Informação – LAI;
 - O [Decreto nº 8.777,](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm) de 11 de maio de 2016, que institui a Política de Dados Abertos do Poder Executivo Federal;
 - [Resolução CGINDA nº 3](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx#Resolu%C3%A7%C3%B5es_0), de 13 de outubro de 2017, que aprova as normas sobre elaboração e publicação de Planos de Dados Abertos, conforme disposto no Decreto nº 8.777, de 11 de maio de 2016.
-- O disposto no art. 48 da [Lei Complementar nº 101](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm), de 4 de maio de 2000, que determina ao Poder Público a adoção de instrumentos de transparência na gestão fiscal  em meios eletrônicos de acesso público às informações orçamentárias e prestações de contas;
+- O disposto no art. 48 da [Lei Complementar nº 101](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm), de 4 de maio de 2000, que determina ao Poder Público a adoção de instrument e spnia estão fiscal  em meios eletrônicos de acesso público às informações orçamentárias e prestações de contas;
 - O [Decreto Presidencial nº 6.666](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm), de 27 de novembro de 2008, que instituiu a criação da Infraestrutura Nacional de Dados Espaciais – INDE, e determina que o compartilhamento e disseminação dos dados geoespaciais e seus metadados é obrigatório para todos os órgãos e entidades do Poder Executivo Federal, salvo os protegidos por sigilo;
 - [Decreto s/nº de 15 de setembro de 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/dsn/dsn13117.htm), que institui o Plano de Ação Nacional sobre Governo Aberto, o qual estabelece o compromisso do governo de implantar a Infraestrutura Nacional de Dados Abertos (INDA);
 - A [Instrução Normativa nº 4 de 13 de abril de 2012](http://dados.gov.br/paginas/instrucao-normativa-da-inda), que cria a INDA e estabelece conceitos referentes a dado, informação, dado público, formato aberto, licença aberta, dados abertos e metadado;
-- O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx) , que institui a necessidade de os órgãos de instituírem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e institui os elementos mínimos do documento, bem como orienta que a abertura de dados deve observar a relevância para o cidadão;
-- O [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
-- [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabilidade do governo eletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
+- O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx) , que institui a necessidade de os órgãos de instituírem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e institui os elementos mínimos do documento, bem como orienta  d  o t  d dados  oa de a ro  O [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
+- [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabieletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
 - Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
 
 ## Cenário Institucional
@@ -70,11 +69,11 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 ***Visão***: Ser reconhecido pela excelência e competência na gestão pública.
 
-O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado no link .  [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
+O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado ns ae de oro n ririo liEstratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
 
 **2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
 
-Desdobramento do PEI-MP para a área de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
+Desdobramento do PEI-MP para a área geso da iformao e de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
 O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
 
 
@@ -121,12 +120,12 @@ Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados 
 *	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 *	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
-## Objetivo Geral
+## Objetivo Geral# *Objetivo Geral*
 
  
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
 
-## Objetivos Específicos
+## # *Objetivos Específicos*
 
 No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
 
@@ -737,8 +736,30 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 **Ponto Focal:** e-Ouv
 
 ## 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
+# **II) Dados para Abertura**
 
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
+
+- Relevância para a sociedade
+- Pincipais solicitações por intermédio da LAI
+- Obrigações legais
+- Alinhamento estratégico
+- Facilidade para abertura
+
+Como resultado desta dinâmica obtivemos a seguinte tabela:
+
+| Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
+|--:|:--:|:--:|:--:|:--:|:--:|
+| **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
+| **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
+| **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
+| **Rede Cultura Viva** | 1 | 1 | 2 | 2 | **6** |
+| **Sistema Nacional de Bibliotecas Públicas** | 1 | 1 | 2 | 2 | **6** |
+| **Plataforma Museus BR** | 1 | 1 | 2 | 2 | **6** |
+| **Sistema Nacional de Cultura - SNC** | 1 | 1 | 2 | 2 | **6** |
+| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
+| **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTk4NDc0Nl19
+eyJoaXN0b3J5IjpbLTE1NTUzODA0MDIsLTQyNTk4NDc0Nl19
 -->
