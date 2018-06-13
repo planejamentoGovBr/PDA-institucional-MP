@@ -792,6 +792,32 @@ f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
 **Unidade responsável:** SETIC /Secretarias / Ouvidoria
 **Ponto Focal:** e-Ouv
 
+### **MP_03M - Viagens a Serviço do Governo Federal** ==validar==
+Durante o processo de elaboração Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações gedeste Plano, foram identificadas várias pontos de melhoria na qualidade dos conjuntos de dados do MP disponibilizados no Portal de Dados Abertos. Estas melhorias são necessáridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste planoa maioria dos 77 conjunto de dados publicados. Para facilitar a padronização e a gestão deste trabalho dentro do MP optou-se por realizar estas ações em um único plano de ação englobando os 77 conjuntos de dados.
+
+**Atividade:**
+1. Definir os critério de acurácia de dados a ser aplicado aos conjuntos de dados (SETIC / Ouvidoria);
+a. Criar um padrão de nomenclatura de conjunto de dados
+b. Categorizar os conjuntos de dados em históricos ou atuais (sujeitos a alteração);
+c. Melhorar a descrição dos conjunto de dados se atentando a deixar claro quais as informações compoem aquele conjunto de dados;
+d. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maior e mais fávil entendimento
+e. Identificar conjunto de dados que constam dentro de outro conjunto de dados, primando pela informação única, confiável, atualizada e disponível em diversos formatos, inclusive INDE (Caso PAC);
+f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
+2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
+3. Promover as alterações no Portal de Dados Abertos
+4. Informar a CGU as alterações realizadas
+5. Incluir esse processo no monitoramento e controle dos conjuntos de dados em fase de publicação.
+
+
+**Produtos:**
+1. Critério de acurácia (qualidade) dos dados
+2. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acima;
+3. Processo de acurácia implementado no monitoramento do PDA.
+
+**Frequência de Atualização:** 
+**Meta/Prazo:** Setembro/2018
+**Unidade responsável:** SETIC /Secretarias / Ouvidoria
+**Ponto Focal:** e-Ouv
 
 
 
@@ -813,6 +839,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk0ODk5MzgsLTE5NjM0NDA4NzJdfQ
+eyJoaXN0b3J5IjpbLTE3Mjc0NTM5OTYsLTE5NjM0NDA4NzJdfQ
 ==
 -->
