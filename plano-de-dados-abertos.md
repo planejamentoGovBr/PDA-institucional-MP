@@ -82,12 +82,14 @@ Podendo ser acessado no link no endereço http://www.planejamento.gov.br/publica
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 
-**4.	Estratégia Governança Digital (EGD) ==Atualizar no portal==**
+**4.	Estratégia Governança Digital (EGD)**
 
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
 O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
+Podendo ser acessado no link no endereço 
+http://www.planejamento.gov.br/seminariodigital/seminario/egd_cartilha_capa_miolo_final_avulsascorrecao.pdf
 
-**6.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):**
+**5.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):**
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
 O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê.
 *	Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
@@ -756,6 +758,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMjMwNjA2LDE1ODg3NjM5MzYsLTQyNT
+eyJoaXN0b3J5IjpbMTQ4OTQzODA5LDE1ODg3NjM5MzYsLTQyNT
 k4NDc0Nl19
 -->
