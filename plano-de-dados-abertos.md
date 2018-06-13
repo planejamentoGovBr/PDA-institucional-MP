@@ -815,6 +815,28 @@ Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessã
 **Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
+### **MP_04M - Dados referentes aos Financiamentos  Externos do Setor Público** ==validar==
+Projetos com financiamento externo juntos à organismo financeiros de desenvolvimento bilaterais e multilaterais
+
+**Atividade:**
+1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3.  Conferência dos Dados;
+4.  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
+5.  Automatização da extração dos dados via API
+
+
+**Produtos:**
+1. Catálogo com os dados dos atributos do SCDP em formato aberto
+2. Dados dos Atributos do SCDP atualizados mensalmente, em formato aberto
+3. Catálogo validado com os dados dos atributos do SCDP em formato aberto
+4. Dados dos atributos do SCDP atualizados no portal de dados abertos
+5. Publicação dos Dados
+
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Agosto/2019
+**Unidade responsável:** SEGES
+**Ponto Focal:** e-Ouv
 
 
 # GLOSSÁRIO ==validar==
@@ -835,5 +857,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTkyOTYxNiwtMTk2MzQ0MDg3Ml19
+eyJoaXN0b3J5IjpbMTY1NzM4NjAyMCwtMTk2MzQ0MDg3Ml19
 -->
