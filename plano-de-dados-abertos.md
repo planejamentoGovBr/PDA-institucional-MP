@@ -105,10 +105,10 @@ O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo 
 A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração publica, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
 O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
 
-**9.	Comitê Interministerial Governo Aberto (CIGA)**
+**8.	Comitê Interministerial Governo Aberto (CIGA)**
 O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo o compromisso do país em inovar para fortalecer a transparência dos atos governamentais. 
 
-**10.	Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)**
+**9.	Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)**
 
 Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados são: 
 
@@ -117,7 +117,7 @@ Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados 
 *	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 *	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
-## Objetivo Geral# *Objetivo Geral*
+## Objetivo Geral# **
 
  
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
@@ -758,6 +758,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA4NTM4MzQsMTQ4OTQzODA5LDE1OD
-g3NjM5MzYsLTQyNTk4NDc0Nl19
+eyJoaXN0b3J5IjpbLTk4MzkwNTY1OCwxNDg5NDM4MDksMTU4OD
+c2MzkzNiwtNDI1OTg0NzQ2XX0=
 -->
