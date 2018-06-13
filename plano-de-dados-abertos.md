@@ -779,7 +779,7 @@ f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
 2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
 3. Promover as alterações no Portal de Dados Abertos
 4. Informar a CGU as alterações realizadas
-5. 
+5. Incluir esse processo no monitoramento e controle dos conjuntos de dados em fase de publicaçã
 
 
 **Produtos:**
@@ -817,5 +817,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDE2MjYzMiwtMTk2MzQ0MDg3Ml19
+eyJoaXN0b3J5IjpbNzQ2OTc1MzM3LC0xOTYzNDQwODcyXX0=
 -->
