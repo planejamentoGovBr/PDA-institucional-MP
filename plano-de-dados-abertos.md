@@ -364,9 +364,12 @@ Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN. 
 Secretaria de Gestão de Pessoas/CGINF
 
-INFOVIA9	Relação de órgãos que utilizam a malha da INFOVIA	Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	Coordenação-Geral de Infraestrutura de Tecnologia da Informação e Comunicação	mensal/semestral	Dados sensíveis
-Várias bases no SIOP	Base48	Informações do Projeto de Lei de Diretrizes Orçamentárias	Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos)	Secretaria de Orçamento Federal	Secretaria de Orçamento Federal	a definir	Não
-Várias bases no SIOP	Base50	Alterações orçamentárias (créditos)	Detalhes das alterações feitas no orçamento federal em execução	Secretaria de Orçamento Federal	Secretaria de Orçamento Federal	a definir	Não
+INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	| 
+Coordenação-Geral de Infraestrutura de Tecnologia da Informação e Comunicação
+
+SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos)
+SOF
+SIOP	Base50	Alterações orçamentárias (créditos)	Detalhes das alterações feitas no orçamento federal em execução	Secretaria de Orçamento Federal	Secretaria de Orçamento Federal	a definir	Não
 
 
 ### **MP_04 - Dados Referente a Arrecadação Patrimonial**
@@ -864,5 +867,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjY0OTc2LC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbLTEwMzUwMDEwOSwtMTk2MzQ0MDg3Ml19
 -->
