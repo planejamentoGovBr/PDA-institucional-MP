@@ -770,20 +770,21 @@ Durante o processo de elaboração Revisão do Inventário de Bases de dados do 
 
 **Atividade:**
 1. Definir os critério de acurácia de dados a ser aplicado aos conjuntos de dados (SETIC / Ouvidoria);
-2. Criar um padrão de nomenclatura de conjunto de dados
-3. Categorizar os conjuntos de dados em históricos ou atuais (sujeitos a alteração);
-4. Melhorar a descrição dos conjunto de dados se atentando a deixar claro quais as informações compoem aquele conjunto de dados;
-5. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maior e mais fávil entendimento
-6. Identificar conjunto de dados que constam dentro de outro conjunto de dados, primando pela informação única, confiável, atualizada e disponível em diversos formatos, inclusive INDE (Caso PAC);
-7. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
-8. 
-9. 
+a. Criar um padrão de nomenclatura de conjunto de dados
+b. Categorizar os conjuntos de dados em históricos ou atuais (sujeitos a alteração);
+c. Melhorar a descrição dos conjunto de dados se atentando a deixar claro quais as informações compoem aquele conjunto de dados;
+d. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maior e mais fávil entendimento
+e. Identificar conjunto de dados que constam dentro de outro conjunto de dados, primando pela informação única, confiável, atualizada e disponível em diversos formatos, inclusive INDE (Caso PAC);
+f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
+2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
+3. Pro 
+4. 
 
 
 **Produtos:**
-10. Critério de acurácia (qualidade) dos dados
-11. relação de Bases a serem trabalhadas no PDA 2020-2021; 
-12. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+5. Critério de acurácia (qualidade) dos dados
+6. relação de Bases a serem trabalhadas no PDA 2020-2021; 
+7. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
 .
 
 **Frequência de Atualização:** Anual
@@ -815,5 +816,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2ODExMzM1LC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbMTQyOTQwODU1OCwtMTk2MzQ0MDg3Ml19
 -->
