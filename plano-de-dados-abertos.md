@@ -263,13 +263,13 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Informações sobre a arrecadação anual sobre o Patrimônio da União** | 12 | 9 | 3 | 2 | 12 | 9| 15 | 8 | 15| **85** |
 | **Acompanhamento físico das ações** | 12 | 9 | 1 | 6 | 12 | 6 | 10 | 4 | 10 | **70** |
 | **Cargos Vagos do Poder Executivo Civil** | 12 | 9 | 1 | 2 | 8 | 3 | 5 | 12 | 15 |**67** |
-| **Sistema de Transportes de Servidores Públicos - TaxiGov** | 8 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **62** |
+| **Sistema de Transportes de Servidores Públicos - TaxiGov** | 8 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **66** |
 | **Programa de Desligamento Voluntário - PDV** | 8 | 9 | 1 | 6 | 8 | 3 | 5 | 8 | 15 | **63** |
-
-| **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 12 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 | **59** |
+| **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 8 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 | **55** |
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 8 | 3 | 1 | 6 | 4 | 3 | 10 | 4 | 15 |**54** |
-| **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | 15 | 4 | 5 | **48** |
 | **Gastos de pessoal com Auxílios** | 8 | 9 | 1 | 2 | 4 | 3 | 5| 8 | 10 |**50** |
+| **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | 15 | 4 | 5 | **48** |
+
 | **Catálogo de bases da dados que integram o GovData** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 15 |**49** |
 | **Catálogo de APIs que integram o ConcectaGov** | 4 | 3 | 1 | 6 | 8 | 3 | 15 | 4 | 5 |**49** |
 | **Informações sobre Imóveis Funcionais e Permissionários** | 8 | 6 | 3 | 2 | 4 | 3 | 5 | 8 | 10 |**49** |
@@ -865,6 +865,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTAzNDkxMywtMTU2MzcyMzA1NywzMz
-A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
+eyJoaXN0b3J5IjpbMjkzMTYxNzIsLTE1NjM3MjMwNTcsMzMwNT
+E2ODAyLC0xOTYzNDQwODcyXX0=
 -->
