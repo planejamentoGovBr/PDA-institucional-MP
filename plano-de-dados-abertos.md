@@ -234,7 +234,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 2. Estímulo ao controle social;
 3. Obrigatoriedade legal ou compromisso assumido: normativos legais e compromissos formalmente assumidos pelo Ministério, inclusive perante organismos internacionais;
 4. Refere a projetos estratégicos do MP;
-5. Demonstra resultados efetivos de serviços;
+5. Demonstra resultados efetivos de serviços públicos disponibilizados ao cidadão;
 6. Capacidade de fomento ao desenvolvimento sustentável;
 7. Fomento a negócios;
 8. Solicitado em transparência passiva a LAI; e
@@ -864,6 +864,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDcwMjQxNywtMTU2MzcyMzA1NywzMz
+eyJoaXN0b3J5IjpbLTEzNDM3NjQ5OSwtMTU2MzcyMzA1NywzMz
 A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
