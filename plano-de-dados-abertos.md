@@ -748,15 +748,16 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
 4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
 5. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
-3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
+6. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+7. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
 
 **Produtos:**
-10. Catálogo de dado do Executivo Federal
-11. Disponibilização dos Dados de forma automática;
-12. Ambiente preparado;
-13. Dados a serem publicados;
-14. Dados publicados e disponibilizados.
+1. Inventário Geral do MP Atualizado
+2. Catálogo de dado do Executivo Federal
+10. Disponibilização dos Dados de forma automática;
+11. Ambiente preparado;
+12. Dados a serem publicados;
+13. Dados publicados e disponibilizados.
 
 **Frequência de Atualização:** XXXXXX
 
@@ -789,7 +790,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3OTgzNzM5LDEyMjc3NDk3MjEsLTU2OT
+eyJoaXN0b3J5IjpbNjYxNjU1MTQxLDEyMjc3NDk3MjEsLTU2OT
 k0MDQ5MCwtMjEzNTA1Njc0LC0xNjIxNzAxNTE0LC0xMTYxNDE2
 MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQzODA5LD
 E1ODg3NjM5MzZdfQ==
