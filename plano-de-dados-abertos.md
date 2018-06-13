@@ -360,11 +360,15 @@ Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
-==justificar os 04 conjuntos de dados que foram para consulta publica
+==justificar os 04 conjuntos de dados que foram para consulta publica eque não tem plano de ação para este plano.
 
 
 ### **MP_04 - Dados Referente a Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
+SIAPE	Base13	Pensionistas do Poder Executivo Federal	Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações.Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN. 	Secretaria de Gestão de Pessoas/CGINF	SGP/DESIS/CGGPP	mensal	Sim
+INFOVIA	Base39	Relação de órgãos que utilizam a malha da INFOVIA	Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	Coordenação-Geral de Infraestrutura de Tecnologia da Informação e Comunicação	mensal/semestral	Dados sensíveis
+Várias bases no SIOP	Base48	Informações do Projeto de Lei de Diretrizes Orçamentárias	Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos)	Secretaria de Orçamento Federal	Secretaria de Orçamento Federal	a definir	Não
+Várias bases no SIOP	Base50	Alterações orçamentárias (créditos)	Detalhes das alterações feitas no orçamento federal em execução	Secretaria de Orçamento Federal	Secretaria de Orçamento Federal	a definir	Não
 
    **Atividade:**
    1. Converter em formato para publicação no Portal de Dados Aberto;
@@ -858,6 +862,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg1NTAxNzgsLTE5NjM0NDA4NzJdfQ
-==
+eyJoaXN0b3J5IjpbLTkyNDU5OTMxOSwtMTk2MzQ0MDg3Ml19
 -->
