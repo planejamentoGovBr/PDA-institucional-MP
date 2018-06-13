@@ -773,18 +773,19 @@ Durante o processo de elaboração Revisão do Inventário de Bases de dados do 
 2. Criar um padrão de nomenclatura de conjunto de dados
 3. Categorizar os conjuntos de dados em históricos ou atuais (sujeitos a alteração);
 4. Melhorar a descrição dos conjunto de dados se atentando a deixar claro quais as informações compoem aquele conjunto de dados;
-5. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maiorAvaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
-6. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
-7. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-8. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
-9. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
-10. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-11. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
+5. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maior e mais fávil entendimento
+6. Identificar conjunto de dados que já constam dentro de outro conunto de dados avlaiando em qual local aquele dado tem uma informação mais confiável, primando pela informação confiável e atualizada, disponível em dicversoAvaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
+7. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
+8. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+9. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
+10. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
+11. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+12. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
 
 **Produtos:**
-12. Inventário Geral do MP Atualizado
-13. relação de Bases a serem trabalhadas no PDA 2020-2021; 
-14. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+13. Inventário Geral do MP Atualizado
+14. relação de Bases a serem trabalhadas no PDA 2020-2021; 
+15. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
 .
 
 **Frequência de Atualização:** Anual
@@ -816,6 +817,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg3Mzc4NTYsLTE5NjM0NDA4NzJdfQ
-==
+eyJoaXN0b3J5IjpbMTQ0NjU0ODIwNCwtMTk2MzQ0MDg3Ml19
 -->
