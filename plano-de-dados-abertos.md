@@ -71,13 +71,8 @@ O planejamento estratégico do MP está organizado de forma simples e consta as 
 
 O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado ns ae de oro n ririo liEstratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
 
-**2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
 
-Desdobramento do PEI-MP para a área geso da iformao e de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
-O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
-
-
-**3.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** ==Gustavo==
+**2.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** 
 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
 
@@ -761,5 +756,5 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUzODA0MDIsLTQyNTk4NDc0Nl19
+eyJoaXN0b3J5IjpbLTE1MDE0MDYzNCwtNDI1OTg0NzQ2XX0=
 -->
