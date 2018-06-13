@@ -556,7 +556,7 @@ Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os 
 ### **MP_11 - Catálogo de bases da dados que integram o GovData**
 Relação de quais são as bases de dados que integram a plataforma de análise de dados
 
-/tr> &���v�
+
 **Atividade:**
 1. Validar as informações a serem disponibilizadas;  
 2. Publicar dados em formato de dados abertos.
@@ -573,6 +573,8 @@ Relação de quais são as bases de dados que integram a plataforma de análise 
 **Ponto Focal:** e-Ouv
 
 ### **MP_12 - Catálogo de APIs que integram o ConcectaGov**
+Relação de quais são os serviços que integram o catálodo de APIs para interoperabilidade
+
 
 **Atividade:**
 1. Construir e executar o processo de extração e carga dos dados;  
@@ -593,6 +595,7 @@ Relação de quais são as bases de dados que integram a plataforma de análise 
 **Ponto Focal:** e-Ouv
 
 ### **MP_03 - Sistema de Transportes de Servidores Públicos - TaxiGov**
+Base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Disponibilizaremos sem a identificação pessoal dos pontos de partidas e de chegada - em formato aberto - e com dados agregados em paineis.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -617,6 +620,8 @@ Relação de quais são as bases de dados que integram a plataforma de análise 
 **Ponto Focal:** e-Ouv
 
 ### **MP_15 - Dados de Pessoal do Executivo Federal - Gasto de Pessoal com Auxílios**
+Dados sobre os Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
+
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
@@ -643,6 +648,18 @@ Relação de quais são as bases de dados que integram a plataforma de análise 
 
 
 ### **MP_08 - Boletim das Empresas Estatais Federais**
+Dados consolidados das Empresas Estatais Federais publicados trimestralmente no "Boletim das Estatais", abrangendo:  
+- Perfil das Estatais;  
+- Orçamento das Estatais;  
+- Governança e Avaliação das Estatais;  
+- Política de Pessoal e Previdência das Estatais.  
+As fontes dos dados são as seguintes:  
+- Informações divulgadas pelas próprias Empresas Estatais.  
+- Sistema de Informação das Estatais (SIEST);  
+- Sistema Integrado de Planejamento e Orçamento do Governo Federal (SIOP).  
+O "Boletim das Estatais" atualmente é publicado trimestralmente em formato PDF está disponível no site do MPDG:  
+http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais-dest
+
 
 **Atividade:**
 1. Seleção da base de dados e extração a partir do SIEST e SIOP em formato CSV;
@@ -720,5 +737,5 @@ Relação de quais são as bases de dados que integram a plataforma de análise 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUzMDc3ODZdfQ==
+eyJoaXN0b3J5IjpbMjA0NDE2MDUwMV19
 -->
