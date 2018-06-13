@@ -256,7 +256,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 ### **Matriz de Aplicação Critérios**
 
-A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão IV) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão VI) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
 | Nome da Base de Dados | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
@@ -286,6 +286,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a sociedade.
+
 Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
@@ -738,7 +739,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzMjI5MiwtMTYyMTcwMTUxNCwtMT
+eyJoaXN0b3J5IjpbLTI2Nzk2NTgyMCwtMTYyMTcwMTUxNCwtMT
 E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
 MzgwOSwxNTg4NzYzOTM2XX0=
 -->
