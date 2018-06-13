@@ -233,7 +233,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 1. Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
 2. Estímulo ao controle social;
 3. Obrigatoriedade legal ou compromisso assumido: normativos legais e compromissos formalmente assumidos pelo Ministério, inclusive perante organismos internacionais;
-4. Refere a projetos do governo;
+4. Refere a projetos estratégicos do MP;
 5. Demonstra resultados efetivos de serviços;
 6. Capacidade de fomento ao desenvolvimento sustentável;
 7. Fomento a negócios;
@@ -864,6 +864,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTE2MDU0MSwtMTU2MzcyMzA1NywzMz
+eyJoaXN0b3J5IjpbMTg2NDcwMjQxNywtMTU2MzcyMzA1NywzMz
 A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
