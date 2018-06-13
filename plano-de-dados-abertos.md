@@ -739,6 +739,30 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 ## 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
 
 
+### **MP_01M - Inventário de Bases MP**
+revisão do Inventário de Bases de dados do MP com obejtivo de identificarDados de Previdência Complementar dos servidores do Poder Executivo Civil
+
+**Atividade:**
+1. Seleção da base de dados de Sevidores Ativos;
+2. Desenvolvimento de serviço;
+3. Implantação da rotina desenvolvida em produção (SIAPE);
+4. Atualização do catálago de Serviços;
+5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
+
+**Produtos:**
+1. Catálogo de dado do Executivo Federal
+2. Disponibilização dos Dados de forma automática;
+3. Ambiente preparado;
+4. Dados a serem publicados;
+5. Dados publicados e disponibilizados.
+
+**Frequência de Atualização:** XXXXXX
+
+**Meta/Prazo:** Dezembro/2019
+
+**Unidade responsável:** SGP
+
+**Ponto Focal:** e-Ouv
 
 
 
@@ -763,8 +787,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzc0OTcyMSwtNTY5OTQwNDkwLC0yMT
-M1MDU2NzQsLTE2MjE3MDE1MTQsLTExNjE0MTYyMjUsMTg0Mzcw
-NzQ3NiwtMTM3MzY1OTk2NSwxNDg5NDM4MDksMTU4ODc2MzkzNl
-19
+eyJoaXN0b3J5IjpbMjA3MTI1NDMzNywxMjI3NzQ5NzIxLC01Nj
+k5NDA0OTAsLTIxMzUwNTY3NCwtMTYyMTcwMTUxNCwtMTE2MTQx
+NjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0MzgwOS
+wxNTg4NzYzOTM2XX0=
 -->
