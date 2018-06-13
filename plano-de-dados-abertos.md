@@ -739,7 +739,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 ## 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
 
 
-### **MP_01M - Inventário de Bases MP**
+### **MP_01M - Inventário de Bases MP** == validar==
 Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
 
 **Atividade:**
@@ -783,17 +783,15 @@ f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
 
 
 **Produtos:**
-6. Critério de acurácia (qualidade) dos dados
-7. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acima;
-8. Processo de acurácia implementado no monitoramentrelação de Bases a serem trabalhadas no PDA 2020-2021; 
-9. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
-.
+1. Critério de acurácia (qualidade) dos dados
+2. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acima;
+3. Processo de acurácia implementado no monitoramento do PDA.
 
-**Frequência de Atualização:** Anual
+**Frequência de Atualização:** 
 
-**Meta/Prazo:** Julho/2019
+**Meta/Prazo:** Setembro/2018
 
-**Unidade responsável:** SETIC
+**Unidade responsável:** SETIC /Secretarias / Ouvidoria
 
 **Ponto Focal:** e-Ouv
 
@@ -818,5 +816,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NTk2OCwtMTk2MzQ0MDg3Ml19
+eyJoaXN0b3J5IjpbNTI2MTQ1MDkwLC0xOTYzNDQwODcyXX0=
 -->
