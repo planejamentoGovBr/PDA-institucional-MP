@@ -740,7 +740,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 ### **MP_01M - Inventário de Bases MP**
-revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas esturturantes já se foram disponibilziados me formato de dadoDados de Previdência Complementar dos servidores do Poder Executivo Civil
+Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se já contemplam nos Plano Ação deste plano.
 
 **Atividade:**
 1. Seleção da base de dados de Sevidores Ativos;
@@ -787,8 +787,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDM4OTEzMiwxMjI3NzQ5NzIxLC01Nj
-k5NDA0OTAsLTIxMzUwNTY3NCwtMTYyMTcwMTUxNCwtMTE2MTQx
-NjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0MzgwOS
-wxNTg4NzYzOTM2XX0=
+eyJoaXN0b3J5IjpbNDk1NDkzNzU5LDEyMjc3NDk3MjEsLTU2OT
+k0MDQ5MCwtMjEzNTA1Njc0LC0xNjIxNzAxNTE0LC0xMTYxNDE2
+MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQzODA5LD
+E1ODg3NjM5MzZdfQ==
 -->
