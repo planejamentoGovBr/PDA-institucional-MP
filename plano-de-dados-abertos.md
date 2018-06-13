@@ -753,13 +753,11 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 
 **Produtos:**
 1. Inventário Geral do MP Atualizado
-2. Catálogo de dado do Executivo Federal
-10. Disponibilização dos Dados de forma automática;
-11. Ambiente preparado;
-12. Dados a serem publicados;
-13. Dados publicados e disponibilizados.
+2. relação de Bases a serem trabalhadas no PDA 2020-2021; 
+3. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+.
 
-**Frequência de Atualização:** XXXXXX
+**Frequência de Atualização:** 
 
 **Meta/Prazo:** Dezembro/2019
 
@@ -790,8 +788,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNjU1MTQxLDEyMjc3NDk3MjEsLTU2OT
-k0MDQ5MCwtMjEzNTA1Njc0LC0xNjIxNzAxNTE0LC0xMTYxNDE2
-MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQzODA5LD
-E1ODg3NjM5MzZdfQ==
+eyJoaXN0b3J5IjpbLTgxNjI1ODEwNl19
 -->
