@@ -743,12 +743,11 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
 
 **Atividade:**
-1. Avaliar as informações geridas pelos 10 sistemasor cada sistema estruturante da APF, Identificando os conjuntos de dados já disponibilizados em formato aberto;
-2. Verificar se as informações não disponibilziadas se econtram planejadas neste plano;
+1. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
+2. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
 3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
 4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
-5. Avaliar as informações geridas pelos demais sistemas, aplicativos, planilhas geridas pelo MPma estruturante da APF, Identificando os conjuntos de dados já disponibilizados em formato aberto;
-2. Verificar se as informações não disponibilziadas se econtram planejadas neste plano;
+5. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
 3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
 4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
 
@@ -790,8 +789,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODg3NzkzNiwxMjI3NzQ5NzIxLC01Nj
-k5NDA0OTAsLTIxMzUwNTY3NCwtMTYyMTcwMTUxNCwtMTE2MTQx
-NjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0MzgwOS
-wxNTg4NzYzOTM2XX0=
+eyJoaXN0b3J5IjpbNzQ3OTgzNzM5LDEyMjc3NDk3MjEsLTU2OT
+k0MDQ5MCwtMjEzNTA1Njc0LC0xNjIxNzAxNTE0LC0xMTYxNDE2
+MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQzODA5LD
+E1ODg3NjM5MzZdfQ==
 -->
