@@ -80,7 +80,7 @@ Podendo ser acessado no link no endereço http://www.planejamento.gov.br/publica
 **3.	Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
-Foi criado pela Portaria Nº 385 , de 11 de DE 2017.
+Foi criado pela Portaria Nº 385 , de 11 de novembro de 2017.
 
 **4.	Estratégia Governança Digital (EGD)**
 
@@ -98,10 +98,10 @@ O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta n
 *	Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
 *	Monitoramento da implementação dos Planos de Dados Abertos publicados.
 
-**7.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):**
+**6.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):**
 O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia
 
-**8.	Comissão Nacional de Cartografia (CONCAR)**
+**7.	Comissão Nacional de Cartografia (CONCAR)**
 A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração publica, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
 O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
 
@@ -758,6 +758,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5OTE5NjAsMTQ4OTQzODA5LDE1ODg3Nj
-M5MzYsLTQyNTk4NDc0Nl19
+eyJoaXN0b3J5IjpbLTE4MDA4NTM4MzQsMTQ4OTQzODA5LDE1OD
+g3NjM5MzYsLTQyNTk4NDc0Nl19
 -->
