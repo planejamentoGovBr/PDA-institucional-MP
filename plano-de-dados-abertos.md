@@ -767,8 +767,11 @@ Projetos com financiamento externo juntos à organismo financeiros de desenvolvi
 2.  Publicação dos Dados.
 
 **Frequência de Atualização:** Diário
+
 **Meta/Prazo:** Agosto/2018
+
 **Unidade responsável:** SEAIN
+
 **Ponto Focal:** e-Ouv
 
 ### **MP_M_02 - Melhoria da Qualidade e organização(Acurácia) dos conjuntos de dados disponibilizados** ==validar==
@@ -869,6 +872,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU2Mzc1MDQsLTEyMzI1OTY2NTgsLT
-E1NjM3MjMwNTcsMzMwNTE2ODAyLC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbLTc5Nzk1NjA1MCwtMTA2NTYzNzUwNCwtMT
+IzMjU5NjY1OCwtMTU2MzcyMzA1NywzMzA1MTY4MDIsLTE5NjM0
+NDA4NzJdfQ==
 -->
