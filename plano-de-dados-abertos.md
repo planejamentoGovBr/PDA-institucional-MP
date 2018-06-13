@@ -494,6 +494,7 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 
 
 ### **MP_02 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
+Vinculação dos Programas Federais com os atributos do PPA 2012-2015, junto com informações sobre como fazer acesso aos Programas Federais
 
 **Atividade:**
 1. Disponibilização do PPA Mais Brasil e da base de dados original em ambiente de teste pela SETIC;
@@ -515,6 +516,8 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 **Ponto Focal:** e-Ouv
 
 ### **MP_10 - Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)**
+Relação de quais são os conjuntos de dados que integram o Portal
+
 
 **Atividade:**
 1. Validar as informações a serem disponibilizadas;  
@@ -532,6 +535,8 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Ponto Focal:** e-Ouv
 
 ### **MP_07 - Dados Referentes aos imóveis da Antiga RFFSA**
+Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os contratos do patrimônio da Antiga Rede Ferroviária Federal e que ainda produzem efeitos.
+
 
 **Atividade:**
 1. Proceder a Incorporação dos Imóveis nos Sistema da SPU;
@@ -549,7 +554,9 @@ Catalogar no Portal Brasileiro de Dados Abertos
 **Ponto Focal:** e-Ouv
 
 ### **MP_11 - Catálogo de bases da dados que integram o GovData**
+Relação de quais são as bases de dados que integram a plataforma de análise de dados
 
+/tr> &���v�
 **Atividade:**
 1. Validar as informações a serem disponibilizadas;  
 2. Publicar dados em formato de dados abertos.
@@ -713,5 +720,5 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NTYwODczXX0=
+eyJoaXN0b3J5IjpbLTEyNTUzMDc3ODZdfQ==
 -->
