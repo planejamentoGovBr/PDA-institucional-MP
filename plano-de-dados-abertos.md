@@ -800,8 +800,11 @@ i. Disponibilizar os dados me formato da INDE sempre que disponível; ==?==
 3. Processo de acurácia implementado no monitoramento do PDA.
 
 **Frequência de Atualização:** 
+
 **Meta/Prazo:** Setembro/2018
+
 **Unidade responsável:** SETIC /Secretarias / Ouvidoria
+
 **Ponto Focal:** e-Ouv
 
 ### **MP_M_03 - Inventário de Bases MP** == validar==
@@ -823,8 +826,11 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 .
 
 **Frequência de Atualização:** Anual
+
 **Meta/Prazo:** Julho/2019
+
 **Unidade responsável:** SETIC
+
 **Ponto Focal:** e-Ouv
 
 ### **MP_M_04 - Viagens a Serviço do Governo Federal** ==validar==
@@ -846,8 +852,11 @@ Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessã
 5. Publicação dos Dados
 
 **Frequência de Atualização:** Mensal
+
 **Meta/Prazo:** Agosto/2019
+
 **Unidade responsável:** SEGES
+
 **Ponto Focal:** e-Ouv
 
 
@@ -859,10 +868,13 @@ Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessã
 Os termos abaixo referem-se às definições apresentadas no Plano de Ação da INDA. 
 
 **Dado:** sequência de símbolos ou valores, representados em algum meio, produzidos como resultado de um processo natural ou artificial. 
-Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001 ; SETZER, 2001 ;).
+Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001 ; SETZER, 2001 ;)
+
 **Dados abertos:** dados públicos representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento;
 Dado público: qualquer dado gerado ou sob a guarda governamental que não tenha o seu acesso restrito por legislação específica;
+
 **e-PING:** Padrões de Interoperabilidade de Governo Eletrônico – define um conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação (TIC) na interoperabilidade de serviços de Governo Eletrônico, estabelecendo as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
+
 **e-VoG:** Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de Vocabulários e Ontologias de Governo Eletrônico (http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal.
 **Formato aberto:** formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização;
 Informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; 
@@ -872,7 +884,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzk1NjA1MCwtMTA2NTYzNzUwNCwtMT
+eyJoaXN0b3J5IjpbMTI0NjM4MzgxNCwtMTA2NTYzNzUwNCwtMT
 IzMjU5NjY1OCwtMTU2MzcyMzA1NywzMzA1MTY4MDIsLTE5NjM0
 NDA4NzJdfQ==
 -->
