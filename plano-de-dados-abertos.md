@@ -210,7 +210,9 @@ Os sistemas estruturantes sob gestão do MP são de uso obrigatório transversal
 
 Atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
 
-Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. As demais Bases do Inventário que não farão parte deste plano serão considerados no próximo PDA 2020-2021.
+Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
+
+As demais Bases do Inventário que não farão parte deste plano serão considerados no próximo PDA 2020-2021. ==melhorar redação falando do plano de ação de revisão do inven==
 
 **d) Consulta Pública**
 
@@ -736,7 +738,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjM3MjkyNiwtMTYyMTcwMTUxNCwtMT
+eyJoaXN0b3J5IjpbMTI1OTU5MTIyNywtMTYyMTcwMTUxNCwtMT
 E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
 MzgwOSwxNTg4NzYzOTM2XX0=
 -->
