@@ -194,7 +194,7 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP certificando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
-Este trabalho resultou em um inventário contendo uma relação de 40 sistemas além dos 10 sistemas estruturantes citados abaixo. 
+Este trabalho resultou em um inventário contendo uma relação de 40 sistemas além dos 10 sistemas estruturantes citados abaixo.   ==inluir link da planilha==
 
 * Sistema Integrado de Planejamento e Orçamento - SIOP;
 * Sistema de Informações das Estatais - SIEST;
@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjI4OTE5LC0xNjIxNzAxNTE0LC0xMT
-YxNDE2MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQz
-ODA5LDE1ODg3NjM5MzZdfQ==
+eyJoaXN0b3J5IjpbMTE5MjM3MjkyNiwtMTYyMTcwMTUxNCwtMT
+E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
+MzgwOSwxNTg4NzYzOTM2XX0=
 -->
