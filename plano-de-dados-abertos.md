@@ -245,7 +245,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 ### **Peso dos Critérios**
 
 | Critério | Nome do Critério  | Peso |
-|--:|:--:|:--:|
+|--:|:--|:--:|
 | **C1** | Grau de Relevância ao Cidadão |**4** |
 | **C2** | Estímulo ao Controle Social| **3** |
 | **C3** | Obrigatoriedade legal ou compromisso assumido| **1** |
@@ -318,7 +318,7 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
 
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
-![Governança](https://github.com/planejamentoGovBr/PDA-institucional-MP/blob/master/governan%C3%A7a.png)
+![Governança](/public/img/governanca.png)
 
 
  ----------
