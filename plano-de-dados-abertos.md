@@ -800,21 +800,19 @@ Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessã
 2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3.  Conferência dos Dados;
 4.  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
-5)  Automatização da extração dos dados via API
+5.  Automatização da extração dos dados via API
 
 
 **Produtos:**
-1) Catálogo com os dados dos atributos do SCDP em formato aberto
-2) Dados dos Atributos do SCDP atualizados mensalmente, em formato aberto
-1) Catálogo validado com os dados dos atributos do SCDP em formato aberto
-2) Dados dos atributos do SCDP atualizados no portal de dados abertos
-5) Publicação dos Dados
+1. Catálogo com os dados dos atributos do SCDP em formato aberto
+2. Dados dos Atributos do SCDP atualizados mensalmente, em formato aberto
+3. Catálogo validado com os dados dos atributos do SCDP em formato aberto
+4. Dados dos atributos do SCDP atualizados no portal de dados abertos
+5. Publicação dos Dados
 
-eight:30.0pt;b�O�Xy5
-
-**Frequência de Atualização:** 
-**Meta/Prazo:** Setembro/2018
-**Unidade responsável:** SETIC /Secretarias / Ouvidoria
+**Frequência de Atualização:** Mensal
+**Meta/Prazo:** Agosto/2019
+**Unidade responsável:** SEGES
 **Ponto Focal:** e-Ouv
 
 
@@ -837,5 +835,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjEzOTU2MSwtMTk2MzQ0MDg3Ml19
+eyJoaXN0b3J5IjpbLTM1NTkyOTYxNiwtMTk2MzQ0MDg3Ml19
 -->
