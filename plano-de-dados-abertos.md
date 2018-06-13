@@ -75,18 +75,18 @@ O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorga
 **2.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** 
 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
-Podendo ser acessado no link no endereço http://www.planejamento.gov.br/publicacoes/tecnologia-da-informacao/pdti_2017-2019.pdf
+Pode ser acessado no endereço http://www.planejamento.gov.br/publicacoes/tecnologia-da-informacao/pdti_2017-2019.pdf
 
 **3.	Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
 O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
-Foi criado pela Portaria Nº 385 , de 11 de novembro de 2017.
+Criado pela Portaria Nº 385 , de 11 de novembro de 2017.
 
 **4.	Estratégia Governança Digital (EGD)**
 
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
 O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
-Podendo ser acessado no link no endereço 
+Pode ser acessado no endereço 
 http://www.planejamento.gov.br/seminariodigital/seminario/egd_cartilha_capa_miolo_final_avulsascorrecao.pdf
 
 **5.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):**
@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjI0MTU2OSwtMTYyMTcwMTUxNCwtMT
+eyJoaXN0b3J5IjpbMTY5NjIyMzM2MSwtMTYyMTcwMTUxNCwtMT
 E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
 MzgwOSwxNTg4NzYzOTM2XX0=
 -->
