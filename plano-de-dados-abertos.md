@@ -788,11 +788,8 @@ f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
 3. Processo de acurácia implementado no monitoramento do PDA.
 
 **Frequência de Atualização:** 
-
 **Meta/Prazo:** Setembro/2018
-
 **Unidade responsável:** SETIC /Secretarias / Ouvidoria
-
 **Ponto Focal:** e-Ouv
 
 
@@ -816,6 +813,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAzNDk4NjAsLTE5NjM0NDA4NzJdfQ
+eyJoaXN0b3J5IjpbLTE1Nzk0ODk5MzgsLTE5NjM0NDA4NzJdfQ
 ==
 -->
