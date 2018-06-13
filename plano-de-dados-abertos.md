@@ -360,7 +360,7 @@ Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
-==justificar os 04 conjuntos de dados que foram para consulta publica eque não tem plano de ação para este plano.==
+==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP
 2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  SETIC
@@ -863,6 +863,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA4NDMyNjIsLTE5NjM0NDA4NzJdfQ
+eyJoaXN0b3J5IjpbLTE2NDI0NjUxNDIsLTE5NjM0NDA4NzJdfQ
 ==
 -->
