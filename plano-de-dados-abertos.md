@@ -1,3 +1,11 @@
+---
+published: true
+permalink: /
+layout: slate
+filename: plano-de-dados-abertos.md
+title: Plano de Dados Abertos do Ministério do Planejamento
+desc: Este é o Plano de Dados Abertos do Ministério do Planejamento.
+---
 
 **Plano de Dados Abertos do Ministério do Planejamento**
 
@@ -656,13 +664,3 @@ Catalogar no Portal Brasileiro de Dados Abertos
 
 ### 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDY0MTUwOCw3MDMxMjMwNDIsLTgxNj
-M4NzYyMSwtNzQ1MTg2MTI0LC0yMTM3MjM2MDYyLC0xODE1NDkx
-MDMzLC02NDQxNDkyNzYsOTE1MTk1NzY4LC0xMDg4NjkyOTg5LC
-0zOTIyMDI2NzAsLTE4NDQwNDMzNTYsLTE0MzA2NzMyNTgsLTMz
-MDU2MjkwMCwtMTAwODg3MDc5NCwtMTU2NzI0ODc1NSwtMTU1Nj
-UxNTQxOSwtMzcxMTIwMzIsLTgzNjk4ODg0LDE1MTgwMjE3NzFd
-fQ==
--->
