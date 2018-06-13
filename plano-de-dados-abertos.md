@@ -267,12 +267,13 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Programa de Desligamento Voluntário - PDV** | 8 | 9 | 1 | 6 | 8 | 3 | 5 | 8 | 15 | **63** |
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 8 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 | **55** |
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 8 | 3 | 1 | 6 | 4 | 3 | 10 | 4 | 15 |**54** |
-| **Gastos de pessoal com Auxílios** | 8 | 9 | 1 | 2 | 4 | 3 | 5| 8 | 10 |**50** |
+| **Gastos de pessoal com Auxílios** | 12 | 9 | 1 | 2 | 4 | 3 | 5| 8 | 10 |**54** |
+| **Informações sobre Imóveis Funcionais e Permissionários** | 12 | 6 | 3 | 2 | 4 | 3 | 5 | 8 | 10 |**53** |
 | **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | 15 | 4 | 5 | **48** |
 
 | **Catálogo de bases da dados que integram o GovData** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 15 |**49** |
 | **Catálogo de APIs que integram o ConcectaGov** | 4 | 3 | 1 | 6 | 8 | 3 | 15 | 4 | 5 |**49** |
-| **Informações sobre Imóveis Funcionais e Permissionários** | 8 | 6 | 3 | 2 | 4 | 3 | 5 | 8 | 10 |**49** |
+
 | **Informações sobre o valor de depreciação dos imóveis de Uso Especial** | 4 | 3 | 1 | 2 | 4 | 3 | 5 | 4 | 15 |**41** |
 | **Alterações orçamentárias (créditos)** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 5 |**39** |
 | **Previdência Complementar dos Servidores do Poder Executivo Civil** | 4 | 3 | 1 | 4 | 4 | 3 | 5 | 4 | 10 |**38** |
@@ -865,6 +866,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMTYxNzIsLTE1NjM3MjMwNTcsMzMwNT
-E2ODAyLC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbLTYxMzU4MTEyMSwtMTU2MzcyMzA1NywzMz
+A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
