@@ -765,7 +765,31 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 
 **Ponto Focal:** e-Ouv
 
+### **MP_02M - Melhoria da Qualidade e organização dos conjuntos de dados disponibilizados**
+Durante o processo de elaboração Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
 
+**Atividade:**
+1. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
+2. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
+3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
+5. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
+6. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+7. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
+
+**Produtos:**
+1. Inventário Geral do MP Atualizado
+2. relação de Bases a serem trabalhadas no PDA 2020-2021; 
+3. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+.
+
+**Frequência de Atualização:** Anual
+
+**Meta/Prazo:** Julho/2019
+
+**Unidade responsável:** SETIC
+
+**Ponto Focal:** e-Ouv
 
 
 
@@ -788,5 +812,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkxMzgxMjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NjM0NDA4NzJdfQ==
 -->
