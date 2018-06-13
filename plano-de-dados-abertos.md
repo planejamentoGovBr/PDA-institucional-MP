@@ -175,11 +175,11 @@ A garantia dos princípios da publicidade e da transparência da Administração
 
 Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de todas as secretarias do MP iniciando com a avaliação dos PDA´s anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos a abertura neste plano.
 
-Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação al. 
+Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação além da realização de uma consulta pública. 
 
 **a) Grupo representantes de todas as áreas**
 
-Além disso foram realizadas reuniões com representantes das Secretarias do MP com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e novos conjuntos de dados a serem disponibilizados. 
+Os representantes das Secretarias do MP com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e novos conjuntos de dados a serem disponibilizados. 
 
 **b) Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
 
@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTk5ODE1MSwtMTYyMTcwMTUxNCwtMT
+eyJoaXN0b3J5IjpbMTg1NTIzMTk0MiwtMTYyMTcwMTUxNCwtMT
 E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
 MzgwOSwxNTg4NzYzOTM2XX0=
 -->
