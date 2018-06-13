@@ -757,11 +757,11 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 3. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
 .
 
-**Frequência de Atualização:** 
+**Frequência de Atualização:** Anual
 
-**Meta/Prazo:** Dezembro/2019
+**Meta/Prazo:** Julho/2019
 
-**Unidade responsável:** SGP
+**Unidade responsável:** SETIC
 
 **Ponto Focal:** e-Ouv
 
@@ -788,5 +788,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjI1ODEwNl19
+eyJoaXN0b3J5IjpbLTE3NzkxMzgxMjNdfQ==
 -->
