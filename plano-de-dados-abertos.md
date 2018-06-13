@@ -362,7 +362,7 @@ Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
 
 ### **MP_04 - Dados Referente a Arrecadação Patrimonial**
-Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimînio da União.
+Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
 
    **Atividade:**
    1. Converter em formato para publicação no Portal de Dados Aberto;
@@ -739,8 +739,16 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 ## 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
 
 
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTk0MDQ5MCwtMjEzNTA1Njc0LC0xNj
-IxNzAxNTE0LC0xMTYxNDE2MjI1LDE4NDM3MDc0NzYsLTEzNzM2
-NTk5NjUsMTQ4OTQzODA5LDE1ODg3NjM5MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5ODYwMTIyMjYsLTU2OTk0MDQ5MCwtMj
+EzNTA1Njc0LC0xNjIxNzAxNTE0LC0xMTYxNDE2MjI1LDE4NDM3
+MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQzODA5LDE1ODg3NjM5Mz
+ZdfQ==
 -->
