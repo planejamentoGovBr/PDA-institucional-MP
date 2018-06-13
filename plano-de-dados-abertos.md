@@ -75,7 +75,7 @@ O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorga
 **2.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** 
 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
-
+Podendo ser acessado no link no endereço 
 
 **4.	Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
@@ -756,5 +756,5 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTk0NTcwMywtNDI1OTg0NzQ2XX0=
+eyJoaXN0b3J5IjpbMTU4ODc2MzkzNiwtNDI1OTg0NzQ2XX0=
 -->
