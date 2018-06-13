@@ -368,7 +368,7 @@ Esta Sessão esta dividida em 02 Planos de Ações, organizados conforme abaixo:
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
 
-### **MP_04 - Dados Referente a Arrecadação Patrimonial**
+### **MP_I_01 - Dados Referente a Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
 
    **Atividade:**
@@ -863,6 +863,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI0NjUxNDIsLTE5NjM0NDA4NzJdfQ
+eyJoaXN0b3J5IjpbLTEwNzAxOTcyNTEsLTE5NjM0NDA4NzJdfQ
 ==
 -->
