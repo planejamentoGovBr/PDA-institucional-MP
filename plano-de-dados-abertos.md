@@ -771,18 +771,19 @@ Durante o processo de elaboração Revisão do Inventário de Bases de dados do 
 **Atividade:**
 1. Definir os critério de acurácia de dados a ser aplicado aos conjuntos de dados (SETIC / Ouvidoria);
 2. Criar um padrão de nomenclatura de conjunto de dados
-3. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
-4. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
-5. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-6. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
-7. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
-8. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-9. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
+3. Categorizar os conjuntos de dados em históricos ou atuais (sujeitos a alteração);
+4. Melhorar a descrição dos conjunto de dados se atentando a deixarAvaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
+5. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
+6. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+7. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
+8. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
+9. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+10. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
 
 **Produtos:**
-10. Inventário Geral do MP Atualizado
-11. relação de Bases a serem trabalhadas no PDA 2020-2021; 
-12. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+11. Inventário Geral do MP Atualizado
+12. relação de Bases a serem trabalhadas no PDA 2020-2021; 
+13. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
 .
 
 **Frequência de Atualização:** Anual
@@ -814,5 +815,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNzg5Njg2LC0xOTYzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbLTIwMjcwNDYxOTksLTE5NjM0NDA4NzJdfQ
+==
 -->
