@@ -117,7 +117,7 @@ Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados 
 *	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 *	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
-## Objetivo Geral# **
+## Objetivo Geral
 
  
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
@@ -758,6 +758,6 @@ Como resultado desta dinâmica obtivemos a seguinte tabela:
 | **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzkwNTY1OCwxNDg5NDM4MDksMTU4OD
-c2MzkzNiwtNDI1OTg0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTEzNzM2NTk5NjUsMTQ4OTQzODA5LDE1OD
+g3NjM5MzYsLTQyNTk4NDc0Nl19
 -->
