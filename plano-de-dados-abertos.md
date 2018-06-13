@@ -262,9 +262,9 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
 | **Informações sobre a arrecadação anual sobre o Patrimônio da União** | 12 | 9 | 3 | 2 | 12 | 9| 15 | 8 | 15| **85** |
 | **Acompanhamento físico das ações** | 12 | 9 | 1 | 6 | 12 | 6 | 10 | 4 | 10 | **70** |
-| **Cargos Vagos do Poder Executivo Civil** | 14 | 9 | 1 | 2 | 8 | 3 | 5 | 12 | 15 |**59** |
+| **Cargos Vagos do Poder Executivo Civil** | 12 | 9 | 1 | 2 | 8 | 3 | 5 | 12 | 15 |**67** |
+| **Sistema de Transportes de Servidores Públicos - TaxiGov** | 8 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **62** |
 | **Programa de Desligamento Voluntário - PDV** | 8 | 9 | 1 | 6 | 8 | 3 | 5 | 8 | 15 | **63** |
-| **Sistema de Transportes de Servidores Públicos - TaxiGov** | 4 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **62** |
 
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 12 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 | **59** |
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 8 | 3 | 1 | 6 | 4 | 3 | 10 | 4 | 15 |**54** |
@@ -865,6 +865,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzgzMzE0OCwtMTU2MzcyMzA1NywzMz
+eyJoaXN0b3J5IjpbLTQ3NTAzNDkxMywtMTU2MzcyMzA1NywzMz
 A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
