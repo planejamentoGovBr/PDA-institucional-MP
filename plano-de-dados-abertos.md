@@ -261,11 +261,11 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | Nome da Base de Dados | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
 | **Informações sobre a arrecadação anual sobre o Patrimônio da União** | 12 | 9 | 3 | 2 | 12 | 9| 15 | 8 | 15| **85** |
-| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**70** |
 | **Acompanhamento físico das ações** | 12 | 9 | 1 | 6 | 12 | 6 | 10 | 4 | 10 | **70** |
+| **Cargos Vagos do Poder Executivo Civil** | 14 | 9 | 1 | 2 | 8 | 3 | 5 | 12 | 15 |**59** |
 | **Programa de Desligamento Voluntário - PDV** | 8 | 9 | 1 | 6 | 8 | 3 | 5 | 8 | 15 | **63** |
 | **Sistema de Transportes de Servidores Públicos - TaxiGov** | 4 | 9 | 1 | 4 | 4 | 6 | 15 | 4 | 15 | **62** |
-| **Cargos Vagos do Poder Executivo Civil** | 4 | 9 | 1 | 2 | 8 | 3 | 5 | 12 | 15 |**59** |
+
 | **PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável** | 12 | 3 | 1 | 6 | 4 | 9 | 5 | 4 | 15 | **59** |
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 8 | 3 | 1 | 6 | 4 | 3 | 10 | 4 | 15 |**54** |
 | **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | 15 | 4 | 5 | **48** |
@@ -280,6 +280,8 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Boletim das Empresas Estatais Federais** | 8 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**38** |
 | **Informações sobre imóveis da antiga RFFSA** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**34** |
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
+| **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 12 | 9 | 1 | 4 | 8 | 3 | 10| 8 | 15 |**70** |
+
 
 ### **Melhoria da qualidade dos dados**
 
@@ -863,6 +865,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM3MjMwNTcsMzMwNTE2ODAyLC0xOT
-YzNDQwODcyXX0=
+eyJoaXN0b3J5IjpbMTY1MzgzMzE0OCwtMTU2MzcyMzA1NywzMz
+A1MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 -->
