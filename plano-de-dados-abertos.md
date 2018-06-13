@@ -769,18 +769,20 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 Durante o processo de elaboração Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações gedeste Plano, foram identificadas várias pontos de melhoria na qualidade dos conjuntos de dados do MP disponibilizados no Portal de Dados Abertos. Estas melhorias são necessáridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste planoa maioria dos 77 conjunto de dados publicados. Para facilitar a padronização e a gestão deste trabalho dentro do MP optou-se por realizar estas ações em um único plano de ação englobando os 77 conjuntos de dados.
 
 **Atividade:**
-1. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
-2. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
-3. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
-5. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
-6. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-7. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
+1. Definir os critério de acurácia de dados a ser aplicado aos conjuntos de dados (SETIC / Ouvidoria);
+2. Criar um padrão de nomenclatura de conjunto de dados
+3. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
+4. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
+5. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+6. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
+7. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
+8. Incluir no proximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+9. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
 
 **Produtos:**
-1. Inventário Geral do MP Atualizado
-2. relação de Bases a serem trabalhadas no PDA 2020-2021; 
-3. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
+10. Inventário Geral do MP Atualizado
+11. relação de Bases a serem trabalhadas no PDA 2020-2021; 
+12. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
 .
 
 **Frequência de Atualização:** Anual
@@ -812,6 +814,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkxMzIxNTksLTE5NjM0NDA4NzJdfQ
-==
+eyJoaXN0b3J5IjpbNjMzNzg5Njg2LC0xOTYzNDQwODcyXX0=
 -->
