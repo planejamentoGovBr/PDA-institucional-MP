@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 **Ponto Focal:** e-Ouv
 
-## 2. Plano de Ação - Melhoria nos Conjuntos de Dados já disponibilizados
+## 2. Plano de Ação - Melhoria dos  nos Conjuntos de Dados já disponibilizados
 
 
 ### **MP_01M - Dados referentes aos Financiamentos  Externos do Setor Público** ==validar==
@@ -856,6 +856,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjkyMDEyNTcsLTE5NjM0NDA4NzJdfQ
-==
+eyJoaXN0b3J5IjpbMTQ3MTExNDAyOSwtMTk2MzQ0MDg3Ml19
 -->
