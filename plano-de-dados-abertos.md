@@ -122,7 +122,7 @@ Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados 
  
 Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
 
-## # *Objetivos Específicos*
+## *Objetivos Específicos*
 
 No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
 
@@ -173,7 +173,7 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas para a sociedade.
 
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica representantes de todas as secretarias do MP e foi adotado um processo que se iniciou com a avaliação dos PDA´s anteriores até a aplicação de critérios de priorização nas Bases de Dados candidatas a abertura neste plano.
+Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a partirepresentantes de todas as secretarias do MP e foi adotado um processo que se iniciou com a avaliação dos PDA´s anteriores até a aplicação de critérios de priorização nas Bases de Dados candidatas a abertura neste plano.
 
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação. 
 
@@ -736,7 +736,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjIyMzM2MSwtMTYyMTcwMTUxNCwtMT
-E2MTQxNjIyNSwxODQzNzA3NDc2LC0xMzczNjU5OTY1LDE0ODk0
-MzgwOSwxNTg4NzYzOTM2XX0=
+eyJoaXN0b3J5IjpbMjg0MTE5NDkyLC0xNjIxNzAxNTE0LC0xMT
+YxNDE2MjI1LDE4NDM3MDc0NzYsLTEzNzM2NTk5NjUsMTQ4OTQz
+ODA5LDE1ODg3NjM5MzZdfQ==
 -->
