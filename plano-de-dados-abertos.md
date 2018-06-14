@@ -883,7 +883,7 @@ O Ministério do Planejamento realiza ações de abertura de dados desde 2011, e
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
 **Atividade:**
-1. Instituir rede dos gestores técnicos responsáveis pelaos conjuntos de dados;
+1. Instituir rede dos gestores técnicos responsáveis pelos conjuntos de dados;
 2. Realizar oficina de catalogação e brainstorming de melhorias;
 3. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
 
@@ -899,6 +899,26 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 **Ponto Focal:** e-Ouv
 
+### **MP_M_0X - Estruturação do Inventário de Bases de Dados** ==validar==
+O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das deciões de médio e longo prazo.
+Esta ação tem como objetivo principal garantir o aprimoramento do inventário para "qualificar a produção do PDA para o ciclo seguinte (2020 e 2021)". Em outras palavras, é uma ação preparatória para o próximo ciclo de planejamento.
+
+**Atividade:**
+1. Estudo para levantamento das bases de dados através do portólio de sistemas, aplicativos, painéis/dashboards, etc;
+2. Estudo para levantamento das bases de dados através de engenharia reversa dos Sistemas de Gerenciamento de Bancos de Dados (SGBDs);
+3. Estudo para mapeamento detalhado entre o inventário atualizado e os respectivos conjuntos de dados já abertos possibilitando visualizar a completude e as necessidades de novas ações de melhoria;
+4. Normalização das informações e publicação em formato MarkDown juntamente com o Plano de Dados Abertos vigente;
+
+**Produtos:**
+1. Inventário das bases de dados atualizado;
+2. Mapeamento da completude da abertura dos dados de cada domínio de dados;
+
+
+**Meta/Prazo:** Agosto/2019 ==Definir==
+
+**Unidade responsável:** Secretaria Executiva
+
+**Ponto Focal:** e-Ouv
 
 
 
