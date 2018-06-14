@@ -832,7 +832,7 @@ Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas
 **Atividade:**
 1. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
 2. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
-3. Incluir no próximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
+3. Incluir no prximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
 4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
 5. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
 6. Incluir no próximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
@@ -930,4 +930,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 eyJoaXN0b3J5IjpbMTQ1ODI1NjQ0MiwtMTY2MDg5Mzg5MCwtMT
 A2NTYzNzUwNCwtMTIzMjU5NjY1OCwtMTU2MzcyMzA1NywzMzA1
 MTY4MDIsLTE5NjM0NDA4NzJdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyOTg5NjcyNzVdfQ==
 -->
