@@ -455,6 +455,25 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
    **Unidade responsável:** SGP
 
    **Ponto Focal:** e-Ouv
+### **MP_I_04 - Implementação do Portal de Dados Abertos do MP**
+O Ministério do Planejamento é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
+
+   **Atividade:**
+   1. Instalar ambiente CKAN específico;
+   2. Customizar Arquitetura da informação e Identidade visual do Portal;
+   3. Migrar catalogação dos conjuntos de dados do dados.gov.br para ao portal específico;
+   4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
+
+   **Produtos:**
+   1. Ambiente CKAN online exclusivo;
+   2. Identidade visual específica;
+   3. Metadados Migrados;
+   
+   **Meta/Prazo:** XXXXXX/2018
+
+   **Unidade responsável:** Ouvidoria/SETIC
+
+   **Ponto Focal:** e-Ouv
 
 ### **MP_I_05 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017.  O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
