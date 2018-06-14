@@ -884,13 +884,15 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 **Atividade:**
 1. Instituir rede dos gestores técnicos responsáveis pelos conjuntos de dados;
-2. Realizar oficina de catalogação e brainstorming de melhorias;
-3. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
+2. Definição de um conjunto de orientações para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incuir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
+3. Realizar oficina de catalogação e brainstorming de melhorias;
+4. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
 
 
 **Produtos:**
-1. Metadados do Catálogo de dados atualizado 
-2. Gestores nas áreas capacitados para novos ajustes posteriores
+1. Metadados do Catálogo de dados atualizado;
+2. Conjunto de modelos e exemplos de boas catalogações de metadados;
+3. Gestores nas áreas capacitados e habilitados a realizarem posteriormente novos ajustes nos metadados;
 
 
 **Meta/Prazo:** Setembro/2018 ==Definir==
