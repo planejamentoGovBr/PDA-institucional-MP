@@ -793,64 +793,7 @@ Projetos com financiamento externo juntos à organismo financeiros de desenvolvi
 
 **Ponto Focal:** e-Ouv
 
-### **MP_M_02 - Melhoria da Qualidade e organização(Acurácia) dos conjuntos de dados disponibilizados** ==validar==
-Durante o processo de elaboração Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações gedeste Plano, foram identificadas várias pontos de melhoria na qualidade dos conjuntos de dados do MP disponibilizados no Portal de Dados Abertos. Estas melhorias são necessáridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste planoa maioria dos 77 conjunto de dados publicados. Para facilitar a padronização e a gestão deste trabalho dentro do MP optou-se por realizar estas ações em um único plano de ação englobando os 77 conjuntos de dados.
 
-**Atividade:**
-1. Definir os critério de acurácia de dados a ser aplicado aos conjuntos de dados (SETIC / Ouvidoria);
-a. Criar um padrão de nomenclatura de conjunto de dados
-b. Categorizar os conjuntos de dados em históricos ou atuais (sujeitos a alteração);
-c. Melhorar a descrição dos conjunto de dados se atentando a deixar claro quais as informações compoem aquele conjunto de dados;
-d. Incluir links de portais de gestão, permitindo assim que o cidadão tenha acesso a infrmações com valor agregado maior e mais fávil entendimento
-e. Identificar conjunto de dados que constam dentro de outro conjunto de dados, primando pela informação única, confiável, atualizada e disponível em diversos formatos, inclusive INDE (Caso PAC);
-f. Avaliar as rotinas de atualização priorizando o desenvolvimento de API;
-g. Desenvolver consultas específicas das informações mais solicitadas via LAI, visando facilitar o entendimento e acesso aos dados divulgados (SOF);
-h. Disponibilizar o dicionario de dados; ==?==
-i. Disponibilizar os dados me formato da INDE sempre que disponível; ==?==
-2. Avaliar os conjuntos de dados segundo os critérios definidos (Secretarias / Ouvidoria / SETIC)
-3. Promover as alterações no Portal de Dados Abertos
-4. Informar a CGU as alterações realizadas
-5. Incluir esse processo no monitoramento e controle dos conjuntos de dados em fase de publicação.
-
-
-**Produtos:**
-1. Critério de acurácia (qualidade) dos dados definidos;
-2. Conjuntos de Dados publicados no Portal de Dados do MP organizados e aderentes aos critérios acurácia;
-3. Processo de acurácia implementado no monitoramento do PDA.
-
-**Frequência de Atualização:** 
-
-**Meta/Prazo:** Setembro/2018
-
-**Unidade responsável:** SETIC /Secretarias / Ouvidoria
-
-**Ponto Focal:** e-Ouv
-
-### **MP_M_03 - Inventário de Bases MP** == validar==
-Revisão do Inventário de Bases de dados do MP com objetivo de avaliar se todas as informações geridas pelos sistemas estruturantes já foram disponibilizados em formato de dados abertos ou se contemplam nos Plano Ação deste plano.
-
-**Atividade:**
-1. Avaliar as informações geridas pelos 10 sistemas estruturante da APF identificando os conjuntos de dados já disponibilizados em formato aberto;
-2. Verificar se as informações não disponibilziadas se encontram planejadas neste plano;
-3. Incluir no prximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-4. Definir um indicador para acompanhar o percentual de dados abertos nos sistemas estruturantes
-5. Avaliar as informações geridas pelos demais sistemas (total de 40), aplicativos, planilhas geridas pelo MP;
-6. Incluir no próximo PDA os conjuntos de dados ainda pendentes de divulgação em fomarto aberto
-7. Definir um indicador para acompanhar o percentual de dados abertos nos demais sistemas do MP.
-
-**Produtos:**
-1. Inventário Geral do MP Atualizado
-2. relação de Bases a serem trabalhadas no PDA 2020-2021; 
-3. Definição de Indicadores para acompanhar a aturidade do MP em dados Abertos;
-.
-
-**Frequência de Atualização:** Anual
-
-**Meta/Prazo:** Julho/2019
-
-**Unidade responsável:** SETIC
-
-**Ponto Focal:** e-Ouv
 
 ### **MP_M_04 - Viagens a Serviço do Governo Federal** ==validar==
 Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessão de Diárias e Passagens (SCDP).
@@ -957,5 +900,5 @@ MTY4MDIsLTE5NjM0NDA4NzJdfQ==
 eyJoaXN0b3J5IjpbLTEyOTg5NjcyNzVdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mjk0NjM2XX0=
+eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 -->
