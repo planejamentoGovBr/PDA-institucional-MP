@@ -878,6 +878,26 @@ Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessã
 
 **Ponto Focal:** e-Ouv
 
+### **MP_M_0X - Revisão dos Metadados dos Conjutos de Dados** ==validar==
+O Ministério do Planejamento realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
+Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
+
+**Atividade:**
+1. Instituir rede dos gestores técnicos responsáveis pelaos conjuntos de dados;
+2. Realizar oficina de catalogação e brainstorming de melhorias;
+3. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
+
+
+**Produtos:**
+1. Metadados do Catálogo de dados atualizado 
+2. Gestores nas áreas capacitados para novos ajustes posteriores
+
+
+**Meta/Prazo:** Setembro/2018 ==Definir==
+
+**Unidade responsável:** Ouvidoria
+
+**Ponto Focal:** e-Ouv
 
 
 
