@@ -1526,17 +1526,18 @@ body {
   body:last-child:after {
     clear: both; }
   body > header.masthead {
-	
     padding: 14px 0 0 0;
-background-color: #34378F;
-background-image: -moz-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%, #1074BC), color-stop(100%, #34378F));
-background-image: -webkit-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-background-image: -o-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-background-image: -ms-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-background-image: radial-gradient(ellipse at center, #1074BC 1%, #34378F 100%);
-color: #fff;
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1074BC", endColorstr="#34378F", GradientType=1);
+    background-color: #34378F;
+    background-image: -moz-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+    background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%, #1074BC), color-stop(100%, #34378F));
+    background-image: -webkit-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+    background-image: -o-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+    background-image: -ms-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
+    background-image: radial-gradient(ellipse at center, #1074BC 1%, #34378F 100%);
+    color: #fff;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1074BC", endColorstr="#34378F", GradientType=1);
+    background: radial-gradient(683.00px at 50% 50%, #0C4A9D 0%, #092F62 100%);
+    box-shadow: 0px 3.6742px 3.6742px rgba(0, 0, 0, 0.25);
 }
     body > header.masthead > .container {
       max-width: 980px;
@@ -2229,4 +2230,10 @@ body.no-sidebar .row .content-outer {
 #menu-de-navegacao li {
 	display: inline-block;
 	margin-left: 15px;
+}
+
+header.masthead .container {
+    background-image: url("../public/img/mask_group.svg");
+    background-position: right center;
+    background-repeat: no-repeat;
 }

@@ -48,6 +48,11 @@ Utilizando Tema Slate, créditos: Jason Costello
 <script type="text/javascript">
 jQuery(document).ready(function() {
     jQuery('p:contains("[TOC]")').html('').before('<div id="toc"></div>');
+    
+    $(document.links).filter(function() {
+        return this.hostname != window.location.hostname;
+    }).attr('target', '_blank');
+
     jQuery('#toc').toc({ listType: 'ul', showEffect: 'fadeIn',  minimumHeaders: 0 });
 });
 </script>
