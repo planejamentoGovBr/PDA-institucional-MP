@@ -854,11 +854,13 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário 
 1. Estudo para levantamento das bases de dados através do portólio de sistemas, aplicativos, painéis/dashboards, etc;
 2. Estudo para levantamento das bases de dados através de engenharia reversa dos Sistemas de Gerenciamento de Bancos de Dados (SGBDs);
 3. Estudo para mapeamento detalhado entre o inventário atualizado e os respectivos conjuntos de dados já abertos possibilitando visualizar a completude e as necessidades de novas ações de melhoria;
-4. Normalização das informações e publicação em formato MarkDown juntamente com o Plano de Dados Abertos vigente;
+4. Definição de indicadores globais e específicos para medir a evolução/maturidade do processo de abertura de dados do ministério;
+5. Normalização das informações e publicação em formato MarkDown juntamente com o Plano de Dados Abertos vigente;
 
 **Produtos:**
 1. Inventário das bases de dados atualizado;
 2. Mapeamento da completude da abertura dos dados de cada domínio de dados;
+3. Conjunto de fichas técnicas de indicadores para acompanhamento da evolução das ações;
 
 
 **Meta/Prazo:** Agosto/2019 ==Definir==
