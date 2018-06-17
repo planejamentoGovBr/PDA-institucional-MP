@@ -28,13 +28,13 @@ Sua elaboração vem ao encontro do disposto na [Lei de Acesso à Informação (
 
 Considerando a existência de cartilhas e modelos que dispõem sobre arquitetura, ontologias e aspectos técnicos relacionados à formatação operacional para a catalogação e publicação de dados, este documento visa orientar o planejamento para a abertura de dados, citando a literatura e materiais disponí­veis sobre o ferramental técnico.
 
-Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico), Planejamento Estratégico de Tecnologia da Informação (PETI) e o [Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti) ambos do MP.
+Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico) e o [Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti) ambos do MP.
 
 A partir das diretrizes estratégicas, este Plano de Dados Abertos prevê no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados. 
 
 O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018, é a atualização do Plano de Ações do PDA anterior, referente ao Biênio de 2016-2017. Além disso, foi revisado quanto ao cumprimento das metas anteriores e a inserção de novos dados que serão abertos para a sociedade.
 
-O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa mesma periodicidade, identificadas no mês de sua liberação, as quais, podem ser motivadas pela revisão do _status_ das metas ou novas inserções de abertura de dados. Esse será divulgado à sociedade por meio de sua publicação no [Portal Brasileiro de Dados Abertos](http://dados.gov.br) e no sítio eletrônico do MP.
+O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa mesma periodicidade, identificadas no mês de sua liberação, as quais, podem ser motivadas pela revisão do _status_ das metas ou novas inserções de abertura de dados. Esse será divulgado à sociedade por meio de sua publicação no [Portal Brasileiro de Dados Abertos](http://dados.gov.br/organization/ministerio-do-planejamento-desenvolvimento-e-gestao-mp) e no sítio eletrônico do MP.
 
 O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolvendo todas as unidades do MP e considerando os princípios da publicidade e da transparência da administração pública. Para se estabelecer priorização dos conjuntos de dados que serão disponibilizados foram considerados o grau de relevância das informações para o cidadão, os compromissos assumidos pelo Ministério no PDA anterior, além das competências e os conjuntos de dados efetivamente mantidos pelo MP.
 
@@ -56,7 +56,7 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - A [Instrução Normativa nº 4 de 13 de abril de 2012](http://dados.gov.br/paginas/instrucao-normativa-da-inda), que cria a INDA e estabelece conceitos referentes a dado, informação, dado público, formato aberto, licença aberta, dados abertos e metadado;
 - O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx) , que institui a necessidade de os órgãos de instituírem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e institui os elementos mínimos do documento, bem como orienta  d  o t  d dados  oa de a ro  O [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
 - [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabieletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
-- Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](http://www.planejamento.gov.br/EGD).
+- Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como o Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC, sob orientação da [Estratégia de Governança Digital – EGD](http://www.planejamento.gov.br/EGD).
 
 ## Cenário Institucional
 
@@ -272,7 +272,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Gastos de pessoal com Auxílios** | 12 | 9 | 1 | 2 | 4 | 3 | 5| 8 | 10 |**54** |
 | **Informações sobre Imóveis Funcionais e Permissionários** | 12 | 6 | 3 | 2 | 4 | 3 | 5 | 8 | 10 |**53** |
 | **Catálogo de bases da dados que integram o GovData** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 15 |**49** |
-| **Catálogo de APIs que integram o ConcectaGov** | 4 | 3 | 1 | 6 | 8 | 3 | 15 | 4 | 5 |**49** |
+| **Catálogo de APIs que integram o ConectaGov** | 4 | 3 | 1 | 6 | 8 | 3 | 15 | 4 | 5 |**49** |
 | **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | 15 | 4 | 5 | **48** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 8 | 15 |**45** |
 | **Alterações orçamentárias (créditos)** | 8 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 5 |**43** |
@@ -359,7 +359,7 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
 
 Esta Sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade de lotação, produtos e prazo previsto para disponibilidade do conjunto de dados.
 
-Destaca-se que o MP optou por manter como canal único de comunicação com as entidades externas e o públicos em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro que permite a real governança e controle das dúvidas e problemas na execução destas ações.
+Destaca-se que o MP optou por manter como canal único de comunicação com as entidades externas e o público em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro que permite a real governança e controle das dúvidas e problemas na execução destas ações.
 
 Esta sessão está dividida em 02 Planos de Ações organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
@@ -455,25 +455,6 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
    **Meta/Prazo:** Setembro/2018
 
    **Unidade responsável:** SGP
-
-   **Ponto Focal:** e-Ouv
-### **MP_I_04 - Implementação do Portal de Dados Abertos do MP**
-O Ministério do Planejamento é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
-
-   **Atividade:**
-   1. Instalar ambiente CKAN específico;
-   2. Customizar Arquitetura da informação e Identidade visual do Portal;
-   3. Migrar catalogação dos conjuntos de dados do dados.gov.br para ao portal específico;
-   4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
-
-   **Produtos:**
-   1. Ambiente CKAN online exclusivo;
-   2. Identidade visual específica;
-   3. Metadados Migrados;
-   
-   **Meta/Prazo:** XXXXXX/2018
-
-   **Unidade responsável:** Ouvidoria/SETIC
 
    **Ponto Focal:** e-Ouv
 
@@ -771,6 +752,26 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 
 ## 2. Plano de Ação - Melhoria dos Dados
 
+
+### **MP_I_0X - Implementação do Portal de Dados Abertos do MP**
+O Ministério do Planejamento é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
+
+   **Atividade:**
+   1. Instalar ambiente CKAN específico;
+   2. Customizar Arquitetura da informação e Identidade visual do Portal;
+   3. Migrar catalogação dos conjuntos de dados do dados.gov.br para ao portal específico;
+   4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
+
+   **Produtos:**
+   1. Ambiente CKAN online exclusivo;
+   2. Identidade visual específica;
+   3. Metadados Migrados;
+   
+   **Meta/Prazo:** XXXXXX/2018 ==definir com a Deiop/Setic==
+
+   **Unidade responsável:** Ouvidoria/SETIC
+
+   **Ponto Focal:** e-Ouv
 
 ### **MP_M_01 - Dados referentes aos Financiamentos  Externos do Setor Público** ==validar==
 
