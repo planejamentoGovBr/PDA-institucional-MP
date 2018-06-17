@@ -1655,7 +1655,7 @@ body > header.masthead #news {
           width: 20px; /*saint> */
           overflow: hidden;
           background-position: 0 0;
-          background-image: url("http://dados.gov.br/img/bg/bts_redes_brancos.png"); /* get from main dados.gov.br site */
+          background-image: url("../public/img/bts_redes_azuis.png"); /* get from main dados.gov.br site */
           display: block;
           padding-top: 35px;
        }
@@ -2155,22 +2155,18 @@ body.no-sidebar .row .content-outer {
     display: inline;
 }
 
-#accessibility a,
-#accessibility a:hover,
-#accessibility a:active,
-#accessibility a:visited,
-#accessibility a:focus
-{
-    color: rgb(220, 255, 227);
+#accessibility a, #accessibility a:hover, #accessibility a:active, #accessibility a:visited, #accessibility a:focus {
+    color: rgb(255, 255, 255) !important;
     font-family: 'Open Sans',Arial,Helvetica,sans-serif;
     font-size: 0.9em;
-    text-decoration:none;
+    text-decoration: none;
 }
 
 #accessibility span {
-    background: #34378F;
+    background: #569bde70;
     color: #fff;
     padding: 0 4px;
+    border-radius: 4px;
 }
 
 #accessibility a {
@@ -2218,13 +2214,14 @@ body.no-sidebar .row .content-outer {
 }
 
 #menu-de-navegacao {
-	width: 100%;
-	display: block;
-	clear: both;
-	list-style: none;
-	padding: 0;
-	margin: 0;
-	text-align: right;
+    width: 100%;
+    display: block;
+    clear: both;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    background: #09316773;
 }
 
 #menu-de-navegacao li {
@@ -2233,7 +2230,13 @@ body.no-sidebar .row .content-outer {
 }
 
 header.masthead .container {
-    background-image: url("../public/img/mask_group.svg");
+    background-image: url(../public/img/mask_group.svg);
     background-position: right center;
     background-repeat: no-repeat;
+    margin-top: -14px;
+    padding-top: 15px;
+}
+
+#main_content a:hover {
+    color: #3F51B5;
 }
