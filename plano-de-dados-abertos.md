@@ -861,7 +861,7 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 ### **MP_M_05 - Estruturação do Inventário de Bases de Dados** 
 O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das decisões de médio e longo prazo.
-Esta ação tem como objetivo principal garantir o aprimoramento do inventário, identificando os conjuntos de dados pertecentes as bases já disponibiliziadas e, principalmente identificando as informações que ainda carecem ser disponibiliziadas  "qualificar a produção do PDA para o ciclo seguinte (2020 e 2021)". Em outras palavras, é uma ação preparatória para o próximo ciclo de planejamento.
+Esta ação tem como objetivo principal garantir o aprimoramento do inventário, identificando os conjuntos de dados pertencentes as bases já disponibilizadas e, principalmente identificando as informações que ainda carecem ser disponibilizadas  "qualificando-as para comporem o PDA para o ciclo seguinte (2020 e 2021)". Em outras palavras, é uma ação preparatória para o próximo ciclo de planejamento.
 
 **Atividade:**
 1. Estudo para levantamento das bases de dados através do portólio de sistemas, aplicativos, painéis/dashboards, etc;
@@ -923,7 +923,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTM4OTQ2LDI0NjY3ODQ3MiwxMjcxND
-I3OTQxLC00MDE3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5Nzcx
-LC0xMzM3MzExMjIyXX0=
+eyJoaXN0b3J5IjpbMTc0NzY2MzI0MCwyNDY2Nzg0NzIsMTI3MT
+QyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYzMTIsLTk3NTE0OTc3
+MSwtMTMzNzMxMTIyMl19
 -->
