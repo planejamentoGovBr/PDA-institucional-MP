@@ -750,7 +750,7 @@ Dados de Previdência Complementar dos servidores do Poder Executivo Civil
 ## 2. Plano de Ação - Melhoria dos Dados
 
 
-### **MP_I_0X - Implementação do Portal de Dados Abertos do MP**
+### **MP_I_01X - Implementação do Portal de Dados Abertos do MP**
 O Ministério do Planejamento é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
 
    **Atividade:**
@@ -910,5 +910,6 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
+eyJoaXN0b3J5IjpbMTA5NDgxNjQsLTk3NTE0OTc3MSwtMTMzNz
+MxMTIyMl19
 -->
