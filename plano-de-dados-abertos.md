@@ -379,7 +379,7 @@ Esta sessão está dividida em 02 Planos de Ações organizados conforme abaixo:
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
 
-### **MP_I_01 - Dados Referente a Arrecadação Patrimonial**
+### **MP_I_01 - Patrimônio União - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
 
    **Atividade:**
@@ -398,7 +398,7 @@ Informações sobre a arrecadação anual aferidas pela União a título de arre
 
    **Ponto Focal:** e-Ouv
 
-### **MP_I_02 - Dados Referente aos Imóveis Funcionais da União**
+### **MP_I_02 - Patrimônio União - Imóveis Funcionais da União**
 Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
 **Atividade:**
@@ -418,7 +418,7 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
 
    **Ponto Focal:** e-Ouv
 
-### **MP_I_03 - Dados Referentes aos valores de depreciação de imóveis**
+### **MP_I_03 - Patrimônio União - Valores de depreciação de imóveis**
 Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de propriedade da União no transcurso de sua vida útil.
 
    **Atividade:**
@@ -437,7 +437,7 @@ Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causand
 
    **Ponto Focal:** e-Ouv
 
-### **MP_I_04 - Dados de Pessoal do Executivo Federal - Cargos Vagos**
+### **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
 A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
    **Atividade:**
@@ -911,6 +911,6 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTE1MjA0NywtNDAxNzc1MTE4LDE5Mj
+eyJoaXN0b3J5IjpbMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5Mj
 QwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
