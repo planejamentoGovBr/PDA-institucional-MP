@@ -586,9 +586,9 @@ Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os 
 
 **Ponto Focal:** e-Ouv
 
-### **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - GovData**
+### **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
 
-O [GovData](http://govdata.gov.br/) disponibiliza uma infraestrutura de Datalake, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
+O GovData disponibiliza uma infraestrutura de Datalake, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
 
 Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados que integram a plataforma.
 
