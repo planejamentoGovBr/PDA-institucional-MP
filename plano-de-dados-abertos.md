@@ -11,7 +11,6 @@ desc: Este é o Plano de Dados Abertos do Ministério do Planejamento.
 
 ----------
 
-{:toc}
 
 Versão α - RASCUNHO [2.x.9](https://github.com/planejamentogovbr/PDA-institucional-MP/releases/xxxxxx) de julho/18 - Vigência 2018/2019
 
