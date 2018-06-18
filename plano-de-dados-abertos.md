@@ -363,7 +363,7 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
 
 Esta Sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados.
 
-Destaca-se que o MP optou por manter como canal único de comunicação com as entidades externas e o público em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro que permite a real governança e controle das dúvidas e problemas na execução destas ações.
+Destaca-se que o MP optou por manter como canal único de comunicação com as entidades externas e o público em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução destas ações.
 
 Esta sessão está dividida em 02 Planos de Ações organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
@@ -911,7 +911,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkwOTk3MTQsMTI3MTQyNzk0MSwtND
-AxNzc1MTE4LDE5MjQwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMx
-MTIyMl19
+eyJoaXN0b3J5IjpbLTM4ODE0NTIyMiwxMjcxNDI3OTQxLC00MD
+E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
+MjIyXX0=
 -->
