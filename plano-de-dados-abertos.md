@@ -770,7 +770,7 @@ O Ministério do Planejamento é o órgão responsável pela política de dados 
 
    **Ponto Focal:** e-Ouv
 
-### **MP_M_02 - Financiamentos  Externos do Setor Público** ==validar==
+### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** ==validar==
 
 Os financiamentos externo junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
@@ -910,6 +910,6 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMz
-M3MzExMjIyXX0=
+eyJoaXN0b3J5IjpbLTE4MTAxMDYxMzUsMTkyNDA4NjMxMiwtOT
+c1MTQ5NzcxLC0xMzM3MzExMjIyXX0=
 -->
