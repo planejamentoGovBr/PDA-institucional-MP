@@ -654,9 +654,7 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 **Ponto Focal:** e-Ouv
 
 ### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
-Objetivando o avanço na seara da transparência da gestão admnistrativa e financeira do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
-
-
+Objetivando o avanço na seara da transparência da gestão administrativa e financeira do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
@@ -737,10 +735,10 @@ Captação física das ações que compõem o orçamento sendo executado
 **Ponto Focal:** e-Ouv
 
 ### **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
-Dados de Previdência Complementar dos servidores do Poder Executivo Civil
+Objetivando o  avanço na seara da transparência da gestão administrativa e financeira do Governo Federal, e e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
 
 **Atividade:**
-1. Seleção da base de dados de Sevidores Ativos;
+1. Seleção da base de dados de Servidores Ativos;
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
 4. Atualização do catálago de Serviços;
@@ -924,7 +922,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjE2MTM0LDE3NDc2NjMyNDAsMjQ2Nj
-c4NDcyLDEyNzE0Mjc5NDEsLTQwMTc3NTExOCwxOTI0MDg2MzEy
-LC05NzUxNDk3NzEsLTEzMzczMTEyMjJdfQ==
+eyJoaXN0b3J5IjpbLTIwODEzNjIzNjMsMTc0NzY2MzI0MCwyND
+Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
+MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
