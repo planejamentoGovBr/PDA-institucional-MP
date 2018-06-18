@@ -11,6 +11,8 @@ desc: Este é o Plano de Dados Abertos do Ministério do Planejamento.
 
 ----------
 
+{:toc}
+
 Versão α - RASCUNHO [2.x.9](https://github.com/planejamentogovbr/PDA-institucional-MP/releases/xxxxxx) de julho/18 - Vigência 2018/2019
 
 
@@ -667,18 +669,8 @@ Dados sobre os Auxílios pagos pelo Poder Executivo Civil, como Auxílio transpo
 
 
 ### **MP_I_14 - Boletim das Empresas Estatais Federais**
-Dados consolidados das Empresas Estatais Federais publicados trimestralmente no "Boletim das Estatais", abrangendo:  
-- Perfil das Estatais;  
-- Orçamento das Estatais;  
-- Governança e Avaliação das Estatais;  
-- Política de Pessoal e Previdência das Estatais.  
-As fontes dos dados são as seguintes:  
-- Informações divulgadas pelas próprias Empresas Estatais.  
-- Sistema de Informação das Estatais (SIEST);  
-- Sistema Integrado de Planejamento e Orçamento do Governo Federal (SIOP).  
-O "Boletim das Estatais" atualmente é publicado trimestralmente em formato PDF está disponível no site do MPDG:  
-http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais-dest
 
+O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secretaria de Coordenação e Governança das Empresas Estatais (SEST), do Ministério do Planejamento, Desenvolvimento e Gestão, e atualmente é publicado [em formato PDF](http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais-dest). O Boletim reúne dados das Empresas Estatais Federais constantes no Programa de Dispêndios Globais ([PDG](http://www.planejamento.gov.br/assuntos/empresas-estatais/dados-e-estatisticas/programa-de-dispendios-globais-pdg)), no Orçamento de Investimento (OI), no Perfil de Pessoal das Estatais ([PPE](http://www.planejamento.gov.br/assuntos/empresas-estatais/sistemas/documentacao-e-normas/modulo-ppe)) e demais informações divulgadas pelas próprias empresas. Entre as fontes utilizadas estão: o Sistema de Informação das Estatais ([SIEST](https://siest.planejamento.gov.br/gerta/public/pages/login/login.jsp)) e o Sistema Integrado de Planejamento e Orçamento do Governo Federal ([SIOP](https://www.siop.planejamento.gov.br/siop/)).
 
 **Atividade:**
 1. Seleção da base de dados e extração a partir do SIEST e SIOP em formato CSV;
