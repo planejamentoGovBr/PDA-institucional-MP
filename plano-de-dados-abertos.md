@@ -510,7 +510,10 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 
 
 ### **MP_I_07 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
-Vinculação dos Programas Federais com os atributos do PPA 2012-2015, junto com informações sobre como fazer acesso aos Programas Federais
+Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
+
+O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
+Esse conjunto de dados contempla a relação de Programas Federais que possuem alguma relação com atributos do PPA 2012-2015, além de informações como regras de adesão aos Programas, contatos e links para mais informações.
 
 **Atividade:**
 1. Disponibilização do PPA Mais Brasil e da base de dados original em ambiente de teste pela SETIC;
