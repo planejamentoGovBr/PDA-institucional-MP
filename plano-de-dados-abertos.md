@@ -502,7 +502,7 @@ O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisó
 
 
 ### **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
-Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019
+Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
 
 **Atividade:**
 1.  Atualização da base de dados original com as informações de 2017;
@@ -783,8 +783,7 @@ O Ministério do Planejamento é o órgão responsável pela política de dados 
 
    **Ponto Focal:** e-Ouv
 
-### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** ==validar==
-
+### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
 Os financiamentos externo junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
@@ -924,7 +923,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTcyNjI4NywxMjcxNDI3OTQxLC00MD
-E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
-MjIyXX0=
+eyJoaXN0b3J5IjpbLTIwMzQ2MDQyMDYsMTI3MTQyNzk0MSwtND
+AxNzc1MTE4LDE5MjQwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMx
+MTIyMl19
 -->
