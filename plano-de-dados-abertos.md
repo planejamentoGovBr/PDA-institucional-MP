@@ -172,7 +172,7 @@ Vislumbrando os desafios de caráter tecnológico para implementação deste pla
 
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
-== incluir paragrafos dos portais de gestão==
+==incluir paragrafos dos portais de gestão==
 •	Compras governamentais
 	https://www.comprasgovernamentais.gov.br/index.php/painel-de-compras-de-governo
 	http://paineldecompras.planejamento.gov.br
@@ -229,7 +229,7 @@ Atendendo a premissa de procurar disponibilizar os dados considerados mais relev
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
 
-As demais Bases do Inventário, que não farão parte deste plano, serão melhor trabalhadas no Plano de Ação de Melhoria (Sessão VI) item **MP_M_05 - Estruturação do Inventário de Bases de Dados** subsidiando a elaboração do próxmo PDA 2020-2021. 
+As demais Bases do Inventário, que não farão parte deste plano, serão melhor trabalhadas no Plano de Ação de Melhoria (Sessão VI) item **MP_M_05 - Estruturação do Inventário de Bases de Dados** subsidiando a elaboração do próximo PDA 2020-2021. 
 
 **d) Consulta Pública**
 
@@ -924,7 +924,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDMxODUyNiwxMjcxNDI3OTQxLC00MD
+eyJoaXN0b3J5IjpbMTI2OTcyNjI4NywxMjcxNDI3OTQxLC00MD
 E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
 MjIyXX0=
 -->
