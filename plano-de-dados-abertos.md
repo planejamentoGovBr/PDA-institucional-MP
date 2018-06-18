@@ -172,6 +172,8 @@ Vislumbrando os desafios de caráter tecnológico para implementação deste pla
 
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
+== incluir pargrafos dos portais de gestão==
+
  ----------
 # **III. Definição das Ações de Abertura e Melhoria de Dados**
 
@@ -911,7 +913,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTAxMzA3OCwxMjcxNDI3OTQxLC00MD
+eyJoaXN0b3J5IjpbLTMwMjQ1NzgyOSwxMjcxNDI3OTQxLC00MD
 E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
 MjIyXX0=
 -->
