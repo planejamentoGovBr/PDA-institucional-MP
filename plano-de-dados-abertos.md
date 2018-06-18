@@ -488,7 +488,7 @@ O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisó
 **Ponto Focal:** e-Ouv
 
 
-### **MP_I_06 - PPA 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+### **MP_I_06 - Plano Plurianual (PPA) 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019
 
 **Atividade:**
@@ -511,7 +511,7 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 **Ponto Focal:** e-Ouv
 
 
-### **MP_I_07 - PPA 2012-2015 - Vinculação atributos com os Programas Federais**
+### **MP_I_07 - Plano Plurianual (PPA) 2012-2015 - Vinculação atributos com os Programas Federais**
 Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
 
 O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
@@ -911,7 +911,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDc3NjU3OCwxMjcxNDI3OTQxLC00MD
+eyJoaXN0b3J5IjpbMTk1NDU5NTk0MCwxMjcxNDI3OTQxLC00MD
 E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
 MjIyXX0=
 -->
