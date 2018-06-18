@@ -615,8 +615,8 @@ Relação de quais são os serviços que integram o catálogo de APIs para inter
 
 **Ponto Focal:** e-Ouv
 
-### **MP_I_12 - Sistema de Transportes de Servidores Públicos - TaxiGov**
-Base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Disponibilizaremos sem a identificação pessoal dos pontos de partidas e de chegada - em formato aberto - e com dados agregados em paineis.
+### **MP_I_12 - Serviço de Transportes Local - TaxiGov**
+O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Disponibilizaremos sem a identificação pessoal dos pontos de partidas e de chegada - em formato aberto - e com dados agregados em paineis.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -911,6 +911,6 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTc3NTExOCwxOTI0MDg2MzEyLC05Nz
-UxNDk3NzEsLTEzMzczMTEyMjJdfQ==
+eyJoaXN0b3J5IjpbLTI2NDg3NDgxNywtNDAxNzc1MTE4LDE5Mj
+QwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
