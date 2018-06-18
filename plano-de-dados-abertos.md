@@ -273,7 +273,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Vinculação dos Programas Federais com atributos PPA 2012-2015** | 8 | 3 | 1 | 6 | 4 | 3 | 10 | 4 | 15 |**54** |
 | **Gastos de pessoal com Auxílios** | 12 | 9 | 1 | 2 | 4 | 3 | 5| 8 | 10 |**54** |
 | **Informações sobre Imóveis Funcionais e Permissionários** | 12 | 6 | 3 | 2 | 4 | 3 | 5 | 8 | 10 |**53** |
-| **Catálogo de bases da dados que integram o GovData** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 15 |**49** |
+| **Plataforma de Análise de Dados da Administração Pública - GovData** | 4 | 3 | 1 | 6 | 8 | 3 | 5 | 4 | 15 |**49** |
 | **Catálogo de APIs que integram o ConectaGov** | 4 | 3 | 1 | 6 | 8 | 3 | 15 | 4 | 5 |**49** |
 | **Informações do Projeto de Lei de Diretrizes Orçamentárias** | 8 | 6 | 1 | 2 | 4 | 3 | 15 | 4 | 5 | **48** |
 | **Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 8 | 15 |**45** |
@@ -536,20 +536,20 @@ Esse conjunto de dados contempla a relação de Programas Federais que possuem a
 
 **Ponto Focal:** e-Ouv
 
-### **MP_I_08 - Catálogo de conjuntos de dados que integram o Portal de Dados Abertos (CKAN)**
-Relação de quais são os conjuntos de dados que integram o Portal
+### **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
 
+O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez possibilita automatizar o acesso ao catálogo através de APIs. Com isso é possível acessar detalhes dos metadados.
 
 **Atividade:**
-1. Validar as informações a serem disponibilizadas;  
-2. Publicar dados em formato de dados abertos.
+1. Validar as informações a serem disponibilizadas via API;
+2. Catalogar no Portal de dados abertos;
 
 **Produtos:**
-Catalogar no Portal Brasileiro de Dados Abertos
+1. Conjunto de dados disponível no Portal Brasileiro de Dados Abertos
 
-**Frequência de Atualização:** Mensal
+**Frequência de Atualização:** Tempo real
 
-**Meta/Prazo:** Novembro/2018
+**Meta/Prazo:** Setembro/2018
 
 **Unidade responsável:** SETIC
 
@@ -574,32 +574,37 @@ Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os 
 
 **Ponto Focal:** e-Ouv
 
-### **MP_I_10 - Catálogo de bases da dados que integram o GovData**
-Relação de quais são as bases de dados que integram a plataforma de análise de dados
+### **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - GovData**
+
+O [GovData](http://govdata.gov.br/) disponibiliza uma infraestrutura de Datalake, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
+
+Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados que integram a plataforma.
 
 
 **Atividade:**
-1. Validar as informações a serem disponibilizadas;  
-2. Publicar dados em formato de dados abertos.
+1. Validar as informações a serem disponibilizadas;
+2. Catalogar no Portal de dados abertos;
 
 **Produtos:**
-1. Catalogar no Portal Brasileiro de Dados Abertos
+1. Conjunto de dados disponível no Portal Brasileiro de Dados Abertos
 
-**Frequência de Atualização:** Mensal
+**Frequência de Atualização:** Tempo real
 
-**Meta/Prazo:** Fevereiro/2019
+**Meta/Prazo:** Setembro/2018
 
 **Unidade responsável:** SETIC
 
 **Ponto Focal:** e-Ouv
 
-### **MP_I_11 - Catálogo de APIs que integram o ConcectaGov**
-Relação de quais são os serviços que integram o catálogo de APIs para interoperabilidade
+### **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
 
+O ConectaGov é uma plataforma de gestão de APIs governamentais que pretende simplificar e aprimorar o desenvolvimento e uso de APIs pelos (e para os) órgãos federais que compõem o [SISP](http://sisp.gov.br/). 
+
+Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 
 **Atividade:**
-1. Construir e executar o processo de extração e carga dos dados;  
-2. Validar as informações a serem disponibilizadas;  
+1. Construir e executar o processo de extração e carga dos dados;
+2. Validar as informações a serem disponibilizadas;
 3. Publicar dados em formato de dados abertos.
 
 **Produtos:**
