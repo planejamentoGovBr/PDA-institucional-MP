@@ -810,7 +810,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 
 ### **MP_M_03 - Viagens a Serviço do Governo Federal** ==validar==
-Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, a Secretaria Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessão de Diárias e Passagens (SCDP).
+Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, O MP planejou uma melhoria agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos.
 #### Ofertar um conjunto de dados ainda não disponíveis para a sociedade referente ao processo de passagens e diárias do Governo Federal e que atualmente demanda-se bastante por diversos meios.
 
 **Atividade:**
@@ -923,7 +923,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjQ0NzQ0MiwxMjcxNDI3OTQxLC00MD
-E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
-MjIyXX0=
+eyJoaXN0b3J5IjpbMjQ2Njc4NDcyLDEyNzE0Mjc5NDEsLTQwMT
+c3NTExOCwxOTI0MDg2MzEyLC05NzUxNDk3NzEsLTEzMzczMTEy
+MjJdfQ==
 -->
