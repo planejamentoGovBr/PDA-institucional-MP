@@ -462,7 +462,7 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
 
    **Ponto Focal:** e-Ouv
 
-### **MP_I_05 - Dados de Pessoal do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
+### **MP_I_05 - Servidores do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017.  O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
 **Atividade:**
@@ -511,7 +511,7 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 **Ponto Focal:** e-Ouv
 
 
-### **MP_I_07 - PPA 2012-2015 - Vinculação dos Programas Federais com atributos PPA 2012-2015**
+### **MP_I_07 - PPA 2012-2015 - Vinculação atributos com os Programas Federais**
 Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
 
 O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
@@ -911,6 +911,6 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjYzNDUzMSwtNDAxNzc1MTE4LDE5Mj
+eyJoaXN0b3J5IjpbMTE5OTE1MjA0NywtNDAxNzc1MTE4LDE5Mj
 QwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
