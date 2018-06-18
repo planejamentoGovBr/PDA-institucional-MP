@@ -453,10 +453,6 @@ Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causand
 ### **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
 Objetivando o  avanço na seara da transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
-,�c�
-
-A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
-
    **Atividade:**
    1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
    2. Desenvolvimento de serviço;
@@ -480,7 +476,7 @@ A consulta refere-se aos cargos efetivos vagos do Poder Executivo Federal Civil,
    **Ponto Focal:** e-Ouv
 
 ### **MP_I_05 - Servidores do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
-O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017.  O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
+O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiência no serviço público, ao tempo em que busca soluções para a racionalização dos gastos públicos, visando obter crescimento econômico necessário, cuidando de suas atividades precípuas. Dentre essas medidas, inclui-se o PDV, que é um programa de adesão voluntária do servidor público ocupante do cargo efetivo da Administração Pública Federal direta, autárquica e fundacional. O PDV tem como objetivo a diminuição de gastos com pessoal por meio de estímulo à ruptura do vínculo funcional com a União, mediante mecanismo de incentivo financeiro. O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017. O conjunto de dados apresentados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
 **Atividade:**
 1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
@@ -658,7 +654,8 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 **Ponto Focal:** e-Ouv
 
 ### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
-Dados sobre os Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
+Objetivando o avanço na seara da transparência da gestão admnistrativa e financeira do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
+
 
 
 **Atividade:**
@@ -927,7 +924,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI4MjcyMDgsMTc0NzY2MzI0MCwyND
-Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
-MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
+eyJoaXN0b3J5IjpbLTk2MjE2MTM0LDE3NDc2NjMyNDAsMjQ2Nj
+c4NDcyLDEyNzE0Mjc5NDEsLTQwMTc3NTExOCwxOTI0MDg2MzEy
+LC05NzUxNDk3NzEsLTEzMzczMTEyMjJdfQ==
 -->
