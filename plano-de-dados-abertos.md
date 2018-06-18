@@ -797,7 +797,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 
 
-### **MP_M_04 - Viagens a Serviço do Governo Federal** ==validar==
+### **MP_M_03 - Viagens a Serviço do Governo Federal** ==validar==
 Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessão de Diárias e Passagens (SCDP).
 #### Ofertar um conjunto de dados ainda não disponíveis para a sociedade referente ao processo de passagens e diárias do Governo Federal e que atualmente demanda-se bastante por diversos meios.
 
@@ -824,7 +824,7 @@ Dados das viagens a serviço do Governo Federal oriundos do Sistema de Concessã
 
 **Ponto Focal:** e-Ouv
 
-### **MP_M_0X - Revisão dos Metadados dos Conjutos de Dados** ==validar==
+### **MP_M_04 - Revisão dos Metadados dos Conjutos de Dados** ==validar==
 O Ministério do Planejamento realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
@@ -847,7 +847,7 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 **Ponto Focal:** e-Ouv
 
-### **MP_M_0X - Estruturação do Inventário de Bases de Dados** ==validar==
+### **MP_M_05 - Estruturação do Inventário de Bases de Dados** ==validar==
 O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das deciões de médio e longo prazo.
 Esta ação tem como objetivo principal garantir o aprimoramento do inventário para "qualificar a produção do PDA para o ciclo seguinte (2020 e 2021)". Em outras palavras, é uma ação preparatória para o próximo ciclo de planejamento.
 
@@ -911,7 +911,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzEzMjU4NSwxMjcxNDI3OTQxLC00MD
+eyJoaXN0b3J5IjpbMjEzOTk3MDIwNywxMjcxNDI3OTQxLC00MD
 E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
 MjIyXX0=
 -->
