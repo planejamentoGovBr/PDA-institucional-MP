@@ -216,7 +216,7 @@ Atendendo a premissa de procurar disponibilizar os dados considerados mais relev
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
 
-As demais Bases do Inventário que não farão parte deste plano serão considerados no próximo PDA 2020-2021. ==melhorar redação falando do plano de ação de revisão do inventario==
+As demais Bases do Inventário que não farão parte deste plano serão consideradas melhor trabalhadas no Plano de Ação deno próximo PDA 2020-2021. ==melhorar redação falando do plano de ação de revisão do inventario==
 
 **d) Consulta Pública**
 
@@ -911,7 +911,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM3MjY1NzQsMTI3MTQyNzk0MSwtND
-AxNzc1MTE4LDE5MjQwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMx
-MTIyMl19
+eyJoaXN0b3J5IjpbLTMyMzEzMjU4NSwxMjcxNDI3OTQxLC00MD
+E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
+MjIyXX0=
 -->
