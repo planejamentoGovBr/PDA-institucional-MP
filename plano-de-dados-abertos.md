@@ -361,7 +361,7 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
  ----------
 # **VI. Plano de Ação**
 
-Esta Sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade de lotação, produtos e prazo previsto para disponibilidade do conjunto de dados.
+Esta Sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados.
 
 Destaca-se que o MP optou por manter como canal único de comunicação com as entidades externas e o público em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro que permite a real governança e controle das dúvidas e problemas na execução destas ações.
 
@@ -488,7 +488,7 @@ O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisó
 **Ponto Focal:** e-Ouv
 
 
-### **MP_I_06 - Plano Plurianual (PPA) 2016-2019 - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+### **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019
 
 **Atividade:**
@@ -511,7 +511,7 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 **Ponto Focal:** e-Ouv
 
 
-### **MP_I_07 - Plano Plurianual (PPA) 2012-2015 - Vinculação atributos com os Programas Federais**
+### **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
 Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
 
 O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
@@ -911,7 +911,7 @@ eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
 eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDU5NTk0MCwxMjcxNDI3OTQxLC00MD
-E3NzUxMTgsMTkyNDA4NjMxMiwtOTc1MTQ5NzcxLC0xMzM3MzEx
-MjIyXX0=
+eyJoaXN0b3J5IjpbLTIxMzkwOTk3MTQsMTI3MTQyNzk0MSwtND
+AxNzc1MTE4LDE5MjQwODYzMTIsLTk3NTE0OTc3MSwtMTMzNzMx
+MTIyMl19
 -->
