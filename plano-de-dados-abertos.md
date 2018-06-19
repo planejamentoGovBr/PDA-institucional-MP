@@ -195,7 +195,7 @@ Para definição dos dados que serão abertos na vigência deste PDA, foi realiz
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação além da realização de uma consulta pública. 
 
 ### Identificação de Conjunto de Dados
-Para melhor detalhar o processo de identificação de Conjunto de Dados apresentamos divididos nos itens abaixo:
+Para melhor detalhar o processo de identificação de conjunto de dados apresentamos dividindo-o nos itens abaixo:
 
 **a) Grupo representantes de todas as áreas**
 
@@ -923,6 +923,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzczODcwNywtNzQ3NTY5Njg0LC0xND
+eyJoaXN0b3J5IjpbLTY1Mzk3ODU4NiwtNzQ3NTY5Njg0LC0xND
 k0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
