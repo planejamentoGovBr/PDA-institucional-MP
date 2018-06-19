@@ -733,7 +733,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 4. Dados a serem publicados;
 5. Dados publicados e disponibilizados.
 
-**Frequência de Atualização:** XXXXXX
+**Frequência de Atualização:** ==XXXXXX==
 
 **Meta/Prazo:** Dezembro/2019
 
@@ -762,10 +762,9 @@ O Ministério do Planejamento é o órgão responsável pela política de dados 
 
    **Unidade responsável:** Ouvidoria/SETIC
 
-   **Ponto Focal:** e-Ouv
-
+  
 ### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
-Os financiamentos externo junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
+Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
 
@@ -785,9 +784,6 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 **Meta/Prazo:** Agosto/2018
 
 **Unidade responsável:** SEAIN
-
-**Ponto Focal:** e-Ouv
-
 
 
 ### **MP_M_03 - Viagens a Serviço do Governo Federal** ==validar==
@@ -815,9 +811,7 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 
 **Unidade responsável:** SEGES
 
-**Ponto Focal:** e-Ouv
-
-### **MP_M_04 - Revisão dos Metadados dos Conjutos de Dados** ==validar==
+### **MP_M_04 - Revisão dos Metadados dos Conjutos de Dados** 
 O Ministério do Planejamento realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
@@ -909,7 +903,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTc2MTM3OSwtMTE2MjYwOTE5MSwyMT
-AyMzI4MTk4LC0xMzYyNjkzNTg0LC03NDc1Njk2ODQsLTE0OTQy
-NjE5NTEsNDU2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbLTE3ODgxMjA5NiwtNDExNzYxMzc5LC0xMT
+YyNjA5MTkxLDIxMDIzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2
+OTY4NCwtMTQ5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
 -->
