@@ -891,13 +891,18 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **SOF:** Secretaria de Orçamento Federal
 **SEAIN:** Secretaria de Assuntos Internacionais
 **SEGES:** Secretaria de Gestão
-**SETIC:** Secretaria de Tecnologia da Informação e C
+**SETIC:** Secretaria de Tecnologia da Informação e Comunicação
+**SGP:** Secretaria de gestão de Pessoas
+**SPU:** Secretaria de Patrimônio da União
+**SDI:** Secretaria de Desenvolvimento da Infraestrutura
+**SEST:** SECRETARIA DE COORDENAÇÃO E GOVERNANÇA DAS EMPRESAS ESTATAIS
+
 
 **COFIEX:** Comissão de Financiamento Externo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzkyMTU5NCwxNDA2MzIzMTUwLC00MT
+eyJoaXN0b3J5IjpbMTM4NjI4MTE4MywxNDA2MzIzMTUwLC00MT
 E3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5
 MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV
 19
