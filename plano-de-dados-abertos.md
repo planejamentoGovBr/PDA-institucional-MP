@@ -638,10 +638,8 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 
 **Unidade responsável:** SEGES
 
-**Ponto Focal:** e-Ouv
-
 ### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
-Objetivando o avanço na seara da transparência da gestão administrativa e financeira do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
+Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
@@ -914,7 +912,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NDA5ODk2LC0xMTYyNjA5MTkxLDIxMD
-IzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2OTY4NCwtMTQ5NDI2
-MTk1MSw0NTYyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTA1MTQxODYsLTExNjI2MDkxOTEsMj
+EwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0
+MjYxOTUxLDQ1NjIyMzI5MV19
 -->
