@@ -881,16 +881,16 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Linked Data:** conjunto de boas práticas para publicação de dados estruturados de maneira a facilitar seu compartilhamento e integração;
 
-**Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso;
+**Dados ou informação Geoespacial:** aquele que se distingue essencialmente pela componente espacial, que associa a cada entidade ou fenômeno uma localização na Terra, traduzida por sistema geodésico de referência, em dado instante ou período de tempo, podendo ser derivado, entre outras fontes, das tecnologias de levantamento, inclusive as associadas a sistemas globais de posicionamento apoiados por satélites, bem como de mapeamento ou de sensoriamento remoto;
 
-**Metadado:** aquele que se distingue essencialmente pela componente espacial, que associa a cada entidade ou fenômeno uma localização na Terra, traduzida por sistema geodésico de referência, em dado instante ou período de tempo, podendo ser derivado, entre outras fontes, das tecnologias de levantamento, inclusive as associadas a sistemas globais de posicionamento apoiados por satélites, bem como de mapeamento ou de sensoriamento remoto;
-•	Metadados: conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
+**Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
 
 SIGLAS
+**COFIEX:** 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY3Mzk3NjYsLTQxMTc2MTM3OSwtMT
-E2MjYwOTE5MSwyMTAyMzI4MTk4LC0xMzYyNjkzNTg0LC03NDc1
-Njk2ODQsLTE0OTQyNjE5NTEsNDU2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbNzU2MTQ1NzQxLC00MTE3NjEzNzksLTExNj
+I2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5
+Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
