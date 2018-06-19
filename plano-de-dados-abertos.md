@@ -215,11 +215,9 @@ Este trabalho resultou em um relação de bases contendo cerca de 40 sistemas em
 
 Considerando a complexidade do trabalho de certificar se todas as informações disponíveis nas diversas bases geridas no MP, observando os critérios de sigilo, se encontram disponíveis em formato aberto optou-se por planejar esta atividade no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em formato aberto e que farão parte do escopo do próximo PDA 2020-2021. ==revisar texto==
 
-Para direcionar os escopo deste plano atual e atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
+Para direcionar os escopo deste plano atual e atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
-Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
-
-
+Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==incluir planilha da consulta publica==
 
 **d) Consulta Pública**
 
@@ -922,6 +920,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQzOTI5NzYsLTE0OTQyNjE5NTEsND
-U2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbMTg3MDc5MDkwNiwtMTQ5NDI2MTk1MSw0NT
+YyMjMyOTFdfQ==
 -->
