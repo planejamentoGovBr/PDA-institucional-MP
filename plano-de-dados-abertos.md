@@ -534,8 +534,6 @@ Esse conjunto de dados contempla a relação de Programas Federais que possuem a
 
 **Unidade responsável:** SEPLAN
 
-**Ponto Focal:** e-Ouv
-
 ### **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
 
 O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez possibilita automatizar o acesso ao catálogo através de APIs. Com isso é possível acessar detalhes dos metadados.
@@ -553,7 +551,6 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 **Unidade responsável:** SETIC
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_09 - Patrimônio União - Imóveis da Antiga RFFSA**
 Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os contratos do patrimônio da Antiga Rede Ferroviária Federal e que ainda produzem efeitos.
@@ -572,7 +569,6 @@ Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os 
 
 **Unidade responsável:** SPU
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
 
@@ -594,7 +590,6 @@ Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados q
 
 **Unidade responsável:** SETIC
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
 
@@ -618,10 +613,10 @@ Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 
 **Unidade responsável:** SETIC
 
-**Ponto Focal:** e-Ouv
+
 
 ### **MP_I_12 - Serviço de Transportes Local - TaxiGov**
-O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Em atendimento aos critérios de segurança os dados não possuirão a identificação pessoal dos pontos de partidas e de chegada - em formato aberto.
+O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Atendendo os critérios de segurança e sigilo, os dados não possuirão a identificação pessoal dos pontos de partidas e de chegada - em formato aberto.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -919,7 +914,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU4MTU2MjAsLTExNjI2MDkxOTEsMj
-EwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0
-MjYxOTUxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbMjM1NDA5ODk2LC0xMTYyNjA5MTkxLDIxMD
+IzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2OTY4NCwtMTQ5NDI2
+MTk1MSw0NTYyMjMyOTFdfQ==
 -->
