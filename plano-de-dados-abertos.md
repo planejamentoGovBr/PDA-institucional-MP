@@ -188,6 +188,9 @@ Para definição dos dados que serão abertos na vigência deste PDA, foi realiz
 
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação além da realização de uma consulta pública. 
 
+### Identificação de Conjunto de Dados
+Para melhor detalhar o processo de identificação de conjunto de dados apresentamos dividindo-o nos itens abaixo:
+
 **a) Grupo representantes de todas as áreas**
 
 Os representantes das Secretarias do MP se reuniram com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e identificarem novos conjuntos de dados a serem disponibilizados. 
@@ -205,29 +208,17 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
-Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes citados abaixo.   ==inluir link da planilha==
+Este trabalho resultou em um relação de bases contendo cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).
 
-* Sistema Integrado de Planejamento e Orçamento - SIOP;
-* Sistema de Informações das Estatais - SIEST;
-* Sistema Integrado de Administração de Pessoas – SIAPE;
-* Sistema de Informações Organizacionais – SIORG;
-* Sistema Integrado de Administração de Serviços Gerais - SIASG;
-* Sistema de Gestão de Convênios e Contratos de Repasses – SICONV;
-* Sistema Integrado de Administração Patrimonial – SIAPA;
-* Sistema Estruturante de Gestão de diárias e passagens – SCDP
-* Portal de Acesso e módulos de Serviços da SPU - SPUnet
+Considerando a complexidade do trabalho de certificar se todas as informações disponíveis nas diversas bases geridas no MP, observando os critérios de sigilo, se encontram disponíveis em formato aberto optou-se por planejar esta atividade no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em formato aberto e que farão parte do escopo do próximo PDA 2020-2021. ==revisar texto==
 
-Os sistemas estruturantes sob gestão do MP são de uso obrigatório transversal para órgãos da Administração Pública Federal (APF) e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
+Para direcionar os escopo deste plano atual e atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
-Atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
-
-Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
-
-As demais Bases do Inventário, que não farão parte deste plano, serão melhor trabalhadas no Plano de Ação de Melhoria (Sessão VI) item **MP_M_05 - Estruturação do Inventário de Bases de Dados** subsidiando a elaboração do próximo PDA 2020-2021. 
+Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==incluir planilha da consulta publica==
 
 **d) Consulta Pública**
 
-Entre os dias 2 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
+Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
 
 O resultado da consulta pública influenciou na adequação da oferta de informações do Planejamento à demanda da sociedade sobre os dados abertos que constam no presente Plano.
 
@@ -239,7 +230,7 @@ Todo processo de consulta pública foi amplamente divulgado nos seguintes canais
 
 **e) Critérios para priorização das Bases a serem abertas**
 
-Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseados nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
+Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseadas nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
 
 1. Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
 2. Estímulo ao controle social;
@@ -297,7 +288,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios, organização e ajustes par tornar os conjuntos de dados disponíveis cada vez mais acessível a sociedade.
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
 ### Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
@@ -307,7 +298,10 @@ No caso de dados georeferenciados, a atualização do catálogo de metadados da 
  ----------
 # **IV. Sustentação**
 
-A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. A curadoria compreende as seguintes atividades:
+As unidades setoriais (pontos focais), serão os responsáveis pelas informações, e devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
+
+A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. 
+A curadoria compreende as seguintes atividades:
 
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
@@ -316,7 +310,7 @@ A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dad
 
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da SETIC.
 
-Ressalta-se que os responsáveis pelas informações são as unidades setoriais, que devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
+
 
 ## **Governança**
 
@@ -336,15 +330,16 @@ O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de 
  ----------
 # **V. Monitoramento e Controle**
 
-O PDA será acompanhado por Comitê a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
+O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
-O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo como atribuição institucionalizada:
+O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
 2.	Avaliar se as ações adotadas estão aderentes a Política de Dados Abertos;
 3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
 4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
 5.	Monitorar o atendimento as regras da INDA e INDE
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
+7.	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
 ## Comunicação e Participação social
@@ -368,14 +363,11 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
  ----------
 # **VI. Plano de Ação**
 
-Esta Sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados.
-
-Destaca-se que o MP optou por manter como canal único de comunicação com as entidades externas e o público em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
-
-Esta sessão está dividida em 02 Planos de Ações organizados conforme abaixo:
+Esta sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados e está dividida em 02 Planos de Ações organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 
+Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
 ==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
@@ -403,8 +395,7 @@ Informações sobre a arrecadação anual aferidas pela União a título de arre
 
    **Unidade responsável:** SPU
 
-   **Ponto Focal:** e-Ouv
-
+ 
 ### **MP_I_02 - Patrimônio União - Imóveis Funcionais da União**
 Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
@@ -422,7 +413,6 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
    **Meta/Prazo:** Setembro/2018
 
    **Unidade responsável:** SPU
-
    **Ponto Focal:** e-Ouv
 
 ### **MP_I_03 - Patrimônio União - Valores de depreciação de imóveis**
@@ -445,7 +435,7 @@ Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causand
    **Ponto Focal:** e-Ouv
 
 ### **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
-Objetivando o  avanço na seara da transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
+Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
    **Atividade:**
    1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
@@ -467,7 +457,6 @@ Objetivando o  avanço na seara da transparência da gestão administrativa  do 
 
    **Unidade responsável:** SGP
 
-   **Ponto Focal:** e-Ouv
 
 ### **MP_I_05 - Servidores do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiência no serviço público, ao tempo em que busca soluções para a racionalização dos gastos públicos, visando obter crescimento econômico necessário, cuidando de suas atividades precípuas. Dentre essas medidas, inclui-se o PDV, que é um programa de adesão voluntária do servidor público ocupante do cargo efetivo da Administração Pública Federal direta, autárquica e fundacional. O PDV tem como objetivo a diminuição de gastos com pessoal por meio de estímulo à ruptura do vínculo funcional com a União, mediante mecanismo de incentivo financeiro. O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017. O conjunto de dados apresentados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
@@ -492,11 +481,11 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 **Unidade responsável:** SGP
 
-**Ponto Focal:** e-Ouv
+
 
 
 ### **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
-Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
+Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
 
 **Atividade:**
 1.  Atualização da base de dados original com as informações de 2017;
@@ -514,8 +503,6 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 **Meta/Prazo:** Novembro/2018
 
 **Unidade responsável:** SEPLAN
-
-**Ponto Focal:** e-Ouv
 
 
 ### **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
@@ -541,8 +528,6 @@ Esse conjunto de dados contempla a relação de Programas Federais que possuem a
 
 **Unidade responsável:** SEPLAN
 
-**Ponto Focal:** e-Ouv
-
 ### **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
 
 O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez possibilita automatizar o acesso ao catálogo através de APIs. Com isso é possível acessar detalhes dos metadados.
@@ -560,7 +545,6 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 **Unidade responsável:** SETIC
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_09 - Patrimônio União - Imóveis da Antiga RFFSA**
 Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os contratos do patrimônio da Antiga Rede Ferroviária Federal e que ainda produzem efeitos.
@@ -579,7 +563,6 @@ Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os 
 
 **Unidade responsável:** SPU
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
 
@@ -601,7 +584,6 @@ Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados q
 
 **Unidade responsável:** SETIC
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
 
@@ -625,10 +607,10 @@ Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 
 **Unidade responsável:** SETIC
 
-**Ponto Focal:** e-Ouv
+
 
 ### **MP_I_12 - Serviço de Transportes Local - TaxiGov**
-O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Em atendimento aos critérios de segurança os dados não possuirão a identificação pessoal dos pontos de partidas e de chegada - em formato aberto.
+O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Atendendo os critérios de segurança e sigilo, os dados não possuirão a identificação pessoal dos pontos de partidas e de chegada - em formato aberto.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -650,10 +632,8 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 
 **Unidade responsável:** SEGES
 
-**Ponto Focal:** e-Ouv
-
 ### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
-Objetivando o avanço na seara da transparência da gestão administrativa e financeira do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
+Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
@@ -664,19 +644,18 @@ Objetivando o avanço na seara da transparência da gestão administrativa e fin
 
 
 **Produtos:**
-1.Catálago de dados do Executivo Federal com os valores dos auxílios
+1. Catálago de dados do Executivo Federal com os valores dos auxílios
 2. Disponibilização dos Dados de forma automática;
 3. Ambiente preparado;
 4. Dados a serem publicados;
 5. Dados disponibilizados.
 
-**Frequência de Atualização:** Após publicação legislação
+**Frequência de Atualização:** Mensal
 
 **Meta/Prazo:** Julho/2019
 
 **Unidade responsável:** SGP
 
-**Ponto Focal:** e-Ouv
 
 
 ### **MP_I_14 - Empresas Estatais Federais - Boletim**
@@ -707,7 +686,6 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 **Unidade responsável:** SEST
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
 Captação física das ações que compõem o orçamento sendo executado
@@ -731,16 +709,15 @@ Captação física das ações que compõem o orçamento sendo executado
 
 **Unidade responsável:** SOF
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
-Objetivando o  avanço na seara da transparência da gestão administrativa e financeira do Governo Federal, e e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
+Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
 
 **Atividade:**
 1. Seleção da base de dados de Servidores Ativos;
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
-4. Atualização do catálago de Serviços;
+4. Atualização do catálogo de Serviços;
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
@@ -750,7 +727,7 @@ Objetivando o  avanço na seara da transparência da gestão administrativa e fi
 4. Dados a serem publicados;
 5. Dados publicados e disponibilizados.
 
-**Frequência de Atualização:** XXXXXX
+**Frequência de Atualização:** Mensal
 
 **Meta/Prazo:** Dezembro/2019
 
@@ -779,10 +756,9 @@ O Ministério do Planejamento é o órgão responsável pela política de dados 
 
    **Unidade responsável:** Ouvidoria/SETIC
 
-   **Ponto Focal:** e-Ouv
-
+  
 ### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
-Os financiamentos externo junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
+Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
 
@@ -802,9 +778,6 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 **Meta/Prazo:** Agosto/2018
 
 **Unidade responsável:** SEAIN
-
-**Ponto Focal:** e-Ouv
-
 
 
 ### **MP_M_03 - Viagens a Serviço do Governo Federal** ==validar==
@@ -832,16 +805,14 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 
 **Unidade responsável:** SEGES
 
-**Ponto Focal:** e-Ouv
-
-### **MP_M_04 - Revisão dos Metadados dos Conjutos de Dados** ==validar==
+### **MP_M_04 - Revisão dos Metadados dos Conjuntos de Dados** 
 O Ministério do Planejamento realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
 **Atividade:**
 1. Instituir rede dos gestores técnicos responsáveis pelos conjuntos de dados;
-2. Definição de um conjunto de orientações para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incuir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
-3. Realizar oficina de catalogação e brainstorming de melhorias;
+2. Definição de um conjunto de orientações para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incluir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
+3. Realizar oficina de catalogação e *brainstorming* de melhorias;
 4. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
 
 
@@ -904,27 +875,26 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Linked Data:** conjunto de boas práticas para publicação de dados estruturados de maneira a facilitar seu compartilhamento e integração;
 
-**Metadado:** informação que descreve características de determinado dado, explicando-o em certo contexto de uso
+**Dados ou informação Geoespacial:** aquele que se distingue essencialmente pela componente espacial, que associa a cada entidade ou fenômeno uma localização na Terra, traduzida por sistema geodésico de referência, em dado instante ou período de tempo, podendo ser derivado, entre outras fontes, das tecnologias de levantamento, inclusive as associadas a sistemas globais de posicionamento apoiados por satélites, bem como de mapeamento ou de sensoriamento remoto;
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODI1NjQ0MiwtMTY2MDg5Mzg5MCwtMT
-A2NTYzNzUwNCwtMTIzMjU5NjY1OCwtMTU2MzcyMzA1NywzMzA1
-MTY4MDIsLTE5NjM0NDA4NzJdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg5NjcyNzVdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjQwOTMyOF19
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc4NDk3MjBdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEzNjIzNjMsMTc0NzY2MzI0MCwyND
-Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
-MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTI2NjY5NV19
--->
+**Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
+
+
+## SIGLAS ==incluir sistemas==
+**MP:** Ministério do Planejamento, Desenvolvimento e gestão
+**ASCOM:** Assessoria de Comunicação
+**SOF:** Secretaria de Orçamento Federal
+**SEAIN:** Secretaria de Assuntos Internacionais
+**SEGES:** Secretaria de Gestão
+**SETIC:** Secretaria de Tecnologia da Informação e Comunicação
+**SGP:** Secretaria de gestão de Pessoas
+**SPU:** Secretaria de Patrimônio da União
+**SDI:** Secretaria de Desenvolvimento da Infraestrutura
+**SEST:** Secretaria de Coordenação e Governança das Empresas Estatais
+**SEPLAN:** Secretaria de Planejamento e Assuntos Econômicos
+**COFIEX:** Comissão de Financiamento Externo
+**SCDP:**
+**SIGS:**
+**SIAPE:**
+**SIOP:**
+
