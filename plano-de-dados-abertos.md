@@ -639,7 +639,7 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 **Unidade responsável:** SEGES
 
 ### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
-Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa seção disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
+Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
 
 **Atividade:**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
@@ -650,7 +650,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 
 **Produtos:**
-1.Catálago de dados do Executivo Federal com os valores dos auxílios
+1. Catálago de dados do Executivo Federal com os valores dos auxílios
 2. Disponibilização dos Dados de forma automática;
 3. Ambiente preparado;
 4. Dados a serem publicados;
@@ -662,7 +662,6 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 **Unidade responsável:** SGP
 
-**Ponto Focal:** e-Ouv
 
 
 ### **MP_I_14 - Empresas Estatais Federais - Boletim**
@@ -693,7 +692,6 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 **Unidade responsável:** SEST
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
 Captação física das ações que compõem o orçamento sendo executado
@@ -717,10 +715,9 @@ Captação física das ações que compõem o orçamento sendo executado
 
 **Unidade responsável:** SOF
 
-**Ponto Focal:** e-Ouv
 
 ### **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
-Objetivando o  avanço na seara da transparência da gestão administrativa e financeira do Governo Federal, e e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
+Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
 
 **Atividade:**
 1. Seleção da base de dados de Servidores Ativos;
@@ -912,7 +909,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA1MTQxODYsLTExNjI2MDkxOTEsMj
-EwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0
-MjYxOTUxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbLTQxMTc2MTM3OSwtMTE2MjYwOTE5MSwyMT
+AyMzI4MTk4LC0xMzYyNjkzNTg0LC03NDc1Njk2ODQsLTE0OTQy
+NjE5NTEsNDU2MjIzMjkxXX0=
 -->
