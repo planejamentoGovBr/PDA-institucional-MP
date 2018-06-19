@@ -733,7 +733,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 4. Dados a serem publicados;
 5. Dados publicados e disponibilizados.
 
-**Frequência de Atualização:** ==XXXXXX==
+**Frequência de Atualização:** mensalXXXXXX==
 
 **Meta/Prazo:** Dezembro/2019
 
@@ -906,8 +906,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczMDgyOTgsMTAwMzMzOTgwNywxND
-A2MzIzMTUwLC00MTE3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMy
-ODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOT
-UxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbLTE5MDY0OTE2OTgsLTEwNzczMDgyOTgsMT
+AwMzMzOTgwNywxNDA2MzIzMTUwLC00MTE3NjEzNzksLTExNjI2
+MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Nj
+g0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
