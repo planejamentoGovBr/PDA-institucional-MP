@@ -194,6 +194,8 @@ Para definição dos dados que serão abertos na vigência deste PDA, foi realiz
 
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação além da realização de uma consulta pública. 
 
+### Identificação de Conjunto de Dados
+
 **a) Grupo representantes de todas as áreas**
 
 Os representantes das Secretarias do MP se reuniram com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e identificarem novos conjuntos de dados a serem disponibilizados. 
@@ -920,6 +922,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzU2OTY4NCwtMTQ5NDI2MTk1MSw0NT
-YyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTkwMTc2ODc2MywtNzQ3NTY5Njg0LC0xND
+k0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
