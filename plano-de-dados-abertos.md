@@ -91,8 +91,7 @@ O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Plan
 
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
 O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. 
-Destacamos abaixo os temas do Plano de Ação da INDA relacionads a Abertura de Dados.
-
+Destacamos abaixo os temas do Plano de Ação da INDA relacionados a Abertura de Dados:
 * Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
 * Revisão do Manual de Elaboração do Plano de Dados Abertos; 
 * Monitoramento  da Publicação dos Planos de Dados Abertos;
@@ -116,7 +115,7 @@ O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se d
 
 Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados são: 
 
-* [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes. MP.
+* [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
 * [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
 * [Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 * [Compromisso n.º 14](https://www.opengovpartnership.org/current-commitments/14-social-participation-federal-governments-planning-cycle): Ampliar a participação social no PPA por meio do Fórum Interconselhos.
@@ -931,6 +930,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDI2NDc3MywtMTAyMjYxMTEwMCwtMT
+eyJoaXN0b3J5IjpbMTk2NjEyOTA3MSwtMTAyMjYxMTEwMCwtMT
 UzNDMzNjcxMiwxNTc5MjY2Njk1XX0=
 -->
