@@ -211,12 +211,15 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
-Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso transversal da APF.   pela complexidade deste trabalho não foi possível concluir o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
+Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).   
+
+Considerando a complexidade deste trabalho não foi possível concluir o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
+
 Para dar continuidade a este trabalho foi detalhado no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em fromato aberto e que farão parte do escopo do próximo PDA 2020-2021. ==revisar texto==
 
-Os sistemas estruturantes sob gestão do MP são de uso obrigatório transversal para órgãos da Administração Pública Federal (APF) e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
+Os sistemas estruturantes sob gestão do MP são e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
 
-Atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
+Para direcionar os escopo deste plano atualAtendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
 
@@ -923,5 +926,5 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODA3Mjk2MCw0NTYyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NzUwOTAxMCw0NTYyMjMyOTFdfQ==
 -->
