@@ -304,7 +304,7 @@ No caso de dados georeferenciados, a atualização do catálogo de metadados da 
  ----------
 # **IV. Sustentação**
 
-As unidades setoriais, os pontos focais, serão os responsáveis pelas informações, e devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
+As unidades setoriais (pontos focais), serão os responsáveis pelas informações, e devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
 
 A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. 
 A curadoria compreende as seguintes atividades:
@@ -926,6 +926,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMDYxNjUwLC03NDc1Njk2ODQsLTE0OT
-QyNjE5NTEsNDU2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbLTE3MjIzMTc4OTMsLTc0NzU2OTY4NCwtMT
+Q5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
 -->
