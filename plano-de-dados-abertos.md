@@ -80,7 +80,7 @@ O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do 
 
 **3. Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
-O CETIC, criado pela Portaria Nº 385 , de 11 de novembro de 2017, possui caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
+O CETIC criado pela Portaria Nº 385 , de 11 de novembro de 2017, possui caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
 
@@ -90,7 +90,7 @@ O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Plan
 **[5. Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA)](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx)**
 
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
-O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê.
+O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê que prev~e no seu Plano de ação as.
 
 * Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
 * Revisão do Manual de Elaboração do Plano de Dados Abertos; 
@@ -930,6 +930,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI0MTcxODYsLTEwMjI2MTExMDAsLT
-E1MzQzMzY3MTIsMTU3OTI2NjY5NV19
+eyJoaXN0b3J5IjpbLTUzNjMwMzEyOCwtMTAyMjYxMTEwMCwtMT
+UzNDMzNjcxMiwxNTc5MjY2Njk1XX0=
 -->
