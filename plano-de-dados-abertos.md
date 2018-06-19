@@ -304,7 +304,10 @@ No caso de dados georeferenciados, a atualização do catálogo de metadados da 
  ----------
 # **IV. Sustentação**
 
-A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. A curadoria compreende as seguintes atividades:
+As unidades setoriais, os pontos focais, serão os responsáveis pelas informações, e devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
+
+A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. 
+A curadoria compreende as seguintes atividades:
 
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
@@ -923,6 +926,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjU5NTc2OCwtNzQ3NTY5Njg0LC0xND
-k0MjYxOTUxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbNzcyMDYxNjUwLC03NDc1Njk2ODQsLTE0OT
+QyNjE5NTEsNDU2MjIzMjkxXX0=
 -->
