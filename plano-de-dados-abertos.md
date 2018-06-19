@@ -148,14 +148,14 @@ O Ministério do Planejamento, em virtude do seu papel dentro do estado brasilei
 
 1. Publicar os dados considerados relevantes para a sociedade, no formato disponível e informando as eventuais limitações de qualidade dos dados;
 2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
-3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA. No caso de dados Georreferenciados, deve-se levar em conta as normas e padrões da INDE;
-4. Publicar os dados do Ministério seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA e pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+4. Publicar os dados do Ministério ;
 5. Catalogar os dados abertos do Ministério no Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do governo federal;
 6. Catalogar os dados geoespacializados na INDE;
 7. Promover a integração entre os catálogos de metadados INDA e INDE;
 8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
 9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
-10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal.
+10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. ==Nitai, devemos citar o 
 
 ## Formatos e Interfaces de acesso aos dados
 
@@ -930,6 +930,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MTkzNTUxLC0xMDIyNjExMTAwLC0xNT
-M0MzM2NzEyLDE1NzkyNjY2OTVdfQ==
+eyJoaXN0b3J5IjpbLTM4ODk3NzA3MCw5OTkxOTM1NTEsLTEwMj
+I2MTExMDAsLTE1MzQzMzY3MTIsMTU3OTI2NjY5NV19
 -->
