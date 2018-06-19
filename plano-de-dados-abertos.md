@@ -369,14 +369,13 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
  ----------
 # **VI. Plano de Ação**
 
-Esta Sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados.
-
-Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv, garantindo assim que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
+Esta sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados.
 
 Esta sessão está dividida em 02 Planos de Ações organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 
+Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
 ==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
@@ -927,6 +926,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTU2MTIxNiwtMTM2MjY5MzU4NCwtNz
+eyJoaXN0b3J5IjpbLTc2MzcwNzg4NiwtMTM2MjY5MzU4NCwtNz
 Q3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
