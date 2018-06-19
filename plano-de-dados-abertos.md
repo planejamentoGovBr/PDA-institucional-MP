@@ -401,8 +401,7 @@ Informações sobre a arrecadação anual aferidas pela União a título de arre
 
    **Unidade responsável:** SPU
 
-   **Ponto Focal:** e-Ouv
-
+ 
 ### **MP_I_02 - Patrimônio União - Imóveis Funcionais da União**
 Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
@@ -420,7 +419,6 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
    **Meta/Prazo:** Setembro/2018
 
    **Unidade responsável:** SPU
-
    **Ponto Focal:** e-Ouv
 
 ### **MP_I_03 - Patrimônio União - Valores de depreciação de imóveis**
@@ -924,6 +922,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjMyODE5OCwtMTM2MjY5MzU4NCwtNz
-Q3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMT
+M2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIy
+MzI5MV19
 -->
