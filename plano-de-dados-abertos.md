@@ -369,9 +369,7 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
  ----------
 # **VI. Plano de Ação**
 
-Esta sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados.
-
-Esta sessão está dividida em 02 Planos de Ações organizados conforme abaixo:
+Esta sessão detalha os planos de ação contendo para cada ação prevista nome e descrição da ação, mês e ano de realização, unidade responsável, produtos e prazo previsto para disponibilidade do conjunto de dados e está dividida em 02 Planos de Ações organizados conforme abaixo:
 1.	As ações planejadas para as bases que estão em processo de abertura em formato de dados abertos;
 2.	As ações planejadas para as bases que necessitam de ação de melhoria;
 
@@ -926,6 +924,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzcwNzg4NiwtMTM2MjY5MzU4NCwtNz
+eyJoaXN0b3J5IjpbMjEwMjMyODE5OCwtMTM2MjY5MzU4NCwtNz
 Q3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
