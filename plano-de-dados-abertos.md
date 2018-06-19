@@ -338,14 +338,14 @@ O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de 
 
 O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
-As atribuições e o funcionamento do COmitê será regido por poraria própria de regulamentação.
-O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo como atribuição institucionalizada:
+O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
 2.	Avaliar se as ações adotadas estão aderentes a Política de Dados Abertos;
 3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
 4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
 5.	Monitorar o atendimento as regras da INDA e INDE
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
+7.	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
 ## Comunicação e Participação social
@@ -927,6 +927,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NjY1MTkyLC03NDc1Njk2ODQsLTE0OT
-QyNjE5NTEsNDU2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbLTEzNjI2OTM1ODQsLTc0NzU2OTY4NCwtMT
+Q5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
 -->
