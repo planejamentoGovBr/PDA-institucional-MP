@@ -211,9 +211,9 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
-Este trabalho resultou em um relação de bases contendo elação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).   
+Este trabalho resultou em um relação de bases contendo cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).
 
-Considerando a complexidade deste trabalho não foi possível concluir o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
+Considerando a complexidade do trabalho de certificar se todas as informações disponíveis nas diversas bases geridas nnão foi possível concluir o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
 
 Para dar continuidade a este trabalho foi detalhado no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em fromato aberto e que farão parte do escopo do próximo PDA 2020-2021. ==revisar texto==
 
@@ -924,6 +924,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMzA2NzgxLC0xNDk0MjYxOTUxLDQ1Nj
+eyJoaXN0b3J5IjpbNzk5MDUwNzA0LC0xNDk0MjYxOTUxLDQ1Nj
 IyMzI5MV19
 -->
