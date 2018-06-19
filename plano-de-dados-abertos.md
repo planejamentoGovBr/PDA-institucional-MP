@@ -723,7 +723,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 1. Seleção da base de dados de Servidores Ativos;
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
-4. Atualização do catálago de Serviços;
+4. Atualização do catálogo de Serviços;
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 **Produtos:**
@@ -899,11 +899,13 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **SEPLAN:** Secretaria de Planejamento e Assuntos Econômicos
 **COFIEX:** Comissão de Financiamento Externo
 **SCDP:**
+**SIGS:**
+**SIAPE:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUxNzA1MDcsMTAwMzMzOTgwNywxND
-A2MzIzMTUwLC00MTE3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMy
-ODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOT
-UxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbMTE0OTA4NjI1OSwxMDAzMzM5ODA3LDE0MD
+YzMjMxNTAsLTQxMTc2MTM3OSwtMTE2MjYwOTE5MSwyMTAyMzI4
+MTk4LC0xMzYyNjkzNTg0LC03NDc1Njk2ODQsLTE0OTQyNjE5NT
+EsNDU2MjIzMjkxXX0=
 -->
