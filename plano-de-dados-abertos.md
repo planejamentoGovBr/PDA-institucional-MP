@@ -113,7 +113,7 @@ O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se d
 
 **[9. Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)](https://www.opengovpartnership.org/countries/brazil)**
 
-Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados são: 
+Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados e transparência são: 
 
 * [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
 * [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
@@ -930,6 +930,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjEyOTA3MSwtMTAyMjYxMTEwMCwtMT
-UzNDMzNjcxMiwxNTc5MjY2Njk1XX0=
+eyJoaXN0b3J5IjpbNzExNDc2OTQwLC0xMDIyNjExMTAwLC0xNT
+M0MzM2NzEyLDE1NzkyNjY2OTVdfQ==
 -->
