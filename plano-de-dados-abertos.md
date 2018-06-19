@@ -888,6 +888,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 ## SIGLAS ==incluir sistemas==
 **MP:** Ministério do Planejamento, Desenvolvimento e gestão
+**ASCOM:** Assessoria de Comunicação
 **SOF:** Secretaria de Orçamento Federal
 **SEAIN:** Secretaria de Assuntos Internacionais
 **SEGES:** Secretaria de Gestão
@@ -906,8 +907,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NjY4MjUyLC0xMDc3MzA4Mjk4LDEwMD
-MzMzk4MDcsMTQwNjMyMzE1MCwtNDExNzYxMzc5LC0xMTYyNjA5
-MTkxLDIxMDIzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2OTY4NC
-wtMTQ5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTYwOTcxNjUyMSw0ODU2NjgyNTIsLTEwNz
+czMDgyOTgsMTAwMzMzOTgwNywxNDA2MzIzMTUwLC00MTE3NjEz
+NzksLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5MzU4NC
+wtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
