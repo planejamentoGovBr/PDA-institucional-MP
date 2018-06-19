@@ -886,11 +886,12 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
 
-SIGLAS
-**COFIEX:** 
+## SIGLAS
+**COFIEX:** Comissão de Financiamento Externo
+Sistemas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTQ1NzQxLC00MTE3NjEzNzksLTExNj
-I2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5
-Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbLTY3MzMyNjkzMCwtNDExNzYxMzc5LC0xMT
+YyNjA5MTkxLDIxMDIzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2
+OTY4NCwtMTQ5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
 -->
