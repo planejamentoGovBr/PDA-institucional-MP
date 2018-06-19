@@ -441,7 +441,7 @@ Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causand
    **Ponto Focal:** e-Ouv
 
 ### **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
-Objetivando o  avanço na seara da transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo Ministério do Planejamento, Desenvolvimento e Gestão, essa seção disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
+Objetivando o  atendimentovanço na seara da transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
    **Atividade:**
    1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
@@ -922,7 +922,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMT
-M2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIy
-MzI5MV19
+eyJoaXN0b3J5IjpbMTE3NzUzOTY4LC0xMTYyNjA5MTkxLDIxMD
+IzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2OTY4NCwtMTQ5NDI2
+MTk1MSw0NTYyMjMyOTFdfQ==
 -->
