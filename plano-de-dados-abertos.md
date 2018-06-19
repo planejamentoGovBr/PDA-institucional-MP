@@ -162,7 +162,7 @@ O Ministério do Planejamento, em virtude do seu papel dentro do estado brasilei
 
 Para ser considerado aberto de fato, um dado deve estar publicado utilizando se de um formato aberto e não proprietário como o CSV e JSON.
 A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
-O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.
+O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - [APIs](https://pt.wikipedia.org/wiki/API).
 
 
 ## Processos de Desenvolvimento de Softwares
@@ -171,18 +171,7 @@ Vislumbrando os desafios de caráter tecnológico para implementação deste pla
 
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
-==incluir paragrafos dos portais de gestão==
-•	Compras governamentais
-	https://www.comprasgovernamentais.gov.br/index.php/painel-de-compras-de-governo
-	http://paineldecompras.planejamento.gov.br
-•	Preços
-	http://paineldeprecos.planejamento.gov.br/
-•	Transferências voluntárias
-	http://www.transferenciasabertas.planejamento.gov.br/
-•	Obras do Governo Federal
-	http://paineldeobras.planejamento.gov.br/
-•	Painel de custeio administrativo
-	http://paineldecusteio.planejamento.gov.br
+Nos últimos 2 anos o Ministério do Planejamento vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Estas iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre estes, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
  ----------
 # **III. Definição das Ações de Abertura e Melhoria de Dados**
