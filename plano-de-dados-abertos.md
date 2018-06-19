@@ -887,11 +887,15 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 
 ## SIGLAS ==incluir sistemas==
+**MP:** Ministério do Planejamento, Desenvolvimento e gestão
+
+
 **COFIEX:** Comissão de Financiamento Externo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjMyMzE1MCwtNDExNzYxMzc5LC0xMT
-YyNjA5MTkxLDIxMDIzMjgxOTgsLTEzNjI2OTM1ODQsLTc0NzU2
-OTY4NCwtMTQ5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbMTQxNzgxODI5OSwxNDA2MzIzMTUwLC00MT
+E3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5
+MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV
+19
 -->
