@@ -487,11 +487,11 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 **Unidade responsável:** SGP
 
-**Ponto Focal:** e-Ouv
+
 
 
 ### **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
-Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
+Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
 
 **Atividade:**
 1.  Atualização da base de dados original com as informações de 2017;
@@ -509,8 +509,6 @@ Vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do P
 **Meta/Prazo:** Novembro/2018
 
 **Unidade responsável:** SEPLAN
-
-**Ponto Focal:** e-Ouv
 
 
 ### **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
@@ -921,7 +919,7 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUzNzUzMzksLTExNjI2MDkxOTEsMj
+eyJoaXN0b3J5IjpbLTExOTU4MTU2MjAsLTExNjI2MDkxOTEsMj
 EwMjMyODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0
 MjYxOTUxLDQ1NjIyMzI5MV19
 -->
