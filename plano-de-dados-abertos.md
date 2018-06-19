@@ -294,7 +294,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios e organização disponibilizando os conjuntos de dados de froma ma acessíveis a sociedade.
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
 ### Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
@@ -313,7 +313,7 @@ A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dad
 
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da SETIC.
 
-Ressalta-se que os responsáveis pelas informações são as unidades setoriais, que devem, inclusive, informar à acurácia e qualidade das informações nos metadados respectivos.
+
 
 ## **Governança**
 
@@ -923,6 +923,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM0Njc3MDcsLTc0NzU2OTY4NCwtMT
-Q5NDI2MTk1MSw0NTYyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTgyMjU5NTc2OCwtNzQ3NTY5Njg0LC0xND
+k0MjYxOTUxLDQ1NjIyMzI5MV19
 -->
