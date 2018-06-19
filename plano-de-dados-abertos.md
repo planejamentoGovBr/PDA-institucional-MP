@@ -211,7 +211,9 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
-Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes citados abaixo.   ==inluir link da planilha==
+Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes citados abaixo.   Contudo não  concluímos o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
+Para dar ==inluir link da planilha==
+As demais Bases do Inventário, que não farão parte deste plano, serão melhor trabalhadas no Plano de Ação de Melhoria (Sessão VI) item **MP_M_05 - Estruturação do Inventário de Bases de Dados** subsidiando a elaboração do próximo PDA 2020-2021. 
 
 * Sistema Integrado de Planejamento e Orçamento - SIOP;
 * Sistema de Informações das Estatais - SIEST;
@@ -229,7 +231,7 @@ Atendendo a premissa de procurar disponibilizar os dados considerados mais relev
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
 
-As demais Bases do Inventário, que não farão parte deste plano, serão melhor trabalhadas no Plano de Ação de Melhoria (Sessão VI) item **MP_M_05 - Estruturação do Inventário de Bases de Dados** subsidiando a elaboração do próximo PDA 2020-2021. 
+
 
 **d) Consulta Pública**
 
@@ -932,5 +934,5 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzNzk0NzcsNDU2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbLTQwNDc2MTMxMyw0NTYyMjMyOTFdfQ==
 -->
