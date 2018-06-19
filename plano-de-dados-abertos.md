@@ -90,7 +90,8 @@ O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Plan
 **[5. Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA)](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx)**
 
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
-O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê que prev~e no seu Plano de ação as.
+O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. 
+Destacamos abaixo os temas do Plano de Ação da INDA relacionads a Abertura de Dados.
 
 * Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
 * Revisão do Manual de Elaboração do Plano de Dados Abertos; 
@@ -930,6 +931,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjMwMzEyOCwtMTAyMjYxMTEwMCwtMT
+eyJoaXN0b3J5IjpbMTk2MDI2NDc3MywtMTAyMjYxMTEwMCwtMT
 UzNDMzNjcxMiwxNTc5MjY2Njk1XX0=
 -->
