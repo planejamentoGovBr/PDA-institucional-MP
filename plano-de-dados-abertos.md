@@ -212,17 +212,7 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
 Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso transversal da APF.   pela complexidade deste trabalho não foi possível concluir o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
-Para dar continuidade a este trabalho foi detalhado no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disque irá subsidiar a elaboração do próximo PDA 2020-2021. 
-
-* Sistema Integrado de Planejamento e Orçamento - SIOP;
-* Sistema de Informações das Estatais - SIEST;
-* Sistema Integrado de Administração de Pessoas – SIAPE;
-* Sistema de Informações Organizacionais – SIORG;
-* Sistema Integrado de Administração de Serviços Gerais - SIASG;
-* Sistema de Gestão de Convênios e Contratos de Repasses – SICONV;
-* Sistema Integrado de Administração Patrimonial – SIAPA;
-* Sistema Estruturante de Gestão de diárias e passagens – SCDP
-* Portal de Acesso e módulos de Serviços da SPU - SPUnet
+Para dar continuidade a este trabalho foi detalhado no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em fromato aberto e que farão parte do escopo do próximo PDA 2020-2021. ==revisar texto==
 
 Os sistemas estruturantes sob gestão do MP são de uso obrigatório transversal para órgãos da Administração Pública Federal (APF) e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
 
@@ -933,5 +923,5 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NDExODQzLDQ1NjIyMzI5MV19
+eyJoaXN0b3J5IjpbMTg5ODA3Mjk2MCw0NTYyMjMyOTFdfQ==
 -->
