@@ -211,7 +211,7 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
-Este trabalho resultou em um inventário contendo uma relação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).   
+Este trabalho resultou em um relação de bases contendo elação de cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).   
 
 Considerando a complexidade deste trabalho não foi possível concluir o trabalho de validação se todos as informações constantes dos sistemas estruturantes já se encontram exaustivamente disponíveis em formato aberto.
 
@@ -924,5 +924,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQyNjE5NTEsNDU2MjIzMjkxXX0=
+eyJoaXN0b3J5IjpbNTgwMzA2NzgxLC0xNDk0MjYxOTUxLDQ1Nj
+IyMzI5MV19
 -->
