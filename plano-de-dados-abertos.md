@@ -142,7 +142,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as [3 leis dos dados abertos](http://dados.gov.br/pagina/dados-abertos), bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.
 
-O Ministério do Planejamento, em virtude do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as etratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
+O Ministério do Planejamento, em virtude do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as estratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
 
 ## Premissas
 
@@ -930,6 +930,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNDc2OTQwLC0xMDIyNjExMTAwLC0xNT
+eyJoaXN0b3J5IjpbOTk5MTkzNTUxLC0xMDIyNjExMTAwLC0xNT
 M0MzM2NzEyLDE1NzkyNjY2OTVdfQ==
 -->
