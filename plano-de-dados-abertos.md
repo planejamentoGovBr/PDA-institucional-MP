@@ -155,7 +155,7 @@ O Ministério do Planejamento, em virtude do seu papel dentro do estado brasilei
 7. Promover a integração entre os catálogos de metadados INDA e INDE;
 8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
 9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
-10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. ==Nitai, devemos citar o 
+10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. ==Nitai, devemos citar o portal do MP?==
 
 ## Formatos e Interfaces de acesso aos dados
 
@@ -163,12 +163,6 @@ Para ser considerado aberto de fato, um dado deve estar publicado utilizando se 
 A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
 O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.
 
-
-## Processos de Desenvolvimento de Softwares
-
-Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
-
-Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
 ==incluir paragrafos dos portais de gestão==
 •	Compras governamentais
@@ -182,6 +176,14 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 	http://paineldeobras.planejamento.gov.br/
 •	Painel de custeio administrativo
 	http://paineldecusteio.planejamento.gov.br
+
+
+## Processos de Desenvolvimento de Softwares
+
+Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
+
+Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
+
 
  ----------
 # **III. Definição das Ações de Abertura e Melhoria de Dados**
@@ -930,6 +932,5 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODk3NzA3MCw5OTkxOTM1NTEsLTEwMj
-I2MTExMDAsLTE1MzQzMzY3MTIsMTU3OTI2NjY5NV19
+eyJoaXN0b3J5IjpbNDU2MjIzMjkxXX0=
 -->
