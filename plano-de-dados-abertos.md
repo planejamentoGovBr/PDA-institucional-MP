@@ -811,14 +811,14 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 
 **Unidade responsável:** SEGES
 
-### **MP_M_04 - Revisão dos Metadados dos Conjutos de Dados** 
+### **MP_M_04 - Revisão dos Metadados dos Conjuntos de Dados** 
 O Ministério do Planejamento realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
 **Atividade:**
 1. Instituir rede dos gestores técnicos responsáveis pelos conjuntos de dados;
-2. Definição de um conjunto de orientações para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incuir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
-3. Realizar oficina de catalogação e brainstorming de melhorias;
+2. Definição de um conjunto de orientações para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incluir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
+3. Realizar oficina de catalogação e *brainstorming* de melhorias;
 4. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
 
 
@@ -898,11 +898,12 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **SEST:** Secretaria de Coordenação e Governança das Empresas Estatais
 **SEPLAN:** Secretaria de Planejamento e Assuntos Econômicos
 **COFIEX:** Comissão de Financiamento Externo
+**SCDP:**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzMzOTgwNywxNDA2MzIzMTUwLC00MT
-E3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5
-MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV
-19
+eyJoaXN0b3J5IjpbLTIxMjUxNzA1MDcsMTAwMzMzOTgwNywxND
+A2MzIzMTUwLC00MTE3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMy
+ODE5OCwtMTM2MjY5MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOT
+UxLDQ1NjIyMzI5MV19
 -->
