@@ -148,14 +148,14 @@ O Ministério do Planejamento, em virtude do seu papel dentro do estado brasilei
 
 1. Publicar os dados considerados relevantes para a sociedade, no formato disponível e informando as eventuais limitações de qualidade dos dados;
 2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
-3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA. No caso de dados Georreferenciados, deve-se levar em conta as normas e padrões da INDE;
-4. Publicar os dados do Ministério seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA e pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+4. Publicar os dados do Ministério ;
 5. Catalogar os dados abertos do Ministério no Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do governo federal;
 6. Catalogar os dados geoespacializados na INDE;
 7. Promover a integração entre os catálogos de metadados INDA e INDE;
 8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
 9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
-10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal.
+10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. ==Nitai, devemos citar o portal do MP?==
 
 ## Formatos e Interfaces de acesso aos dados
 
@@ -171,6 +171,13 @@ Vislumbrando os desafios de caráter tecnológico para implementação deste pla
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
 Nos últimos 2 anos o Ministério do Planejamento vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Estas iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre estes, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
+
+## Processos de Desenvolvimento de Softwares
+
+Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
+
+Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
+
 
  ----------
 # **III. Definição das Ações de Abertura e Melhoria de Dados**
@@ -919,6 +926,11 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
+<<<<<<< HEAD
 eyJoaXN0b3J5IjpbMTU3OTI2NjY5NV19
 -->
 
+=======
+eyJoaXN0b3J5IjpbNDU2MjIzMjkxXX0=
+-->
+>>>>>>> 496e15a3ad78f1fa3660e49b0658ec71fd95e1b1
