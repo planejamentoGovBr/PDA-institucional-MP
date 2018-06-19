@@ -888,15 +888,17 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 ## SIGLAS ==incluir sistemas==
 **MP:** Ministério do Planejamento, Desenvolvimento e gestão
-**SOF:** Secretaria de Orçamento
+**SOF:** Secretaria de Orçamento Federal
 **SEAIN:** Secretaria de Assuntos Internacionais
+**SEGES:** Secretaria de Gestão
+**SETIC:** Secretaria de Tecnologia da Informação e C
 
 **COFIEX:** Comissão de Financiamento Externo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NjAwODMyLDE0MDYzMjMxNTAsLTQxMT
-c2MTM3OSwtMTE2MjYwOTE5MSwyMTAyMzI4MTk4LC0xMzYyNjkz
-NTg0LC03NDc1Njk2ODQsLTE0OTQyNjE5NTEsNDU2MjIzMjkxXX
-0=
+eyJoaXN0b3J5IjpbMTg2NzkyMTU5NCwxNDA2MzIzMTUwLC00MT
+E3NjEzNzksLTExNjI2MDkxOTEsMjEwMjMyODE5OCwtMTM2MjY5
+MzU4NCwtNzQ3NTY5Njg0LC0xNDk0MjYxOTUxLDQ1NjIyMzI5MV
+19
 -->
