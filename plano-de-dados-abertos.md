@@ -217,9 +217,7 @@ Considerando a complexidade deste trabalho não foi possível concluir o trabalh
 
 Para dar continuidade a este trabalho foi detalhado no Plano de Ação de Melhoria do presente plano (Sessão VI) o item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em fromato aberto e que farão parte do escopo do próximo PDA 2020-2021. ==revisar texto==
 
-Os sistemas estruturantes sob gestão do MP são e responde por 39 conjuntos de dados já disponíveis no Portal de Dados Abertos.
-
-Para direcionar os escopo deste plano atualAtendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
+Para direcionar os escopo deste plano atual e atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes. 
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. 
 
@@ -227,7 +225,7 @@ Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) co
 
 **d) Consulta Pública**
 
-Entre os dias 2 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
+Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
 
 O resultado da consulta pública influenciou na adequação da oferta de informações do Planejamento à demanda da sociedade sobre os dados abertos que constam no presente Plano.
 
@@ -926,5 +924,5 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUwOTAxMCw0NTYyMjMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTE0OTQyNjE5NTEsNDU2MjIzMjkxXX0=
 -->
