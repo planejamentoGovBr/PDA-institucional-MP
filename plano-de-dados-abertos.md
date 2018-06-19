@@ -233,7 +233,7 @@ Todo processo de consulta pública foi amplamente divulgado nos seguintes canais
 
 **e) Critérios para priorização das Bases a serem abertas**
 
-Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseados nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
+Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseadas nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
 
 1. Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
 2. Estímulo ao controle social;
@@ -920,6 +920,6 @@ Y2Nzg0NzIsMTI3MTQyNzk0MSwtNDAxNzc1MTE4LDE5MjQwODYz
 MTIsLTk3NTE0OTc3MSwtMTMzNzMxMTIyMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDc5MDkwNiwtMTQ5NDI2MTk1MSw0NT
+eyJoaXN0b3J5IjpbLTc0NzU2OTY4NCwtMTQ5NDI2MTk1MSw0NT
 YyMjMyOTFdfQ==
 -->
