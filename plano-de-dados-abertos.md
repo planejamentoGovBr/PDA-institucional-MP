@@ -861,6 +861,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Git:**
 
+**Markdown:**
+
 ## SIGLAS ==incluir sistemas==
 **MP:** Ministério do Planejamento, Desenvolvimento e gestão
 **ASCOM:** Assessoria de Comunicação
@@ -882,11 +884,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MDEyMDExLC04OTk4NjExNTksMTY0OT
-MyNjAyLDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIx
-LC02Njg4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMj
-AwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2
-NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLT
-E1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIx
-MTY4NjExXX0=
+eyJoaXN0b3J5IjpbLTE5NDkxNjIwMjYsLTg5OTg2MTE1OSwxNj
+Q5MzI2MDIsMTE1MjYyNTQ2NCwtNjUxMjQ2MTI5LDExMDYyMjY3
+MjEsLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMTExMjA1NTYxMy
+wyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5ODMsLTIxMzky
+NzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMTY0MjIyMDY2Ny
+wtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwt
+MjExNjg2MTFdfQ==
 -->
