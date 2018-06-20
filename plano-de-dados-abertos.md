@@ -296,14 +296,7 @@ A Secretaria Executiva ficará responsável pela gestão das informações  nos 
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
 
 
-## Catalogação no Portal Brasileiro de Dados Abertos
-O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
-
-No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
-
-
- ----------
-
+## **Monitoramento e Controle**
 
 O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
@@ -316,6 +309,12 @@ O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que nece
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
 7.	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
+
+## Catalogação no Portal Brasileiro de Dados Abertos
+O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
+
+No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
+
 
 ## Comunicação e Participação social
 A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
@@ -876,11 +875,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NzM1Mzg1LDE2NDIyMjA2NjcsLTE1MT
-UxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4
-NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LD
-EwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAy
-NTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OS
-wtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3
-MDU4NDY3MV19
+eyJoaXN0b3J5IjpbLTE3ODk3MDk0NDAsMTY0MjIyMDY2NywtMT
+UxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjEx
+Njg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMj
+gsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1
+MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1LC0xOTQ5NDg0ND
+U5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4NzEzNzA3LC0y
+MDcwNTg0NjcxXX0=
 -->
