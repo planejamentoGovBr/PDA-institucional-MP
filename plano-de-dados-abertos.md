@@ -134,11 +134,11 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e [as três leis dos dados abertos](http://dados.gov.br/pagina/dados-abertos), bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.
 
-O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP) e de Convênios (Siconv). Nesse sentido deve implementar as estratégias de abertura dos dados destes sistemas de forma independente e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos.
+O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP) e de Convênios (Siconv). Nesse sentido deve implementar as estratégias de abertura dos dados destes sistemas de forma centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos.
 
 ## Premissas
 
-1. Publicar os dados considerados relevantes para a sociedade, no formato disponível e informando as eventuais limitações de qualidade dos dados;
+1. Publicar os dados considerados relevantes para a sociedade, no formato disponível, informando as eventuais limitações de qualidade dos dados;
 2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
 3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
 4. Publicar os dados do Ministério ;
@@ -893,7 +893,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODI4OTQ3MywxOTU0ODcwMTAxLDExNT
+eyJoaXN0b3J5IjpbLTQ2NjQ5NDQ4MiwxOTU0ODcwMTAxLDExNT
 Q1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3
 MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC
 01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMTAy
