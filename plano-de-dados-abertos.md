@@ -282,7 +282,7 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 As unidades administrativas, por intermédio dos seus pontos focais, são os curadores dos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
 Setic
-A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados  
+A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abert
    
 seplan
 
@@ -878,7 +878,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg4OTMzNDksNDU5MDcwMTUxLDE2ND
+eyJoaXN0b3J5IjpbLTEyNzYyODExNjEsNDU5MDcwMTUxLDE2ND
 IyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4
 MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC
 0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQw
