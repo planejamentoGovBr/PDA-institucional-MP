@@ -281,7 +281,7 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 
 As unidades administrativas, por intermédio dos seus pontos focais, são os curadores dos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
-A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e de melhoria dos dados.
+A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
 
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzI5MTI5OCw0NTkwNzAxNTEsMTY0Mj
-IyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1Njgy
-NTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLT
-IxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5
-OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1LC
-0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4
-NzEzNzA3XX0=
+eyJoaXN0b3J5IjpbLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NT
+kwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMx
+MzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOS
+w2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5
+ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQwLC
+0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMTk1
+Mjg1MjczM119
 -->
