@@ -202,7 +202,9 @@ O PDA será monitorado e acompanhado pela autoridade de monitoramento designada 
  - Ouvidor;
  - Chefe de Assessoria de Comunicação;
  - Autoridade máxima da unidade setorial de TIC;
- - Representantes de cada Secretaria; e 
+ - Representantes de cada Secretaria;
+ - Subsecretario de Assuntos Administrativos; e 
+ - Subsecretário de Planejamento e Orçamento 
  - Assessoria.
 
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
@@ -886,7 +888,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5OTM4NDUxLDExNTI2MjU0NjQsLTY1MT
+eyJoaXN0b3J5IjpbNjg0OTYwMDcyLDExNTI2MjU0NjQsLTY1MT
 I0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1
 NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNj
 M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
