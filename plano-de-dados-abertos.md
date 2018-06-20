@@ -715,10 +715,10 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 **Unidade responsável:** SGP
 
-**Ponto Focal:** e-Ouv
 
 
 ## 2. Plano de Ação - Melhoria dos Dados
+
 
 
 ### **MP_I_01 - Implementação do Portal de Dados Abertos do MP**
@@ -832,7 +832,7 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 
 **Meta/Prazo:** Dezembro/2018
 
-**Unidade responsável:** 
+**Unidade responsável:** DETIC
 
 
 
@@ -888,7 +888,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjkwNDM3NCwxOTIxMDU5OTU0LDYyMT
+eyJoaXN0b3J5IjpbLTEwNjc1NjQ2NCwxOTIxMDU5OTU0LDYyMT
 E0Mzk3NiwtNjA2Mjg5NjE3LC04OTk4NjExNTksMTY0OTMyNjAy
 LDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Nj
 g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
