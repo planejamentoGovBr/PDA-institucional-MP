@@ -236,7 +236,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 ## **Matriz de Aplicação de Critérios**
 
-A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação [(sessão VI)](#vi-plano-de-ação) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação [(sessão VI)](#vi-plano-de-ação) que levou em consideração as informações das diversas áreas de negócios do MP, além da capacidade de execução do Departamento de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
 | Nome da Base de Dados | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
@@ -879,7 +879,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjI3MjY2MCwxNTA1NTAyNTQ2LDg1MT
+eyJoaXN0b3J5IjpbLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MT
 k2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYy
 NDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MS
 wtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0
