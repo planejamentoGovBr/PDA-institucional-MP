@@ -76,7 +76,7 @@ O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorga
 
 **[2. Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti)** 
 
-O Plano Diretor de Tecnologia da Informação e Comunicação – PDTIC do Ministério do Planejamento - MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará na aplicação dos recursos tecnológicos para a execução das ações deste plano.
+O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará na aplicação dos recursos tecnológicos para a execução das ações deste plano.
 
 **3. Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
@@ -85,7 +85,7 @@ O CETIC criado pela Portaria Nº 385, de 11 de novembro de 2017, possui caráter
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
 
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
-O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vincula-se ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
+O instrumento foi regulamentado pela Portaria nº 68/2016 do MP, a qual vincula-se ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
 
 **[5. Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA)](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx)**
 
@@ -901,7 +901,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA2ODEyMjMsLTIwNDQwMjkxMDMsLT
-U1MTE1ODU4MSwtMTExNDcyNTYyNywxNTgwMjM3OTMxLDExMDI0
-MjgyNDVdfQ==
+eyJoaXN0b3J5IjpbLTEzODA0MTIxNiwtMjA0NDAyOTEwMywtNT
+UxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEwMjQy
+ODI0NV19
 -->
