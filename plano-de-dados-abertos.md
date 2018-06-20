@@ -162,9 +162,8 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Tais iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre essas, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
-
-
  ----------
+ 
 # **III. Definição das Ações de Abertura e Melhoria de Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
@@ -880,11 +879,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxOTY0NzQwLC0xNDIwNDA3NDM1LC0xOT
-Q5NDg0NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4NzEz
-NzA3LC0yMDcwNTg0NjcxLC03NzA5ODU2MDQsODU0MzYwMDQsMT
-k1NDg3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4
-OTQsLTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNi
-wtMjA0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1
-ODAyMzc5MzFdfQ==
+eyJoaXN0b3J5IjpbMTUwNTUwMjU0Niw4NTE5NjQ3NDAsLTE0Mj
+A0MDc0MzUsLTE5NDk0ODQ0NTksLTI0MTU2MjQzOCwxOTUyODUy
+NzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNC
+w4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4
+MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOC
+wtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTEx
+MTQ3MjU2MjddfQ==
 -->
