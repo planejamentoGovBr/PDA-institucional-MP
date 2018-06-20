@@ -162,11 +162,6 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Tais iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre essas, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
-## Processos de Desenvolvimento de Softwares
-
-Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
-
-Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
 
  ----------
@@ -891,9 +886,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzgxNDAxNiw4NTQzNjAwNCwxOTU0OD
-cwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwt
-MTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMD
-Q0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIz
-NzkzMSwxMTAyNDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbNTYyNDk4MTQ1LDg1NDM2MDA0LDE5NTQ4Nz
+AxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQsOTg3MjA4ODk0LC0x
+OTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMzgwNDEyMTYsLTIwND
+QwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcyNTYyNywxNTgwMjM3
+OTMxLDExMDI0MjgyNDVdfQ==
 -->
