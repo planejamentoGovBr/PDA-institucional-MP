@@ -194,16 +194,9 @@ O processo de catalogação dos dados no portal será feito diretamente por cada
 No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
 
   
-**A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
-1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
-2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
-3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).**
-
-
 # **IV. Monitoramento e Controle**
 
-O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
+O PDA será acompanhado pelo Subcomitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
@@ -877,11 +870,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjIzNzE0LDExMDYyMjY3MjEsLTY2OD
-gwMjI1MiwtMTE3MDUxMzU0NSwtMTExMjA1NTYxMywyMDA4NjI1
-NjY3LDYwNDE3Njk2LDE2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLT
-gzMzI5MTI5OCw0NTkwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4
-MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MT
-EsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5
-Mzc3Mzc2MF19
+eyJoaXN0b3J5IjpbLTg2OTA4OTgzMCwxMTA2MjI2NzIxLC02Nj
+g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
+NTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC
+04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUx
+ODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4Nj
+ExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEw
+OTM3NzM3NjBdfQ==
 -->
