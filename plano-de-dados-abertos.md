@@ -281,8 +281,9 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 
 As unidades administrativas, por intermédio dos seus pontos focais, são os curadores dos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
-detic
-A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para a manutenção   
+Setic
+A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para a manutenção e evolução d
+   
 seplan
 
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os pontos focais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
@@ -877,7 +878,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDQ1NDc3Niw0NTkwNzAxNTEsMTY0Mj
+eyJoaXN0b3J5IjpbMTE4NTE0MDc0Miw0NTkwNzAxNTEsMTY0Mj
 IyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1Njgy
 NTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLT
 IxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5
