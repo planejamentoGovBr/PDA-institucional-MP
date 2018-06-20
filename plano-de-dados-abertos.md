@@ -295,7 +295,7 @@ A Secretaria Executiva ficará responsável pela gestão das informações  nos 
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
 3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
+4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).
 
 
 
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NT
-kwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMx
-MzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOS
-w2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5
-ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQwLC
-0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMTk1
-Mjg1MjczM119
+eyJoaXN0b3J5IjpbMTYzODA0NDk4MywtMjEzOTI3NjYyNywtOD
+MzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgw
+MDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0yMTE2ODYxMS
+wyMDMxMzQ2MzM5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOCwxMDkz
+NzczNzYwLDY1ODk4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0Ni
+w4NTE5NjQ3NDAsLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLTI0
+MTU2MjQzOF19
 -->
