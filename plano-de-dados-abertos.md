@@ -270,7 +270,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
  ----------
 # **IV. Sustentação**
 
-As unidades setoriais (pontos focais) são os responsáveis pelas informações, e devem, inclusive, informar a acurácia e qualidade das informações nos metadados respectivos.
+As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelas informações e devem, inclusive, informar a acurácia e qualidade das informações nos metadados respectivos.
 
 A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. 
 A curadoria compreende as seguintes atividades:
@@ -878,11 +878,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NT
-g5ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQw
-LC0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMT
-k1Mjg1MjczMywyMDI4NzEzNzA3LC0yMDcwNTg0NjcxLC03NzA5
-ODU2MDQsODU0MzYwMDQsMTk1NDg3MDEwMSwxMTU0NTQ1Nzk4LD
-Q1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYyNzEsLTE0MTUw
-MzM0MjhdfQ==
+eyJoaXN0b3J5IjpbMTEyNDg2Njg2MCwtMjEzNjk1MjIyOCwxMD
+kzNzczNzYwLDY1ODk4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0
+Niw4NTE5NjQ3NDAsLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLT
+I0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1
+ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLD
+ExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEz
+NjI3MV19
 -->
