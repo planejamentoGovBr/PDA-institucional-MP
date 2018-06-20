@@ -216,7 +216,7 @@ O subcomitê terá dentre as suas atribuições:
 	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
-A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+A Secretaria Executiva ficará responsável pela gestão da Transparência no âmbito do MP tendo como uma de suas atividades:
 
 Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
 Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
@@ -887,7 +887,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgxMjYzMzgsMTE1MjYyNTQ2NCwtNj
+eyJoaXN0b3J5IjpbLTIwNTY0MjA0MDksMTE1MjYyNTQ2NCwtNj
 UxMjQ2MTI5LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUx
 MzU0NSwtMTExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LD
 E2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkw
