@@ -832,13 +832,12 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 
 **Meta/Prazo:** Dezembro/2018
 
-**Unidade responsável:** Secretaria Executiva
+**Unidade responsável:** 
 
 
 
 
-
-# GLOSSÁRIO ==validar==
+# GLOSSÁRIO 
 
 Os termos abaixo referem-se às definições apresentadas no Plano de Ação da INDA. 
 
@@ -889,7 +888,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjU3MjI1OCwxOTIxMDU5OTU0LDYyMT
+eyJoaXN0b3J5IjpbLTk3NjkwNDM3NCwxOTIxMDU5OTU0LDYyMT
 E0Mzk3NiwtNjA2Mjg5NjE3LC04OTk4NjExNTksMTY0OTMyNjAy
 LDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Nj
 g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
