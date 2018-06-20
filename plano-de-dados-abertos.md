@@ -807,11 +807,11 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 9. Gestores nas áreas capacitados e habilitados a realizarem posteriormente novos ajustes nos metadados;
 
 
-**Meta/Prazo:** Setembro/2018 ==Definir==
+**Meta/Prazo:** Setembro/2018 
 
-**Unidade responsável:** Ouvidoria
+**Unidade responsável:** SE
 
-**Ponto Focal:** e-Ouv
+
 
 ### **MP_M_05 - Estruturação do Inventário de Bases de Dados** 
 O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das decisões de médio e longo prazo.
@@ -889,7 +889,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzE1NjgyNiwxOTIxMDU5OTU0LDYyMT
+eyJoaXN0b3J5IjpbMjA2MDAwODQ4MCwxOTIxMDU5OTU0LDYyMT
 E0Mzk3NiwtNjA2Mjg5NjE3LC04OTk4NjExNTksMTY0OTMyNjAy
 LDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Nj
 g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
