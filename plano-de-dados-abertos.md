@@ -294,7 +294,7 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
 
-O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
+O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os pontos focais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
 
 ## Catalogação no Portal Brasileiro de Dados Abertos
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY4MjU1NzgsLTIxMTY4NjExLDIwMz
-EzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3
-NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MT
-k2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYy
-NDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MS
-wtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0
-NTc5OF19
+eyJoaXN0b3J5IjpbLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLT
+IxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUy
+MjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNT
+A1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4
+NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNy
+wtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4
+NzAxMDFdfQ==
 -->
