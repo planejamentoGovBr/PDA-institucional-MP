@@ -272,7 +272,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
 
-De acordo com § 4º do art. 5º do Decreto 8777/2016, autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
+De acordo com § 4º do art. 5º do Decreto 8777/2016, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
 
 I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
 II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
@@ -873,11 +873,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2OTU1NDk3LDE2NDIyMjA2NjcsLTE1MT
-UxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4
-NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LD
-EwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAy
-NTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OS
-wtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3
-MDU4NDY3MV19
+eyJoaXN0b3J5IjpbLTEyNjgzOTM4MiwxNjQyMjIwNjY3LC0xNT
+E1MTgwMDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0yMTE2
+ODYxMSwyMDMxMzQ2MzM5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOC
+wxMDkzNzczNzYwLDY1ODk4MDEyLC00MzE0MDk5OTUsMTUwNTUw
+MjU0Niw4NTE5NjQ3NDAsLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NT
+ksLTI0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIw
+NzA1ODQ2NzFdfQ==
 -->
