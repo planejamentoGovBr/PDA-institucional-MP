@@ -165,7 +165,7 @@ Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise 
 
 ## **Melhoria da qualidade dos dados** 
 
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais formatos diversos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, por diversos parâmetros, e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, por diversos parâmetros, e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
  ----------
  
@@ -879,7 +879,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDU1NTAxNywxMDkzNzczNzYwLDY1OD
+eyJoaXN0b3J5IjpbLTQxNDA3NzY3OCwxMDkzNzczNzYwLDY1OD
 k4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0Niw4NTE5NjQ3NDAs
 LTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLTI0MTU2MjQzOCwxOT
 UyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4
