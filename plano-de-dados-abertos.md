@@ -174,14 +174,12 @@ Para tanto foram realizadas dinâmicas com a participação de representantes de
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões pelos canais permanentes de comunicação além da realização de uma consulta pública. 
 
 ### Identificação de Conjunto de Dados
-Apresentamos r detalhar o processo de identificação de conjunto de dados  dividindo-o nos itens abaixo:
+Apresentamos o detalhamento do processo de identificação de conjunto de dados nos itens abaixo:
 
 **a) Grupo representantes de todas as áreas**
-
 Os representantes das Secretarias do MP se reuniram com objetivo de nivelar o conhecimento quanto a política de dados abertos, avaliar a qualidade dos dados publicados, identificar melhorias a serem realizadas e identificarem novos conjuntos de dados a serem disponibilizados. 
 
 **b) Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
-
 Um insumo importante considerado neste processo foram as informações do Relatório de Acompanhamento e Monitoramento do PDA 2016-2017, onde foram observados os seguintes itens:
 
 * As manifestações nos canais de comunicação: e-Ouv, e-SIC e canal de comunicação da ASCOM com a imprensa;
@@ -190,7 +188,6 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
 
 **c) Inventário de Bases de Dados**
-
 O grupo de trabalho constituído acima desenvolveu, dentre as suas atividades, um detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
 
 Este trabalho resultou em um relação de bases contendo cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).
@@ -886,7 +883,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODcxMjkwNiwtNzcwOTg1NjA0LDg1ND
+eyJoaXN0b3J5IjpbMTMwNzQ3NjAzMiwtNzcwOTg1NjA0LDg1ND
 M2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQs
 OTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMz
 gwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcy
