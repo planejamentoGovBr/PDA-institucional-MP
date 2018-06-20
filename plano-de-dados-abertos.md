@@ -268,22 +268,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 
  ----------
-# **IV. Sustentação**
-
-As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
-
-A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
-
-1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
-2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
-3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
-
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
-
-
-
-## **Governança**
+# **IV. Governança**
 
 De acordo com § 4º do art. 5º do Decreto 8777/2016, autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
 
@@ -297,6 +282,20 @@ O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os pontos focais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
 
+## **Sustentação**
+
+As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
+
+A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+
+1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
+2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
+3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
+4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
+
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
+
+
 ## Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 
@@ -304,7 +303,7 @@ No caso de dados georreferenciados, a atualização do catálogo de metadados da
 
 
  ----------
-# **V. Monitoramento e Controle**
+
 
 O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
@@ -877,11 +876,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMT
-czNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0
-NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MC
-w2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0
-NzQwLC0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0Mz
-gsMTk1Mjg1MjczMywyMDI4NzEzNzA3LC0yMDcwNTg0NjcxLC03
-NzA5ODU2MDRdfQ==
+eyJoaXN0b3J5IjpbODA4NzM1Mzg1LDE2NDIyMjA2NjcsLTE1MT
+UxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4
+NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LD
+EwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAy
+NTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OS
+wtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3
+MDU4NDY3MV19
 -->
