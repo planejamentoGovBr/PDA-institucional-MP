@@ -236,14 +236,14 @@ O cidadão poderá usar a Ouvidoria do MP para informar o Ministério sobre prob
 
 Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
 
-==1.	Uso de ambiente colaborativo (Wiki) para repositório de conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema, a exemplo da wiki.dados.gov.br;
+1.	Uso de ambiente colaborativo (Wiki) para repositório de conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema, a exemplo da wiki.dados.gov.br;
 2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
 3.	Consultas Públicas;
 4.	Criação de trilhas de participação social;
 5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
 6.	Publicação de relatório anual, contendo estatísticas de consulta aos dados, uso das APIs e acesso aos dados na fonte;
-7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
-8.	Outros espaços de divulgação.==
+7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter; e
+8.	Outros espaços de divulgação.
 
 # **V. Definição das Ações de Abertura dos Dados**
 
@@ -887,7 +887,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk4MzY0NzgsLTYwNjI4OTYxNywtOD
+eyJoaXN0b3J5IjpbLTIxMTY0OTc1MDcsLTYwNjI4OTYxNywtOD
 k5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYx
 MjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC
 0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0
