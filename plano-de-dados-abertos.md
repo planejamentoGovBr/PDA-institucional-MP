@@ -764,9 +764,8 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 **Unidade responsável:** SEAIN
 
 
-### **MP_M_03 - Viagens a Serviço do Governo Federal** ==validar==
+### **MP_M_03 - Viagens a Serviço do Governo Federal** 
 Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou uma melhoria agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos.
-==Ofertar um conjunto de dados ainda não disponíveis para a sociedade referente ao processo de passagens e diárias do Governo Federal e que atualmente demanda-se bastante por diversos meios==.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -888,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMzg3NzE5LDYyMTE0Mzk3NiwtNjA2Mj
-g5NjE3LC04OTk4NjExNTksMTY0OTMyNjAyLDExNTI2MjU0NjQs
-LTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNz
-A1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5
-NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsND
-U5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUz
-MTM4MDFdfQ==
+eyJoaXN0b3J5IjpbMTMzNTU5MzE4Nyw2MjExNDM5NzYsLTYwNj
+I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
+LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
+cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
+OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
+Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
+MzEzODAxXX0=
 -->
