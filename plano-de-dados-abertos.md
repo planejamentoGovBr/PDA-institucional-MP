@@ -165,7 +165,7 @@ Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise 
 
 ## **Melhoria da qualidade dos dados** 
 
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
  ----------
  
@@ -267,12 +267,6 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
 
 
-
-## Catalogação no Portal Brasileiro de Dados Abertos
-O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
-
-No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
-
  ----------
 # **IV. Sustentação**
 
@@ -303,6 +297,11 @@ O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (
 
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os responsáveis setoriais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
+
+## Catalogação no Portal Brasileiro de Dados Abertos
+O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
+
+No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
 
 
  ----------
@@ -879,11 +878,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMjE1MjM5LDEwOTM3NzM3NjAsNjU4OT
-gwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwt
-MTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NT
-I4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1
-NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NT
-cwNTgwODQsOTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMz
-NDI4XX0=
+eyJoaXN0b3J5IjpbMTc2NjI1MTM0MiwxMDkzNzczNzYwLDY1OD
+k4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0Niw4NTE5NjQ3NDAs
+LTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLTI0MTU2MjQzOCwxOT
+UyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4
+NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsND
+U3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAz
+MzQyOF19
 -->
