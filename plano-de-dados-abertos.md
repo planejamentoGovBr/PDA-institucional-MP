@@ -224,7 +224,7 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 
 
 ## Comunicação e Participação social
-A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
+A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
 Este Plano de Dados Abertos é oficialmente publicado em [plano.dados.planejamento.gov.br](http://plano.dados.planejamento.gov.br) no formato HTML. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas do documento, por exemplo, este que leva para as Ações: [http://plano.dados.planejamento.gov.br/#vi-plano-de-ação](#vi-plano-de-ação). Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
 
@@ -880,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4ODgwMjE5LDE2NDkzMjYwMiwxMTUyNj
-I1NDY0LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUy
-LC0xMTcwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNj
-A0MTc2OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkx
-Mjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC
-0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0yMTE2ODYxMSwyMDMx
-MzQ2MzM5XX0=
+eyJoaXN0b3J5IjpbLTg5OTg2MTE1OSwxNjQ5MzI2MDIsMTE1Mj
+YyNTQ2NCwtNjUxMjQ2MTI5LDExMDYyMjY3MjEsLTY2ODgwMjI1
+MiwtMTE3MDUxMzU0NSwtMTExMjA1NTYxMywyMDA4NjI1NjY3LD
+YwNDE3Njk2LDE2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5
+MTI5OCw0NTkwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MC
+wtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAz
+MTM0NjMzOV19
 -->
