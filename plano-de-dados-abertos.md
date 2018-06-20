@@ -183,7 +183,7 @@ No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
 
-## **Sustentação dos Dados**
+## **Sustentação do ambiente de Dados Abertos**
 
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM2MjU1ODcsMTEwNjIyNjcyMSwtNj
-Y4ODAyMjUyLC0xMTcwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2
-MjU2NjcsNjA0MTc2OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNy
-wtODMzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1
-MTgwMDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0yMTE2OD
-YxMSwyMDMxMzQ2MzM5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOCwx
-MDkzNzczNzYwXX0=
+eyJoaXN0b3J5IjpbLTQ3NjIzNzE0LDExMDYyMjY3MjEsLTY2OD
+gwMjI1MiwtMTE3MDUxMzU0NSwtMTExMjA1NTYxMywyMDA4NjI1
+NjY3LDYwNDE3Njk2LDE2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLT
+gzMzI5MTI5OCw0NTkwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4
+MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MT
+EsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5
+Mzc3Mzc2MF19
 -->
