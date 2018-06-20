@@ -171,10 +171,10 @@ A garantia dos princípios da publicidade e da transparência da Administração
 
 Para tanto foram realizadas dinâmicas com a participação de representantes de todas as secretarias do MP, iniciando com a avaliação dos PDAs anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos à abertura neste plano.
 
-Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e dos canais permanentes de comunicação além da realização de uma consulta pública. 
+Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões pelos canais permanentes de comunicação além da realização de uma consulta pública. 
 
 ### Identificação de Conjunto de Dados
-Para melhor detalhar o processo de identificação de conjunto de dados apresentamos dividindo-o nos itens abaixo:
+Apresentamos r detalhar o processo de identificação de conjunto de dados  dividindo-o nos itens abaixo:
 
 **a) Grupo representantes de todas as áreas**
 
@@ -886,9 +886,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk5Njc3MTcsLTc3MDk4NTYwNCw4NT
-QzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0
-LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMT
-M4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3
-MjU2MjcsMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbLTc0ODcxMjkwNiwtNzcwOTg1NjA0LDg1ND
+M2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQs
+OTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMz
+gwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcy
+NTYyNywxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
 -->
