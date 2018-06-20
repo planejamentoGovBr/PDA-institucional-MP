@@ -156,7 +156,7 @@ O MP adotará, sempre que possível, a publicação em diversos formatos e por m
 
 ## Processos de Desenvolvimento de Softwares
 
-Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o MP busca aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o Departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
+Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o MP busca aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o Departamento setorial de TIC tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
 
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
@@ -281,7 +281,7 @@ IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados 
 
 As unidades administrativas, por intermédio dos seus pontos focais, são os curadores dos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
-A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
+A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
 
@@ -290,9 +290,9 @@ O quadro a seguir representa a estrutura de governança do PDA:
 
 ## **Sustentação**
 
-A unidade setorial de TI tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
+A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
-As ações que requerem desenvolvimento de novos softwares serão implementadas seguindo metodolo
+As ações que requerem desenvolvimento de novos softwares serão implementadas seguindo as metodologias já estabelecidas pela unidade setorial de TIC.
   fornecendo infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
@@ -882,7 +882,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NTE3MzkzLDYwNDE3Njk2LDE2MzgwND
+eyJoaXN0b3J5IjpbMzU3ODU4NzE0LDYwNDE3Njk2LDE2MzgwND
 Q5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEs
 MTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMT
 Q1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0
