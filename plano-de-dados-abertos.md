@@ -168,11 +168,7 @@ Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
  ----------
- 
-
-
- ----------
-# **IV. Governança**
+# **III. Governança**
 
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
 
@@ -206,10 +202,8 @@ Para atender a estratégia de abertura definida para este plano a unidade setori
 
 
 
-### Catalogação no Portal Brasileiro de Dados Abertos
-O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 
-No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
+
 
 ## **Monitoramento e Controle**
 
@@ -882,11 +876,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDE3MzM1NywtMTE3MDUxMzU0NSwtMT
-ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
-ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
-Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
-NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MD
-csLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMx
-NDA5OTk1XX0=
+eyJoaXN0b3J5IjpbLTEwODMzNDMyOTIsLTExNzA1MTM1NDUsLT
+ExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0
+OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLD
+E2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0
+NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxND
+A3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQz
+MTQwOTk5NV19
 -->
