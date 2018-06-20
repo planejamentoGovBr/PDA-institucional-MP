@@ -92,7 +92,7 @@ O instrumento foi regulamentado pela Portaria nº 68/2016 do MP, a qual vincula-
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
 O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA ==incluir link pro plano de ação== um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. 
 Destacamos abaixo os temas do Plano de Ação da INDA relacionados à abertura de Dados:
-* Realização de 3 turmas do curso de Elaboração de Plano de Dados Abertos à; 
+* Realização de 3 turmas do curso de Elaboração de Plano de Dados Abertos, na modalidade à distância; 
 * Revisão do Manual de Elaboração do Plano de Dados Abertos; 
 * Monitoramento  da Publicação dos Planos de Dados Abertos;
 * Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
@@ -901,7 +901,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTExMTY3ODMsLTEzODA0MTIxNiwtMj
-A0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAy
-Mzc5MzEsMTEwMjQyODI0NV19
+eyJoaXN0b3J5IjpbMTIxNzU2MDUwNSwtMTM4MDQxMjE2LC0yMD
+Q0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIz
+NzkzMSwxMTAyNDI4MjQ1XX0=
 -->
