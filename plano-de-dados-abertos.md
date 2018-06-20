@@ -113,7 +113,7 @@ A 3ª edição do [Plano Brasileiro do Governo Aberto](http://www.governoaberto.
 
 ## Objetivo Geral
  
-Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e à participação social.
+Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e à participação social na gestão pública.
 
 ## Objetivos Específicos
 
@@ -892,8 +892,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MDg3NjQyLDk4NzIwODg5NCwtMTk4NT
-EzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5
-MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMS
-wxMTAyNDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbMTU2Mzg0OTQyMyw5ODcyMDg4OTQsLTE5OD
+UxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAy
+OTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5Mz
+EsMTEwMjQyODI0NV19
 -->
