@@ -119,7 +119,7 @@ Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, 
 
 No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
 
-* Identificar prioridades e disponibilizar dados em formatos abertos, e, sempre que possível, georeferenciados;
+* Identificar prioridades e disponibilizar dados em formatos abertos, e, sempre que possível, georreferenciados;
 * Melhorar a qualidade dos dados disponibilizados;
 * Estimular a interoperabilidade de dados e sistemas governamentais pela publicação de dados em formato processável por máquina, conforme padrões estabelecidos;
 * Melhorar a gestão da informação e de dados; 
@@ -279,7 +279,7 @@ A Unidade Setorial de TI e a Secretaria Executiva ficarão responsáveis pela cu
 3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
 4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
 
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da SETIC.
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
 
 
 
@@ -877,7 +877,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg4NjMxNzMsLTIxMTY4NjExLDIwMz
+eyJoaXN0b3J5IjpbLTE0NTY4MjU1NzgsLTIxMTY4NjExLDIwMz
 EzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3
 NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MT
 k2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYy
