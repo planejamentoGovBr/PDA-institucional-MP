@@ -72,7 +72,7 @@ O Planejamento Estratégico do MP está organizado de forma simples e nele const
 ***Visão***: Ser reconhecido pela excelência e competência na gestão pública.
 
 O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas.
-==PEI nao aprovado. denifir como vamos escrever==
+
 
 **[2. Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti)** 
 
@@ -901,5 +901,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjQyODI0NV19
+eyJoaXN0b3J5IjpbMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
 -->
