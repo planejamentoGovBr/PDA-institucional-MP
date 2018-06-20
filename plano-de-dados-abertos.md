@@ -290,7 +290,8 @@ O quadro a seguir representa a estrutura de governança do PDA:
 
 ## **Sustentação**
 
-A unidade setorial de TI tem papel fundamental na viabilização das a do presente Plano é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
+A unidade setorial de TI tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos.
+  fornecendo infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 
@@ -879,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTc2Mzc5NSwxNjM4MDQ0OTgzLC0yMT
-M5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2
-NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1Nz
-gsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2
-OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NS
-wxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0
-OTQ4NDQ1OV19
+eyJoaXN0b3J5IjpbNjA0MTc2OTYsMTYzODA0NDk4MywtMjEzOT
+I3NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3
+LC0xNTE1MTgwMDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC
+0yMTE2ODYxMSwyMDMxMzQ2MzM5LDYyMTQ5MTQwNywtMjEzNjk1
+MjIyOCwxMDkzNzczNzYwLDY1ODk4MDEyLC00MzE0MDk5OTUsMT
+UwNTUwMjU0Niw4NTE5NjQ3NDAsLTE0MjA0MDc0MzUsLTE5NDk0
+ODQ0NTldfQ==
 -->
