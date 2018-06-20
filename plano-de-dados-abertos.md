@@ -162,11 +162,6 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Tais iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre essas, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
-## Catalogação no Portal Brasileiro de Dados Abertos
-O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
-
-No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
-
  ----------
 # **III. Governança**
 
@@ -193,6 +188,11 @@ O quadro a seguir representa a estrutura de governança do PDA:
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
 Para atender a estratégia de abertura definida para este plano a unidade setorial de TIC utilizará no processo de publicação de dados automatização de atualização e implementação de APIs integradas.  
+  ## Catalogação no Portal Brasileiro de Dados Abertos
+O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
+
+No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
+
   
 **A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
-cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
-OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
-Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
-MzEzODAxLC0xNDU2ODI1NTc4LC0yMTE2ODYxMSwyMDMxMzQ2Mz
-M5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOCwxMDkzNzczNzYwLDY1
-ODk4MDEyXX0=
+eyJoaXN0b3J5IjpbLTU5OTA5MTYxNSwxMTA2MjI2NzIxLC02Nj
+g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
+NTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC
+04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUx
+ODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4Nj
+ExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEw
+OTM3NzM3NjBdfQ==
 -->
