@@ -104,10 +104,10 @@ O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo 
 
 **[7. Comissão Nacional de Cartografia (CONCAR)](http://www.concar.gov.br/)**
 
-A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração publica, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
+A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração pública, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
 O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
 
-**[8. Comitê Interministerial Governo Aberto (CIGA)](http://www.governoaberto.cgu.gov.br/no-brasil/comite-interministerial)**
+**[8. Comitê Interministerial de Governo Aberto (CIGA)](http://www.governoaberto.cgu.gov.br/no-brasil/comite-interministerial)**
 
 O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo o compromisso do país em inovar para fortalecer a transparência dos atos governamentais. 
 
@@ -901,7 +901,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTUyMTkxNywtMTM4MDQxMjE2LC0yMD
+eyJoaXN0b3J5IjpbMTE0MDIwNzY1OSwtMTM4MDQxMjE2LC0yMD
 Q0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIz
 NzkzMSwxMTAyNDI4MjQ1XX0=
 -->
