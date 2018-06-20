@@ -361,7 +361,7 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
 
-### **MP_I_01 - Patrimônio União - Arrecadação Patrimonial**
+### **MP_I_01 - Patrimônio dUnião - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
 
    **Atividade:**
@@ -887,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMTQzOTc2LC02MDYyODk2MTcsLTg5OT
-g2MTE1OSwxNjQ5MzI2MDIsMTE1MjYyNTQ2NCwtNjUxMjQ2MTI5
-LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMT
-ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
-ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
-Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
-NjgyNTU3OF19
+eyJoaXN0b3J5IjpbMTMyNzEwMzcyMCw2MjExNDM5NzYsLTYwNj
+I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
+LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
+cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
+OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
+Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
+MzEzODAxXX0=
 -->
