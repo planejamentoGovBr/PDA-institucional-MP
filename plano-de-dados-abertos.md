@@ -263,7 +263,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
 
 
-### **Melhoria da qualidade dos dados** ==Avaliar posição do documento==
+### **Melhoria da qualidade dos dados** ==Avaliar posição do documento. Talvez na Estratégia==
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
@@ -880,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk0ODQ0NTksLTI0MTU2MjQzOCwxOT
-UyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4
-NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsND
-U3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAz
-MzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1OD
-EsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
-
+eyJoaXN0b3J5IjpbLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLT
+I0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1
+ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLD
+ExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEz
+NjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MT
+AzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwx
+MTAyNDI4MjQ1XX0=
 -->
