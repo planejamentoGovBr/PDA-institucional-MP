@@ -294,7 +294,6 @@ A unidade setorial de TIC tem papel fundamental na viabilização das ações pr
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
 As ações que requerem desenvolvimento de novos softwares serão implementadas seguindo as metodologias já estabelecidas pela unidade setorial de TIC.
 
-  fornecendo infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 
@@ -883,11 +882,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MD
-Q0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUx
-LDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLT
-E0NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkx
-NDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLT
-QzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQw
-NzQzNV19
+eyJoaXN0b3J5IjpbMTQ3NzMxNzUyMSwyMDA4NjI1NjY3LDYwND
+E3Njk2LDE2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5
+OCw0NTkwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMT
+czNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0
+NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MC
+w2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0
+NzQwXX0=
 -->
