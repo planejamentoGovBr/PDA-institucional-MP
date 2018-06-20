@@ -272,7 +272,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
-A Unidade Setorial de TI e a Ouvidoria ficarão responsáveis pela curadoria dos metadados nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+A Unidade Setorial de TI e a Secretaria Executiva ficarão responsáveis pela curadoria dos metadados nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
@@ -877,7 +877,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MzQ2MDEwLDIwMzEzNDYzMzksNjIxND
+eyJoaXN0b3J5IjpbLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxND
 kxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIs
 LTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMD
 QwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3
