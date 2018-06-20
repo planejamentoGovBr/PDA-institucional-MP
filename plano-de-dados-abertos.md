@@ -731,13 +731,14 @@ O MP é o órgão responsável pela política de dados abertos no governo federa
    4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
 
    **Produtos:**
-   1. Ambiente CKAN online exclusivo;
-   2. Identidade visual específica;
-   3. Metadados Migrados;
+   5. Ambiente CKAN online exclusivo;
+   6. Identidade visual específica;
+   7. Metadados Migrados;
+   8. Portal em operação
    
-   **Meta/Prazo:** n/2018 ==definir com a Deiop/Setic==
+   **Meta/Prazo:** Novembro/2018 
 
-   **Unidade responsável:** Ouvidoria/SETIC
+   **Unidade responsável:** DETIC
 
   
 ### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
@@ -887,11 +888,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTg3OTQ0Niw2MjExNDM5NzYsLTYwNj
-I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
-LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
-cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
-OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
-Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
-MzEzODAxXX0=
+eyJoaXN0b3J5IjpbOTQxNDQ5MDY3LDYyMTE0Mzk3NiwtNjA2Mj
+g5NjE3LC04OTk4NjExNTksMTY0OTMyNjAyLDExNTI2MjU0NjQs
+LTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNz
+A1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5
+NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsND
+U5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUz
+MTM4MDFdfQ==
 -->
