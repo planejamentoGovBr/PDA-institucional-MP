@@ -196,7 +196,7 @@ No caso de dados georreferenciados, a atualização do catálogo de metadados da
   
 # **IV. Monitoramento e Controle**
 
-O PDA será monitorado e acompanhado pela autoridade de monitoramento designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 com o auxílio do Subcomitê Gestor da Transparência, a ser instituído pelos representantes de cada Secretaria, da Ouvidoria, da autoridade máxima de TIC, da Assessoria.
+O PDA será monitorado e acompanhado pela autoridade de monitoramento designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 assessorado pelo Subcomitê Gestor da Transparência, instituído pelos representantes de cada Secretaria, da Ouvidoria, da autoridade máxima de TIC, da Assessoria.
 
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
@@ -879,7 +879,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTExNjcyNiwtNjUxMjQ2MTI5LDExMD
+eyJoaXN0b3J5IjpbMTE1MjYyNTQ2NCwtNjUxMjQ2MTI5LDExMD
 YyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMTExMjA1
 NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5ODMsLT
 IxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMTY0MjIy
