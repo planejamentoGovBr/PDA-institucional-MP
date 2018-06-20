@@ -169,9 +169,9 @@ Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise 
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
 
-Para tanto foram realizadas dinâmicas com a participação de representantes de todas as secretarias do MP iniciando com a avaliação dos PDA´s anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos a abertura neste plano.
+Para tanto foram realizadas dinâmicas com a participação de representantes de todas as secretarias do MP, iniciando com a avaliação dos PDAs anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos à abertura neste plano.
 
-Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e canais permanentes de comunicação além da realização de uma consulta pública. 
+Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões e dos canais permanentes de comunicação além da realização de uma consulta pública. 
 
 ### Identificação de Conjunto de Dados
 Para melhor detalhar o processo de identificação de conjunto de dados apresentamos dividindo-o nos itens abaixo:
@@ -886,9 +886,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3OTc4NDk4LC03NzA5ODU2MDQsODU0Mz
-YwMDQsMTk1NDg3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5
-ODcyMDg4OTQsLTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzOD
-A0MTIxNiwtMjA0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1
-NjI3LDE1ODAyMzc5MzEsMTEwMjQyODI0NV19
+eyJoaXN0b3J5IjpbLTE2Mjk5Njc3MTcsLTc3MDk4NTYwNCw4NT
+QzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0
+LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMT
+M4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3
+MjU2MjcsMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
 -->
