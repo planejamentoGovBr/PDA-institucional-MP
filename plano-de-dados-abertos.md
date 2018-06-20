@@ -196,7 +196,7 @@ No caso de dados georreferenciados, a atualização do catálogo de metadados da
   
 # **IV. Monitoramento e Controle**
 
-O PDA será monitorado e acompanhado pelo Subcomitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
+O PDA será monitorado e acompanhado pela autoridade de monitoramento designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
@@ -879,11 +879,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Nj
-g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
-NTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC
-04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUx
-ODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4Nj
-ExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEw
-OTM3NzM3NjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjY3NzEwNzIsLTY1MTI0NjEyOSwxMT
+A2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIw
+NTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC
+0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIy
+MjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4Mj
+U1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0y
+MTM2OTUyMjI4XX0=
 -->
