@@ -292,14 +292,13 @@ O quadro a seguir representa a estrutura de governança do PDA:
 
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
-As ações que requerem desenvolvimento de novos softwares serão implementadas seguindo as metodologias já estabelecidas pela unidade setorial de TIC.
 Para atender a estratégia de abertura definida para este plano a unidade setorial de TIC utilizará no processo de publicação de dados automatização de atualização e implementação de APIs integradas.  
   
-==A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+**A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
 3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).==
+4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).**
 
 
 
@@ -881,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjM4NTM0MCwtMTExMjA1NTYxMywyMD
-A4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5ODMsLTIxMzkyNzY2
-MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMTY0MjIyMDY2NywtMT
-UxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjEx
-Njg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMj
-gsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1
-MDI1NDZdfQ==
+eyJoaXN0b3J5IjpbLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMj
+AwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2
+NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLT
+E1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIx
+MTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMj
+I4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1
+NTAyNTQ2XX0=
 -->
