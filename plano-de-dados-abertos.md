@@ -132,9 +132,9 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 
 # **II. Estratégia para Abertura**
 
-As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e [as 3 leis dos dados abertos](http://dados.gov.br/pagina/dados-abertos), bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.
+As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e [as três leis dos dados abertos](http://dados.gov.br/pagina/dados-abertos), bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.
 
-O Ministério do Planejamento, em virtude do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as estratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
+O MP, em virtude do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as estratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
 
 ## Premissas
 
@@ -893,9 +893,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkzMzQ2NDEsMTk1NDg3MDEwMSwxMT
-U0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYy
-NzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMy
-wtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEw
-MjQyODI0NV19
+eyJoaXN0b3J5IjpbMTk4NzMyMTg5MCwxOTU0ODcwMTAxLDExNT
+Q1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3
+MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC
+01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMTAy
+NDI4MjQ1XX0=
 -->
