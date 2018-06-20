@@ -125,7 +125,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 * Melhorar a gestão da informação e de dados; 
 * Incrementar os processos de transparência e de acesso a informações públicas;
 * Estimular a visualização da informação das ações de governo no território;
-* Fomentar a criação de negócios; e
+* Fomentar a exploração de novos negócios; e
 * Priorizar a abertura de dados e a melhoria de qualidade com base nas demandas por dados identificados na sociedade.
  
  ----------
@@ -893,7 +893,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzAyMTk5NCw0NTcwNTgwODQsOTg3Mj
+eyJoaXN0b3J5IjpbMTQzMDc2NzAzOSw0NTcwNTgwODQsOTg3Mj
 A4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMzgwNDEy
 MTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcyNTYyNy
 wxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
