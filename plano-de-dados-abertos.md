@@ -167,7 +167,7 @@ Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise 
  ----------
 # **III. Definição das Ações de Abertura e Melhoria de Dados**
 
-A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Contudo, faz-se necessário estabelecer diretrizes para a abertura de bases de dados, considerando-se os princípios da legalidade, economicidade e eficiência, para a definição da priorização das informações a serem disponibilizadas à sociedade.
+A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
 
 Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de todas as secretarias do MP iniciando com a avaliação dos PDA´s anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos a abertura neste plano.
 
@@ -886,9 +886,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDk4NTYwNCw4NTQzNjAwNCwxOTU0OD
-cwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwt
-MTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMD
-Q0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIz
-NzkzMSwxMTAyNDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbOTY0ODExNDQ2LC03NzA5ODU2MDQsODU0Mz
+YwMDQsMTk1NDg3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5
+ODcyMDg4OTQsLTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzOD
+A0MTIxNiwtMjA0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1
+NjI3LDE1ODAyMzc5MzEsMTEwMjQyODI0NV19
 -->
