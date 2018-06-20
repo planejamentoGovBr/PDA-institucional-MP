@@ -104,7 +104,7 @@ O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados aber
 O MP compõe o comitê executivo do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo com o compromisso do País em inovar para fortalecer a transparência dos atos governamentais. 
 
 **[9. Parceria para Governo Aberto (OGP)](https://www.opengovpartnership.org/countries/brazil)**
-A 3ª edição do [Plano Brasileiro do Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1)    e os novos compromissos do MP relacionados a abertura de dados e transparência são: 
+A 3ª edição do [Plano Brasileiro do Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) contém os compromissos do MP relacionados à abertura de dados e transparência, a saber: 
 
 * [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
 * [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
@@ -892,8 +892,8 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMxOTU3MzYsLTE5ODUxMzYyNzEsLT
-E0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMywtNTUx
-MTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEwMjQyOD
-I0NV19
+eyJoaXN0b3J5IjpbOTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xND
+E1MDMzNDI4LC0xMzgwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1
+ODU4MSwtMTExNDcyNTYyNywxNTgwMjM3OTMxLDExMDI0MjgyND
+VdfQ==
 -->
