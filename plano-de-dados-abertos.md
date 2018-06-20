@@ -98,7 +98,7 @@ Destacamos abaixo os temas do Plano de Ação da INDA relacionados à abertura d
 * Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
 * Monitoramento da implementação dos Planos de Dados Abertos publicados.
 
-**[6. Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE)](http://www.planejamento.gov.br/assuntos/planejamento-e-investimentos/inde)**
+**[6. Coordenação da Infraestrutura Nacional de Dados Espaciais (INDE)](http://www.planejamento.gov.br/assuntos/planejamento-e-investimentos/inde)**
 
 O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia (CONCAR).
 
@@ -901,7 +901,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzU2MDUwNSwtMTM4MDQxMjE2LC0yMD
+eyJoaXN0b3J5IjpbLTQ1MTUyMTkxNywtMTM4MDQxMjE2LC0yMD
 Q0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIz
 NzkzMSwxMTAyNDI4MjQ1XX0=
 -->
