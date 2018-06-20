@@ -270,7 +270,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
  ----------
 # **IV. Sustentação**
 
-As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelos dados mantidas nos seus respectivos sistemas informacionais, e devem, inclusive, primar pela acurácia e a qualidade das informações nos metadados respectivos.
+As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelos dados mantidos nos seus respectivos sistemas informacionais, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
 A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados do dados.gov.br. 
 A curadoria compreende as seguintes atividades:
@@ -878,11 +878,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODc5MjUzNywtMjEzNjk1MjIyOCwxMD
-kzNzczNzYwLDY1ODk4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0
-Niw4NTE5NjQ3NDAsLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLT
-I0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1
-ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLD
-ExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEz
-NjI3MV19
+eyJoaXN0b3J5IjpbNTA5NzYwMjk3LC0yMTM2OTUyMjI4LDEwOT
+M3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2
+LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMj
+QxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4
+NDY3MSwtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMT
+E1NDU0NTc5OCw0NTcwNTgwODQsOTg3MjA4ODk0LC0xOTg1MTM2
+MjcxXX0=
 -->
