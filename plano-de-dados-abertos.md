@@ -200,9 +200,9 @@ Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de da
 **d) Consulta Pública**
 Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 (vinte) bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do MP.
 
-O resultado da consulta pública influenciou na adequação da oferta de informações do Planejamento à demanda da sociedade sobre os dados abertos que constam no presente Plano.
+O resultado da consulta pública influenciou na adequação da oferta de informações deste Ministério à demanda da sociedade sobre os dados abertos que constam no presente Plano.
 
-Cumprindo o compromisso de garantir a transparência do processo  foi publicada a devolutiva da Consulta Pública no Portal Institucional do MP esclarecendo sobre as solicitações de abertura de dados que não serão contempladas neste plano.
+Cumprindo o compromisso de garantir a transparência do processo  foi publicada a devolutiva da Consulta Pública no Portal Institucional do MP esclarecendo sobre as solicitações de abertura de dados que não serão contempladas neste Plano.
 
 Todo processo de consulta pública foi amplamente divulgado nos seguintes canais:
 * Site do Ministério (www.planejamento.gov.br)
@@ -880,10 +880,10 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNzE3OTk4LDE5NTI4NTI3MzMsMjAyOD
-cxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LDg1NDM2MDA0
-LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQsOTg3Mj
-A4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMzgwNDEy
-MTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcyNTYyNy
-wxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjIyNjUxNywxOTUyODUyNzMzLDIwMj
+g3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAw
+NCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4Nz
+IwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQx
+MjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2Mj
+csMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
 -->
