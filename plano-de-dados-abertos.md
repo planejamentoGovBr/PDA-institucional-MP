@@ -232,11 +232,11 @@ O documento possui **âncoras** para cada seção possibilitando o compartilhame
 
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, academia, imprensa, sociedade organizada e demais cidadãos.
 
-O cidadão poderá usar a Ouvi canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA.
+O cidadão poderá usar a Ouvidoria do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA.
 
 Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
 
-==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
+==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.dados.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
 2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
 3.	Consultas Públicas;
 4.	Criação de trilhas de participação social;
@@ -887,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MjEzMTkxLC04OTk4NjExNTksMTY0OT
-MyNjAyLDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIx
-LC02Njg4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMj
-AwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2
-NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLT
-E1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIx
-MTY4NjExXX0=
+eyJoaXN0b3J5IjpbLTYwNjI4OTYxNywtODk5ODYxMTU5LDE2ND
+kzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYxMjksMTEwNjIyNjcy
+MSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC0xMTEyMDU1NjEzLD
+IwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0NDk4MywtMjEzOTI3
+NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3LC
+0xNTE1MTgwMDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0y
+MTE2ODYxMV19
 -->
