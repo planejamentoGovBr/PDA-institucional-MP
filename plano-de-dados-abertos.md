@@ -162,9 +162,14 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Tais iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre essas, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
+
+## **Melhoria da qualidade dos dados** 
+
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma incremental, primando pela publicidade tempestiva das informações e a evolução das interfaces de dados já disponibilizadas, buscando entregar maior valor aos usuários. Isso inclui publicação em mais formatos diversos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, por diversos parâmetros, e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
+
  ----------
  
-# **III. Definição das Ações de Abertura e Melhoria de Dados**
+# **III. Definição das Ações de Abertura dos Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
 
@@ -262,10 +267,6 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
 
 
-## **Melhoria da qualidade dos dados** 
-==Avaliar posição do documento. Talvez na Estratégia==
-
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma incremental, primando pela publicidade tempestiva das informações e a evolução das interfaces de dados já disponibilizadas, buscando entregar maior valor aos usuários. Isso inclui publicação em mais formatos diversos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, por diversos parâmetros, e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
 ## Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
@@ -878,11 +879,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUwOTI1NTIsMTA5Mzc3Mzc2MCw2NT
-g5ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQw
-LC0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMT
-k1Mjg1MjczMywyMDI4NzEzNzA3LC0yMDcwNTg0NjcxLC03NzA5
-ODU2MDQsODU0MzYwMDQsMTk1NDg3MDEwMSwxMTU0NTQ1Nzk4LD
-Q1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYyNzEsLTE0MTUw
-MzM0MjhdfQ==
+eyJoaXN0b3J5IjpbNTk4Mjg4NDkyLDEwOTM3NzM3NjAsNjU4OT
+gwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwt
+MTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NT
+I4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1
+NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NT
+cwNTgwODQsOTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMz
+NDI4XX0=
 -->
