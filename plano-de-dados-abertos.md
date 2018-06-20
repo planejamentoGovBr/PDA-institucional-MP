@@ -285,7 +285,7 @@ A unidade setorial de TI é responsável pelo fornecimento da infraestrutura e d
   
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
 
-O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os pontos focais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
+O quadro a seguir representa a estrutura de governança do PDA. 
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
 
 ## **Sustentação**
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTEwNTY0OCw0NTkwNzAxNTEsMTY0Mj
-IyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1Njgy
-NTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLT
-IxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5
-OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1LC
-0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4
-NzEzNzA3XX0=
+eyJoaXN0b3J5IjpbLTE3MjUzNjAzNTYsNDU5MDcwMTUxLDE2ND
+IyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4
+MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC
+0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQw
+OTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNS
+wtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAy
+ODcxMzcwN119
 -->
