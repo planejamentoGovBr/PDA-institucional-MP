@@ -227,7 +227,7 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
 Este Plano de Dados Abertos é oficialmente publicado em [plano.dados.planejamento.gov.br](http://plano.dados.planejamento.gov.br) no formato HTML. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
-O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas do documento, por exemplo, este que leva para a lista de Ações: [http://plano.dados.planejamento.gov.br/#vi-plano-de-ação](#vi-plano-de-ação). Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
+O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
 
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, Academia, imprensa, sociedade organizada e cidadão comum (não se vincula a organização ou entidade específica).
 
@@ -859,6 +859,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
+**Git**
 
 ## SIGLAS ==incluir sistemas==
 **MP:** Ministério do Planejamento, Desenvolvimento e gestão
@@ -881,7 +882,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDkwODM0OCwtODk5ODYxMTU5LDE2ND
+eyJoaXN0b3J5IjpbLTM3MjQ5MDE5OSwtODk5ODYxMTU5LDE2ND
 kzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYxMjksMTEwNjIyNjcy
 MSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC0xMTEyMDU1NjEzLD
 IwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0NDk4MywtMjEzOTI3
