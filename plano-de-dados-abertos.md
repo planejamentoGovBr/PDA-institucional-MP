@@ -801,8 +801,10 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 **Produtos:**
 1. Metadados do Catálogo de dados atualizado;
-2. Conjunto de modelos e exemplos de boas catalogações de metadados;
-3. Gestores nas áreas capacitados e habilitados a realizarem posteriormente novos ajustes nos metadados;
+6. Catálogo de Dados do MP reorganizado;
+7. Conjunto de modelos e exemplos de boas catalogações de metadados;
+8. Critérios de acurácia e qualidade de dados definidos;
+9. Gestores nas áreas capacitados e habilitados a realizarem posteriormente novos ajustes nos metadados;
 
 
 **Meta/Prazo:** Setembro/2018 ==Definir==
@@ -887,11 +889,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTA1OTk1NCw2MjExNDM5NzYsLTYwNj
-I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
-LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
-cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
-OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
-Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
-MzEzODAxXX0=
+eyJoaXN0b3J5IjpbMTQyMzE1NjgyNiwxOTIxMDU5OTU0LDYyMT
+E0Mzk3NiwtNjA2Mjg5NjE3LC04OTk4NjExNTksMTY0OTMyNjAy
+LDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Nj
+g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
+NTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC
+04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUx
+ODAwNzBdfQ==
 -->
