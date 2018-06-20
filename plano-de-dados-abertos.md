@@ -236,7 +236,7 @@ O cidadão poderá usar a Ouvidoria do MP para informar o Ministério sobre prob
 
 Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
 
-==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.dados.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
+==1.	Uso de ambiente colaborativo (Wiki) para repositório de conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema, a exemplo da wiki.dados.gov.br;
 2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
 3.	Consultas Públicas;
 4.	Criação de trilhas de participação social;
@@ -887,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjI4OTYxNywtODk5ODYxMTU5LDE2ND
-kzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYxMjksMTEwNjIyNjcy
-MSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC0xMTEyMDU1NjEzLD
-IwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0NDk4MywtMjEzOTI3
-NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3LC
-0xNTE1MTgwMDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0y
-MTE2ODYxMV19
+eyJoaXN0b3J5IjpbLTE4NTk4MzY0NzgsLTYwNjI4OTYxNywtOD
+k5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYx
+MjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC
+0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0
+NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MS
+wxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1MzEzODAxLC0x
+NDU2ODI1NTc4XX0=
 -->
