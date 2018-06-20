@@ -169,6 +169,80 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 
  ----------
  
+
+
+ ----------
+# **IV. Governança**
+
+O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
+
+De acordo com § 4º do art. 5º do Decreto 8777/2016, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
+
+I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
+II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
+III - monitorar a implementação dos Planos de Dados Abertos; e
+IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos. 
+
+As unidades administrativas, por intermédio dos seus pontos focais, são os curadores dos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
+
+A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
+  
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
+
+O quadro a seguir representa a estrutura de governança do PDA:
+![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
+
+## **Sustentação**
+
+A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
+A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
+Para atender a estratégia de abertura definida para este plano a unidade setorial de TIC utilizará no processo de publicação de dados automatização de atualização e implementação de APIs integradas.  
+  
+**A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
+2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
+3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
+4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).**
+
+
+
+### Catalogação no Portal Brasileiro de Dados Abertos
+O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
+
+No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
+
+## **Monitoramento e Controle**
+
+O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
+
+O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
+1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
+2.	Avaliar se as ações adotadas estão aderentes à Política de Dados Abertos;
+3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
+4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
+5.	Monitorar o atendimento as regras da INDA e INDE
+6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
+7.	
+Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
+
+## Comunicação e Participação social
+A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
+
+Este Plano de Dados Abertos é oficialmente publicado em [plano.dados.planejamento.gov.br](http://plano.dados.planejamento.gov.br) no formato HTML. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas do documento, por exemplo, este que leva para as Ações: [http://plano.dados.planejamento.gov.br/#vi-plano-de-ação](#vi-plano-de-ação). Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
+
+Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, Academia, imprensa, sociedade organizada e cidadão comum (não se vincula a organização ou entidade específica).
+
+O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
+
+==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
+2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
+3.	Consultas Públicas;
+4.	Criação de trilhas de participação social;
+5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
+6.	Publicação de relatório anual, contendo estatísticas de consulta aos dados, uso das APIs e acesso aos dados na fonte;
+7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
+8.	Outros espaços de divulgação.==
+
 # **III. Definição das Ações de Abertura dos Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
@@ -266,78 +340,6 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Informações sobre imóveis da antiga RFFSA** | 4 | 6 | 1 | 2 | 4 | 3 | 5 | 4 | 5 |**34** |
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
 
-
- ----------
-# **IV. Governança**
-
-O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
-
-De acordo com § 4º do art. 5º do Decreto 8777/2016, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
-
-I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
-II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
-III - monitorar a implementação dos Planos de Dados Abertos; e
-IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos. 
-
-As unidades administrativas, por intermédio dos seus pontos focais, são os curadores dos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
-
-A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
-  
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
-
-O quadro a seguir representa a estrutura de governança do PDA:
-![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
-
-## **Sustentação**
-
-A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
-A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
-Para atender a estratégia de abertura definida para este plano a unidade setorial de TIC utilizará no processo de publicação de dados automatização de atualização e implementação de APIs integradas.  
-  
-**A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
-1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
-2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
-3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).**
-
-
-
-### Catalogação no Portal Brasileiro de Dados Abertos
-O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
-
-No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
-
-## **Monitoramento e Controle**
-
-O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
-
-O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
-1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
-2.	Avaliar se as ações adotadas estão aderentes à Política de Dados Abertos;
-3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
-4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
-5.	Monitorar o atendimento as regras da INDA e INDE
-6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
-7.	
-Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
-
-## Comunicação e Participação social
-A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
-
-Este Plano de Dados Abertos é oficialmente publicado em [plano.dados.planejamento.gov.br](http://plano.dados.planejamento.gov.br) no formato HTML. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas do documento, por exemplo, este que leva para as Ações: [http://plano.dados.planejamento.gov.br/#vi-plano-de-ação](#vi-plano-de-ação). Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
-
-Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, Academia, imprensa, sociedade organizada e cidadão comum (não se vincula a organização ou entidade específica).
-
-O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
-
-==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
-2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
-3.	Consultas Públicas;
-4.	Criação de trilhas de participação social;
-5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
-6.	Publicação de relatório anual, contendo estatísticas de consulta aos dados, uso das APIs e acesso aos dados na fonte;
-7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
-8.	Outros espaços de divulgação.==
 
  ----------
 # **VI. Plano de Ação**
@@ -880,11 +882,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMj
-AwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2
-NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLT
-E1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIx
-MTY4NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMj
-I4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1
-NTAyNTQ2XX0=
+eyJoaXN0b3J5IjpbLTgyMDE3MzM1NywtMTE3MDUxMzU0NSwtMT
+ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
+ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
+Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
+NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MD
+csLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMx
+NDA5OTk1XX0=
 -->
