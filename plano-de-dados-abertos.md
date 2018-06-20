@@ -85,7 +85,7 @@ O CETIC criado pela Portaria Nº 385, de 11 de novembro de 2017, possui caráter
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
 
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
-O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
+O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vincula-se ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
 
 **[5. Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA)](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx)**
 
@@ -901,6 +901,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTE1ODU4MSwtMTExNDcyNTYyNywxNT
-gwMjM3OTMxLDExMDI0MjgyNDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMT
+ExNDcyNTYyNywxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
 -->
