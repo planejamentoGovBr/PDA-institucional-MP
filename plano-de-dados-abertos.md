@@ -188,7 +188,7 @@ O quadro a seguir representa a estrutura de governança do PDA:
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
 Para atender a estratégia de abertura definida para este plano a unidade setorial de TIC utilizará no processo de publicação de dados automatização de atualização e implementação de APIs integradas.  
-  ## Catalogação no Portal Brasileiro de Dados Abertos
+
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 
 No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
@@ -877,7 +877,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTA5MTYxNSwxMTA2MjI2NzIxLC02Nj
+eyJoaXN0b3J5IjpbLTY4MjA2NTg4MSwxMTA2MjI2NzIxLC02Nj
 g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
 NTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC
 04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUx
