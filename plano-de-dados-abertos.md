@@ -263,7 +263,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
 
 
-### **Melhoria da qualidade dos dados**
+### **Melhoria da qualidade dos dados** ==Avaliar posição do documento==
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
@@ -880,7 +880,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjIyNjUxNywxOTUyODUyNzMzLDIwMj
+eyJoaXN0b3J5IjpbLTI0MTU2MjQzOCwxOTUyODUyNzMzLDIwMj
 g3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAw
 NCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4Nz
 IwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQx
