@@ -794,7 +794,7 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 **Atividade:**
 1. Instituir rede dos gestores técnicos responsáveis pelos conjuntos de dados;
-2. Definição de um conjunto de orientações para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incluir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
+2. Definição de um conjunto de orientações (critérios) para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incluir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
 3. Realizar oficina de catalogação e *brainstorming* de melhorias;
 4. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
 
@@ -887,7 +887,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDQ4MDc4OSw2MjExNDM5NzYsLTYwNj
+eyJoaXN0b3J5IjpbMTkyMTA1OTk1NCw2MjExNDM5NzYsLTYwNj
 I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
 LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
 cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
