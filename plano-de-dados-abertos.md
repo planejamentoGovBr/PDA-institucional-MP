@@ -717,11 +717,12 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 **Ponto Focal:** e-Ouv
 
+
 ## 2. Plano de Ação - Melhoria dos Dados
 
 
 ### **MP_I_01 - Implementação do Portal de Dados Abertos do MP**
-O Ministério do Planejamento é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
+O MP é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
 
    **Atividade:**
    1. Instalar ambiente CKAN específico;
@@ -734,7 +735,7 @@ O Ministério do Planejamento é o órgão responsável pela política de dados 
    2. Identidade visual específica;
    3. Metadados Migrados;
    
-   **Meta/Prazo:** XXXXXX/2018 ==definir com a Deiop/Setic==
+   **Meta/Prazo:** n/2018 ==definir com a Deiop/Setic==
 
    **Unidade responsável:** Ouvidoria/SETIC
 
@@ -886,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMTk5MzIzLDYyMTE0Mzk3NiwtNjA2Mj
-g5NjE3LC04OTk4NjExNTksMTY0OTMyNjAyLDExNTI2MjU0NjQs
-LTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNz
-A1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5
-NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsND
-U5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUz
-MTM4MDFdfQ==
+eyJoaXN0b3J5IjpbLTMzOTg3OTQ0Niw2MjExNDM5NzYsLTYwNj
+I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
+LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
+cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
+OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
+Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
+MzEzODAxXX0=
 -->
