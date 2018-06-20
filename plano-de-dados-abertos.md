@@ -242,7 +242,7 @@ Para fomentar a participação social e, em observância aos princípios da tran
 4.	Criação de trilhas de participação social;
 5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
 6.	Publicação de relatório anual, contendo estatísticas de consulta aos dados, uso das APIs e acesso aos dados na fonte;
-7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter; e
+7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional de redes sociais; e
 8.	Outros espaços de divulgação.
 
 # **V. Definição das Ações de Abertura dos Dados**
@@ -887,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY0OTc1MDcsLTYwNjI4OTYxNywtOD
-k5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYx
-MjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC
-0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0
-NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MS
-wxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1MzEzODAxLC0x
-NDU2ODI1NTc4XX0=
+eyJoaXN0b3J5IjpbNjIxMTQzOTc2LC02MDYyODk2MTcsLTg5OT
+g2MTE1OSwxNjQ5MzI2MDIsMTE1MjYyNTQ2NCwtNjUxMjQ2MTI5
+LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMT
+ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
+ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
+Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
+NjgyNTU3OF19
 -->
