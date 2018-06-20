@@ -300,7 +300,7 @@ O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de 
 ## Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 
-No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
+No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
 
 
  ----------
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MTI2OTAxLC0yMTE2ODYxMSwyMDMxMz
-Q2MzM5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOCwxMDkzNzczNzYw
-LDY1ODk4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0Niw4NTE5Nj
-Q3NDAsLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLTI0MTU2MjQz
-OCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLT
-c3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3
-OThdfQ==
+eyJoaXN0b3J5IjpbLTEyNjg4NjMxNzMsLTIxMTY4NjExLDIwMz
+EzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3
+NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MT
+k2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYy
+NDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MS
+wtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0
+NTc5OF19
 -->
