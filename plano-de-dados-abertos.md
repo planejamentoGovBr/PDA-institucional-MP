@@ -238,7 +238,7 @@ O cidadão poderá usar os canais de comunicação do MP para informar o Minist�
 7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional do Twitter;
 8.	Outros espaços de divulgação.==
 
-# **III. Definição das Ações de Abertura dos Dados**
+# **V. Definição das Ações de Abertura dos Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
 
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMT
-ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
-ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
-Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
-NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MD
-csLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMx
-NDA5OTk1XX0=
+eyJoaXN0b3J5IjpbMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
+cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
+OTYsMTYzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LD
+Q1OTA3MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1
+MzEzODAxLC0xNDU2ODI1NTc4LC0yMTE2ODYxMSwyMDMxMzQ2Mz
+M5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOCwxMDkzNzczNzYwLDY1
+ODk4MDEyXX0=
 -->
