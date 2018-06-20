@@ -193,7 +193,7 @@ Este trabalho resultou em uma relação de bases contendo cerca de 40 (quarenta)
 
 Considerando a complexidade de certificar-se que todas as informações disponíveis nas diversas bases geridas no MP se encontram disponíveis em formato aberto, incluiu-se essa atividade no Plano de Ação de Melhoria do presente plano (Sessão VI) no item **MP_M_05 - Estruturação do Inventário de Bases de Dados** que terá como produto uma relação de conjunto de dados a serem disponibilizados em formato aberto e que farão parte do escopo do próximo PDA 2020-2021. 
 
-Para direcionar os escopo deste plano atual e atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
+Para direcionar o escopo deste plano atual e atendendo a premissa de procurar disponibilizar os dados considerados mais relevantes para a sociedade o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem foi aplicado um filtro no inventário adotando como critério das bases que tiveram maior numero de ocorrências nos canais de comunicação e que necessitam ter um foco maior de atuação da organização. Neste caso foram priorizadas as ações que aprimoram a qualidade dos conjuntos de dados relativas aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
 Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==incluir planilha da consulta publica==
 
@@ -882,10 +882,10 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY2MzE1MDYsLTIwNzA1ODQ2NzEsLT
-c3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3
-OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMT
-QxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTEx
-NTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMTAyNDI4Mj
-Q1XX0=
+eyJoaXN0b3J5IjpbLTU0MjEwMDI5LC0yMDcwNTg0NjcxLC03Nz
+A5ODU2MDQsODU0MzYwMDQsMTk1NDg3MDEwMSwxMTU0NTQ1Nzk4
+LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYyNzEsLTE0MT
+UwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMywtNTUxMTU4
+NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEwMjQyODI0NV
+19
 -->
