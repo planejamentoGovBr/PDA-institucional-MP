@@ -156,9 +156,9 @@ O MP adotará, sempre que possível, a publicação em diversos formatos e por m
 
 ## Processos de Desenvolvimento de Softwares
 
-Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o MP busca aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
+Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o MP busca aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o Departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
 
-Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
+Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
 Nos últimos 2 anos o Ministério do Planejamento vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Estas iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre estes, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
@@ -891,7 +891,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEyNTk1NDgsODU0MzYwMDQsMTk1ND
+eyJoaXN0b3J5IjpbLTE3OTU5MDc0MjAsODU0MzYwMDQsMTk1ND
 g3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQs
 LTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMj
 A0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAy
