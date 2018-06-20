@@ -110,8 +110,7 @@ O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados aber
 **[8. Comitê Interministerial de Governo Aberto (CIGA)](http://www.governoaberto.cgu.gov.br/no-brasil/comite-interministerial)**
 O MP compõe o comitê executivo do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo com o compromisso do País em inovar para fortalecer a transparência dos atos governamentais. 
 
-**[9. Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)](https://www.opengovpartnership.org/countries/brazil)**
-
+**[9. Parceria para Governo Aberto (OGP)](https://www.opengovpartnership.org/countries/brazil)**
 Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados e transparência são: 
 
 * [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
@@ -900,7 +899,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MjI4NDQ1LC0xNDE1MDMzNDI4LC0xMz
+eyJoaXN0b3J5IjpbMzUxNTY1NTE5LC0xNDE1MDMzNDI4LC0xMz
 gwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcy
 NTYyNywxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
 -->
