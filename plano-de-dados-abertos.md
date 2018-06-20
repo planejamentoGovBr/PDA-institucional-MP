@@ -201,11 +201,7 @@ Para atender a estratégia de abertura definida para este plano a unidade setori
 4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).**
 
 
-
-
-
-
-## **Monitoramento e Controle**
+# **IV. Monitoramento e Controle**
 
 O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autoridade designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 e constituído por representantes de cada Secretaria e da Ouvidoria.
 
@@ -218,6 +214,11 @@ O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que nece
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
 7.	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
+
+## **Melhoria da qualidade dos dados** 
+
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
+
 
 ## Comunicação e Participação social
 A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e a sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e solidificar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
@@ -876,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU5NTQ4NzUsLTExNzA1MTM1NDUsLT
-ExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0
-OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLD
-E2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0
-NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkxND
-A3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLTQz
-MTQwOTk5NV19
+eyJoaXN0b3J5IjpbMTYxOTY5ODI5MiwtMTE3MDUxMzU0NSwtMT
+ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
+ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
+Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
+NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MD
+csLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMx
+NDA5OTk1XX0=
 -->
