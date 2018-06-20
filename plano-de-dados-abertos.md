@@ -310,7 +310,7 @@ O PDA será acompanhado pelo Comitê de Transparência a ser criado pela autorid
 
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
-2.	Avaliar se as ações adotadas estão aderentes a Política de Dados Abertos;
+2.	Avaliar se as ações adotadas estão aderentes à Política de Dados Abertos;
 3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
 4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
 5.	Monitorar o atendimento as regras da INDA e INDE
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLT
-E0NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkx
-NDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLT
-QzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQw
-NzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3Mz
-MsMjAyODcxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LDg1
-NDM2MDA0XX0=
+eyJoaXN0b3J5IjpbMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMT
+czNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0
+NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MC
+w2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0
+NzQwLC0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0Mz
+gsMTk1Mjg1MjczMywyMDI4NzEzNzA3LC0yMDcwNTg0NjcxLC03
+NzA5ODU2MDRdfQ==
 -->
