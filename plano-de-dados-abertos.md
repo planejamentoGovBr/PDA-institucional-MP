@@ -216,12 +216,9 @@ O subcomitê terá dentre as suas atribuições:
 	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
-A Secretaria Executiva ficará responsável pela gestão da Transparência no âmbito do MP tendo como uma de suas atividades:
+A Secretaria Executiva ficará responsável pela gestão da Transparência no âmbito do MP tendo como uma de suas atribuições , :
 
-Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
-Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
-Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).
+
 
 
 
@@ -887,11 +884,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY0MjA0MDksMTE1MjYyNTQ2NCwtNj
-UxMjQ2MTI5LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUx
-MzU0NSwtMTExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LD
-E2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkw
-NzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMz
-gwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2
-MjE0OTE0MDddfQ==
+eyJoaXN0b3J5IjpbMTUxMjE0MTk5OCwxMTUyNjI1NDY0LC02NT
+EyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMTcwNTEz
+NTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2OTYsMT
+YzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LDQ1OTA3
+MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1MzEzOD
+AxLC0xNDU2ODI1NTc4LC0yMTE2ODYxMSwyMDMxMzQ2MzM5LDYy
+MTQ5MTQwN119
 -->
