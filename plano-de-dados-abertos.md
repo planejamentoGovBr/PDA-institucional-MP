@@ -80,7 +80,7 @@ O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do 
 
 **3. Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
 
-O CETIC criado pela Portaria Nº 385 , de 11 de novembro de 2017, possui caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
+O CETIC criado pela Portaria Nº 385, de 11 de novembro de 2017, possui caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
 
@@ -901,6 +901,6 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMT
-AyNDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbLTM4Mjk2NDc2MywtMTExNDcyNTYyNywxNT
+gwMjM3OTMxLDExMDI0MjgyNDVdfQ==
 -->
