@@ -272,7 +272,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 As unidades administrativas, por intermédio dos seus pontos focais, são as responsáveis pelos dados mantidos nos sistemas informacionais de sua responsabilidade, e devem, inclusive, primar pela excelência na qualidade dos respectivos metadados.
 
-A SETIC e a Ouvidoria ficarão responsáveis pela curadoria dos metadados nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+A Unidade Setorial de TI e a Ouvidoria ficarão responsáveis pela curadoria dos metadados nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTM0NjMzOSw2MjE0OTE0MDcsLTIxMz
-Y5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5OTk1
-LDE1MDU1MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1LC0xOT
-Q5NDg0NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4NzEz
-NzA3LC0yMDcwNTg0NjcxLC03NzA5ODU2MDQsODU0MzYwMDQsMT
-k1NDg3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4
-OTRdfQ==
+eyJoaXN0b3J5IjpbNDQ3MzQ2MDEwLDIwMzEzNDYzMzksNjIxND
+kxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIs
+LTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMD
+QwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3
+MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LD
+g1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgw
+ODRdfQ==
 -->
