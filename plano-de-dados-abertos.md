@@ -216,12 +216,12 @@ O subcomitê terá dentre as suas atribuições:
 	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
-CONTROLE
-**A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
-9. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
-10. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
-11. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
-12. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).**
+A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
+
+Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
+Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
+Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
+Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc.).
 
 
 
@@ -887,7 +887,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc1Nzg4ODEsMTE1MjYyNTQ2NCwtNj
+eyJoaXN0b3J5IjpbLTE3NzgxMjYzMzgsMTE1MjYyNTQ2NCwtNj
 UxMjQ2MTI5LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUx
 MzU0NSwtMTExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LD
 E2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkw
