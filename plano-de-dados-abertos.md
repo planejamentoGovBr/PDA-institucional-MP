@@ -293,7 +293,7 @@ O quadro a seguir representa a estrutura de governança do PDA:
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
 As ações que requerem desenvolvimento de novos softwares serão implementadas seguindo as metodologias já estabelecidas pela unidade setorial de TIC.
-Para implementação da estratégia de abertura definida para este plano a /unidade de TIC utilizará tecnologias de automação dos processos de publicação de dados por meio do desenvolvimento de APIs integradas e 
+Para implementação da estratégia de abertura definida para este plano a /unidade de TIC utilizará tecnologias de automação dos processos de publicação de dados por meio do desenvolvimento de APIs integradas e atualização 
   
 A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 
@@ -882,11 +882,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzg3MDU0NSwyMDA4NjI1NjY3LDYwND
-E3Njk2LDE2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5
-OCw0NTkwNzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMT
-czNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0
-NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MC
-w2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0
-NzQwXX0=
+eyJoaXN0b3J5IjpbLTEzMTk4MTk5MDUsMjAwODYyNTY2Nyw2MD
+QxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEy
+OTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLT
+E3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEz
+NDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3Nj
+AsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2
+NDc0MF19
 -->
