@@ -291,7 +291,7 @@ O quadro a seguir representa a estrutura de governança do PDA:
 ## **Sustentação**
 
 A unidade setorial de TI tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
-A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura  tecnológica disponível, atualizada, confiável, 
+A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura  tecnológica disponível, atualizada, integrada, 
   fornecendo infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
@@ -881,7 +881,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjk2OTgzLDYwNDE3Njk2LDE2MzgwND
+eyJoaXN0b3J5IjpbMjQwOTAzMzA5LDYwNDE3Njk2LDE2MzgwND
 Q5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEs
 MTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMT
 Q1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0
