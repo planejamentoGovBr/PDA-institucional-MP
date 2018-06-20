@@ -141,9 +141,8 @@ O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição re
 1. Publicar os dados considerados relevantes para a sociedade, no formato disponível informando as eventuais limitações de qualidade dos dados;
 2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
 3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
-5. Integrar os conjuntos de dados abertos do Ministério ao Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do overno federal;
+5. Integrar os conjuntos de dados abertos do Ministério ao Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do Governo Federal;
 6. Catalogar os dados geoespacializados na INDE;
-7. Promover a integração entre os catálogos de metadados INDA e INDE;
 8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
 9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
 10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. ==Nitai, devemos citar o portal do MP?==
@@ -892,9 +891,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUwNjkyMTAsMTk1NDg3MDEwMSwxMT
-U0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYy
-NzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMy
-wtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEw
-MjQyODI0NV19
+eyJoaXN0b3J5IjpbODU0MzYwMDQsMTk1NDg3MDEwMSwxMTU0NT
+Q1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYyNzEs
+LTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMywtNT
+UxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEwMjQy
+ODI0NV19
 -->
