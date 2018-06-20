@@ -187,7 +187,7 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
 
 **c) Inventário de Bases de Dados**
-O grupo de trabalho constituído desenvolveu, dentre as suas atividades, detalhamento maior do inventário de bases do MP observando se todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv já se encontravam divulgadas no Portal de Dados Abertos.
+O grupo de trabalho constituído desenvolveu, dentre as suas atividades, detalhamento maior do inventário de bases do MP observando se já se encontravam divulgadas no Portal de Dados Abertos todos os conjuntos de informações organizadas, constantes de sistemas (sistemas estruturantes), planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv.
 
 Este trabalho resultou em uma relação de bases contendo cerca de 40 sistemas em uso no MP além dos 10 sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).
 
@@ -882,10 +882,10 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NzYxMjUsLTIwNzA1ODQ2NzEsLTc3MD
-k4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgs
-NDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNT
-AzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1
-ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX
-0=
+eyJoaXN0b3J5IjpbMjA2NDcwODM4MSwtMjA3MDU4NDY3MSwtNz
+cwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5
+OCw0NTcwNTgwODQsOTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xND
+E1MDMzNDI4LC0xMzgwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1
+ODU4MSwtMTExNDcyNTYyNywxNTgwMjM3OTMxLDExMDI0MjgyND
+VdfQ==
 -->
