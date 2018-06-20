@@ -195,7 +195,7 @@ Considerando a complexidade de certificar-se que todas as informações disponí
 
 Para direcionar o escopo deste plano e atendendo a premissa de disponibilizar os dados considerados mais relevantes para a sociedade, o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem, foi aplicado um filtro no inventário priorizando as ações que aprimoram a qualidade dos conjuntos de dados relativos aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
-Como resultado obteve-se como produto uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39 já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==incluir planilha da consulta publica==
+Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==incluir planilha da consulta publica==
 
 **d) Consulta Pública**
 
@@ -882,10 +882,10 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjg1MjczMywyMDI4NzEzNzA3LC0yMD
-cwNTg0NjcxLC03NzA5ODU2MDQsODU0MzYwMDQsMTk1NDg3MDEw
-MSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5OD
-UxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAy
-OTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5Mz
-EsMTEwMjQyODI0NV19
+eyJoaXN0b3J5IjpbMjA2MTY1NDA5NCwxOTUyODUyNzMzLDIwMj
+g3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAw
+NCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4Nz
+IwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQx
+MjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2Mj
+csMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
 -->
