@@ -361,7 +361,7 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
 
-### **MP_I_01 - Patrimônio dUnião - Arrecadação Patrimonial**
+### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
 
    **Atividade:**
@@ -379,7 +379,7 @@ Informações sobre a arrecadação anual aferidas pela União a título de arre
    **Unidade responsável:** SPU
 
  
-### **MP_I_02 - Patrimônio União - Imóveis Funcionais da União**
+### **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
 Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
 
 **Atividade:**
@@ -396,9 +396,9 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
    **Meta/Prazo:** Setembro/2018
 
    **Unidade responsável:** SPU
-   **Ponto Focal:** e-Ouv
 
-### **MP_I_03 - Patrimônio União - Valores de depreciação de imóveis**
+
+### **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
 Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de propriedade da União no transcurso de sua vida útil.
 
    **Atividade:**
@@ -415,7 +415,6 @@ Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causand
 
    **Unidade responsável:** SPU
 
-   **Ponto Focal:** e-Ouv
 
 ### **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
@@ -458,7 +457,7 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 4. Dados a serem publicados;
 5. Dados disponibilizados.
 
-**Frequência de Atualização:** Após publicação da Legislação
+**Frequência de Atualização:** Mensal
 
 **Meta/Prazo:** Setembro/2018
 
@@ -887,7 +886,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzEwMzcyMCw2MjExNDM5NzYsLTYwNj
+eyJoaXN0b3J5IjpbLTkyMDQzMDA5OCw2MjExNDM5NzYsLTYwNj
 I4OTYxNywtODk5ODYxMTU5LDE2NDkzMjYwMiwxMTUyNjI1NDY0
 LC02NTEyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMT
 cwNTEzNTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2
