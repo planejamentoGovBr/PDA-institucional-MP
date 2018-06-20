@@ -731,7 +731,7 @@ O MP é o órgão responsável pela política de dados abertos no governo federa
    4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
 
    **Produtos:**
-   5. Ambiente CKAN online exclusivo;
+   1. Ambiente CKAN online exclusivo;
    6. Identidade visual específica;
    7. Metadados Migrados;
    8. Portal em operação
@@ -765,7 +765,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 
 ### **MP_M_03 - Viagens a Serviço do Governo Federal** ==validar==
-Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, O MP planejou uma melhoria agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos.
+Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou uma melhoria agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos.
 ==Ofertar um conjunto de dados ainda não disponíveis para a sociedade referente ao processo de passagens e diárias do Governo Federal e que atualmente demanda-se bastante por diversos meios==.
 
 **Atividade:**
@@ -888,7 +888,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxNDQ5MDY3LDYyMTE0Mzk3NiwtNjA2Mj
+eyJoaXN0b3J5IjpbNjYwMzg3NzE5LDYyMTE0Mzk3NiwtNjA2Mj
 g5NjE3LC04OTk4NjExNTksMTY0OTMyNjAyLDExNTI2MjU0NjQs
 LTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNz
 A1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5
