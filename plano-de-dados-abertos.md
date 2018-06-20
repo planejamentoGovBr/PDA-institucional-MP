@@ -263,13 +263,13 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 | **Relação de órgãos que utilizam a malha da INFOVIA** | 4 | 3 | 1 | 2 | 4 | 3 | 5| 4 | 5 |**31** |
 
 
-### **Melhoria da qualidade dos dados** ==Avaliar posição do documento. Talvez na Estratégia==
+## **Melhoria da qualidade dos dados** ==Avaliar posição do documento. Talvez na Estratégia==
 
 A abertura de dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens entregam dados abertos com maior qualidade, mas por outro lado privam o cidadão de acesso aos dados por mais tempo, enquanto se espera o processo de abertura. Há outras abordagens mais simples e que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
-### Catalogação no Portal Brasileiro de Dados Abertos
+## Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 
 No caso de dados georeferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
@@ -880,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MTkyNzYsLTE0MjA0MDc0MzUsLTE5ND
-k0ODQ0NTksLTI0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3
-MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAwNCwxOT
-U0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5
-NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC
-0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4
-MDIzNzkzMV19
+eyJoaXN0b3J5IjpbODUxOTY0NzQwLC0xNDIwNDA3NDM1LC0xOT
+Q5NDg0NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4NzEz
+NzA3LC0yMDcwNTg0NjcxLC03NzA5ODU2MDQsODU0MzYwMDQsMT
+k1NDg3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4
+OTQsLTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNi
+wtMjA0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1
+ODAyMzc5MzFdfQ==
 -->
