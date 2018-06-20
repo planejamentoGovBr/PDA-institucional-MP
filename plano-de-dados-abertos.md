@@ -162,10 +162,10 @@ Novos sistemas que estão sendo construídos já incluem nativamente os requisit
 
 Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Tais iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre essas, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
+## Catalogação no Portal Brasileiro de Dados Abertos
+O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
 
-## **Melhoria da qualidade dos dados** 
-
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
+No caso de dados georreferenciados, a atualização do catálogo de metadados da INDE serão realizadas pelos pontos focais das secretarias por meio do nó do MP e sob orientação da SEPLAN.
 
  ----------
 # **III. Governança**
@@ -876,7 +876,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMzNDMyOTIsLTExNzA1MTM1NDUsLT
+eyJoaXN0b3J5IjpbLTEyNzU5NTQ4NzUsLTExNzA1MTM1NDUsLT
 ExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0
 OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLD
 E2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0
