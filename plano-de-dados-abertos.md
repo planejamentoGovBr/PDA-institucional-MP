@@ -815,7 +815,7 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 ### **MP_M_05 - Estruturação do Inventário de Bases de Dados** 
 O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das decisões de médio e longo prazo.
-Esta ação tem como objetivo principal garantir o aprimoramento do inventário, identificando os conjuntos de dados pertencentes as bases já disponibilizadas e, principalmente identificando as informações que ainda carecem ser disponibilizadas  "qualificando-as para comporem o PDA para o ciclo seguinte (2020 e 2021)". Em outras palavras, é uma ação preparatória para o próximo ciclo de planejamento.
+Esta ação tem como objetivo principal garantir o aprimoramento do inventário, identificando os conjuntos de dados pertencentes as bases já disponibilizadas e, principalmente identificando as informações que ainda carecem ser disponibilizadas, qualificando-as para comporem o PDA para o ciclo seguinte (2020 e 2021). 
 
 **Atividade:**
 1. Estudo para levantamento das bases de dados através do portólio de sistemas, aplicativos, painéis/dashboards, etc;
@@ -830,11 +830,11 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 3. Conjunto de fichas técnicas de indicadores para acompanhamento da evolução das ações;
 
 
-**Meta/Prazo:** Agosto/2019 ==Definir==
+**Meta/Prazo:** Dezembro/2018
 
 **Unidade responsável:** Secretaria Executiva
 
-**Ponto Focal:** e-Ouv
+
 
 
 
@@ -889,7 +889,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDAwODQ4MCwxOTIxMDU5OTU0LDYyMT
+eyJoaXN0b3J5IjpbLTQyMjU3MjI1OCwxOTIxMDU5OTU0LDYyMT
 E0Mzk3NiwtNjA2Mjg5NjE3LC04OTk4NjExNTksMTY0OTMyNjAy
 LDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIxLC02Nj
 g4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMjAwODYy
