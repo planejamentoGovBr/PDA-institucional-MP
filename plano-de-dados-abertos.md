@@ -160,7 +160,7 @@ Vislumbrando os desafios de caráter tecnológico para implementação deste pla
 
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
-Ultimamente o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Essas iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre estes, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
+Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise e visualização de dados. Tais iniciativas ampliam a capacidade de gestores em tomar decisões baseadas em fatos reais, criando uma cultura corporativa de dados, refletindo positivamente nas iniciativas de abertura de dados e transparência pública. Dentre essas, destacamos o [Painel de Compras](http://paineldecompras.planejamento.gov.br), o [Painel de Preços](http://paineldeprecos.planejamento.gov.br/), o [Painel de Transferências voluntárias](http://www.transferenciasabertas.planejamento.gov.br/), o [Painel de Obras](http://paineldeobras.planejamento.gov.br/) e o [Painel de Custeio Administrativo](http://paineldecusteio.planejamento.gov.br).
 
 ## Processos de Desenvolvimento de Softwares
 
@@ -891,9 +891,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY0NDUzMzgsODU0MzYwMDQsMTk1ND
-g3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQs
-LTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMj
-A0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAy
-Mzc5MzEsMTEwMjQyODI0NV19
+eyJoaXN0b3J5IjpbLTk0NzgxNDAxNiw4NTQzNjAwNCwxOTU0OD
+cwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwt
+MTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMD
+Q0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIz
+NzkzMSwxMTAyNDI4MjQ1XX0=
 -->
