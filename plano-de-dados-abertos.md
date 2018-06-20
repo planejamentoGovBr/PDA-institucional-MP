@@ -182,7 +182,7 @@ Os representantes das Secretarias do MP se reuniram com objetivo de nivelar o co
 **b) Relatório de Acompanhamento e Monitoramento do PDA 2016-2017**
 Um insumo importante considerado neste processo foram as informações do Relatório de Acompanhamento e Monitoramento do PDA 2016-2017, onde foram observados os seguintes itens:
 * As manifestações nos canais de comunicação: e-Ouv, e-SIC e canal de comunicação da ASCOM com a imprensa;
-* O número de acessos aos links do conjuntos de dados disponibilizadas;
+* O número de acessos aos links do conjuntos de dados disponibilizados no Portal de Dados Abertos;
 * Os compromissos do Plano de Ação constante no PDA anterior e que ainda não foram cumpridos;
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
 
@@ -882,9 +882,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTMxNDg5NCwtNzcwOTg1NjA0LDg1ND
-M2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQs
-OTg3MjA4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMz
-gwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcy
-NTYyNywxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNCw4NT
+QzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0
+LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMT
+M4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3
+MjU2MjcsMTU4MDIzNzkzMSwxMTAyNDI4MjQ1XX0=
 -->
