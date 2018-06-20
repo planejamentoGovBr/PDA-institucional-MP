@@ -264,7 +264,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 ## **Melhoria da qualidade dos dados** ==Avaliar posição do documento. Talvez na Estratégia==
 
-A abertura dos dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens são mais custosas e implicam em projetos demorados, retardando as demandas pelo acesso àquele dado. Há outras abordagens mais simples que entregam dados com menor valor agregado, só que de forma mais rápida à sociedade. 
+A abertura dos dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, como geolocalização precisa, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens são mais custosas e implicam em projetos demorados, retardando as demandas pelo acesso àquele dado. Há outras abordagens mais ágeis que resultam em conjuntos de dados simples e que já satisfazem a maior partmaissoluções dados com menor valor agregado, só que de forma mais rápida à sociedade. 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade adotando a estratégia de evolução das informações já disponibilizadas buscando agregar maior valor a essas informações. Isso inclui publicação em mais e novos formatos, implementação de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas por diversos critérios e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
@@ -879,11 +879,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM2MzY3NDAsLTQzMTQwOTk5NSwxNT
-A1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4
-NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNy
-wtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4
-NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQsOTg3MjA4ODk0LC
-0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMzgwNDEyMTYsLTIw
-NDQwMjkxMDNdfQ==
+eyJoaXN0b3J5IjpbMTQ5Nzc0NDIzMywtNDMxNDA5OTk1LDE1MD
+U1MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1LC0xOTQ5NDg0
+NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4NzEzNzA3LC
+0yMDcwNTg0NjcxLC03NzA5ODU2MDQsODU0MzYwMDQsMTk1NDg3
+MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLT
+E5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0
+NDAyOTEwM119
 -->
