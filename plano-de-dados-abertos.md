@@ -204,13 +204,12 @@ O PDA será monitorado e acompanhado pela autoridade de monitoramento designada 
  - Autoridade máxima da unidade setorial de TIC;
  - Representantes de cada Secretaria;
  - Subsecretario de Assuntos Administrativos; e 
- - Subsecretário de Planejamento e Orçamento 
- - Assessoria.
+ - Subsecretário de Planejamento e Orçamento.
 
-O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
+O subcomitê terá dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
 2.	Avaliar se as ações adotadas estão aderentes à Política de Dados Abertos;
-3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados.
+3.	Monitorar a aplicação de critérios de qualidade e acurácia de dados;
 4.	Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública;
 5.	Monitorar o atendimento as regras da INDA e INDE
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos;
@@ -888,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0OTYwMDcyLDExNTI2MjU0NjQsLTY1MT
-I0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1
-NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNj
-M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
-MTUxLDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MD
-EsLTE0NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIx
-NDkxNDA3XX0=
+eyJoaXN0b3J5IjpbLTE0NTU2MDE1MDgsMTE1MjYyNTQ2NCwtNj
+UxMjQ2MTI5LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUx
+MzU0NSwtMTExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LD
+E2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkw
+NzAxNTEsMTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMz
+gwMSwtMTQ1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2
+MjE0OTE0MDddfQ==
 -->
