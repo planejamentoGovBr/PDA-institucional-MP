@@ -108,8 +108,7 @@ A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarreg
 O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
 
 **[8. Comitê Interministerial de Governo Aberto (CIGA)](http://www.governoaberto.cgu.gov.br/no-brasil/comite-interministerial)**
-
-O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo com o compromisso do País em inovar para fortalecer a transparência dos atos governamentais. 
+O MP compõe o comitê executivo do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo com o compromisso do País em inovar para fortalecer a transparência dos atos governamentais. 
 
 **[9. Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)](https://www.opengovpartnership.org/countries/brazil)**
 
@@ -901,7 +900,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMj
-A0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAy
-Mzc5MzEsMTEwMjQyODI0NV19
+eyJoaXN0b3J5IjpbNzg1MjI4NDQ1LC0xNDE1MDMzNDI4LC0xMz
+gwNDEyMTYsLTIwNDQwMjkxMDMsLTU1MTE1ODU4MSwtMTExNDcy
+NTYyNywxNTgwMjM3OTMxLDExMDI0MjgyNDVdfQ==
 -->
