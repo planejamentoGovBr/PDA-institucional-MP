@@ -227,9 +227,13 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
 Este Plano de Dados Abertos é oficialmente publicado em [plano.dados.planejamento.gov.br](http://plano.dados.planejamento.gov.br) no formato HTML. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
+
 O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
+
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, academia, imprensa, sociedade organizada e demais cidadãos.
-O cidadão poderá usar os canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA. 
+
+O cidadão poderá usar a Ouvi canais de comunicação do MP para informar o Ministério sobre problemas técnicos ou inconsistências encontradas nos dados publicados, o que será encaminhado à área responsável para tratamento e resposta. Os usuários também podem fazer sugestões para o aperfeiçoamento do PDA.
+
 Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
 
 ==1.	Uso de ambiente colaborativo (Wiki) para discussão e repositório de, a exemplo da wiki.gtinda.ibge.gov.br, conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema;
@@ -883,11 +887,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkzMTU5NjcsLTg5OTg2MTE1OSwxNj
-Q5MzI2MDIsMTE1MjYyNTQ2NCwtNjUxMjQ2MTI5LDExMDYyMjY3
-MjEsLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMTExMjA1NTYxMy
-wyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5ODMsLTIxMzky
-NzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMTY0MjIyMDY2Ny
-wtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwt
-MjExNjg2MTFdfQ==
+eyJoaXN0b3J5IjpbNjg4MjEzMTkxLC04OTk4NjExNTksMTY0OT
+MyNjAyLDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIx
+LC02Njg4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMj
+AwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2
+NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLT
+E1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIx
+MTY4NjExXX0=
 -->
