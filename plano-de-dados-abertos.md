@@ -173,7 +173,7 @@ Para tanto foram realizadas dinâmicas com a participação de representantes de
 
 Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões pelos canais permanentes de comunicação além da realização de uma consulta pública. 
 
-### Identificação de Conjunto de Dados
+## Identificação de Conjunto de Dados
 Apresentamos o detalhamento do processo de identificação de conjunto de dados nos itens abaixo:
 
 **a) Grupo representantes de todas as áreas**
@@ -221,7 +221,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 8. Solicitado em transparência passiva a LAI; e
 9. Nível de Maturidade e organização das informações pertencentes ao conjunto de dados abertos.
 
-### **Peso dos Critérios**
+## **Peso dos Critérios**
 
 | Critério | Nome do Critério  | Peso |
 |--:|:--|:--:|
@@ -235,7 +235,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 | **C8** | Solicitado em Transparência Passiva a LAI| **4** |
 | **C9** | Nível de maturidade e organização das informações pertencentes ao conjunto de dados abertos| **5** |
 
-### **Matriz de Aplicação Critérios**
+## **Matriz de Aplicação Critérios**
 
 A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão VI) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
@@ -880,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLT
-I0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1
-ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLD
-ExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEz
-NjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MT
-AzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwx
-MTAyNDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbNzY0MTkyNzYsLTE0MjA0MDc0MzUsLTE5ND
+k0ODQ0NTksLTI0MTU2MjQzOCwxOTUyODUyNzMzLDIwMjg3MTM3
+MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNCw4NTQzNjAwNCwxOT
+U0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5
+NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC
+0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4
+MDIzNzkzMV19
 -->
