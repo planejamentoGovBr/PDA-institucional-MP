@@ -276,7 +276,7 @@ A Unidade Setorial de TI e a Secretaria Executiva ficarão responsáveis pela cu
 
 1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
-3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura de dados. As propostas deverão ser construídas a partir da experiência do SIC com as demandas de informação pela sociedade e da gestão de dados da SETIC que gerencia e oferece soluções transversais para as necessidades de compartilhamento de dados entre os diferentes sistemas mantidos pelas unidades do MP;
+3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura;
 4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
 
 No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da SETIC.
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgxMDM0MDcsLTIxMTY4NjExLDIwMz
-EzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3
-NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MT
-k2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYy
-NDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MS
-wtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0
-NTc5OF19
+eyJoaXN0b3J5IjpbMzE1MTI2OTAxLC0yMTE2ODYxMSwyMDMxMz
+Q2MzM5LDYyMTQ5MTQwNywtMjEzNjk1MjIyOCwxMDkzNzczNzYw
+LDY1ODk4MDEyLC00MzE0MDk5OTUsMTUwNTUwMjU0Niw4NTE5Nj
+Q3NDAsLTE0MjA0MDc0MzUsLTE5NDk0ODQ0NTksLTI0MTU2MjQz
+OCwxOTUyODUyNzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLT
+c3MDk4NTYwNCw4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3
+OThdfQ==
 -->
