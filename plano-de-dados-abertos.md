@@ -280,8 +280,8 @@ III - monitorar a implementação dos Planos de Dados Abertos; e
 IV - apresentar relatórios periódicos sobre o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos. 
 
 pontos focais
-setic
-sepan
+detic
+seplan
 
 O quadro a seguir representa a estrutura de governança do PDA. A Autoridade de Monitoramento tem a função de aprovar e acompanhar a execução do PDA no nível estratégico. A Curadoria é responsável pela avaliação da qualidade e persistência do dados publicados. Os pontos focais são encarregados de coordenar os processos de abertura de dados das respectivas unidades de acordo com o plano de ação do PDA.
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwODU5MDY1LDE2NDIyMjA2NjcsLTE1MT
-UxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIxMTY4
-NjExLDIwMzEzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LD
-EwOTM3NzM3NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAy
-NTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OS
-wtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3
-MDU4NDY3MV19
+eyJoaXN0b3J5IjpbLTE1MDM4NDczNDYsMTY0MjIyMDY2NywtMT
+UxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1NjgyNTU3OCwtMjEx
+Njg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0MDcsLTIxMzY5NTIyMj
+gsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxNDA5OTk1LDE1MDU1
+MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1LC0xOTQ5NDg0ND
+U5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMDI4NzEzNzA3LC0y
+MDcwNTg0NjcxXX0=
 -->
