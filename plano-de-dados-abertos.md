@@ -859,7 +859,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
-**Git**
+**Git:**
 
 ## SIGLAS ==incluir sistemas==
 **MP:** Ministério do Planejamento, Desenvolvimento e gestão
@@ -882,11 +882,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjQ5MDE5OSwtODk5ODYxMTU5LDE2ND
-kzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYxMjksMTEwNjIyNjcy
-MSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC0xMTEyMDU1NjEzLD
-IwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0NDk4MywtMjEzOTI3
-NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIwNjY3LC
-0xNTE1MTgwMDcwLC0xNzM1MzEzODAxLC0xNDU2ODI1NTc4LC0y
-MTE2ODYxMV19
+eyJoaXN0b3J5IjpbODI4MDEyMDExLC04OTk4NjExNTksMTY0OT
+MyNjAyLDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMTA2MjI2NzIx
+LC02Njg4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIwNTU2MTMsMj
+AwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC0yMTM5Mjc2
+NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIyMjA2NjcsLT
+E1MTUxODAwNzAsLTE3MzUzMTM4MDEsLTE0NTY4MjU1NzgsLTIx
+MTY4NjExXX0=
 -->
