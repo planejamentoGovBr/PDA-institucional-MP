@@ -143,20 +143,20 @@ O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição re
 3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
 5. Integrar os conjuntos de dados abertos do Ministério ao Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do Governo Federal;
 6. Catalogar os dados geoespacializados na INDE;
-8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
+8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade possíveis; 
 9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
-10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. ==Nitai, devemos citar o portal do MP?==
+10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. 
 
 ## Formatos e Interfaces de acesso aos dados
 
-Para ser considerado aberto de fato, um dado deve estar publicado utilizando se de um formato aberto e não proprietário como o CSV e JSON.
+Para ser considerado aberto de fato, um dado deve estar publicado utilizando-se de um formato aberto e não proprietário como o CSV e JSON.
 A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
 O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - [APIs](https://pt.wikipedia.org/wiki/API).
 
 
 ## Processos de Desenvolvimento de Softwares
 
-Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
+Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o MP busca aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
 
 Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dados.
 
@@ -891,9 +891,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MzYwMDQsMTk1NDg3MDEwMSwxMTU0NT
-Q1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYyNzEs
-LTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMywtNT
-UxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEwMjQy
-ODI0NV19
+eyJoaXN0b3J5IjpbLTE5MDEyNTk1NDgsODU0MzYwMDQsMTk1ND
+g3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQs
+LTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMj
+A0NDAyOTEwMywtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAy
+Mzc5MzEsMTEwMjQyODI0NV19
 -->
