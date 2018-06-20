@@ -138,10 +138,9 @@ O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição re
 
 ## Premissas
 
-1. Publicar os dados considerados relevantes para a sociedade, no formato disponível, informando as eventuais limitações de qualidade dos dados;
+1. Publicar os dados considerados relevantes para a sociedade, no formato disponível informando as eventuais limitações de qualidade dos dados;
 2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
 3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
-4. Publicar os dados do Ministério ;
 5. Catalogar os dados abertos do Ministério no Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do governo federal;
 6. Catalogar os dados geoespacializados na INDE;
 7. Promover a integração entre os catálogos de metadados INDA e INDE;
@@ -893,9 +892,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjQ5NDQ4MiwxOTU0ODcwMTAxLDExNT
-Q1NDU3OTgsNDU3MDU4MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3
-MSwtMTQxNTAzMzQyOCwtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC
-01NTExNTg1ODEsLTExMTQ3MjU2MjcsMTU4MDIzNzkzMSwxMTAy
-NDI4MjQ1XX0=
+eyJoaXN0b3J5IjpbLTIwMzE5MDk5NDgsMTk1NDg3MDEwMSwxMT
+U0NTQ1Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYy
+NzEsLTE0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMy
+wtNTUxMTU4NTgxLC0xMTE0NzI1NjI3LDE1ODAyMzc5MzEsMTEw
+MjQyODI0NV19
 -->
