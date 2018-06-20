@@ -274,7 +274,7 @@ As unidades administrativas, por intermédio dos seus pontos focais, são as res
 
 A Unidade Setorial de TI e a Secretaria Executiva ficarão responsáveis pela curadoria dos metadados nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
 
-1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE (metadados atualizados contendo a descrição, contatos dos responsáveis pelas informações e dos outros metadados associados a cada conjunto de dados);
+1. Verificar, para efeitos de publicação, se os dados estão de acordo com os padrões da INDA e INDE;
 2. Contatar o responsável pelos dados, caso se verifique que algum dos arquivos catalogados se tornou indisponível;
 3. Identificar e elaborar propostas para possíveis melhorias de qualidade dos dados disponibilizados e novos conjuntos de dados candidatos à abertura de dados. As propostas deverão ser construídas a partir da experiência do SIC com as demandas de informação pela sociedade e da gestão de dados da SETIC que gerencia e oferece soluções transversais para as necessidades de compartilhamento de dados entre os diferentes sistemas mantidos pelas unidades do MP;
 4. Publicar critérios para classificação da acurácia e da qualidade dos dados a ser fornecida como metadados pelas unidades publicadoras. (Exemplos de medida de acurácia para constar da publicação: grau de necessidade de conferência in loco ou por outro critério do dado, frequência esperada dessa conferência, frequência realizada dessa conferência, etc..).
@@ -877,11 +877,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxND
-kxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIs
-LTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMD
-QwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3
-MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LD
-g1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgw
-ODRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjgxMDM0MDcsLTIxMTY4NjExLDIwMz
+EzNDYzMzksNjIxNDkxNDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3
+NjAsNjU4OTgwMTIsLTQzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MT
+k2NDc0MCwtMTQyMDQwNzQzNSwtMTk0OTQ4NDQ1OSwtMjQxNTYy
+NDM4LDE5NTI4NTI3MzMsMjAyODcxMzcwNywtMjA3MDU4NDY3MS
+wtNzcwOTg1NjA0LDg1NDM2MDA0LDE5NTQ4NzAxMDEsMTE1NDU0
+NTc5OF19
 -->
