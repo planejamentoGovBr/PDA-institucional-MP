@@ -283,7 +283,7 @@ As unidades administrativas, por intermédio dos seus pontos focais, são os cur
 
 A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TI.
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
@@ -293,6 +293,7 @@ O quadro a seguir representa a estrutura de governança do PDA:
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
 As ações que requerem desenvolvimento de novos softwares serão implementadas seguindo as metodologias já estabelecidas pela unidade setorial de TIC.
+
   fornecendo infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
 A Secretaria Executiva ficará responsável pela gestão das informações  nos Portais de Dados no MP. A curadoria compreende as seguintes atividades:
@@ -882,11 +883,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3ODU4NzE0LDYwNDE3Njk2LDE2MzgwND
-Q5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEs
-MTY0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMT
-Q1NjgyNTU3OCwtMjExNjg2MTEsMjAzMTM0NjMzOSw2MjE0OTE0
-MDcsLTIxMzY5NTIyMjgsMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtND
-MxNDA5OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3
-NDM1XX0=
+eyJoaXN0b3J5IjpbMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MD
+Q0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUx
+LDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MDEsLT
+E0NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIxNDkx
+NDA3LC0yMTM2OTUyMjI4LDEwOTM3NzM3NjAsNjU4OTgwMTIsLT
+QzMTQwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQw
+NzQzNV19
 -->
