@@ -234,7 +234,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 | **C8** | Solicitado em Transparência Passiva a LAI| **4** |
 | **C9** | Nível de maturidade e organização das informações pertencentes ao conjunto de dados abertos| **5** |
 
-## **Matriz de Aplicação Critérios**
+## **Matriz de Aplicação de Critérios**
 
 A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação (sessão VI) que levou em consideração as informações das diversas áreas de negócios do MP, além da viabilidade da unidade de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
@@ -879,11 +879,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTUwMjU0Niw4NTE5NjQ3NDAsLTE0Mj
-A0MDc0MzUsLTE5NDk0ODQ0NTksLTI0MTU2MjQzOCwxOTUyODUy
-NzMzLDIwMjg3MTM3MDcsLTIwNzA1ODQ2NzEsLTc3MDk4NTYwNC
-w4NTQzNjAwNCwxOTU0ODcwMTAxLDExNTQ1NDU3OTgsNDU3MDU4
-MDg0LDk4NzIwODg5NCwtMTk4NTEzNjI3MSwtMTQxNTAzMzQyOC
-wtMTM4MDQxMjE2LC0yMDQ0MDI5MTAzLC01NTExNTg1ODEsLTEx
-MTQ3MjU2MjddfQ==
+eyJoaXN0b3J5IjpbODQxMDAyNjQ3LDE1MDU1MDI1NDYsODUxOT
+Y0NzQwLC0xNDIwNDA3NDM1LC0xOTQ5NDg0NDU5LC0yNDE1NjI0
+MzgsMTk1Mjg1MjczMywyMDI4NzEzNzA3LC0yMDcwNTg0NjcxLC
+03NzA5ODU2MDQsODU0MzYwMDQsMTk1NDg3MDEwMSwxMTU0NTQ1
+Nzk4LDQ1NzA1ODA4NCw5ODcyMDg4OTQsLTE5ODUxMzYyNzEsLT
+E0MTUwMzM0MjgsLTEzODA0MTIxNiwtMjA0NDAyOTEwMywtNTUx
+MTU4NTgxXX0=
 -->
