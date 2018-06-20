@@ -198,8 +198,7 @@ Para direcionar o escopo deste plano e atendendo a premissa de disponibilizar os
 Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==incluir planilha da consulta publica (Nitai)==
 
 **d) Consulta Pública**
-
-Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do Planejamento. 
+Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 (vinte) bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do MP.
 
 O resultado da consulta pública influenciou na adequação da oferta de informações do Planejamento à demanda da sociedade sobre os dados abertos que constam no presente Plano.
 
@@ -210,7 +209,6 @@ Todo processo de consulta pública foi amplamente divulgado nos seguintes canais
 * Redes sociais oficiais do Ministério
 
 **e) Critérios para priorização das Bases a serem abertas**
-
 Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseadas nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
 
 1. Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
@@ -882,7 +880,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MTA2Njg2LDE5NTI4NTI3MzMsMjAyOD
+eyJoaXN0b3J5IjpbNjExNzE3OTk4LDE5NTI4NTI3MzMsMjAyOD
 cxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LDg1NDM2MDA0
 LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQsOTg3Mj
 A4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMzgwNDEy
