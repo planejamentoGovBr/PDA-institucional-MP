@@ -215,7 +215,7 @@ O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que nece
 7.	
 Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
-## **Melhoria da qualidade dos dados** 
+## Melhoria da qualidade dos dados 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
@@ -877,7 +877,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTY5ODI5MiwtMTE3MDUxMzU0NSwtMT
+eyJoaXN0b3J5IjpbLTY2ODgwMjI1MiwtMTE3MDUxMzU0NSwtMT
 ExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LDE2MzgwNDQ5
 ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkwNzAxNTEsMT
 Y0MjIyMDY2NywtMTUxNTE4MDA3MCwtMTczNTMxMzgwMSwtMTQ1
