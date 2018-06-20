@@ -214,9 +214,7 @@ O subcomitê terá dentre as suas atribuições:
 5.	Monitorar o atendimento as regras da INDA e INDE; e
 6.	Elaborar um Relatório Anual reportando o cumprimento dos Planos de Dados Abertos, com recomendações sobre as medidas indispensáveis à implementação e ao aperfeiçoamento da Política de Dados Abertos.
 	
-Nas reuniões de acompanhamento do PDA a SETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
-
-A Secretaria Executiva ficará responsável pela gestão da Transparência no âmbito do MP.
+Nas reuniões de acompanhamento do PDA, a UnidadSETIC informará as estatísticas de publicação e atualização de bases de dados no Portal Brasileiro de Dados Abertos.
 
 
 
@@ -882,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1Njk4ODg4LDExNTI2MjU0NjQsLTY1MT
-I0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1
-NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNj
-M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
-MTUxLDE2NDIyMjA2NjcsLTE1MTUxODAwNzAsLTE3MzUzMTM4MD
-EsLTE0NTY4MjU1NzgsLTIxMTY4NjExLDIwMzEzNDYzMzksNjIx
-NDkxNDA3XX0=
+eyJoaXN0b3J5IjpbLTIzOTY4NDc5NywxMTUyNjI1NDY0LC02NT
+EyNDYxMjksMTEwNjIyNjcyMSwtNjY4ODAyMjUyLC0xMTcwNTEz
+NTQ1LC0xMTEyMDU1NjEzLDIwMDg2MjU2NjcsNjA0MTc2OTYsMT
+YzODA0NDk4MywtMjEzOTI3NjYyNywtODMzMjkxMjk4LDQ1OTA3
+MDE1MSwxNjQyMjIwNjY3LC0xNTE1MTgwMDcwLC0xNzM1MzEzOD
+AxLC0xNDU2ODI1NTc4LC0yMTE2ODYxMSwyMDMxMzQ2MzM5LDYy
+MTQ5MTQwN119
 -->
