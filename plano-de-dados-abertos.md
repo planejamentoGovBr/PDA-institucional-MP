@@ -267,7 +267,7 @@ A partir da priorização resultante da Matriz de Critérios , foi elaborado o p
 
 A abertura dos dados de um sistema pode seguir várias abordagens. Algumas são focadas em agregar maior valor aos dados, aumentar a precisão da geolocalização, cruzamento de dados com outras fontes, acarretando mais tempo e investimento. Tais abordagens são mais custosas e implicam em projetos demorados, retardando as demandas pelo acesso àquele dado. Há outras abordagens mais ágeis que resultam em conjuntos de dados simples e que já satisfazem a maior parte das demandas sociais. 
 
-No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma incremental, primando pela publicidade tempestiva das informações e a evolução das interfaces de dados já disponibilizadas buscando entregar maior valor aos usuários. Isso inclui publicação em mais formatos diversos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, por diversos parâmetros, e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
+No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma incremental, primando pela publicidade tempestiva das informações e a evolução das interfaces de dados já disponibilizadas, buscando entregar maior valor aos usuários. Isso inclui publicação em mais formatos diversos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, por diversos parâmetros, e organização disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
 ## Catalogação no Portal Brasileiro de Dados Abertos
 O processo de catalogação será feito diretamente por cada uma das áreas responsáveis pelos dados, observando-se as orientações da Secretaria de Tecnologia da Informação e Comunicação (SETIC) e as diretrizes do PDA. Os pontos focais de cada secretaria utilizarão o Manual de Catalogação para realizar o cadastro, manutenção e revisão dos conjuntos de dados.
@@ -880,11 +880,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAyODAyNjYsNjU4OTgwMTIsLTQzMT
-QwOTk5NSwxNTA1NTAyNTQ2LDg1MTk2NDc0MCwtMTQyMDQwNzQz
-NSwtMTk0OTQ4NDQ1OSwtMjQxNTYyNDM4LDE5NTI4NTI3MzMsMj
-AyODcxMzcwNywtMjA3MDU4NDY3MSwtNzcwOTg1NjA0LDg1NDM2
-MDA0LDE5NTQ4NzAxMDEsMTE1NDU0NTc5OCw0NTcwNTgwODQsOT
-g3MjA4ODk0LC0xOTg1MTM2MjcxLC0xNDE1MDMzNDI4LC0xMzgw
-NDEyMTZdfQ==
+eyJoaXN0b3J5IjpbMTA5Mzc3Mzc2MCw2NTg5ODAxMiwtNDMxND
+A5OTk1LDE1MDU1MDI1NDYsODUxOTY0NzQwLC0xNDIwNDA3NDM1
+LC0xOTQ5NDg0NDU5LC0yNDE1NjI0MzgsMTk1Mjg1MjczMywyMD
+I4NzEzNzA3LC0yMDcwNTg0NjcxLC03NzA5ODU2MDQsODU0MzYw
+MDQsMTk1NDg3MDEwMSwxMTU0NTQ1Nzk4LDQ1NzA1ODA4NCw5OD
+cyMDg4OTQsLTE5ODUxMzYyNzEsLTE0MTUwMzM0MjgsLTEzODA0
+MTIxNl19
 -->
