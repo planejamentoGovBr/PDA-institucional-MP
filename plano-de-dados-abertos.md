@@ -198,8 +198,11 @@ No caso de dados georreferenciados, a atualização do catálogo de metadados da
 
 O PDA será monitorado e acompanhado pela autoridade de monitoramento designada pelo art. 40 da Lei de acesso à informação, conforme Decreto 8.777/2016 assessorado pelo Subcomitê Gestor da Transparência a ser instituído pelo Comitê de Gestão Estratégica - CGE, tendo como membros: 
 
- - representantes de cada Secretaria, 
- - Ouvidor, da autoridade máxima de TIC, da Assessoria.
+ - Autoridade de mo
+ - Representantes de cada Secretaria;
+ - Ouvidor;
+ - Autoridade máxima de TIC; e 
+ - Assessoria.
 
 O comitê reunir-se-á quadrimestralmente e extraordinariamente, sempre que necessário, tendo dentre as suas atribuições:
 1.	Acompanhar o cumprimento das metas, prazos e produtos previstos no plano de ação do PDA;
@@ -882,7 +885,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDEyMTI2NzAsMTE1MjYyNTQ2NCwtNj
+eyJoaXN0b3J5IjpbLTE4NTQ1OTExMDQsMTE1MjYyNTQ2NCwtNj
 UxMjQ2MTI5LDExMDYyMjY3MjEsLTY2ODgwMjI1MiwtMTE3MDUx
 MzU0NSwtMTExMjA1NTYxMywyMDA4NjI1NjY3LDYwNDE3Njk2LD
 E2MzgwNDQ5ODMsLTIxMzkyNzY2MjcsLTgzMzI5MTI5OCw0NTkw
