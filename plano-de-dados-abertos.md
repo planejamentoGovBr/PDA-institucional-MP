@@ -356,7 +356,7 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 ==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP
-2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  SETIC
+2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC
 3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
@@ -888,11 +888,11 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[HTML]: Hyper Text Markup Language
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM0NTc0MTAsLTEwNjc1NjQ2NCwxOT
-IxMDU5OTU0LDYyMTE0Mzk3NiwtNjA2Mjg5NjE3LC04OTk4NjEx
-NTksMTY0OTMyNjAyLDExNTI2MjU0NjQsLTY1MTI0NjEyOSwxMT
-A2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1NDUsLTExMTIw
-NTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNjM4MDQ0OTgzLC
-0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcwMTUxLDE2NDIy
-MjA2NjddfQ==
+eyJoaXN0b3J5IjpbOTI3MTE3OTQ0LC0xMDY3NTY0NjQsMTkyMT
+A1OTk1NCw2MjExNDM5NzYsLTYwNjI4OTYxNywtODk5ODYxMTU5
+LDE2NDkzMjYwMiwxMTUyNjI1NDY0LC02NTEyNDYxMjksMTEwNj
+IyNjcyMSwtNjY4ODAyMjUyLC0xMTcwNTEzNTQ1LC0xMTEyMDU1
+NjEzLDIwMDg2MjU2NjcsNjA0MTc2OTYsMTYzODA0NDk4MywtMj
+EzOTI3NjYyNywtODMzMjkxMjk4LDQ1OTA3MDE1MSwxNjQyMjIw
+NjY3XX0=
 -->
