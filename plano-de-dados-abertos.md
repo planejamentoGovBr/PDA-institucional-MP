@@ -746,7 +746,7 @@ O MP é o órgão responsável pela política de dados abertos no governo federa
 
    **Unidade responsável:** DEIOP/SETIC
 
-### **MP_M_02 - Compras Públicas do Governo Federal** 
+### **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
 A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, [a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
