@@ -39,7 +39,7 @@ O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa
 
 O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolvendo todas as unidades do MP e considerando os princípios da publicidade e da transparência da administração pública. Para se estabelecer priorização dos conjuntos de dados que serão disponibilizados foram considerados o grau de relevância das informações para o cidadão, os compromissos assumidos pelo Ministério no PDA anterior, além das competências e os conjuntos de dados efetivamente mantidos pelo MP.
 
-O cidadão poderá usar a [plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
+O cidadão poderá usar a [plataforma e-Ouv](https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
  ----------
 # **I. Introdução**
@@ -897,5 +897,5 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEwNDY4NDYsMTE4NDY1NzEyN119
+eyJoaXN0b3J5IjpbLTczMDg1NjIxMiwxMTg0NjU3MTI3XX0=
 -->
