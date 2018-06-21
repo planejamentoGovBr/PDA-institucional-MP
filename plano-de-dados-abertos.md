@@ -849,7 +849,7 @@ Dado público: qualquer dado gerado ou sob a guarda governamental que não tenha
 
 **e-PING:** Padrões de Interoperabilidade de Governo Eletrônico – define um conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação (TIC) na interoperabilidade de serviços de Governo Eletrônico, estabelecendo as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
 
-**e-VoG:** Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de Vocabulários e Ontologias de Governo Eletrônico (http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal.
+**e-VoG:** Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de [Vocabulários e Ontologias de Governo Eletrônico](http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal.
 
 **Formato aberto:** formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização;
 Informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; 
@@ -897,7 +897,8 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDg0ODExNSw5OTQzMTc1NDUsLTEwNT
-Q4ODcxMzEsLTE4NTU0NDIyMTIsLTE1ODQ0NDg4NDAsMTM5ODY1
-MzE5NywxODMwNDY1MzI1LDExODQ2NTcxMjddfQ==
+eyJoaXN0b3J5IjpbLTExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OT
+QzMTc1NDUsLTEwNTQ4ODcxMzEsLTE4NTU0NDIyMTIsLTE1ODQ0
+NDg4NDAsMTM5ODY1MzE5NywxODMwNDY1MzI1LDExODQ2NTcxMj
+ddfQ==
 -->
