@@ -35,11 +35,11 @@ A partir das diretrizes estratégicas, este Plano de Dados Abertos prevê no seu
 
 O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018 foi revisado quanto ao cumprimento das metas dos Plano de Dados anteriores e a inserção de novos dados que serão abertos para a sociedade.
 
-O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa mesma periodicidade, identificadas no mês de sua liberação, as quais, podem ser motivadas pela revisão do _status_ das metas ou novas inserções de abertura de dados. Esse será divulgado à sociedade por meio de sua publicação no [Portal Brasileiro de Dados Abertos](http://dados.gov.br/organization/ministerio-do-planejamento-desenvolvimento-e-gestao-mp) e no sítio eletrônico do MP.
+O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa mesma periodicidade, identificadas no mês de sua liberação, as quais, podem ser motivadas pela revisão do _status_ das metas ou novas inserções de abertura de dados. Esse será divulgado à sociedade por meio de sua publicação no [Portal Brasileiro de Dados Abertos](http://dados.gov.br/) e no sítio eletrônico do MP.
 
 O Plano foi construído no 1º. Semestre de 2018, de forma colaborativa, envolvendo todas as unidades do MP e considerando os princípios da publicidade e da transparência da administração pública. Para se estabelecer priorização dos conjuntos de dados que serão disponibilizados foram considerados o grau de relevância das informações para o cidadão, os compromissos assumidos pelo Ministério no PDA anterior, além das competências e os conjuntos de dados efetivamente mantidos pelo MP.
 
-O cidadão poderá usar a [plataforma e-Ouv](_https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx_) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
+O cidadão poderá usar a plataforma [e-Ouv](https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx) para relatar problemas técnicos ou inconsistên­cias, devendo a manifestação ser encaminhada à área responsável para resposta e solução, conforme o caso. Os usuários também podem fazer sugestões que serão referência para o aperfeiçoamento e as revisões do PDA.
 
  ----------
 # **I. Introdução**
@@ -50,13 +50,13 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 
 - A [Lei nº 12.527](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), de 18 de Novembro de 2011, Lei de Acesso à Informação – LAI;
 - O [Decreto nº 8.777,](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8777.htm) de 11 de maio de 2016, que institui a Política de Dados Abertos do Poder Executivo Federal;
-- [Resolução CGINDA nº 3](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx#Resolu%C3%A7%C3%B5es_0), de 13 de outubro de 2017, que aprova as normas sobre elaboração e publicação de Planos de Dados Abertos, conforme disposto no Decreto nº 8.777, de 11 de maio de 2016.
+- [Resolução CGINDA nº 3](http://wiki.dados.gov.br/GetFile.aspx?File=%2fComiteGestor%2fResolu%C3%A7%C3%B5es%2fresolucao-cginda-3-13-10-2017.pdf), de 13 de outubro de 2017, que aprova as normas sobre elaboração e publicação de Planos de Dados Abertos, conforme disposto no Decreto nº 8.777, de 11 de maio de 2016.
 - O disposto no art. 48 da [Lei Complementar nº 101](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm), de 4 de maio de 2000, que determina ao Poder Público a adoção de instrument e spnia estão fiscal  em meios eletrônicos de acesso público às informações orçamentárias e prestações de contas;
 - O [Decreto Presidencial nº 6.666](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm), de 27 de novembro de 2008, que instituiu a criação da Infraestrutura Nacional de Dados Espaciais – INDE, e determina que o compartilhamento e disseminação dos dados geoespaciais e seus metadados é obrigatório para todos os órgãos e entidades do Poder Executivo Federal, salvo os protegidos por sigilo;
 - [Decreto s/nº de 15 de setembro de 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/dsn/dsn13117.htm), que institui o Plano de Ação Nacional sobre Governo Aberto, o qual estabelece o compromisso do governo de implantar a Infraestrutura Nacional de Dados Abertos (INDA);
 - A [Instrução Normativa nº 4 de 13 de abril de 2012](http://dados.gov.br/paginas/instrucao-normativa-da-inda), que cria a INDA e estabelece conceitos referentes a dado, informação, dado público, formato aberto, licença aberta, dados abertos e metadado;
-- O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx) , que institui a necessidade de os órgãos de instituírem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e institui os elementos mínimos do documento, bem como orienta  d  o t  d dados  oa de a ro  O [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
-- [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabieletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
+- O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx), institui a necessidade dos órgãos de estabelecerem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e compor os elementos mínimos do documento, bem como orienta para o [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
+- Os parâmetros estabelecidos na [ePING](http://eping.governoeletronico.gov.br/) -  orientam a arquitetura de interoperabilidade, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
 - Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como o Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC, sob orientação da [Estratégia de Governança Digital – EGD](http://www.planejamento.gov.br/EGD).
 
 ## Cenário Institucional
@@ -76,7 +76,7 @@ O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorga
 **[2. Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti)** 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará na aplicação dos recursos tecnológicos para a execução das ações deste plano.
 
-**3. Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
+**3. Comitê Estratégico de Tecnologia da Informação e Comunicação (SETIC)**
 O CETIC criado pela Portaria Nº 385, de 11 de novembro de 2017, possui caráter estratégico permanente de natureza deliberativa e consultiva e tem por finalidade promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
@@ -85,7 +85,7 @@ O instrumento foi regulamentado pela Portaria nº 68/2016 do MP, a qual vincula-
 
 **[5. Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA)](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx)**
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
-O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA ==incluir link pro plano de ação== um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. 
+O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu [Plano de Ação da INDA,](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx?From=Plano-de-Acao) um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. 
 Destacamos abaixo os temas do Plano de Ação da INDA relacionados à abertura de Dados:
 * Realização de 3 turmas do curso de Elaboração de Plano de Dados Abertos, na modalidade à distância; 
 * Revisão do Manual de Elaboração do Plano de Dados Abertos; 
@@ -178,7 +178,7 @@ As unidades administrativas, por intermédio dos seus pontos focais, são os cur
 
 A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) orientar a publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
@@ -224,11 +224,11 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 
 
 ## Comunicação e Participação social
-A institucionalização do Plano de Dados Abertos, sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
+A institucionalização do Plano de Dados Abertos (PDA), sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
-Este Plano de Dados Abertos é oficialmente publicado em [plano.dados.planejamento.gov.br](http://plano.dados.planejamento.gov.br) no formato HTML. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
+Este PDA é oficialmente publicado no sítio do [MP](http://www.planejamento.gov.br/servicos/central-de-conteudos/publicacoes/plano-de-dados-abertos-pda)  no formato ==HTML==. Dessa forma, o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
 
-O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
+O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em ==HTML==. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em ==HTML==.
 
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, academia, imprensa, sociedade organizada e demais cidadãos.
 
@@ -275,7 +275,7 @@ Considerando a complexidade de certificar-se que todas as informações disponí
 
 Para direcionar o escopo deste plano e atendendo a premissa de disponibilizar os dados considerados mais relevantes para a sociedade, o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem, foi aplicado um filtro no inventário priorizando as ações que aprimoram a qualidade dos conjuntos de dados relativos aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
-Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. [Acesse aqui o inventário disponibilzado em consulta pública <i class="fas fa-file-alt"></i>](~/../Inventario_consulta_publica.ods).
+Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. ==falta link==[Acesse aqui o inventário disponibilzado em consulta pública <i class="fas fa-file-alt"></i>](~/../Inventario_consulta_publica.ods).
 
 **d) Consulta Pública**
 Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 (vinte) bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do MP.
@@ -317,7 +317,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 ## **Matriz de Aplicação de Critérios**
 
-A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação [(sessão VI)](#vi-plano-de-ação) que levou em consideração as informações das diversas áreas de negócios do MP, além da capacidade de execução do Departamento de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação ==ajustar link== [(sessão VI)](#vi-plano-de-ação) que levou em consideração as informações das diversas áreas de negócios do MP, além da capacidade de execução do Departamento de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
 | Nome da Base de Dados | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
@@ -353,13 +353,18 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
-==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
+O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todos os conjuntos de dados ainda neste Plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.
 
-1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP
-2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC
+1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
+
+
+2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC == SETIC==
+
 3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
-4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
+A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
+4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
+As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
@@ -670,7 +675,8 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 
 ### **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
-Captação física das ações que compõem o orçamento sendo executado
+O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
+Mais informações podem ser encontradas no [Orientador do Acompanhamento Orçamentário](https://www1.siop.planejamento.gov.br/siopdoc/doku.php/acompanhamento_orcamentario:orientador_acompanhamento_orcamentario).
 
 
 **Atividade:**
@@ -883,7 +889,7 @@ Dado público: qualquer dado gerado ou sob a guarda governamental que não tenha
 
 **e-PING:** Padrões de Interoperabilidade de Governo Eletrônico – define um conjunto mínimo de premissas, políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comunicação (TIC) na interoperabilidade de serviços de Governo Eletrônico, estabelecendo as condições de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
 
-**e-VoG:** Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de Vocabulários e Ontologias de Governo Eletrônico (http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal.
+**e-VoG:** Vocabulários e Ontologias do Governo Eletrônico é um conjunto de padrões, ferramentas e metodologias para possibilitar: o intercâmbio de informações com acordo semântico, de forma a viabilizar o pronto cruzamento de dados de diversas fontes; o uso de metodologias de modelagem conceitual como forma de elicitação do conhecimento tácito das áreas de negócio de governo; o uso de ontologias como ferramenta para explicitar conhecimentos de maneira formal e coerente; o alinhamento conceitual das diversas áreas do conhecimento do governo. Um dos produtos do e-VoG é o Repositório de [Vocabulários e Ontologias de Governo Eletrônico](http://vocab.e.gov.br/), local para acesso a todas as referências ontológicas do Governo Eletrônico Federal.
 
 **Formato aberto:** formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização;
 Informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; 
@@ -929,4 +935,13 @@ I0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1
 NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNj
 M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3MzM4MzE1OCwtMTg5MjE5MjIxOCw5Nj
+gwMTIyOTcsLTE1NzE3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3
+MTQ2ODQsLTE1MzAzMTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2Mj
+Q3OCwtMTEwMDgxMDk0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIy
+LC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLT
+k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
+NzU0NSwtMTA1NDg4NzEzMV19
 -->
