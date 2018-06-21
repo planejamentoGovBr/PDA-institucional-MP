@@ -108,7 +108,7 @@ A 3ª edição do [Plano Brasileiro do Governo Aberto](http://www.governoaberto.
 
 * [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
 * [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
-* [Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
+* =[Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 * [Compromisso n.º 14](https://www.opengovpartnership.org/current-commitments/14-social-participation-federal-governments-planning-cycle): Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
 ## Objetivo Geral
@@ -897,6 +897,6 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0NDg4NDAsMTM5ODY1MzE5NywxOD
-MwNDY1MzI1LDExODQ2NTcxMjddfQ==
+eyJoaXN0b3J5IjpbMTQxMTcyODcwOSwtMTU4NDQ0ODg0MCwxMz
+k4NjUzMTk3LDE4MzA0NjUzMjUsMTE4NDY1NzEyN119
 -->
