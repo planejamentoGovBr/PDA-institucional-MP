@@ -178,7 +178,7 @@ As unidades administrativas, por intermédio dos seus pontos focais, são os cur
 
 A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) orientar a publicação de dados sob responsabilidade dos demais atores do MPonsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) orientar a publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
@@ -670,8 +670,7 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 
 ### **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
-Captação física das ações que compõem o orçamento sendo executado
-
+<![endif]--> _O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente_
 
 **Atividade:**
 1. Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
@@ -897,11 +896,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzU4MDE1NSwzMTgzMzc3MjEsLTE1Nz
-E3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3MTQ2ODQsLTE1MzAz
-MTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMTEwMDgxMD
-k0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAzNDMyMjgz
-LC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLTk5NTAwMzYyMiwtMT
-EzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMxNzU0NSwtMTA1NDg4
-NzEzMSwtMTg1NTQ0MjIxMl19
+eyJoaXN0b3J5IjpbMTIwMzAwMDM5MSwxMjc3NTgwMTU1LC0xNT
+cxNzE0Njg0LC0xMTE2MTkwMzk4LC0xNTcxNzE0Njg0LC0xNTMw
+MzE1NjE2LC0yNjIwMTY3NjEsLTExODQyNjI0NzgsLTExMDA4MT
+A5NDMsLTE1NTAzMDEyNDksLTk5NTAwMzYyMiwtMTAwMzQzMjI4
+MywtOTk1MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLT
+ExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OTQzMTc1NDUsLTEwNTQ4
+ODcxMzEsLTE4NTU0NDIyMTJdfQ==
 -->
