@@ -385,7 +385,7 @@ No cumprimento de sua missão “(...) cumprimento das suas funções socioambie
 
  
 ### **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
-Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
+Em atendimento à Lei Complementar 131/2009, também conhecida como Lei da Transparência, a Secretaria do Patrimônio da União, publicará as informações dos imóveis destinados a moradia no Distrito Federal e os servidores que ocupam imóveis funcionais, no Portal de Dados Abertos. Essas informações estão disponíveis atualmente no Portal da Transparência, sitiada na página de mesmo nome do Ministério da Transparência e Controladoria-Geral da União (CGU).
 
 **Atividade:**
 
@@ -404,7 +404,7 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
 
 
 ### **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
-Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de propriedade da União no transcurso de sua vida útil.
+Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio da União do Ministério do Planejamento elaboraram as regras para cálculo de depreciação dos imóveis da união afetados a Administração Pública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
 
    **Atividade:**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
@@ -534,7 +534,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 
 ### **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
-Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os contratos do patrimônio da Antiga Rede Ferroviária Federal e que ainda produzem efeitos.
+Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimônio da União dará publicidade as informações dos imóveis que fazem parte da Inventariança da extinta Rede Ferroviária Federal (RFFSA) e que vem sendo incorporado ao Patrimônio da União.
 
 
 **Atividade:**
@@ -946,5 +946,5 @@ k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
 NzU0NSwtMTA1NDg4NzEzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTg0MzI2OV19
+eyJoaXN0b3J5IjpbLTIwMDY0NjE2NzJdfQ==
 -->
