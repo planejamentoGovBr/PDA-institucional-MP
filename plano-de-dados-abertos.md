@@ -367,7 +367,7 @@ A caracterização específica dos dados referentes ao PLDO, a serem disponibili
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
-Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
+No cumprimento de sua missão “(...) cumprimento das suas funções socioambiental e econômico (...)”, bem como o atendimento do Art. 17 da Lei nº 13.139/2015, a Secretaria do Patrimônio da união deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao foro, taxas de ocupação, laudêmio e outros.
 
    **Atividade:**
    1. Converter em formato para publicação no Portal de Dados Aberto;
@@ -385,7 +385,7 @@ Informações sobre a arrecadação anual aferidas pela União a título de arre
 
  
 ### **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
-Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a servidores deslocados de suas bases originais, pertencentes aos cargos de DAS 4, 5, 6, Especial ou correlatos, no âmbito do DF.
+Em atendimento à Lei Complementar 131/2009, também conhecida como Lei da Transparência, a Secretaria do Patrimônio da União, publicará as informações dos imóveis destinados a moradia no Distrito Federal e os servidores que ocupam imóveis funcionais, no Portal de Dados Abertos. Essas informações estão disponíveis atualmente no Portal da Transparência, sitiada na página de mesmo nome do Ministério da Transparência e Controladoria-Geral da União (CGU).
 
 **Atividade:**
 
@@ -404,7 +404,7 @@ Sistema de Imóveis Funcionais gerencia as concessões para fins de moradia a se
 
 
 ### **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
-Perda da plena aptidão da benfeitoria de servir ao fim a que se destina causando a diminuição do valor econômico dos imóveis afetados a administração pública de propriedade da União no transcurso de sua vida útil.
+Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio da União do Ministério do Planejamento elaboraram as regras para cálculo de depreciação dos imóveis da união afetados a Administração Pública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
 
    **Atividade:**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
@@ -534,7 +534,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 
 ### **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
-Sistema de Arrecadação das Receitas Patrimoniais é o sistema que controla os contratos do patrimônio da Antiga Rede Ferroviária Federal e que ainda produzem efeitos.
+Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimônio da União dará publicidade as informações dos imóveis que fazem parte da Inventariança da extinta Rede Ferroviária Federal (RFFSA) e que vem sendo incorporado ao Patrimônio da União.
 
 
 **Atividade:**
@@ -727,25 +727,6 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 
 
-### **MP_I_01 - Implementação do Portal de Dados Abertos do MP**
-O MP é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
-
-   **Atividade:**
-   1. Instalar ambiente CKAN específico;
-   2. Customizar Arquitetura da informação e Identidade visual do Portal;
-   3. Migrar catalogação dos conjuntos de dados do dados.gov.br para ao portal específico;
-   4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
-
-   **Produtos:**
-   1. Ambiente CKAN online exclusivo;
-   6. Identidade visual específica;
-   7. Metadados Migrados;
-   8. Portal em operação
-   
-   **Meta/Prazo:** Novembro/2018 
-
-   **Unidade responsável:** DEIOP/SETIC
-
 ### **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
@@ -805,7 +786,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 
 ### **MP_M_03 - Viagens a Serviço do Governo Federal** 
-Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou uma melhoria agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos.
+Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou melhorias agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos. Atualmente o conjunto de dados disponibilizados por meio do Portal de Dados Abertos contempla apenas informações sobre bilhetes aéreos emitidos ou alterados na modalidade Compra Direta. O SCDP possui duas modalidades de aquisição de bilhetes: agenciamento e compra direta. A proposta é a abertura dos dados das duas modalidades, com exceção das viagens sigilosas. Serão  disponibilizadas informações dos afastamentos a serviço realizados pelos órgãos do Governo Federal, contemplando: a)  Trechos percorridos, b)  Pagamentos executados, c)  Bilhetes emitidos e d)  Prestações de contas realizadas.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -829,7 +810,7 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 **Unidade responsável:** SEGES
 
 ### **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
-O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
+O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadas destacamos a necessidade de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
 **Atividade:**
@@ -944,4 +925,8 @@ Q3OCwtMTEwMDgxMDk0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIy
 LC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLT
 k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
 NzU0NSwtMTA1NDg4NzEzMV19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
+AzMjcyMF19
 -->
