@@ -367,7 +367,7 @@ A caracterização específica dos dados referentes ao PLDO, a serem disponibili
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
-Informações sobre a arrecadação anual aferidas pela União a título de arrecadação sobre Taxa de Aforamento, Taxa de Ocupação, Laudêmio e outras receitas recebidas pelo uso do Patrimônio da União.
+No cumprimento de sua missão “(...) cumprimento das suas funções socioambiental e econômico (...)”, bem como o atendimento do Art. 17 da Lei nº 13.139/2015, a Secretaria do Patrimônio da união deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao foro, taxas de ocupação, laudêmio e outros.
 
    **Atividade:**
    1. Converter em formato para publicação no Portal de Dados Aberto;
@@ -946,5 +946,5 @@ k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
 NzU0NSwtMTA1NDg4NzEzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMTk5NTQzXX0=
+eyJoaXN0b3J5IjpbMTg1NTg0MzI2OV19
 -->
