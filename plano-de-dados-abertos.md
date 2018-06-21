@@ -829,7 +829,7 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 **Unidade responsável:** SEGES
 
 ### **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
-O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Além da ação para criação de portal de dados específico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
+O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadas destacamos a necessidade de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
 **Atividade:**
@@ -946,5 +946,5 @@ k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
 NzU0NSwtMTA1NDg4NzEzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTAzMjcyMF19
+eyJoaXN0b3J5IjpbMzQ2MzY5MjA0LDEzNDkwMzI3MjBdfQ==
 -->
