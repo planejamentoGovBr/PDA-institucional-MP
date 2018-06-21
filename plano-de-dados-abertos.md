@@ -354,7 +354,7 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
 ==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
-O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todos os conjuntos de dados ainda neste Plano. Contudo, observou-se que alguns itens possuem restrições que impedem  o planejamento destas ações neste momento. Apresentamos abaixo as motivações 
+O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todos os conjuntos de dados ainda neste Plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva 
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP
 2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC
@@ -900,11 +900,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwMTUxOTc0LDk2ODAxMjI5NywtMTU3MT
-cxNDY4NCwtMTExNjE5MDM5OCwtMTU3MTcxNDY4NCwtMTUzMDMx
-NTYxNiwtMjYyMDE2NzYxLC0xMTg0MjYyNDc4LC0xMTAwODEwOT
-QzLC0xNTUwMzAxMjQ5LC05OTUwMDM2MjIsLTEwMDM0MzIyODMs
-LTk5NTAwMzYyMiwtMTAwMzQzMjI4MywtOTk1MDAzNjIyLC0xMT
-M1MDA0NDkxLC01NzQ4NDgxMTUsOTk0MzE3NTQ1LC0xMDU0ODg3
-MTMxLC0xODU1NDQyMjEyXX0=
+eyJoaXN0b3J5IjpbMTMxMjIwODkwMyw5NjgwMTIyOTcsLTE1Nz
+E3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3MTQ2ODQsLTE1MzAz
+MTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMTEwMDgxMD
+k0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAzNDMyMjgz
+LC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLTk5NTAwMzYyMiwtMT
+EzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMxNzU0NSwtMTA1NDg4
+NzEzMSwtMTg1NTQ0MjIxMl19
 -->
