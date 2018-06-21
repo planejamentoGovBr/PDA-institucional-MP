@@ -151,7 +151,7 @@ O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição re
 
 Para ser considerado aberto de fato, um dado deve estar publicado utilizando-se de um formato aberto e não proprietário como o CSV e JSON.
 A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
-O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - [APIs] ==trocar link==(https://pt.wikipedia.org/wiki/API).
+O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - [APIs] ==trocar link== (https://pt.wikipedia.org/wiki/API).
 
 
 ## Processos de Desenvolvimento de Softwares
@@ -897,9 +897,10 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAzMDEyNDksLTk5NTAwMzYyMiwtMT
-AwMzQzMjI4MywtOTk1MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUw
-MDM2MjIsLTExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OTQzMTc1ND
-UsLTEwNTQ4ODcxMzEsLTE4NTU0NDIyMTIsLTE1ODQ0NDg4NDAs
-MTM5ODY1MzE5NywxODMwNDY1MzI1LDExODQ2NTcxMjddfQ==
+eyJoaXN0b3J5IjpbLTExMDA4MTA5NDMsLTE1NTAzMDEyNDksLT
+k5NTAwMzYyMiwtMTAwMzQzMjI4MywtOTk1MDAzNjIyLC0xMDAz
+NDMyMjgzLC05OTUwMDM2MjIsLTExMzUwMDQ0OTEsLTU3NDg0OD
+ExNSw5OTQzMTc1NDUsLTEwNTQ4ODcxMzEsLTE4NTU0NDIyMTIs
+LTE1ODQ0NDg4NDAsMTM5ODY1MzE5NywxODMwNDY1MzI1LDExOD
+Q2NTcxMjddfQ==
 -->
