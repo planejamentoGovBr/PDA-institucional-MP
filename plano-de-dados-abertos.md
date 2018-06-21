@@ -805,7 +805,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 
 ### **MP_M_03 - Viagens a Serviço do Governo Federal** 
-Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou uma melhoria agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos.
+Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou melhorias agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos. Atualmente o conjunto de dados disponibilizados por meio do Portal de Dados Abertos contempla apenas informações sobre bilhetes aéreos emitidos ou alterados na modalidade Compra Direta. O SCDP possui duas modalidades de aquisição de bilhetes: agenciamento e compra direta. A proposta é a abertura dos dados das duas modalidades, com exceção das viagens sigilosas. Serão  disponibilizadas informações dos afastamentos a serviço realizados pelos órgãos do Governo Federal, contemplando: a)  Trechos percorridos, b)  Pagamentos executados, c)  Bilhetes emitidos e d)  Prestações de contas realizadas.
 
 **Atividade:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -946,5 +946,5 @@ k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
 NzU0NSwtMTA1NDg4NzEzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY0NjE2NzJdfQ==
+eyJoaXN0b3J5IjpbMTM0OTAzMjcyMF19
 -->
