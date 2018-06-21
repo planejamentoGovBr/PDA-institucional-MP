@@ -353,7 +353,6 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
-==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
 O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todos os conjuntos de dados ainda neste Plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
@@ -905,11 +904,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIxOTIyMTgsOTY4MDEyMjk3LC0xNT
-cxNzE0Njg0LC0xMTE2MTkwMzk4LC0xNTcxNzE0Njg0LC0xNTMw
-MzE1NjE2LC0yNjIwMTY3NjEsLTExODQyNjI0NzgsLTExMDA4MT
-A5NDMsLTE1NTAzMDEyNDksLTk5NTAwMzYyMiwtMTAwMzQzMjI4
-MywtOTk1MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLT
-ExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OTQzMTc1NDUsLTEwNTQ4
-ODcxMzEsLTE4NTU0NDIyMTJdfQ==
+eyJoaXN0b3J5IjpbLTg3MzM4MzE1OCwtMTg5MjE5MjIxOCw5Nj
+gwMTIyOTcsLTE1NzE3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3
+MTQ2ODQsLTE1MzAzMTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2Mj
+Q3OCwtMTEwMDgxMDk0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIy
+LC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLT
+k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
+NzU0NSwtMTA1NDg4NzEzMV19
 -->
