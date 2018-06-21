@@ -76,7 +76,7 @@ O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorga
 **[2. Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti)** 
 O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará na aplicação dos recursos tecnológicos para a execução das ações deste plano.
 
-**3. Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
+**3. Comitê Estratégico de Tecnologia da Informação e Comunicação (SETIC)**
 O CETIC criado pela Portaria Nº 385, de 11 de novembro de 2017, possui caráter estratégico permanente de natureza deliberativa e consultiva e tem por finalidade promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
@@ -897,8 +897,8 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OT
-QzMTc1NDUsLTEwNTQ4ODcxMzEsLTE4NTU0NDIyMTIsLTE1ODQ0
-NDg4NDAsMTM5ODY1MzE5NywxODMwNDY1MzI1LDExODQ2NTcxMj
-ddfQ==
+eyJoaXN0b3J5IjpbLTEwMDM0MzIyODMsLTExMzUwMDQ0OTEsLT
+U3NDg0ODExNSw5OTQzMTc1NDUsLTEwNTQ4ODcxMzEsLTE4NTU0
+NDIyMTIsLTE1ODQ0NDg4NDAsMTM5ODY1MzE5NywxODMwNDY1Mz
+I1LDExODQ2NTcxMjddfQ==
 -->
