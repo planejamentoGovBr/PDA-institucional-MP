@@ -226,7 +226,7 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 ## Comunicação e Participação social
 A institucionalização do Plano de Dados Abertos (PDA), sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
-Este PDA é oficialmente publicado no sítio do [MP](http://www.planejamento.gov.br/servicos/central-de-conteudos/publicacoes/plano-de-dados-abertos-pda)  no formato ==PDF==. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
+Este PDA é oficialmente publicado no sítio do [MP](http://www.planejamento.gov.br/servicos/central-de-conteudos/publicacoes/plano-de-dados-abertos-pda)  no formato ==HTML==. Dessa maneira o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
 
 O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em ==HTML==. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em ==HTML==.
 
@@ -897,10 +897,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMT
-EwMDgxMDk0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAz
-NDMyMjgzLC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLTk5NTAwMz
-YyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMxNzU0NSwt
-MTA1NDg4NzEzMSwtMTg1NTQ0MjIxMiwtMTU4NDQ0ODg0MCwxMz
-k4NjUzMTk3LDE4MzA0NjUzMjUsMTE4NDY1NzEyN119
+eyJoaXN0b3J5IjpbLTE1MzAzMTU2MTYsLTI2MjAxNjc2MSwtMT
+E4NDI2MjQ3OCwtMTEwMDgxMDk0MywtMTU1MDMwMTI0OSwtOTk1
+MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLTEwMDM0Mz
+IyODMsLTk5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1
+LDk5NDMxNzU0NSwtMTA1NDg4NzEzMSwtMTg1NTQ0MjIxMiwtMT
+U4NDQ0ODg0MCwxMzk4NjUzMTk3LDE4MzA0NjUzMjUsMTE4NDY1
+NzEyN119
 -->
