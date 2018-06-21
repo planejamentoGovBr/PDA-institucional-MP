@@ -178,7 +178,7 @@ As unidades administrativas, por intermédio dos seus pontos focais, são os cur
 
 A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) a coordenação da publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) orientar a publicação de dados sob responsabilidade dos demais atores do MPonsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
@@ -897,11 +897,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE3MTQ2ODQsLTExMTYxOTAzOTgsLT
-E1NzE3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3MTQ2ODQsLTE1
-MzAzMTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMTEwMD
-gxMDk0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAzNDMy
-MjgzLC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLTk5NTAwMzYyMi
-wtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMxNzU0NSwtMTA1
-NDg4NzEzMSwtMTg1NTQ0MjIxMl19
+eyJoaXN0b3J5IjpbMzE4MzM3NzIxLC0xNTcxNzE0Njg0LC0xMT
+E2MTkwMzk4LC0xNTcxNzE0Njg0LC0xNTcxNzE0Njg0LC0xNTMw
+MzE1NjE2LC0yNjIwMTY3NjEsLTExODQyNjI0NzgsLTExMDA4MT
+A5NDMsLTE1NTAzMDEyNDksLTk5NTAwMzYyMiwtMTAwMzQzMjI4
+MywtOTk1MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLT
+ExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OTQzMTc1NDUsLTEwNTQ4
+ODcxMzEsLTE4NTU0NDIyMTJdfQ==
 -->
