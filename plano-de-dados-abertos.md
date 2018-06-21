@@ -362,7 +362,7 @@ O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na
 2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC == SETIC==
 
 3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
-A caracterização específica dos dados referentes ao PLDO a serem disponibilizados ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
+A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
@@ -905,11 +905,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDU0NDU2LDk2ODAxMjI5NywtMTU3MT
-cxNDY4NCwtMTExNjE5MDM5OCwtMTU3MTcxNDY4NCwtMTUzMDMx
-NTYxNiwtMjYyMDE2NzYxLC0xMTg0MjYyNDc4LC0xMTAwODEwOT
-QzLC0xNTUwMzAxMjQ5LC05OTUwMDM2MjIsLTEwMDM0MzIyODMs
-LTk5NTAwMzYyMiwtMTAwMzQzMjI4MywtOTk1MDAzNjIyLC0xMT
-M1MDA0NDkxLC01NzQ4NDgxMTUsOTk0MzE3NTQ1LC0xMDU0ODg3
-MTMxLC0xODU1NDQyMjEyXX0=
+eyJoaXN0b3J5IjpbLTE5ODQwNDg4NDAsOTY4MDEyMjk3LC0xNT
+cxNzE0Njg0LC0xMTE2MTkwMzk4LC0xNTcxNzE0Njg0LC0xNTMw
+MzE1NjE2LC0yNjIwMTY3NjEsLTExODQyNjI0NzgsLTExMDA4MT
+A5NDMsLTE1NTAzMDEyNDksLTk5NTAwMzYyMiwtMTAwMzQzMjI4
+MywtOTk1MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLT
+ExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OTQzMTc1NDUsLTEwNTQ4
+ODcxMzEsLTE4NTU0NDIyMTJdfQ==
 -->
