@@ -670,7 +670,10 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 
 ### **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
-<![endif]--> _O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente_
+O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
+Mais informações podem ser encontradas no Orientador do Acompanhamento Orçamentário encontrado no link:
+https://www1.siop.planejamento.gov.br/siopdoc/doku.php/acompanhamento_orcamentario:orientador_acompanhamento_orcamentario"
+
 
 **Atividade:**
 1. Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
@@ -896,7 +899,7 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MDEyMjk3LDEyMDMwMDAzOTEsLTE1Nz
+eyJoaXN0b3J5IjpbLTY1ODg0OTU4MCw5NjgwMTIyOTcsLTE1Nz
 E3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3MTQ2ODQsLTE1MzAz
 MTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMTEwMDgxMD
 k0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAzNDMyMjgz
