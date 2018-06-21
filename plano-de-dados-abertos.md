@@ -354,6 +354,7 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 
 ## 1. Plano de Ação - Conjuntos de Dados a serem abertos
 ==justificar os 04 conjuntos de dados que foram para consulta publica e que não tem plano de ação para este plano.==
+O MP após a fase de Consulta Pública e aplicação de critérios avaliou c
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP
 2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC
@@ -899,11 +900,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODg0OTU4MCw5NjgwMTIyOTcsLTE1Nz
-E3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3MTQ2ODQsLTE1MzAz
-MTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMTEwMDgxMD
-k0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAzNDMyMjgz
-LC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLTk5NTAwMzYyMiwtMT
-EzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMxNzU0NSwtMTA1NDg4
-NzEzMSwtMTg1NTQ0MjIxMl19
+eyJoaXN0b3J5IjpbLTIwMzgzMTA5NzksOTY4MDEyMjk3LC0xNT
+cxNzE0Njg0LC0xMTE2MTkwMzk4LC0xNTcxNzE0Njg0LC0xNTMw
+MzE1NjE2LC0yNjIwMTY3NjEsLTExODQyNjI0NzgsLTExMDA4MT
+A5NDMsLTE1NTAzMDEyNDksLTk5NTAwMzYyMiwtMTAwMzQzMjI4
+MywtOTk1MDAzNjIyLC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLT
+ExMzUwMDQ0OTEsLTU3NDg0ODExNSw5OTQzMTc1NDUsLTEwNTQ4
+ODcxMzEsLTE4NTU0NDIyMTJdfQ==
 -->
