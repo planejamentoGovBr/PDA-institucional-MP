@@ -362,7 +362,7 @@ O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na
 2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC == SETIC==
 
 3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
-<![endif]--> _Não está claro a caracterização específica dos dados referentes ao PLDO a serem disponibilizados. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA_
+A caracterização específica dos dados referentes ao PLDO a serem disponibilizados ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
@@ -905,11 +905,11 @@ M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
 MTUxXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTU3NjQxMyw5NjgwMTIyOTcsLTE1Nz
-E3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3MTQ2ODQsLTE1MzAz
-MTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2MjQ3OCwtMTEwMDgxMD
-k0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIyLC0xMDAzNDMyMjgz
-LC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLTk5NTAwMzYyMiwtMT
-EzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMxNzU0NSwtMTA1NDg4
-NzEzMSwtMTg1NTQ0MjIxMl19
+eyJoaXN0b3J5IjpbMTk3NDU0NDU2LDk2ODAxMjI5NywtMTU3MT
+cxNDY4NCwtMTExNjE5MDM5OCwtMTU3MTcxNDY4NCwtMTUzMDMx
+NTYxNiwtMjYyMDE2NzYxLC0xMTg0MjYyNDc4LC0xMTAwODEwOT
+QzLC0xNTUwMzAxMjQ5LC05OTUwMDM2MjIsLTEwMDM0MzIyODMs
+LTk5NTAwMzYyMiwtMTAwMzQzMjI4MywtOTk1MDAzNjIyLC0xMT
+M1MDA0NDkxLC01NzQ4NDgxMTUsOTk0MzE3NTQ1LC0xMDU0ODg3
+MTMxLC0xODU1NDQyMjEyXX0=
 -->
