@@ -727,25 +727,6 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 
 
-### **MP_I_01 - Implementação do Portal de Dados Abertos do MP**
-O MP é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados, além de melhorar a comunicação com o público interessado nos dados do Ministério do Planejamento.
-
-   **Atividade:**
-   1. Instalar ambiente CKAN específico;
-   2. Customizar Arquitetura da informação e Identidade visual do Portal;
-   3. Migrar catalogação dos conjuntos de dados do dados.gov.br para ao portal específico;
-   4. Capacitar os gestores e curadores dos conjuntos de dados e equipe Ouvidoria;
-
-   **Produtos:**
-   1. Ambiente CKAN online exclusivo;
-   6. Identidade visual específica;
-   7. Metadados Migrados;
-   8. Portal em operação
-   
-   **Meta/Prazo:** Novembro/2018 
-
-   **Unidade responsável:** DEIOP/SETIC
-
 ### **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
@@ -946,5 +927,6 @@ k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
 NzU0NSwtMTA1NDg4NzEzMV19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MzY5MjA0LDEzNDkwMzI3MjBdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
+AzMjcyMF19
 -->
