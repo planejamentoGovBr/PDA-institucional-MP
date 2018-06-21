@@ -108,7 +108,7 @@ A 3ª edição do [Plano Brasileiro do Governo Aberto](http://www.governoaberto.
 
 * [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
 * [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
-* [Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
+* [Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/10-assessment-and-streamline-of-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 * [Compromisso n.º 14](https://www.opengovpartnership.org/current-commitments/14-social-participation-federal-governments-planning-cycle): Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
 ## Objetivo Geral
@@ -134,7 +134,7 @@ No âmbito do MP, os objetivos específicos ligados à Política de Dados Aberto
 
 As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e [as três leis dos dados abertos](http://dados.gov.br/pagina/dados-abertos), bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.
 
-O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP) e de Convênios (Siconv). Nesse sentido deve implementar as estratégias de abertura dos dados destes sistemas de forma centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos.
+O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (SIASG + Comprasnet), de diárias e passagens (SCDP) e de Convênios (Siconv). Nesse sentido deve implementar as estratégias de abertura dos dados destes sistemas de forma centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos.
 
 ## Premissas
 
@@ -740,6 +740,40 @@ O MP é o órgão responsável pela política de dados abertos no governo federa
 
    **Unidade responsável:** DEIOP/SETIC
 
+### **MP_M_02 - Compras Públicas do Governo Federal** 
+Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
+
+A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, [a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
+
+* Divulgação e a realização das licitações
+* Emissão de notas de empenho
+* Registro dos contratos administrativos
+* Catalogação de materiais e serviços
+* Cadastro de fornecedores
+
+O MP já compartilha dados abertos de compras públicas desde 2013 em [formato de API](http://compras.dados.gov.br/). A abertura destes dados foi uma das primeiras experiências brasileiras de API de dados abertos, servindo de referência para muitas outras iniciativas no setor público. Apesar do carater inovador no uso de padrões modernos, a API não é capaz de fornecer dados atualizados, dificultando o desenvolvimento de aplicaçõs mais interativas. A implementação da atualização tempestiva dos dados é dificultada por uma série de limitações inerentes ao uso de tecnologias antigas como o Adabas.
+
+Com o objetivo de avançar na maturidade da solução de abertura dos dados de compras públicas, o MP realizará um conjunto de melhorias para atingir dois objetivos principais: **1)** A redução do tempo de atualização dos dados através da integração definitiva do extrator de dados; e **2)** O aprimoramento da API com a inclusão de novos métodos para acesso a mais dados da plataforma de compras.
+
+
+**Atividade:**
+1. Integração desta API à plataforma corporativa de gestão de APIs do MP;
+2. Concluir automação das etapas de extração dos dados no SERPRO, transformação e carga no banco de dados da API mantendo a arquitetura atual;
+3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dados do .... ==Gustavo ficou de levantar com a área finalística== ;
+4. Implementação de solução especializada para atualização semanal dos dados.
+
+**Produtos:**
+1. API sendo monitorada pela plataforma corporativa de gestão de APIs possibilitando, inclusive, análise dos dados mais consumidos;
+2. Atualização automatizada dos dados garantindo o cumprimento do prazo de atualização atualmente definido (Mensal);
+3. Novos métodos na API para acesso à novos subconjuntos de dados;
+4. Atualização semanal de todos os dados.
+
+**Frequência de Atualização:** Semanal
+
+**Meta/Prazo:** Julho/2019
+
+**Unidade responsável:** SEGES
+
   
 ### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
 Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
@@ -747,15 +781,15 @@ Os financiamentos externos junto a organismos financeiros internacionais de dese
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
 
 **Atividade:**
-1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .xls;
-2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3.  Conferência dos Dados;
-4.  Envio para publicação no Dados.gov.br e na INDE, conforme o caso.
+1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .csv;
+2. Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3. Conferência dos Dados;
+4. Envio para publicação no Dados.gov.br e na INDE, conforme o caso.
 
 
 **Produtos:**
 1. Catálogo com os dados referentes aos financiamentos externos;
-2.  Publicação dos Dados.
+2. Publicação dos Dados.
 
 **Frequência de Atualização:** Diário
 
