@@ -226,9 +226,9 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 ## Comunicação e Participação social
 A institucionalização do Plano de Dados Abertos (PDA), sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
-Este PDA é oficialmente publicado no sítio do [MP](http://www.planejamento.gov.br/servicos/central-de-conteudos/publicacoes/plano-de-dados-abertos-pda)  no formato ==HTML==. Dessa forma, o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
+Este PDA é oficialmente publicado no sítio do [MP](http://www.planejamento.gov.br/servicos/central-de-conteudos/publicacoes/plano-de-dados-abertos-pda)  no formato HTML. Dessa forma, o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
 
-O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em ==HTML==. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em ==HTML==.
+O documento possui **âncoras** para cada seção possibilitando o compartilhamento de links para partes específicas. Este PDA é originalmente mantido versionado em repositório [Git Público](https://github.com/planejamentoGovBr/PDA-institucional-MP) proporcionando rastreabilidade das alterações no documento. O plano é mantido em formato [Markdown](https://daringfireball.net/projects/markdown/), um estilo de formatação de documentos fácil de aprender, que preserva a legibilidade e é automaticamente convertido em HTML. A combinação destas 2 tecnologias, `Git + Markdown`, permite também a edição online do documento e sua publicação automática em HTML.
 
 Os materiais de divulgação levam em conta os interesses de diferentes segmentos de público: servidores do órgão, gestores públicos, produtores e usuários dos dados, academia, imprensa, sociedade organizada e demais cidadãos.
 
@@ -992,5 +992,5 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNDYzMDc1XX0=
+eyJoaXN0b3J5IjpbLTM4MjYyNzQ4NSwyODI0NjMwNzVdfQ==
 -->
