@@ -355,6 +355,7 @@ O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na
 Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
+
 3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
@@ -362,9 +363,6 @@ A caracterização específica dos dados referentes ao PLDO, a serem disponibili
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
-No cumprimento de sua missão “(...) cumprimento das suas funções socioambiental e econômico (...)”, bem como o atendimento do Art. 17 da Lei nº 13.139/2015, a Secretaria do Patrimônio d4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
-
-### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela uUnião deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao fora título de arrecadação sobre Taxa de Aforamenta nião o, tTas deoOcupação, laudêmio e outros.
 
    <i class="fas fa-cogs"></i> **Atividade**
@@ -404,7 +402,7 @@ Em atendimento à Lei Complementar 131/2009, também conhecida como Lei da Trans
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
 Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio a  Ministério do Planejamento elaboraram as regras para cálculo de depreciaçãdiminuição doo dos imóveis da união afetados a Administração Ppública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
 
-   <i class="fas fa-cogs"></i> de propriedade d**Atividades**
+   <i class="fas fa-cogs"></i> **Atividades**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
    2. Publicar as informações no Portal de Dados Aberto da SPU;
    3. Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
@@ -414,7 +412,7 @@ Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do
 
    <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-   <i class="far fa-calendar-check"></i> /2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** /2018
 
    <i class="far fa-building"></i> **Unidade responsável:** SPU
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
@@ -436,7 +434,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
    <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-   <i class="far fa-calendar-check"></i> /2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** /2018
 
    <i class="far fa-building"></i> **Unidade responsável:** SGP
 
@@ -460,7 +458,7 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-<i class="far fa-calendar-check"></i> /2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** /2018
 
 <i class="far fa-building"></i> **Unidade responsável:** SGP
 
@@ -483,9 +481,9 @@ Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Susten
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Anualmente
 
-<i class="far fa-calendar-check"></i> /2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2018
 
-<i class="far fa-building"></i> **Meta/Prazo:** Novembro**Unidade responsável:** SEPLAN
+<i class="far fa-building"></i> **Unidade responsável:** SEPLAN
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
@@ -507,9 +505,9 @@ Esse conjunto de dados contempla a relação de Programas Federais que possuem a
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Dados históricos - sem atualização
 
-<i class="far fa-calendar-check"></i> 18
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2018
 
-<i class="far fa-building"></i> **Meta/Prazo:** Novembro**Unidade responsável:** SEPLAN
+<i class="far fa-building"></i> **Unidade responsável:** SEPLAN
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
 
@@ -524,7 +522,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Tempo real
 
-<i class="far fa-calendar-check"></i> 18
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
 <i class="far fa-building"></i> **Meta/Prazo:** Setembro/20l:** SETIC
 
@@ -533,7 +531,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimonda União dará publicidade as informações dos imóveis que fazem parte da Inventariança da extinta Rede Ferroviária Federal (RFFSA) e que vem sendo incorporado ao Patrimônio da União.
 
 
-<i class="fas fa-cogs"></i> ais**Atividades**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Proceder a Incorporação dos Imóveis nos Sistema da SPU;
 2. Publicar as informações dos imóveis da antiga RFFSA.
 
@@ -547,7 +545,7 @@ Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimonda Uni�
 <i class="far fa-building"></i> **Unidade responsável:** SPU
 
 
-### <i class="fas fa-cubes fa-lg"></i>**Meta/Prazo:** Dezembro/20 **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
 
 O GovData disponibiliza uma infraestrutura de Datalake, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
 
@@ -563,11 +561,9 @@ Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados q
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Tempo real
 
-<i class="far fa-calendar-check"></i> /2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018/2018
 
-<i class="far fa-building"></i> **Meta/Prazo:** Setembro/2018
-
-**Unidade responsável:** SETIC
+<i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
@@ -582,15 +578,15 @@ Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 3. Publicar dados em formato de dados abertos.
 
 <i class="fas fa-tasks"></i> **Produtos:**
-1. Extração e carga;  
-2. Termo de validação das informações;  
+1. Extração e carga;
+2. Termo de validação das informações;
 3. Catalogar no Portal Brasileiro de Dados Abertos
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Maio/2019
 
-<i class="far fa-building"></i> **Meta/Prazo:** Maio**Unidade responsável:** SETIC
+<i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 
@@ -613,13 +609,11 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-<i class="far fa-calendar-check"></i> 019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
 <i class="far fa-building"></i> **Unidade responsável:** SEGES
 
-### <i class="fas fa-cubes fa-lg"></i>**Meta/Prazo:** Julho/2**Unidade responsável:** SEGES
-
-### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
 
 <i class="fas fa-cogs"></i> **Atividades**
@@ -639,17 +633,12 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-<i class="far fa-calendar-check"></i> 019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
 <i class="far fa-building"></i> **Unidade responsável:** SGP
 
 
-
-### <i class="fas fa-cubes fa-lg"></i>**Meta/Prazo:** Julho/2**Unidade responsável:** SGP
-
-
-
-### **MP_I_14 - Empresas Estatais Federais - Boletim**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_14 - Empresas Estatais Federais - Boletim**
 
 O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secretaria de Coordenação e Governança das Empresas Estatais (SEST), do Ministério do Planejamento, Desenvolvimento e Gestão, e atualmente é publicado [em formato PDF](http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais-dest). O Boletim reúne dados das Empresas Estatais Federais constantes no Programa de Dispêndios Globais ([PDG](http://www.planejamento.gov.br/assuntos/empresas-estatais/dados-e-estatisticas/programa-de-dispendios-globais-pdg)), no Orçamento de Investimento (OI), no Perfil de Pessoal das Estatais ([PPE](http://www.planejamento.gov.br/assuntos/empresas-estatais/sistemas/documentacao-e-normas/modulo-ppe)) e demais informações divulgadas pelas próprias empresas. Entre as fontes utilizadas estão: o Sistema de Informação das Estatais ([SIEST](https://siest.planejamento.gov.br/gerta/public/pages/login/login.jsp)) e o Sistema Integrado de Planejamento e Orçamento do Governo Federal ([SIOP](https://www.siop.planejamento.gov.br/siop/)).
 
@@ -675,19 +664,15 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2019
 
-<i class="far fa-building"></i> **Meta/Prazo:** Novembro/2019
-
-**Unidade responsável:** SEST
+<i class="far fa-building"></i> **Unidade responsável:** SEST
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
-<![endif]--> _O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
+O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
 Mais informações podem ser encontradas no [Orientador do Acompanhamento Orçamentário](https://www1.siop.planejamento.gov.br/siopdoc/doku.php/acompanhamento_orcamentario:orientador_acompanhamento_orcamentario).
 
 
-<i class="fas fa-cogs"></i> _
-
-**Atividades**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
 2.  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
 3.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
@@ -706,10 +691,7 @@ Mais informações podem ser encontradas no [Orientador do Acompanhamento Orçam
 <i class="far fa-building"></i> **Unidade responsável:** SOF
 
 
-### <i class="fas fa-cubes fa-lg"></i>**Unidade responsável:** SOF
-
-
-### **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
 
 <i class="fas fa-cogs"></i> **Atividades:**
@@ -736,19 +718,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 ## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Dados
 
-
-
-### <i class="fas fa-cubes fa-lg"></i>**Meta/Prazo:** Dezembro/2019
-
-**Unidade responsável:** SGP
-
-
-
-## 2. Plano de Ação - Melhoria dos Dados
-
-
-
-### **MP_MI_01 - Compras Públicas do Governo Federal** 
+### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
 A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, [a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
@@ -761,24 +731,16 @@ A realização destas aquisições seguem os procedimentos especificados na Lei 
 
 O MP já compartilha dados abertos de compras públicas desde 2013 em [formato de API](http://compras.dados.gov.br/). A abertura destes dados foi uma das primeiras experiências brasileiras de API de dados abertos, servindo de referência para muitas outras iniciativas no setor público. Apesar do carater inovador no uso de padrões modernos, a API não é capaz de fornecer dados atualizados, dificultando o desenvolvimento de aplicaçõs mais interativas. A implementação da atualização tempestiva dos dados é dificultada por uma série de limitações inerentes ao uso de tecnologias antigas como o Adabas.
 
-Com o objetivo de avançar na maturidade da solução de aberturImplementação do Portal de Dados Abertos do MP**
-O MP é o órgão responsável pela política de dados abertos no governo federal, e para isso disponibiliza o portal dados.gov.br que unifica a catalogação de dados no Brasil. Para simplificar a gestão das atividades, o MP sempre catalogou seus dados abertos no portal central. Contudo, pela crescente relevância do tema dentro da Administração Pública Federal, o MP desenvolverá um catálogo próprio que possibilitará dentre outras coisas, maior autonomia na curadoria dos metadados de compras públicas, o MP realizará um conjunto, além de melhorias para atingir dois objetivos principais: **1)** A redução do tempo de atualização dos dados através da integração definitiva do extrator de dados; e **2)** O aprimoramento da API com a inclusão de novos métodos para acesso a mais dados da plataforma de compras.
+Com o objetivo de avançar na maturidade da solução de abertura dos dados de compras públicas, o MP realizará um conjunto de melhorias para atingir dois objetivos principais: **1)** A redução do tempo de atualização dos dados através da integração definitiva do extrator de dados; e **2)** O aprimoramento da API com a inclusão de novos métodos para acesso a mais dados da plataforma de compras.
 
 
-<i class="fas fa-cogs"></i> comunicação com o público interessado nos dados do Ministério do Planejamento.
-
-   **Atividades:**
-   1. Integração desta API à plataforma corporativa de gestão de APIs do MP;
+<i class="fas fa-cogs"></i> **Atividades**
+1. Integração desta API à plataforma corporativa de gestão de APIs do MP;
 2. Concluir automação das etapas de extração dos dados no SERPRO, transformação e carga no banco de dados da API mantendo a arquitetura atual;
-3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dstalar ambiente CKAN específico;
-   2. Customizar Arquitetura da informação e Identidade visual do Portal;
-   3. Migrar catalogação dos conjuntos de dados do dados.gov.br para ao portal específico;
-   4. Capacitar os gestores e curadores do .... ==Gustavo ficou de levantar com a área finalística== ;
+3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dados do .... ==Gustavo ficou de levantar com a área finalística== ;
 4. Implementação de solução especializada para atualização semanal dos dados.
 
-<i class="fas fa-tasks"></i>s conjuntos de dados e equipe Ouvidoria;
-
-   **Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. API sendo monitorada pela plataforma corporativa de gestão de APIs possibilitando, inclusive, análise dos dados mais consumidos;
 2. Atualização automatizada dos dados garantindo o cumprimento do prazo de atualização atualmente definido (Mensal);
 3. Novos métodos na API para acesso à novos subconjuntos de dados;
@@ -791,47 +753,33 @@ O MP é o órgão responsável pela política de dados abertos no governo federa
 <i class="far fa-building"></i> **Unidade responsável:** SEGES
 
   
-### <i class="fas fa-cubes fa-lg"></i>   1. Ambiente CKAN online exclusivo;
-   6. Identidade visual específica;
-   7. Metadados Migrados;
-   8. Portal em operação
-   
-   **Meta/Prazo:** Novembro/2018 
-
-   **Unidade responsável:** DEIOP/SETIC
-
-  
 ### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
 Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
 
 <i class="fas fa-cogs"></i> **Atividades:**
-1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .csvxls;
-2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
-3.  Conferência dos Dados;
-4.  Envio para publicação no Dados.gov.br e na INDE, conforme o caso.
+1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .csv;
+2. Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
+3. Conferência dos Dados;
+4. Envio para publicação no Dados.gov.br e na INDE, conforme o caso.
 
 
 <i class="fas fa-tasks"></i> **Produtos:**
 1. Catálogo com os dados referentes aos financiamentos externos;
-2.  Publicação dos Dados.
+2. Publicação dos Dados.
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Diário
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2018
 
-<i class="far fa-building"></i> **Meta/Prazo:** Agosto/2018
-
-**Unidade responsável:** SEAIN
+<i class="far fa-building"></i> **Unidade responsável:** SEAIN
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_03 - Viagens a Serviço do Governo Federal** 
 Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou uma melhorias agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos. Atualmente o conjunto de dados disponibilizados por meio do Portal de Dados Abertos contempla apenas informações sobre bilhetes aéreos emitidos ou alterados na modalidade Compra Direta. O SCDP possui duas modalidades de aquisição de bilhetes: agenciamento e compra direta. A proposta é a abertura dos dados das duas modalidades, com exceção das viagens sigilosas. Serão  disponibilizadas informações dos afastamentos a serviço realizados pelos órgãos do Governo Federal, contemplando: a)  Trechos percorridos, b)  Pagamentos executados, c)  Bilhetes emitidos e d)  Prestações de contas realizadas.
 
-<i class="fas fa-cogs"></i> 
-
-**Atividades:**
+<i class="fas fa-cogs"></i> **Atividades:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
 2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3.  Conferência dos Dados;
@@ -850,9 +798,8 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2019
 
-<i class="far fa-building"></i> **Meta/Prazo:** Agosto/2019
+<i class="far fa-building"></i> **Unidade responsável:** SEGES
 
-**Unidade responsável:** SEGES
 
 ### <i class="fas fa-globe fa-lg"></i> **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
 O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadaAlém da ação para criação de portal de dados destacamos a necessidadepecífico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
@@ -878,14 +825,7 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 <i class="far fa-building"></i> **Unidade responsável:** SE
 
 
-
-### <i class="fas fa-sitemap fa-lg"></i>**Meta/Prazo:** Setembro/2018 
-
-**Unidade responsável:** SE
-
-
-
-### **MP_M_05 - Estruturação do Inventário de Bases de Dados do MP** 
+### <i class="fas fa-sitemap fa-lg"></i> **MP_M_05 - Estruturação do Inventário de Bases de Dados do MP** 
 O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das decisões de médio e longo prazo.
 Esta ação tem como objetivo principal garantir o aprimoramento do inventário, identificando os conjuntos de dados pertencentes as bases já disponibilizadas e, principalmente identificando as informações que ainda carecem ser disponibilizadas, qualificando-as para comporem o PDA para o ciclo seguinte (2020 e 2021). 
 
@@ -901,12 +841,9 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 2. Mapeamento da completude da abertura dos dados de cada domínio de dados;
 3. Conjunto de fichas técnicas de indicadores para acompanhamento da evolução das ações;
 
-
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2018
 
-<i class="far fa-building"></i> **Meta/Prazo:** Dezembro/2018
-
-**Unidade responsável:** DEIOP/SETIC
+<i class="far fa-building"></i> **Unidade responsável:** DEIOP/SETIC
 
 
 
@@ -937,224 +874,27 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
-**Git:** É uma plataforma de hospedagem de código-fonte que permite  programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
+**Git:** É um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+
 **Markdown:**  É uma ferramenta de conversão de texto para HTML. Com ele é possível você marcar títulos, listas, tabelas, etc., de forma muito mais limpa, legível e precisa, do que se fosse fazer diretamente com HTML.
 
-## SIGLAS 
-*[*MP]:** Ministério do Planejamento, Desenvolvimento e gestão
-*[*ASCOM]:** Assessoria de Comunicação
-*[*SOF]:** Secretaria de Orçamento Federal
-*[*SEAIN]:** Secretaria de Assuntos Internacionais
-*[*SEGES]:** Secretaria de Gestão
-*[*SETIC]:** Secretaria de Tecnologia da Informação e Comunicação
-*[*SGP]:** Secretaria de gestão de Pessoas
-*[*SPU]:** Secretaria de Patrimônio da União
-*[*SDI]:** Secretaria de Desenvolvimento da Infraestrutura
-*[*SEST]:** Secretaria de Coordenação e Governança das Empresas Estatais
-*[*SEPLAN]:** Secretaria de Planejamento e Assuntos Econômicos
-*[*COFIEX]:** Comissão de Financiamento Externo
-*[*SCDP]: Sistema de Concessão de Diárias e Passagens:**
-*[*SIGS]:**
-*[*SIAPE]: Sistema Integrado de Administração de Pessoal
-*[SIOP]: Sistema Integrado de Planejamento e Orçamento:**
-*[SIOP]:**
 
-*[HTML]: Hyper Text Markup Language
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDk4MDM1Miw5MjcxMTc5NDQsLTEwNj
-c1NjQ2NCwxOTIxMDU5OTU0LDYyMTE0Mzk3NiwtNjA2Mjg5NjE3
-LC04OTk4NjExNTksMTY0OTMyNjAyLDExNTI2MjU0NjQsLTY1MT
-I0NjEyOSwxMTA2MjI2NzIxLC02Njg4MDIyNTIsLTExNzA1MTM1
-NDUsLTExMTIwNTU2MTMsMjAwODYyNTY2Nyw2MDQxNzY5NiwxNj
-M4MDQ0OTgzLC0yMTM5Mjc2NjI3LC04MzMyOTEyOTgsNDU5MDcw
-MTUxXX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzM4MzE1OCwtMTg5MjE5MjIxOCw5Nj
-gwMTIyOTcsLTE1NzE3MTQ2ODQsLTExMTYxOTAzOTgsLTE1NzE3
-MTQ2ODQsLTE1MzAzMTU2MTYsLTI2MjAxNjc2MSwtMTE4NDI2Mj
-Q3OCwtMTEwMDgxMDk0MywtMTU1MDMwMTI0OSwtOTk1MDAzNjIy
-LC0xMDAzNDMyMjgzLC05OTUwMDM2MjIsLTEwMDM0MzIyODMsLT
-k5NTAwMzYyMiwtMTEzNTAwNDQ5MSwtNTc0ODQ4MTE1LDk5NDMx
-NzU0NSwtMTA1NDg4NzEzMV19
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
-AzMjcyMF19 , que institui a necessidade de os órgãos de instituírem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e institui os elementos mínimos do documento, bem como orienta que a abertura de dados deve observar a relevância para o cidadão;
-- O [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
-- [Os parâmetros estabelecidos na e-PING](http://eping.governoeletronico.gov.br/) - arquitetura de interoperabilidade do governo eletrônico, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
-- Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como os relacionados às áreas de tecnologia da informação (PETI e PDTI), sob orientação da [Estratégia de Governança Digital – EGD](https://www.governoeletronico.gov.br/egd/estrategia-de-governanca-digital).
-
-### Cenário Institucional
-
-A elaboração e a revisão do PDA se relacionam e estão alinhadas com os seguintes instrumentos e instâncias de gestão: 
-
-**1. Planejamento Estratégico Institucional (PEI – MP - 2016-2019)**
-O planejamento estratégico do MP está organizado de forma simples e consta as definições de  missão, visão e as perspectivas que contribuem para a consecução da missão. 
-
-***Missão***: Promover o desenvolvimento, a gestão eficiente, a melhoria do gasto público e a ampliação dos investimentos, visando à oferta de bens e serviços de qualidade ao cidadão.
-
-***Visão***: Ser reconhecido pela excelência e competência na gestão pública.
-
-O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorganização Administrativa, com Ênfase na Desburocratização e na Transparência"**, com sua contextualização, Indicador Estratégico, Objetivos de Contribuição das Unidades, Iniciativas e Entregas Estratégicas podendo ser acessado no link .  [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico)
-
-**2.	Planejamento Estratégico de Tecnologia da Informação e Comunicação (PETIC)**
-
-Desdobramento do PEI-MP para a área de Tecnologia da Informação - TI, em seu mapa estratégico constam a definição de missão, visão e as perspectivas que contribuem para a consecução da missão. Essas perspectivas estão organizadas em quatro níveis interligados: impactos para o Ministério, entregas da área de Tecnologia da Informação, processos internos e sustentação. 
-O PDA está diretamente ligado ao “impacto para o Ministério” Aperfeiçoar a gestão da informação e do conhecimento e os mecanismos de comunicação e transparência; à “entrega de TI”: Aprimorar os meios eletrônicos de fornecimento de informações internamente e com a sociedade;
-
-
-**3.	Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)** ==Gustavo==
-
-O Plano Diretor de Tecnologia da Informação e Comunicação do Ministério do Planejamento, Desenvolvimento e Gestão – PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará a priorização e otimização da aplicação dos recursos.
-
-As iniciativas para o PDA estão alinhadas:
-Diretriz D6: Estabelecer, gerir, incentivar e manter políticas públicas por meios eletrônicos;
-Princípio P5: Garantia de suporte de informação adequado, dinâmico, confiável e eficaz;
-
-
-**4.	Comitê Estratégico de Tecnologia da Informação e Comunicação(CETIC)**
-
-O CETIC, de caráter permanente, natureza deliberativa e consultiva, e tipo estratégico, tem por finalidade de promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
-
-
-**5.	Estratégia Governança Digital (EGD) Atualizar no portal**
-
-O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
-O instrumento foi regulamentado pela Portaria nº 68/2016 do Ministério do Planejamento, Desenvolvimento e Gestão (MP), a qual vinculasse ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
-
-**6.	Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA):**
-O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
-O CGINDA, define uma série de diretrizes para a abertura de dados e apresenta no seu Plano de Ação da INDA um modelo orientador a ser seguido pelos órgãos na construção de seus PDAs. O PDA do MP segue esse modelo e as diretrizes do comitê.
-*	Realização de 3 turmas do curso EAD, na modalidade à distância, de Elaboração de Plano de Dados Abertos; 
-*	Revisão do Manual de Elaboração do Plano de Dados Abertos; 
-*	Monitoramento  da Publicação dos Planos de Dados Abertos;
-*	Normativo da INDA acerca da padronização dos Planos de Dados Abertos ; e
-*	Monitoramento da implementação dos Planos de Dados Abertos publicados.
-
-**7.	Coordenação da Comissão Nacional de Cartografia na Infraestrutura Nacional de Dados Espaciais (INDE):**
-O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia
-
-**8.	Comissão Nacional de Cartografia (CONCAR)**
-A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração publica, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
-O PDA do MP segue as orientações da INDE e sempre que o conjunto de dados abertos possuir informações de geolocalização os dados também serão disponibilizados pela rede INDE;
-
-**9.	Comitê Interministerial Governo Aberto (CIGA)**
-O MP é membro do CIGA, instituído pelo Decreto s/nº de 15/09/2011. Trata-se do colegiado responsável por orientar a implementação e elaboração dos Planos de Ação do Brasil, contribuindo o compromisso do país em inovar para fortalecer a transparência dos atos governamentais. 
-
-**10.	Governo Aberto no âmbito da Parceria para Governo Aberto (OGP)**
-
-Está atualmente em sua 3ª edição e os novos compromissos do MP relacionados a abertura de dados são: 
-
-* Compromisso nº 1: Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes. MP.
-*	Compromisso n.º 9: Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
-*	Compromisso n.º 10: Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
-*	Compromisso 14: Ampliar a participação social no PPA por meio do Fórum Interconselhos.
-
-### Objetivo Geral
 
  
-Promover a abertura de dados pelo MP, zelando pelos princípios da publicidade, transparência e eficiência, visando o aumento da disseminação de informações para a sociedade, bem como a melhoria da qualidade dos dados disponibilizados, de forma a dar maior suporte à tomada de decisão pelos gestores públicos e ao controle social.
+*[MP]: Ministério do Planejamento, Desenvolvimento e gestão
+*[ASCOM]: Assessoria de Comunicação
+*[SOF]: Secretaria de Orçamento Federal
+*[SEAIN]: Secretaria de Assuntos Internacionais
+*[SEGES]: Secretaria de Gestão
+*[SETIC]: Secretaria de Tecnologia da Informação e Comunicação
+*[SGP]: Secretaria de gestão de Pessoas
+*[SPU]: Secretaria de Patrimônio da União
+*[SDI]: Secretaria de Desenvolvimento da Infraestrutura
+*[SEST]: Secretaria de Coordenação e Governança das Empresas Estatais
+*[SEPLAN]: Secretaria de Planejamento e Assuntos Econômicos
+*[COFIEX]: Comissão de Financiamento Externo
+*[SCDP]: Sistema de Concessão de Diárias e Passagens
+*[SIGS]:
+*[SIAPE]: Sistema Integrado de Administração de Pessoal
+*[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
-### Objetivos Específicos
-
-No âmbito do MP, os objetivos específicos ligados à Política de Dados Abertos são:
-
-* Identificar prioridades e disponibilizar dados em formatos abertos, e, sempre que possível, georeferenciados;
-* Melhorar a qualidade dos dados disponibilizados;
-* Estimular a interoperabilidade de dados e sistemas governamentais pela publicação de dados em formato processável por máquina, conforme padrões estabelecidos .
-* Melhorar a gestão da informação e de dados; 
-* Incrementar os processos de transparência e de acesso a informações públicas;
-* Estimular a visualização da informação das ações de governo no território; e
-* Priorizar a abertura de dados e a melhoria de qualidade com base nas demandas por dados identificados na sociedade.
- 
- ----------
-
-### **III) Estratégia para Abertura**
-
-As ações de abertura de dados que serão implementadas pelo MP seguem os princípios e as 3 leis dos dados abertos, bem como premissas e boas práticas comuns dentre os órgãos do governo federal, e estão alinhadas à governança dos projetos de TIC da instituição.  
-
-O Ministério do Planejamento, em consequência do seu papel dentro do estado brasileiro, é a instituição responsável pelo funcionamento de diversas plataformas de uso comum por toda a Administração Pública federal, a exemplo do sistema de compras (Comprasnet), de diárias e passagens (SCDP), e o de Convênios (Siconv). Nesse sentido o MP deve implementar as
-
-### Objetivo Geral
-
-A abertura dos dados do Ministério da Cultura, de maneira a garantir a transparência das políticas públicas realizadas pelo Sistema MinC, visa estimular a inovação e a geração de novos serviços digitais para e pela sociedade, contribuindo com a consolidação do um governo mais aberto.
-
-### *Objetivos Específicos*
-
- - Identificar e priorizar a abertura de dados com maior grau de relevância para o cidadão;
- - Incrementar os processos de transparência e de acesso a informações públicas;
- - Fornecer dados atualizados implementando as melhores práticas de publicação de dados e por meio de padrões consolidados;
- - Estimular a interoperabilidade informacional entratégias de abertura dos dados destes sistemas de forma agnóstica e centralizada, atendendo às necessidades de publicação de dados comuns por todos os órgãos
-
-### Premissas
-
-1. Publicar os dados considerados relevantes para a sociedade, no formato disponível e informando as eventuais limitações de qualidade dos dados;
-2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
-3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA. No caso de dados Georreferenciados, deve-se levar em conta as normas e padrões da INDE;
-4. Publicar os dados do Ministério seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA e pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
-5. Catalogar os dados abertos do Ministério no Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do governo federal;
-6. Catalogar os dados geoespacializados na INDE;
-7. Promover a integração entre os catálogos de metadados INDA e INDE;
-8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade viáveis; 
-9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
-10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal.
-
-### Evolução das Plataformas tecnológicas
-
-==Esclarecer sobre ações de melhoria das bases de dados==
-
-### Formatos e Interfaces de acesso aos dados
-
-Para ser considerado aberto de fato, um dado deve estar publicado utilizando se de um formato aberto e não proprietário como o CSV e JSON.
-A escolha pelos formatos e as interfaces tecnológicas de acesso aos dados abertos depende de cada caso específico. Serão levadas em consideração as tecnologias utilizadas no sistema em questão, assim como a capacidade de desenvolvimento da unidade de Tecnologia da Informação, buscando sempre maximizar a reutilização e a precisão semântica das informações.
-O MP adotará, sempre que possível, a publicação em diversos formatos e por meio de Interfaces Programáveis de Aplicações - APIs.
-
-
-### Processos de Desenvolvimento de Softwares
-
-Vislumbrando os desafios de caráter tecnológico para implementação deste plano, o Ministério do Planejamento tem buscado aprimorar as ferramentas e metodologias de desenvolvimento de softwares orientando à criação de soluções com foco no cidadão e na transparência. Para isso o departamento setorial de TI tem aprimorado a Metodologia de Desenvolvimento de Software para abarcar as técnicas de dados abertos com as necessidades de negócio de cada plataforma tecnológica. 
-
-Novos sistemas que estão sendo construídos já incluem nativamente os requisitos de abertura, produzindo plataformas tecnológicas convergentes e enxutas, nas quais as interfaces de acesso aos dados (APIs) não são de uso exclusivo dos usuários de dados abertos, mas de todos os Aplicativos e interfaces que se utilizam daquele conjunto de dadose instituições públicas;
- - Reduzir a assimetria de informações entre a sociedade e o governo;
- - Fomentar a participação social e a inovação tecnológica;
- - Estimular o crescimento da economia pela produção de novos serviços digitais e a reutilização dos recursos informacionais de caráter público.
- 
- ----------
-
-## **II) Dados para Abertura**
-
-Para definição dos dados que serão abertos na vigência deste PDA, foi realizada uma dinâmica com a participação de representantes de cada secretaria do Ministério da Cultura. A dinâmica consistiu em formar **grupos heterogêneos com representantes das secretarias**, aos quais foram apresentados um inventário com todas as bases de dados do Órgão, acompanhadas de uma pequena descrição, para que fossem priorizadas utilizando os seguintes critérios:
-
-- Relevância para a sociedade
-- Pincipais solicitações por intermédio da LAI
-- Obrigações legais
-- Alinhamento estratégico
-- Facilidade para abertura
-
-Como resultado desta dinâmica obtivemos a seguinte tabela:
-
-| Conjunto de Dados/Critérios | Importância para cidadão  | Obrigação Legal | Alinhamento  Estratégico | Facilidade de abertura | Total |
-|--:|:--:|:--:|:--:|:--:|:--:|
-| **SALIC - Lei Rouanet** | 2 | 2 | 2 | 1 | **7** |
-| **Vale Cultura** | 2 | 2 | 2 | 1 | **7** |
-| **Mapa da Cultura - SNIIC** | 1 | 1 | 2 | 2 | **6** |
-| **Rede Cultura Viva** | 1 | 1 | 2 | 2 | **6** |
-| **Sistema Nacional de Bibliotecas Públicas** | 1 | 1 | 2 | 2 | **6** |
-| **Plataforma Museus BR** | 1 | 1 | 2 | 2 | **6** |
-| **Sistema Nacional de Cultura - SNC** | 1 | 1 | 2 | 2 | **6** |
-| **Cadastro de Centros de Artes e Esportes Unificados - CEUS** | 1 | 1 | 2 | 1 | **5** |
-| **Processo Eleitoral CNPC - 2015** | 1 | 1 | 2 | 1 | **5** |
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MTExNTI3LC05Njc3NzA4ODMsLTUxNj
-c2MDUxNSwxMjcwOTgxNzc3LC0yMTk4NjEzMjIsLTIwODk2ODYx
-NDUsMzYyMTMzNTkwLDExNjI1MTI0ODRdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTUxNzM2OCwyNDA2NTc3ODcsLTExMD
-E5MjQ3MzQsMTE2NzY5MjQxMCwtODE4MjA1ODczLDUzNjAwNTcw
-OSwxMzAzMjc4NDE1LDEzNTAyMTE2MywtMzgyNjI3NDg1LDI4Mj
-Q2MzA3NV19
--->
