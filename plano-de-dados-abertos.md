@@ -275,7 +275,7 @@ Considerando a complexidade de certificar-se que todas as informações disponí
 
 Para direcionar o escopo deste plano e atendendo a premissa de disponibilizar os dados considerados mais relevantes para a sociedade, o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem, foi aplicado um filtro no inventário priorizando as ações que aprimoram a qualidade dos conjuntos de dados relativos aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
-Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. [Acesse aqui o inventário disponibilzado em consulta pública <i class="fas fa-file-alt"></i>](~/../Inventario_consulta_publica.ods).
+Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. [Acesse <i class="fas fa-file-alt"></i>] aqui o inventário disponibilzado em consulta pública (~/../Inventario_consulta_publica.ods).
 
 **d) Consulta Pública**
 Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 (vinte) bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do MP.
@@ -992,6 +992,7 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MDA1NzA5LDEzMDMyNzg0MTUsMTM1MD
-IxMTYzLC0zODI2Mjc0ODUsMjgyNDYzMDc1XX0=
+eyJoaXN0b3J5IjpbMTI4Mzg5Mzc2MSw1MzYwMDU3MDksMTMwMz
+I3ODQxNSwxMzUwMjExNjMsLTM4MjYyNzQ4NSwyODI0NjMwNzVd
+fQ==
 -->
