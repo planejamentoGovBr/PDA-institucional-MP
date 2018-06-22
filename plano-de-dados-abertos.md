@@ -352,7 +352,7 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
-## 1. Plano de Ação - Conjuntos de Dados a serem abertos
+## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a serem abertos
 O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todos os conjuntos de dados ainda neste Plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
@@ -366,263 +366,260 @@ A caracterização específica dos dados referentes ao PLDO, a serem disponibili
 4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
-### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 No cumprimento de sua missão “(...) cumprimento das suas funções socioambiental e econômico (...)”, bem como o atendimento do Art. 17 da Lei nº 13.139/2015, a Secretaria do Patrimônio da união deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao foro, taxas de ocupação, laudêmio e outros.
 
-   **Atividade:**
+   <i class="fas fa-cogs"></i> **Atividades**
    1. Converter em formato para publicação no Portal de Dados Aberto;
    2. Publicar na página de dados aberto da SPU;
    3. Criar link no Portal de Dados Aberto apontando para o site da SPU.
 
-   **Produtos:**
+   <i class="fas fa-tasks"></i> **Produtos**
    1. Catálogo com os dados da Arrecadação do Patrimônio da União
 
-   **Frequência de Atualização:** Anual
+   <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Anual
 
-   **Meta/Prazo:** Setembro/2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   **Unidade responsável:** SPU
+   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
 
  
-### **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
 Em atendimento à Lei Complementar 131/2009, também conhecida como Lei da Transparência, a Secretaria do Patrimônio da União, publicará as informações dos imóveis destinados a moradia no Distrito Federal e os servidores que ocupam imóveis funcionais, no Portal de Dados Abertos. Essas informações estão disponíveis atualmente no Portal da Transparência, sitiada na página de mesmo nome do Ministério da Transparência e Controladoria-Geral da União (CGU).
 
-**Atividade:**
-
+<i class="fas fa-cogs"></i> **Atividades**
    1. Criar Arquivo dom Informações dos Imóveis e Permissionários;
    2. Publicar as informações no Portal de Dados Aberto da SPU;
    3. Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
-   **Produtos:**
+   <i class="fas fa-tasks"></i> **Produtos**
    1. Catálogo de dados com informações dos Imóveis da união destinados a residência no DF e dos Permissionários.
 
-   **Frequência de Atualização:** Trimestral
+   <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Trimestral
 
-   **Meta/Prazo:** Setembro/2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   **Unidade responsável:** SPU
+   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
 
 
-### **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
 Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio da União do Ministério do Planejamento elaboraram as regras para cálculo de depreciação dos imóveis da união afetados a Administração Pública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
 
-   **Atividade:**
+   <i class="fas fa-cogs"></i> **Atividades**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
    2. Publicar as informações no Portal de Dados Aberto da SPU;
    3. Criar link no Portal de Dados Aberto apontando para o sítio da SPU.
 
-   **Produtos:**
+   <i class="fas fa-tasks"></i> **Produtos**
    1. Catálogo de dados dos imóveis e o valor mensal de depreciação do bem.
 
-   **Frequência de Atualização:** Mensal
+   <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-   **Meta/Prazo:** Setembro/2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   **Unidade responsável:** SPU
+   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
 
 
-### **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos cargos efetivos vagos do Poder Executivo Federal Civil, incluindo administração direta, autarquias e fundações. O conjunto de dados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
-   **Atividade:**
+   <i class="fas fa-cogs"></i> **Atividades**
    1. Seleção da base de dados: relacionar as vagas aprovadas e vagas ocupadas;
    2. Desenvolvimento de serviço;
    3. Implantação da rotina desenvolvida em produção (SIAPE);
    4. Atualização do catálago de Serviços;
    5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
-   **Produtos:**
+   <i class="fas fa-tasks"></i> **Produtos**
    1. Catálago com os cargos vagos do Executivo Federal em formato aberto;
    2. Disponibilização dos Dados de forma automática;
    3. Ambiente preparado;
    4. Dados a serem publicados;
    5. Dados disponibilizados.
 
-   **Frequência de Atualização:** Mensal
+   <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-   **Meta/Prazo:** Setembro/2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   **Unidade responsável:** SGP
+   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
 
 
-### **MP_I_05 - Servidores do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_05 - Servidores do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
 O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiência no serviço público, ao tempo em que busca soluções para a racionalização dos gastos públicos, visando obter crescimento econômico necessário, cuidando de suas atividades precípuas. Dentre essas medidas, inclui-se o PDV, que é um programa de adesão voluntária do servidor público ocupante do cargo efetivo da Administração Pública Federal direta, autárquica e fundacional. O PDV tem como objetivo a diminuição de gastos com pessoal por meio de estímulo à ruptura do vínculo funcional com a União, mediante mecanismo de incentivo financeiro. O Programa de Desligamento Voluntario - PDV foi instituído pela Medida Provisória nº 792 de 26 de julho de 2017 e teve seu prazo de vigência encerrado em 28 de novembro de 2017. O conjunto de dados apresentados não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Seleção da base de dados: relacionar dados de Servidores ativos com os indicadores de tipo de incentivo e situação de adesão ao PDV ;
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
 4. Atualização do catálago de Serviços;
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálago com a relação de Servidores que aderiram ao PDV no Executivo Federal em formato aberto;
 2. Disponibilização dos Dados de forma automática;
 3. Ambiente preparado;
 4. Dados a serem publicados;
 5. Dados disponibilizados.
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Setembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-**Unidade responsável:** SGP
-
-
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
 
 
-### **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1.  Atualização da base de dados original com as informações de 2017;
 2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3.  Conferência dos Dados;
 4.  Criação do dicionário de Dados;
 5.  Cadastramento no Dados.gov.br
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com as informações sobre PPA e sobre ODS em formato aberto
 2. Dados dos Atributos do PPA relacionados aos ODS atualizados anualmente, em formato aberto
 
-**Frequência de Atualização:** Anualmente
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Anualmente
 
-**Meta/Prazo:** Novembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2018
 
-**Unidade responsável:** SEPLAN
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEPLAN
 
 
-### **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
 Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
 
 O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
 Esse conjunto de dados contempla a relação de Programas Federais que possuem alguma relação com atributos do PPA 2012-2015, além de informações como regras de adesão aos Programas, contatos e links para mais informações.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Disponibilização do PPA Mais Brasil e da base de dados original em ambiente de teste pela SETIC;
 2. Extração dos dados formatados conforme metodologia padronizada estabelecida no PDA;
 3.  Conferência dos Dados;
 4.  Criação do dicionário de Dados;
 5.  Cadastramento no Dados.gov.br
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com as informações sobre PPA e sobre os Programas Federais em formato aberto
 2. Dados dos Programas Federais relacionados aos atributos do PPA 2012-2015, em formato aberto
 
-**Frequência de Atualização:** Dados históricos - sem atualização
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Dados históricos - sem atualização
 
-**Meta/Prazo:** Novembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2018
 
-**Unidade responsável:** SEPLAN
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEPLAN
 
-### **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
 
 O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez possibilita automatizar o acesso ao catálogo através de APIs. Com isso é possível acessar detalhes dos metadados.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Validar as informações a serem disponibilizadas via API;
 2. Catalogar no Portal de dados abertos;
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Conjunto de dados disponível no Portal Brasileiro de Dados Abertos
 
-**Frequência de Atualização:** Tempo real
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Tempo real
 
-**Meta/Prazo:** Setembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-**Unidade responsável:** SETIC
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SETIC
 
 
-### **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
 Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimônio da União dará publicidade as informações dos imóveis que fazem parte da Inventariança da extinta Rede Ferroviária Federal (RFFSA) e que vem sendo incorporado ao Patrimônio da União.
 
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Proceder a Incorporação dos Imóveis nos Sistema da SPU;
 2. Publicar as informações dos imóveis da antiga RFFSA.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catágolo dos imóveis incorporados ao Patrimônio da União
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Dezembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2018
 
-**Unidade responsável:** SPU
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
 
 
-### **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
 
 O GovData disponibiliza uma infraestrutura de Datalake, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
 
 Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados que integram a plataforma.
 
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Validar as informações a serem disponibilizadas;
 2. Catalogar no Portal de dados abertos;
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Conjunto de dados disponível no Portal Brasileiro de Dados Abertos
 
-**Frequência de Atualização:** Tempo real
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Tempo real
 
-**Meta/Prazo:** Setembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-**Unidade responsável:** SETIC
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SETIC
 
 
-### **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
 
 O ConectaGov é uma plataforma de gestão de APIs governamentais que pretende simplificar e aprimorar o desenvolvimento e uso de APIs pelos (e para os) órgãos federais que compõem o [SISP](http://sisp.gov.br/). 
 
 Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Construir e executar o processo de extração e carga dos dados;
 2. Validar as informações a serem disponibilizadas;
 3. Publicar dados em formato de dados abertos.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Extração e carga;  
 2. Termo de validação das informações;  
 3. Catalogar no Portal Brasileiro de Dados Abertos
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Maio/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Maio/2019
 
-**Unidade responsável:** SETIC
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SETIC
 
 
 
-### **MP_I_12 - Serviço de Transportes Local - TaxiGov**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_12 - Serviço de Transportes Local - TaxiGov**
 O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Atendendo os critérios de segurança e sigilo, os dados não possuirão a identificação pessoal dos pontos de partidas e de chegada - em formato aberto.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
 2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3.  Conferência dos Dados;
 4.  Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
 5.  Automatização da extração dos dados via API
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com os dados dos atributos do TaxiGov em formato aberto
 2. Dados dos Atributos do Taxi atualizados mensalmente, em formato aberto
 1. Catálogo validado com os dados dos atributos do TaxiGov em formato aberto
 2. Dados dos atributos do Taxi atualizados no portal de dados abertos
 5. Publicação dos Dados
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Julho/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
-**Unidade responsável:** SEGES
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEGES
 
-### **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Seleção da base de dados: relacionar as rubricas de auxilio transporte, alimentação, moradia e  restituição de transporte ;
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
@@ -630,33 +627,33 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálago de dados do Executivo Federal com os valores dos auxílios
 2. Disponibilização dos Dados de forma automática;
 3. Ambiente preparado;
 4. Dados a serem publicados;
 5. Dados disponibilizados.
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Julho/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
-**Unidade responsável:** SGP
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
 
 
 
-### **MP_I_14 - Empresas Estatais Federais - Boletim**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_14 - Empresas Estatais Federais - Boletim**
 
 O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secretaria de Coordenação e Governança das Empresas Estatais (SEST), do Ministério do Planejamento, Desenvolvimento e Gestão, e atualmente é publicado [em formato PDF](http://www.planejamento.gov.br/assuntos/empresas-estatais/capa-empresas-estatais-dest). O Boletim reúne dados das Empresas Estatais Federais constantes no Programa de Dispêndios Globais ([PDG](http://www.planejamento.gov.br/assuntos/empresas-estatais/dados-e-estatisticas/programa-de-dispendios-globais-pdg)), no Orçamento de Investimento (OI), no Perfil de Pessoal das Estatais ([PPE](http://www.planejamento.gov.br/assuntos/empresas-estatais/sistemas/documentacao-e-normas/modulo-ppe)) e demais informações divulgadas pelas próprias empresas. Entre as fontes utilizadas estão: o Sistema de Informação das Estatais ([SIEST](https://siest.planejamento.gov.br/gerta/public/pages/login/login.jsp)) e o Sistema Integrado de Planejamento e Orçamento do Governo Federal ([SIOP](https://www.siop.planejamento.gov.br/siop/)).
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Seleção da base de dados e extração a partir do SIEST e SIOP em formato CSV;
 2. Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3. Conferência dos dados;
 4. Envio para publicação no Dados.gov.br;
 5. Automatização da extração dos dados via API.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com os dados dos atributos do Perfil das Estatais em formato aberto;
 2. Dados dos atributos do Perfil das Estatais atualizados trimestralmente em formato aberto;
 3. Catálogo com os dados dos atributos de Governança e Avaliação das Estatais em formato aberto;
@@ -667,67 +664,67 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 8. Dados dos atributos Política de Pessoal e Previdência das Estatais atualizados trimestralmente em formato aberto;
 9. Publicação dos Dados
 
-**Frequência de Atualização:** Trimestral
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Trimestral
 
-**Meta/Prazo:** Novembro/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2019
 
-**Unidade responsável:** SEST
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEST
 
 
-### **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
 O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
 Mais informações podem ser encontradas no [Orientador do Acompanhamento Orçamentário](https://www1.siop.planejamento.gov.br/siopdoc/doku.php/acompanhamento_orcamentario:orientador_acompanhamento_orcamentario).
 
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Consulta aos órgãos produtores das informações quanto à existência de classificação de sigilo ou proteção por lei referente às mesmas;
 2.  Seleção da base de dados (das informações não sigilosas) e extração a partir do SIOP em formato CSV;
 3.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 4. Conferência dos dados;
 5. Envio para publicação nos dados.gov.br e na INDE, conforme o caso.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogos com os dados que podem ser disponibilizados e aqueles que devem ser protegidos (informações classificadas como sigilosas ou protegidas por lei);
 2. Dados não sigilosos do acompanhamento físico e financeiro das ações em formato de dados abertos (.csv);
 3. Publicação dos dados.
 
-**Frequência de Atualização:** Anual
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Anual
 
-**Meta/Prazo:** Novembro/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2019
 
-**Unidade responsável:** SOF
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SOF
 
 
-### **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes à Previdência Complementar dos servidores do Poder Executivo Civil.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Seleção da base de dados de Servidores Ativos;
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
 4. Atualização do catálogo de Serviços;
 5. Envio da publicação para dados.gov.br e na INDE, conforme o caso.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo de dado do Executivo Federal
 2. Disponibilização dos Dados de forma automática;
 3. Ambiente preparado;
 4. Dados a serem publicados;
 5. Dados publicados e disponibilizados.
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Dezembro/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2019
 
-**Unidade responsável:** SGP
-
-
-
-## 2. Plano de Ação - Melhoria dos Dados
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
 
 
 
-### **MP_M_01 - Compras Públicas do Governo Federal** 
+## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Dados
+
+
+
+### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
 A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, [a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
@@ -743,52 +740,52 @@ O MP já compartilha dados abertos de compras públicas desde 2013 em [formato d
 Com o objetivo de avançar na maturidade da solução de abertura dos dados de compras públicas, o MP realizará um conjunto de melhorias para atingir dois objetivos principais: **1)** A redução do tempo de atualização dos dados através da integração definitiva do extrator de dados; e **2)** O aprimoramento da API com a inclusão de novos métodos para acesso a mais dados da plataforma de compras.
 
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Integração desta API à plataforma corporativa de gestão de APIs do MP;
 2. Concluir automação das etapas de extração dos dados no SERPRO, transformação e carga no banco de dados da API mantendo a arquitetura atual;
 3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dados do .... ==Gustavo ficou de levantar com a área finalística== ;
 4. Implementação de solução especializada para atualização semanal dos dados.
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. API sendo monitorada pela plataforma corporativa de gestão de APIs possibilitando, inclusive, análise dos dados mais consumidos;
 2. Atualização automatizada dos dados garantindo o cumprimento do prazo de atualização atualmente definido (Mensal);
 3. Novos métodos na API para acesso à novos subconjuntos de dados;
 4. Atualização semanal de todos os dados.
 
-**Frequência de Atualização:** Semanal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Semanal
 
-**Meta/Prazo:** Julho/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
-**Unidade responsável:** SEGES
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEGES
 
   
-### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
+### <i class="fas fa-cubes fa-lg"></i> **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
 Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Seleção da base de dados e extração a partir do SIGS e formatação em arquivo .csv;
 2. Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3. Conferência dos Dados;
 4. Envio para publicação no Dados.gov.br e na INDE, conforme o caso.
 
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com os dados referentes aos financiamentos externos;
 2. Publicação dos Dados.
 
-**Frequência de Atualização:** Diário
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Diário
 
-**Meta/Prazo:** Agosto/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2018
 
-**Unidade responsável:** SEAIN
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEAIN
 
 
-### **MP_M_03 - Viagens a Serviço do Governo Federal** 
+### <i class="fas fa-cubes fa-lg"></i> **MP_M_03 - Viagens a Serviço do Governo Federal** 
 Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou melhorias agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos. Atualmente o conjunto de dados disponibilizados por meio do Portal de Dados Abertos contempla apenas informações sobre bilhetes aéreos emitidos ou alterados na modalidade Compra Direta. O SCDP possui duas modalidades de aquisição de bilhetes: agenciamento e compra direta. A proposta é a abertura dos dados das duas modalidades, com exceção das viagens sigilosas. Serão  disponibilizadas informações dos afastamentos a serviço realizados pelos órgãos do Governo Federal, contemplando: a)  Trechos percorridos, b)  Pagamentos executados, c)  Bilhetes emitidos e d)  Prestações de contas realizadas.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
 2.  Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3.  Conferência dos Dados;
@@ -796,31 +793,31 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 5.  Automatização da extração dos dados via API
 
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com os dados dos atributos do SCDP em formato aberto
 2. Dados dos Atributos do SCDP atualizados mensalmente, em formato aberto
 3. Catálogo validado com os dados dos atributos do SCDP em formato aberto
 4. Dados dos atributos do SCDP atualizados no portal de dados abertos
 5. Publicação dos Dados
 
-**Frequência de Atualização:** Mensal
+<i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-**Meta/Prazo:** Agosto/2019
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2019
 
-**Unidade responsável:** SEGES
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEGES
 
-### **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
+### <i class="fas fa-globe fa-lg"></i> **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
 O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadas destacamos a necessidade de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
-**Atividade:**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Instituir rede dos gestores técnicos responsáveis pelos conjuntos de dados;
 2. Definição de um conjunto de orientações (critérios) para qualificar e padronizar a atividade de curadoria dos conjuntos de dados. Deverá incluir um modelo de redação para descrição, exemplos externos de bons metatados, além de outros;
 3. Realizar oficina de catalogação e *brainstorming* de melhorias;
 4. Realizar reuniões com as unidades para acompanhar a curadoria dos conjuntos de dados;
 
 
-**Produtos:**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Metadados do Catálogo de dados atualizado;
 6. Catálogo de Dados do MP reorganizado;
 7. Conjunto de modelos e exemplos de boas catalogações de metadados;
@@ -828,32 +825,32 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 9. Gestores nas áreas capacitados e habilitados a realizarem posteriormente novos ajustes nos metadados;
 
 
-**Meta/Prazo:** Setembro/2018 
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018 
 
-**Unidade responsável:** SE
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** SE
 
 
 
-### **MP_M_05 - Estruturação do Inventário de Bases de Dados do MP** 
+### <i class="fas fa-sitemap fa-lg"></i> **MP_M_05 - Estruturação do Inventário de Bases de Dados do MP** 
 O Inventário de Bases de Dados é um instrumento fundamental para uma boa gestão de políticas de dados abertos. O inventário permitirá aos gestores e cidadãos compreenderem os diversos domínios de informações armazenadas nos bancos de dados do Ministério. Um inventário atualizado e de qualidade assume um papel importante na gestão do conhecimento institucional, refletindo na qualidade das decisões de médio e longo prazo.
 Esta ação tem como objetivo principal garantir o aprimoramento do inventário, identificando os conjuntos de dados pertencentes as bases já disponibilizadas e, principalmente identificando as informações que ainda carecem ser disponibilizadas, qualificando-as para comporem o PDA para o ciclo seguinte (2020 e 2021). 
 
-<i class="fas fa-cogs fa-lg"></i> **Atividades**
+<i class="fas fa-cogs"></i> **Atividades**
 1. Estudo para levantamento das bases de dados através do portólio de sistemas, aplicativos, painéis/dashboards, etc;
 2. Estudo para levantamento das bases de dados através de engenharia reversa dos Sistemas de Gerenciamento de Bancos de Dados (SGBDs);
 3. Estudo para mapeamento detalhado entre o inventário atualizado e os respectivos conjuntos de dados já abertos possibilitando visualizar a completude e as necessidades de novas ações de melhoria;
 4. Definição de indicadores globais e específicos para medir a evolução/maturidade do processo de abertura de dados do ministério;
 5. Normalização das informações e publicação em formato MarkDown juntamente com o Plano de Dados Abertos vigente;
 
-<i class="fas fa-tasks fa-lg"></i> **Produtos**
+<i class="fas fa-tasks"></i> **Produtos**
 1. Inventário das bases de dados atualizado;
 2. Mapeamento da completude da abertura dos dados de cada domínio de dados;
 3. Conjunto de fichas técnicas de indicadores para acompanhamento da evolução das ações;
 
 
-<i class="far fa-calendar-check fa-lg"></i> **Meta/Prazo:** Dezembro/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2018
 
-**Unidade responsável:** DEIOP/SETIC
+<i class="fas fa-crosshairs"></i> **Unidade responsável:** DEIOP/SETIC
 
 
 
