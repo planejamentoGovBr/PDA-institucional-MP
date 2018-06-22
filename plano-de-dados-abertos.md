@@ -850,7 +850,7 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 
 
 
-# GLOSSÁRIO 
+# <i class="fas fa-book"></i> GLOSSÁRIO
 
 Os termos abaixo referem-se às definições apresentadas no Plano de Ação da INDA. 
 
