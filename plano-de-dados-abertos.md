@@ -31,7 +31,7 @@ Considerando a existência de cartilhas e modelos que dispõem sobre arquitetura
 
 Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assim como o cenário institucional que possui influência direta no conteúdo do documento, tais como: o [Planejamento Estratégico Institucional (PEI)](http://www.planejamento.gov.br/acesso-a-informacao/institucional/o-ministerio/planejamento-estrategico) e o [Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC)](http://www.planejamento.gov.br/assuntos/secretaria-executiva/dti/sobre-o-pdti) ambos do MP.
 
-A partir das diretrizes estratégicas, este Plano de Dados Abertos prev no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados. 
+A partir das diretrizes estratégicas, este Plano de Dados Abertos prevê no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados. 
 
 O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018 foi revisado quanto ao cumprimento das metas dos Plano de Dados anteriores e a inserção de novos dados que serão abertos para a sociedade.
 
@@ -55,7 +55,9 @@ Os principais normativos aplicáveis a confecção deste Plano são:
 - O [Decreto Presidencial nº 6.666](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm), de 27 de novembro de 2008, que instituiu a criação da Infraestrutura Nacional de Dados Espaciais – INDE, e determina que o compartilhamento e disseminação dos dados geoespaciais e seus metadados é obrigatório para todos os órgãos e entidades do Poder Executivo Federal, salvo os protegidos por sigilo;
 - [Decreto s/nº de 15 de setembro de 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/dsn/dsn13117.htm), que institui o Plano de Ação Nacional sobre Governo Aberto, o qual estabelece o compromisso do governo de implantar a Infraestrutura Nacional de Dados Abertos (INDA);
 - A [Instrução Normativa nº 4 de 13 de abril de 2012](http://dados.gov.br/paginas/instrucao-normativa-da-inda), que cria a INDA e estabelece conceitos referentes a dado, informação, dado público, formato aberto, licença aberta, dados abertos e metadado;
-- O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA](http://ento.gov.br/EGD).
+- O [Plano de Ação da INDA](http://wiki.dados.gov.br/Plano-de-Acao-da-INDA.ashx), institui a necessidade dos órgãos de estabelecerem seus respectivos Planos de Abertura de Dados, com vistas a uma Política Nacional de Dados Abertos, e compor os elementos mínimos do documento, bem como orienta para o [Plano de Ação Nacional sobre Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) (no âmbito da Parceria para Governo Aberto, Open Government Partnership - OGP);
+- Os parâmetros estabelecidos na [ePING](http://eping.governoeletronico.gov.br/) -  orientam a arquitetura de interoperabilidade, e os vocabulários e ontologias de Governo Eletrônico e-VoG e e-MAG - Modelo de Acessibilidade de Governo Eletrônico (instituído pela Portaria nº 03, de 07 de Maio de 2007);
+- Os parâmetros atuais ou que venham a ser estabelecidos no âmbito de Planejamento Estratégico Institucional ou setorial, bem como o Plano Diretor de Tecnologia da Informação e Comunicação - PDTIC, sob orientação da [Estratégia de Governança Digital – EGD](http://www.planejamento.gov.br/EGD).
 
 ## Cenário Institucional
 
@@ -105,8 +107,8 @@ O MP compõe o comitê executivo do CIGA, instituído pelo Decreto s/nº de 15/0
 A 3ª edição do [Plano Brasileiro do Governo Aberto](http://www.governoaberto.cgu.gov.br/no-brasil/planos-de-acao-1) contém os compromissos do MP relacionados à abertura de dados e transparência, a saber: 
 
 * [Compromisso nº 1](https://www.opengovpartnership.org/current-commitments/01-open-data-on-federal-government): Identificar e implementar mecanismos para reconhecer problemas solucionáveis ou mitigáveis a partir da oferta de dados pelo Governo, que atenda expectativas de demandantes e ofertantes.
-* [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
-* [Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/10-assessment-and-streamline-of09-innovation-spaces-management-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
+* [Compromisso n.º 9](https://www.opengovpartnership.org/current-commitments/09-innovation-spaces-management-public-services): Consolidar uma rede aberta no setor público de forma colaborativa e transparente com a sociedade.
+* [Compromisso n.º 10](https://www.opengovpartnership.org/current-commitments/10-assessment-and-streamline-of-public-services): Realizar inventário dos serviços do Poder Executivo Federal e implementar avaliação por meio de mecanismos de satisfação, priorizando serviços para melhoria.
 * [Compromisso n.º 14](https://www.opengovpartnership.org/current-commitments/14-social-participation-federal-governments-planning-cycle): Ampliar a participação social no PPA por meio do Fórum Interconselhos.
 
 ## Objetivo Geral
@@ -176,7 +178,7 @@ As unidades administrativas, por intermédio dos seus pontos focais, são os cur
 
 A unidade setorial de TIC é responsável pelo fornecimento da infraestrutura e demais recursos tecnológicos para garantir a continuidade da disponibilização dos dados e o desenvolvimento de novas soluções de abertura e melhoria dos dados.
   
-No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) orientar a publicação de dados sob MP, com apoio da Unidade Setorial de TIC.
+No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) orientar a publicação de dados sob responsabilidade dos demais atores do MP, com apoio da Unidade Setorial de TIC.
 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
@@ -363,7 +365,7 @@ A caracterização específica dos dados referentes ao PLDO, a serem disponibili
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
-Informações sobre a arrecadação anual aferidas pela uUnião deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao fora título de arrecadação sobre Taxa de Aforamenta nião o, tTas deoOcupação, laudêmio e outros.
+Informações sobre a arrecadação anual aferidas pela União deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao foro, taxas de ocupação, laudêmio e outros.
 
    <i class="fas fa-cogs"></i> **Atividade**
   1. Converter em formato para publicação no Portal de Dados Aberto;
@@ -400,7 +402,7 @@ Em atendimento à Lei Complementar 131/2009, também conhecida como Lei da Trans
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
-Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio a  Ministério do Planejamento elaboraram as regras para cálculo de depreciaçãdiminuição doo dos imóveis da união afetados a Administração Ppública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
+Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio da União do Ministério do Planejamento elaboraram as regras para cálculo de depreciação dos imóveis da união afetados a Administração Pública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
 
    <i class="fas fa-cogs"></i> **Atividades**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
@@ -412,7 +414,7 @@ Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do
 
    <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-   <i class="far fa-calendar-check"></i> **Meta/Prazo:** /2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
    <i class="far fa-building"></i> **Unidade responsável:** SPU
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
@@ -434,7 +436,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
    <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-   <i class="far fa-calendar-check"></i> **Meta/Prazo:** /2018
+   <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
    <i class="far fa-building"></i> **Unidade responsável:** SGP
 
@@ -458,7 +460,7 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Mensal
 
-<i class="far fa-calendar-check"></i> **Meta/Prazo:** /2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
 <i class="far fa-building"></i> **Unidade responsável:** SGP
 
@@ -528,7 +530,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
-Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimonda União dará publicidade as informações dos imóveis que fazem parte da Inventariança da extinta Rede Ferroviária Federal (RFFSA) e que vem sendo incorporado ao Patrimônio da União.
+Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimônio da União dará publicidade às informações dos imóveis que fazem parte da Inventariança da extinta Rede Ferroviária Federal (RFFSA) e que vem sendo incorporado ao Patrimônio da União.
 
 
 <i class="fas fa-cogs"></i> **Atividades**
@@ -561,14 +563,14 @@ Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados q
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Tempo real
 
-<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
 <i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
 
-O ConectaGov é uma plataforma de gestão de APIs governamentais que pretende simplificar e aprimorar o desenvolvimento e uso de APIs pelos (e para os) órgãos federais e compõem o [SISP](http://sisp.gov.br/). 
+O ConectaGov é uma plataforma de gestão de APIs governamentais que pretende simplificar e aprimorar o desenvolvimento e uso de APIs pelos (e para os) órgãos federais que compõem o [SISP](http://sisp.gov.br/). 
 
 Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 
@@ -594,11 +596,11 @@ Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de transporte de servidores públicos por meio de agenciamento de táxis. Atendendo os critérios de segurança e sigilo, os dados não possuirão a identificação pessoal dos pontos de partidas e de chegada - em formato aberto.
 
 <i class="fas fa-cogs"></i> **Atividades**
-1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
-2.  Formatação s dados conforme metodologia padronizada estabelecida no PDA;
+1. Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
+2. Formatação dos dados conforme metodologia padronizada estabelecida no PDA;
 3. Conferência dos Dados;
 4. Envio para publicação no Dados.gov.br e na INDE, conforme o caso;
-5.  Automatização da extração dos dados via API
+5. Automatização da extração dos dados via API
 
 <i class="fas fa-tasks"></i> **Produtos**
 1. Catálogo com os dados dos atributos do TaxiGov em formato aberto
@@ -621,7 +623,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 2. Desenvolvimento de serviço;
 3. Implantação da rotina desenvolvida em produção (SIAPE);
 4. Atualização do catálago de Serviços;
-5. Envio da publicação para dados.gov.br s ese na INDE, conforme o caso.
+5. Envio da publicação no dados.gov.br e na INDE, conforme o caso.
 
 
 <i class="fas fa-tasks"></i> **Produtos**
@@ -777,7 +779,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_03 - Viagens a Serviço do Governo Federal** 
-Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou uma melhorias agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos. Atualmente o conjunto de dados disponibilizados por meio do Portal de Dados Abertos contempla apenas informações sobre bilhetes aéreos emitidos ou alterados na modalidade Compra Direta. O SCDP possui duas modalidades de aquisição de bilhetes: agenciamento e compra direta. A proposta é a abertura dos dados das duas modalidades, com exceção das viagens sigilosas. Serão  disponibilizadas informações dos afastamentos a serviço realizados pelos órgãos do Governo Federal, contemplando: a)  Trechos percorridos, b)  Pagamentos executados, c)  Bilhetes emitidos e d)  Prestações de contas realizadas.
+Atendendo a demanda de maior detalhamento das informações de Viagens a Serviço do Governo Federal, o MP planejou melhorias agregando maior valor às informações já disponibilizadas no Portal de Dados Abertos. Atualmente o conjunto de dados disponibilizados por meio do Portal de Dados Abertos contempla apenas informações sobre bilhetes aéreos emitidos ou alterados na modalidade Compra Direta. O SCDP possui duas modalidades de aquisição de bilhetes: agenciamento e compra direta. A proposta é a abertura dos dados das duas modalidades, com exceção das viagens sigilosas. Serão  disponibilizadas informações dos afastamentos a serviço realizados pelos órgãos do Governo Federal, contemplando: a)  Trechos percorridos, b)  Pagamentos executados, c)  Bilhetes emitidos e d)  Prestações de contas realizadas.
 
 <i class="fas fa-cogs"></i> **Atividades:**
 1.  Definição e seleção dos dados que serão extraídos de acordo com a visão integrada da área de negócio com as demandas da sociedade;
@@ -802,7 +804,7 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 
 
 ### <i class="fas fa-globe fa-lg"></i> **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
-O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadaAlém da ação para criação de portal de dados destacamos a necessidadepecífico do MP, é essencial a realização de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
+O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadas destacamos a necessidade de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
 Esta ação será realizada como parte do processo de curadoria dos dados e deverá ser realizada com a participação dos gestores das unidades responsáveis pelos dados objetivando também capacitar e desmistificar a atividade de curadoria que deverá ser realizada continuamente.
 
 <i class="fas fa-cogs"></i> **Atividades:**
@@ -853,7 +855,7 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 Os termos abaixo referem-se às definições apresentadas no Plano de Ação da INDA. 
 
 **Dado:** sequência de símbolos ou valores, representados em algum meio, produzidos como resultado de um processo natural ou artificial. 
-Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001 ; SETZER, 2001 ;)
+Entende-se que dados são observações ou o resultado de uma medida (por investigação, cálculo ou pesquisa) de aspectos característicos da natureza, estado ou condição de algo de interesse, que são descritos através de representações formais e, ao serem apresentados de forma direta ou indireta à consciência, servem de base ou pressuposto no processo cognitivo (HOUAISS, 2001; SETZER, 2001;)
 
 **Dados abertos:** dados públicos representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento;
 Dado público: qualquer dado gerado ou sob a guarda governamental que não tenha o seu acesso restrito por legislação específica;
