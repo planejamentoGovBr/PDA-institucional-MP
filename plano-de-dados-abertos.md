@@ -381,7 +381,7 @@ No cumprimento de sua missão “(...) cumprimento das suas funções socioambie
 
    <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
+   <i class="far fa-building"></i> **Unidade responsável:** SPU
 
  
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
@@ -399,7 +399,7 @@ Em atendimento à Lei Complementar 131/2009, também conhecida como Lei da Trans
 
    <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
+   <i class="far fa-building"></i> **Unidade responsável:** SPU
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
@@ -417,7 +417,7 @@ Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do
 
    <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
+   <i class="far fa-building"></i> **Unidade responsável:** SPU
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_04 - Servidores do Executivo Federal - Cargos Vagos**
@@ -441,7 +441,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
    <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-   <i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
+   <i class="far fa-building"></i> **Unidade responsável:** SGP
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_05 - Servidores do Executivo Federal - PDV (Programa de Desligamento Voluntário)**
@@ -465,7 +465,7 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
+<i class="far fa-building"></i> **Unidade responsável:** SGP
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
@@ -486,7 +486,7 @@ Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Susten
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEPLAN
+<i class="far fa-building"></i> **Unidade responsável:** SEPLAN
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
@@ -510,7 +510,7 @@ Esse conjunto de dados contempla a relação de Programas Federais que possuem a
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEPLAN
+<i class="far fa-building"></i> **Unidade responsável:** SEPLAN
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_08 - Catálogo de conjuntos de dados que integram o [dados.gov.br](http://dados.gov.br)**
 
@@ -527,7 +527,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SETIC
+<i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
@@ -545,7 +545,7 @@ Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimônio da 
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SPU
+<i class="far fa-building"></i> **Unidade responsável:** SPU
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
@@ -566,7 +566,7 @@ Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados q
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SETIC
+<i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_11 - Catálogo de APIs de interoperabilidade do SISP - ConectaGov**
@@ -589,7 +589,7 @@ Esta ação pretende catalogar a lista de APIs disponíveis no ConectaGov.
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Maio/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SETIC
+<i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 
@@ -614,7 +614,7 @@ O MP irá disponibilizar a base de dados das corridas realizadas pelo sistema de
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEGES
+<i class="far fa-building"></i> **Unidade responsável:** SEGES
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_13 - Servidores do Executivo Federal - Gasto de Pessoal com Auxílios**
 Objetivando o  atendimento a transparência da gestão administrativa  do Governo Federal, e tendo em vista ser um dos temas mais demandados na consulta pública realizada pelo MP, essa ação disponibiliza dados referentes aos Auxílios pagos pelo Poder Executivo Civil, como Auxílio transporte, alimentação, moradia, auxílio restituição de transporte.
@@ -638,7 +638,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
+<i class="far fa-building"></i> **Unidade responsável:** SGP
 
 
 
@@ -668,7 +668,7 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEST
+<i class="far fa-building"></i> **Unidade responsável:** SEST
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
@@ -692,7 +692,7 @@ Mais informações podem ser encontradas no [Orientador do Acompanhamento Orçam
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Novembro/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SOF
+<i class="far fa-building"></i> **Unidade responsável:** SOF
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_16 - Servidores do Executivo Federal - Previdência Complementar**
@@ -716,7 +716,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SGP
+<i class="far fa-building"></i> **Unidade responsável:** SGP
 
 
 
@@ -756,7 +756,7 @@ Com o objetivo de avançar na maturidade da solução de abertura dos dados de c
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Julho/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEGES
+<i class="far fa-building"></i> **Unidade responsável:** SEGES
 
   
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
@@ -779,7 +779,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEAIN
+<i class="far fa-building"></i> **Unidade responsável:** SEAIN
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_03 - Viagens a Serviço do Governo Federal** 
@@ -804,7 +804,7 @@ Atendendo a demanda de maior detalhamento das informações de Viagens a Serviç
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2019
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SEGES
+<i class="far fa-building"></i> **Unidade responsável:** SEGES
 
 ### <i class="fas fa-globe fa-lg"></i> **MP_M_04 - Reorganização do Catálogo do MP publicado no dados.gov.br** 
 O MP realiza ações de abertura de dados desde 2011, e atualmente disponibiliza 77 conjuntos de dados através do portal dados.gov.br. Dentre as melhorias identificadas destacamos a necessidade de uma ação para reorganização do catálogo. Esta reorganização tem como objetivo principal a melhoria da qualidade dos conjuntos de dados, uma vez que ficou constatado que a falta de documentação e clareza nas informações é um dos principais dificultadores para a busca pelos dados.
@@ -827,7 +827,7 @@ Esta ação será realizada como parte do processo de curadoria dos dados e deve
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018 
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** SE
+<i class="far fa-building"></i> **Unidade responsável:** SE
 
 
 
@@ -850,7 +850,7 @@ Esta ação tem como objetivo principal garantir o aprimoramento do inventário,
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Dezembro/2018
 
-<i class="fas fa-crosshairs"></i> **Unidade responsável:** DEIOP/SETIC
+<i class="far fa-building"></i> **Unidade responsável:** DEIOP/SETIC
 
 
 
