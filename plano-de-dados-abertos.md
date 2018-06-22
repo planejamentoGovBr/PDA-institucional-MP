@@ -939,7 +939,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
-**Git:**
+**Git:**É uma plataforma de hospedagem de código-fonte permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou [Open Source](https://pt.wikipedia.org/wiki/Open-source "Open-source") de qualquer lugar do mundo. **GitHub** é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam [repositórios](https://pt.wikipedia.org/wiki/Reposit%C3%B3rio "Repositório") remotos (_issues, pull request_).
 
 **Markdown:**
 
@@ -987,7 +987,7 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODIwNTg3Myw1MzYwMDU3MDksMTMwMz
-I3ODQxNSwxMzUwMjExNjMsLTM4MjYyNzQ4NSwyODI0NjMwNzVd
-fQ==
+eyJoaXN0b3J5IjpbLTE3NjIwNjY2NTQsLTgxODIwNTg3Myw1Mz
+YwMDU3MDksMTMwMzI3ODQxNSwxMzUwMjExNjMsLTM4MjYyNzQ4
+NSwyODI0NjMwNzVdfQ==
 -->
