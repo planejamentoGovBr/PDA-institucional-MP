@@ -965,7 +965,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[*SIGS]:**
 *[*SIAPE]: Sistema Integrado de Administração de Pessoal
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento:**
-**SIOP:**
+*[SIOP]:**
 
 *[HTML]: Hyper Text Markup Language
 
@@ -992,6 +992,6 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDIxMTYzLC0zODI2Mjc0ODUsMjgyND
-YzMDc1XX0=
+eyJoaXN0b3J5IjpbMTMwMzI3ODQxNSwxMzUwMjExNjMsLTM4Mj
+YyNzQ4NSwyODI0NjMwNzVdfQ==
 -->
