@@ -934,7 +934,7 @@ Dado público: qualquer dado gerado ou sob a guarda governamental que não tenha
 
 **Formato aberto:** formato de arquivo não proprietário, cuja especificação esteja documentada publicamente e seja de livre conhecimento e implementação, livre de patentes ou qualquer outra restrição legal quanto à sua utilização;
 Informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; 
-A informação é gerada a partir de algum tratamento ou processamento dos dados por parte do seu usuário, envolvendo, além de procedimentos formais (tradução, formatação, fusão, exibição, etc.), os processos cognitivos de cada indivíduo (MACHADO, 2002 ; SETZER, 2001).
+A informação é gerada a partir de algum tratamento ou processamento dos dados por parte do seu usuário, envolvendo, além de procedimentos formais (tradução, formatação, fusão, exibição, etc.), os processos cognitivos de cada indivíduo (MACHADO, 2002; SETZER, 2001).
 
 **Licença aberta:** acordo de fornecimento de dados que conceda amplo acesso para que qualquer pessoa os utilize, os reutilize, e os redistribua, estando sujeito a, no máximo, a exigência de creditar a sua autoria e compartilhar pela mesma licença;
 
@@ -992,6 +992,6 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzI3ODQxNSwxMzUwMjExNjMsLTM4Mj
-YyNzQ4NSwyODI0NjMwNzVdfQ==
+eyJoaXN0b3J5IjpbNTM2MDA1NzA5LDEzMDMyNzg0MTUsMTM1MD
+IxMTYzLC0zODI2Mjc0ODUsMjgyNDYzMDc1XX0=
 -->
