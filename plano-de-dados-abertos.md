@@ -753,7 +753,7 @@ Com o objetivo de avançar na maturidade da solução de abertura dos dados de c
 <i class="far fa-building"></i> **Unidade responsável:** SEGES
 
   
-### **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
+### <i class="fas fa-cubes fa-lg"></i> **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
 Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
