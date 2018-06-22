@@ -357,10 +357,6 @@ O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na
 Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
-
-
-2. INFOVIA | Relação de órgãos que utilizam a malha da INFOVIA	| Relação de Órgãos que utilizam a malha da INFOVIA	SERPRO	-  DEIOP/SETIC == SETIC==
-
 3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
@@ -369,7 +365,6 @@ As informação sobre Alterações Orçamentárias envolvem vários outros órg�
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 No cumprimento de sua missão “(...) cumprimento das suas funções socioambiental e econômico (...)”, bem como o atendimento do Art. 17 da Lei nº 13.139/2015, a Secretaria do Patrimônio d4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
-
 
 ### **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela uUnião deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao fora título de arrecadação sobre Taxa de Aforamenta nião o, tTas deoOcupação, laudêmio e outros.
@@ -992,7 +987,7 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTg1ODg5NCw1MzYwMDU3MDksMTMwMz
-I3ODQxNSwxMzUwMjExNjMsLTM4MjYyNzQ4NSwyODI0NjMwNzVd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MTU5MDQ5NDYsNTM2MDA1NzA5LDEzMD
+MyNzg0MTUsMTM1MDIxMTYzLC0zODI2Mjc0ODUsMjgyNDYzMDc1
+XX0=
 -->
