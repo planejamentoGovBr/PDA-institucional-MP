@@ -886,24 +886,22 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Markdown:**
 
 ## SIGLAS ==incluir sistemas==
-**MP:** Ministério do Planejamento, Desenvolvimento e gestão
-**ASCOM:** Assessoria de Comunicação
-**SOF:** Secretaria de Orçamento Federal
-**SEAIN:** Secretaria de Assuntos Internacionais
-**SEGES:** Secretaria de Gestão
-**SETIC:** Secretaria de Tecnologia da Informação e Comunicação
-**SGP:** Secretaria de gestão de Pessoas
-**SPU:** Secretaria de Patrimônio da União
-**SDI:** Secretaria de Desenvolvimento da Infraestrutura
-**SEST:** Secretaria de Coordenação e Governança das Empresas Estatais
-**SEPLAN:** Secretaria de Planejamento e Assuntos Econômicos
-**COFIEX:** Comissão de Financiamento Externo
-**SCDP:**
-**SIGS:**
-**SIAPE:**
-**SIOP:**
-
-*[HTML]: Hyper Text Markup Language
+*[MP]: Ministério do Planejamento, Desenvolvimento e gestão
+*[ASCOM]: Assessoria de Comunicação
+*[SOF]: Secretaria de Orçamento Federal
+*[SEAIN]: Secretaria de Assuntos Internacionais
+*[SEGES]: Secretaria de Gestão
+*[SETIC]: Secretaria de Tecnologia da Informação e Comunicação
+*[SGP]: Secretaria de gestão de Pessoas
+*[SPU]: Secretaria de Patrimônio da União
+*[SDI]: Secretaria de Desenvolvimento da Infraestrutura
+*[SEST]: Secretaria de Coordenação e Governança das Empresas Estatais
+*[SEPLAN]: Secretaria de Planejamento e Assuntos Econômicos
+*[COFIEX]: Comissão de Financiamento Externo
+*[SCDP]: Sistema de Concessão de Diárias e Passagens
+*[SIGS]:
+*[SIAPE]: Sistema Integrado de Administração de Pessoal
+*[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI5MDk4MDM1Miw5MjcxMTc5NDQsLTEwNj
