@@ -940,7 +940,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 **Metadados:** conjunto de informações descritivas sobre os dados, incluindo as características do seu levantamento, produção, qualidade e estrutura de armazenamento, essenciais para promover a sua documentação, integração e disponibilização, bem como possibilitar a sua busca e exploração.
 
 **Git:** É uma plataforma de hospedagem de código-fonte que permite  programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
-**Markdown:** 
+**Markdown:**  É uma ferramenta de conversão de_text-to-HTML. Com ele é possível você marcar títulos, listas, tabelas, etc., de forma muito mais limpa, legível e precisa, do que se fosse fazer com HTML.
 
 ## SIGLAS 
 *[*MP]:** Ministério do Planejamento, Desenvolvimento e gestão
@@ -986,7 +986,7 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzY5MjQxMCwtODE4MjA1ODczLDUzNj
-AwNTcwOSwxMzAzMjc4NDE1LDEzNTAyMTE2MywtMzgyNjI3NDg1
-LDI4MjQ2MzA3NV19
+eyJoaXN0b3J5IjpbLTE1NTYxMTY2OTksMTE2NzY5MjQxMCwtOD
+E4MjA1ODczLDUzNjAwNTcwOSwxMzAzMjc4NDE1LDEzNTAyMTE2
+MywtMzgyNjI3NDg1LDI4MjQ2MzA3NV19
 -->
