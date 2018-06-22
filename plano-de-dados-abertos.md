@@ -275,7 +275,7 @@ Considerando a complexidade de certificar-se que todas as informações disponí
 
 Para direcionar o escopo deste plano e atendendo a premissa de disponibilizar os dados considerados mais relevantes para a sociedade, o mais rápido possível, nas condições disponíveis, com a qualidade de conteúdo que os dados apresentarem, foi aplicado um filtro no inventário priorizando as ações que aprimoram a qualidade dos conjuntos de dados relativos aos sistemas estruturantes e com maior apelo da sociedade nos canais de comunicação.
 
-Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. [Acesse aqui] o inventário disponibilzado em consulta pública (~/../Inventario_consulta_publica.ods).
+Como resultado obteve-se uma seleção com 59 (cinquenta e nove) conjuntos de dados relacionados aos sistemas estruturantes, sendo 39(trinta e nove) já disponibilizados e 20 (vinte) novos conjuntos de dados candidatos à disponibilização em Dados Abertos para este plano. [Acesse aqui](~/../Inventario_consulta_publica.ods) o inventário disponibilzado em consulta pública .
 
 **d) Consulta Pública**
 Entre os dias 02 e 23 de maio, a seleção com 59 (cinquenta e nove) conjuntos de dados ficou em consulta pública para que os cidadãos pudessem manifestar o interesse pela abertura das 20 (vinte) bases ainda não abertas. O objetivo foi incentivar a participação da sociedade e otimizar os esforços para disponibilizar, em formato aberto, a maior quantidade possível de bases de dados do MP.
@@ -354,7 +354,7 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 
 ## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a serem abertos
 O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todPlano de Ação - Conjuntos de Dados a serem abertos
-==justificar os os04 conjuntos de dados ainda neste Plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.==
+Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
 
@@ -992,7 +992,7 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgzNDI4MSw1MzYwMDU3MDksMTMwMz
+eyJoaXN0b3J5IjpbMTQ0MTg1ODg5NCw1MzYwMDU3MDksMTMwMz
 I3ODQxNSwxMzUwMjExNjMsLTM4MjYyNzQ4NSwyODI0NjMwNzVd
 fQ==
 -->
