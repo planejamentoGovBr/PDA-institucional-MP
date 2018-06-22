@@ -943,7 +943,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 **Markdown:**
 
-## SIGLAS ==incluir sistemas==
+## SIGLAS 
 *[*MP]:** Ministério do Planejamento, Desenvolvimento e gestão
 *[*ASCOM]:** Assessoria de Comunicação
 *[*SOF]:** Secretaria de Orçamento Federal
@@ -987,7 +987,7 @@ eyJoaXN0b3J5IjpbMTQ5NDQ3NTI5MCwzNDYzNjkyMDQsMTM0OT
 AzMjcyMF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU5MDQ5NDYsNTM2MDA1NzA5LDEzMD
-MyNzg0MTUsMTM1MDIxMTYzLC0zODI2Mjc0ODUsMjgyNDYzMDc1
-XX0=
+eyJoaXN0b3J5IjpbLTgxODIwNTg3Myw1MzYwMDU3MDksMTMwMz
+I3ODQxNSwxMzUwMjExNjMsLTM4MjYyNzQ4NSwyODI0NjMwNzVd
+fQ==
 -->
