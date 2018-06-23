@@ -526,7 +526,7 @@ O Portal Brasileiro de Dados Abertos utiliza o software CKAN que por sua vez pos
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
-<i class="far fa-building"></i> **Meta/Prazo:** Setembro/20l:** SETIC
+<i class="far fa-building"></i> **Unidade responsável:** SETIC
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_09 - Patrimônio da União - Imóveis da Antiga RFFSA**
