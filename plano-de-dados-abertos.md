@@ -467,7 +467,7 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 
 
-### <i class="fas fa-cubes fa-lg"></i> **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_06 - Plano Plurianual 2016-2019 (PPA) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
 
 <i class="fas fa-cogs"></i> **Atividade**
@@ -488,7 +488,7 @@ Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Susten
 <i class="far fa-building"></i> **Unidade responsável:** SEPLAN
 
 
-### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual 2012-2015 (PPA) - Vinculação atributos com os Programas Federais**
 Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
 
 O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
@@ -901,5 +901,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzc4MDYwNCwxNDg3NzY1NzAwXX0=
+eyJoaXN0b3J5IjpbLTEyNTE5NzQ0MjgsMTQ4Nzc2NTcwMF19
 -->
