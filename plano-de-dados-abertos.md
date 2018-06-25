@@ -896,10 +896,9 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SEPLAN]: Secretaria de Planejamento e Assuntos Econômicos
 *[COFIEX]: Comissão de Financiamento Externo
 *[SCDP]: Sistema de Concessão de Diárias e Passagens
-*[SIGS]:
 *[SIAPE]: Sistema Integrado de Administração de Pessoal
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTQ4ODU1MSwxNDg3NzY1NzAwXX0=
+eyJoaXN0b3J5IjpbLTE4MTcxODUxMTUsMTQ4Nzc2NTcwMF19
 -->
