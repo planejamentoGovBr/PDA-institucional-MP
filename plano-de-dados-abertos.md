@@ -739,7 +739,7 @@ Com o objetivo de avançar na maturidade da solução de abertura dos dados de c
 <i class="fas fa-cogs"></i> **Atividades**
 1. Integração desta API à plataforma corporativa de gestão de APIs do MP;
 2. Concluir automação das etapas de extração dos dados no SERPRO, transformação e carga no banco de dados da API mantendo a arquitetura atual;
-3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dados do .... ==Gustavo ficou de levantar com a área finalística== ;
+3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dados do .... ==Gustavo ficou de==;
 4. Implementação de solução especializada para atualização semanal dos dados.
 
 <i class="fas fa-tasks"></i> **Produtos**
@@ -901,5 +901,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE5NzQ0MjgsMTQ4Nzc2NTcwMF19
+eyJoaXN0b3J5IjpbMTk5NTQ4ODU1MSwxNDg3NzY1NzAwXX0=
 -->
