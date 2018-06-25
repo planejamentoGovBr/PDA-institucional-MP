@@ -183,7 +183,7 @@ No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
 
-## **Sustentação do ambiente de Dados Abertos**
+## **Sustentação do Ambiente de Dados Abertos**
 
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
@@ -218,7 +218,7 @@ Nas reuniões de acompanhamento do PDA, a unidade setorial de TIC informará as 
 
 
 
-## Melhoria da qualidade dos dados 
+## Melhoria da Qualidade dos Dados 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
@@ -288,7 +288,7 @@ Todo processo de consulta pública foi amplamente divulgado nos seguintes canais
 * Site do Ministério (www.planejamento.gov.br)
 * Redes sociais oficiais do Ministério
 
-**e) Critérios para priorização das Bases a serem abertas**
+**e) Critérios para priorização das bases a serem abertas**
 Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseadas nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
 
 1. Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
@@ -352,16 +352,16 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
-## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a serem abertos
-O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todPlano de Ação - Conjuntos de Dados a serem abertos
-Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.
+## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a Serem Abertos
+O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura dos Conjuntos de Dados candidatos a fazerem parte do presente plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão neste momento. Apresentamos abaixo a relação de itens que foram para consulta publica e que não tem plano de ação para este plano devidamente justificados.
 
-1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
+1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP.
+As informação sobre pensionistas do Poder Executivo Federal - Aguardando texto da SGP.
 
-3. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
+2. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
-4. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
+3. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
@@ -467,7 +467,7 @@ O Governo Federal vem implementando medidas com o objetivo de aumentar a eficiê
 
 
 
-### <i class="fas fa-cubes fa-lg"></i> **MP_I_06 - Plano Plurianual (PPA - 2016-2019) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_06 - Plano Plurianual 2016-2019 (PPA) - Relacionamento com Objetivos de Desenvolvimento Sustentável**
 Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Sustentável com os atributos do PPA 2016-2019.
 
 <i class="fas fa-cogs"></i> **Atividade**
@@ -488,7 +488,7 @@ Esta ação disponibiliza a vinculação dos Objetivos de Desenvolvimento Susten
 <i class="far fa-building"></i> **Unidade responsável:** SEPLAN
 
 
-### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual (PPA - 2012-2015) - Vinculação atributos com os Programas Federais**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_07 - Plano Plurianual 2012-2015 (PPA) - Vinculação atributos com os Programas Federais**
 Os Programas Federais são programas desenvolvidos pelo Governo Federal que objetivam a melhoria das condições de vida da população, disponibilizados para os municípios.
 
 O Plano Plurianual (PPA) define as políticas públicas do Governo Federal para um período de 4 anos e os caminhos trilhados para viabilizar as metas previstas.
@@ -718,7 +718,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 
 
-## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Dados
+## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Conjuntos de Dados Disponíveis
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
@@ -739,7 +739,7 @@ Com o objetivo de avançar na maturidade da solução de abertura dos dados de c
 <i class="fas fa-cogs"></i> **Atividades**
 1. Integração desta API à plataforma corporativa de gestão de APIs do MP;
 2. Concluir automação das etapas de extração dos dados no SERPRO, transformação e carga no banco de dados da API mantendo a arquitetura atual;
-3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados. A princípio serão abertos os dados de **Lances** realizados nos pregões, os dados do .... ==Gustavo ficou de levantar com a área finalística== ;
+3. Desenvolvimento de novos métodos na API para abertura de mais subconjuntos de dados;
 4. Implementação de solução especializada para atualização semanal dos dados.
 
 <i class="fas fa-tasks"></i> **Produtos**
@@ -896,7 +896,10 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SEPLAN]: Secretaria de Planejamento e Assuntos Econômicos
 *[COFIEX]: Comissão de Financiamento Externo
 *[SCDP]: Sistema de Concessão de Diárias e Passagens
-*[SIGS]:
 *[SIAPE]: Sistema Integrado de Administração de Pessoal
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY3MTkwMTQwNSwtMTgxNzE4NTExNSwxND
+g3NzY1NzAwXX0=
+-->
