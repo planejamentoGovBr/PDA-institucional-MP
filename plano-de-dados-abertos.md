@@ -183,7 +183,7 @@ No caso dos dados georreferenciados, competirá à Secretaria de Planejamento e 
 O quadro a seguir representa a estrutura de governança do PDA:
 ![Estrutura de Governança do Plano de Dados Abertos](~/../public/img/governanca.png "Estrutura de Governança do Plano de Dados Abertos")
 
-## **Sustentação do ambiente de Dados Abertos**
+## **Sustentação do Ambiente de Dados Abertos**
 
 A unidade setorial de TIC tem papel fundamental na viabilização das ações previstas no presente Plano por meio do uso dos recursos tecnológicos. 
 A garantia de acesso aos dados abertos subentende a sustentação da infraestrutura tecnológica disponível, atualizada e confiável. 
@@ -901,5 +901,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzc2NTcwMF19
+eyJoaXN0b3J5IjpbMjA0NjkwMTQ3NiwxNDg3NzY1NzAwXX0=
 -->
