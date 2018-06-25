@@ -218,7 +218,7 @@ Nas reuniões de acompanhamento do PDA, a unidade setorial de TIC informará as 
 
 
 
-## Melhoria da qualidade dos dados 
+## Melhoria da Qualidade dos Dados 
 
 No presente plano adotamos como premissa a disponibilização de dados relevantes para a sociedade de forma evolutiva, primando pela publicidade tempestiva das informações e o aprimoramento das interfaces de dados já disponibilizadas, buscando entregar cada vez mais valor aos usuários. Isso inclui publicação em mais e diversos formatos, desenvolvimento de Interfaces Programáveis de Aplicativos - APIs, desenvolvimento de ontologias, desenvolvimento e integração com portais de informações gerencias dotados de ferramentas de consultas, disponibilizando os conjuntos de dados de forma mais acessível à sociedade.
 
@@ -288,7 +288,7 @@ Todo processo de consulta pública foi amplamente divulgado nos seguintes canais
 * Site do Ministério (www.planejamento.gov.br)
 * Redes sociais oficiais do Ministério
 
-**e) Critérios para priorização das Bases a serem abertas**
+**e) Critérios para priorização das bases a serem abertas**
 Considerando que a abertura de dados deve, sobretudo, garantir os princípios da publicidade e da transparência da administração pública, a definição das metas de abertura de dados e etapas de priorização, foram baseadas nos critérios relacionados abaixo, aplicados ao resultado da Consulta Pública:
 
 1. Grau de relevância ao cidadão: observando-se as demandas recepcionadas via e-SIC e pelo e-Ouv; os serviços e áreas mais procurados no sítio do MP; consultas a/de jornalistas que demandam o MP; 
@@ -352,7 +352,7 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
-## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a serem abertos
+## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a Serem Abertos
 O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura dos Conjuntos de Dados candidatos a fazerem parte do presente plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão neste momento. Apresentamos abaixo a relação de itens que foram para consulta publica e que não tem plano de ação para este plano devidamente justificados.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP.
@@ -901,5 +901,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjkwMTQ3NiwxNDg3NzY1NzAwXX0=
+eyJoaXN0b3J5IjpbLTMwMzc4MDYwNCwxNDg3NzY1NzAwXX0=
 -->
