@@ -353,8 +353,7 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
 ## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a serem abertos
-O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura de todPlano de Ação - Conjuntos de Dados a serem abertos
-Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.
+O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura dos Conjuntos de Dados candidatos a fazerem parte do presente plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão deste itens neste momento. Apresentamos abaixo as motivações a relação de itens com a respectiva justificativa.que foram para consulta publica e que não tem plano de ação para este plano.
 
 1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP. ==SGP==
 
@@ -901,5 +900,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkyMzU3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjY0MTA0NjVdfQ==
 -->
