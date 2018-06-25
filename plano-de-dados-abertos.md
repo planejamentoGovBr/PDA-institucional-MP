@@ -718,7 +718,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 
 
-## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Dados
+## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Conjuntos de Dados Disponíveis
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da administração pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
@@ -901,5 +901,5 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU3NDg0NV19
+eyJoaXN0b3J5IjpbLTE3NTkyMzU3MjRdfQ==
 -->
