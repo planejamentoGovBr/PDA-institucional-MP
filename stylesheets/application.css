@@ -2240,3 +2240,60 @@ header.masthead .container {
 #main_content a:hover {
     color: #3F51B5;
 }
+
+@media (max-width:760px){
+  #menu-de-navegacao {
+      text-align: center;
+  }
+    ul#accessibility {
+      display: none !important;
+  }
+
+  ul#portal-siteactions {
+      display: none;
+  }
+  header.masthead .container {
+      background-image: url(../public/img/mask_group.svg);
+      background-position: right center;
+      background-repeat: no-repeat;
+      margin-top: -36px;
+      padding-top: 15px;
+      background-size: 96%;
+      background-position: 192px center;
+  }
+  #portal-title {
+      font-weight: 800;
+      letter-spacing: -0.05em;
+      margin: 11px;
+      margin-left: 20px;
+      height: 46px;
+      width: 186px;
+      line-height: 25px;
+  }
+  body > header.masthead #site_logo {
+      float: left;
+      margin: 8px 0 0;
+      width: 220px;
+      width: 430px;
+      background-repeat: no-repeat;
+      overflow: hidden;
+      display: block;
+      height: 101px;
+      clear: left;
+  }
+  ul#news {
+      display: none;
+  }
+  #portal-title {
+      font-weight: 800;
+      letter-spacing: -0.05em;
+      margin: 0;
+      margin-left: 20px;
+      height: 46px;
+      width: 186px;
+      position: relative;
+      line-height: 25px;
+      top: -4px;
+  }
+
+}
