@@ -19,7 +19,6 @@ Versão α - RASCUNHO [2.x.9](https://github.com/planejamentogovbr/PDA-instituci
 
 [TOC]
 
-
 ----------
 
 # **Apresentação**
