@@ -548,7 +548,7 @@ Em atendimento à Lei de Acesso à Informação, a Secretaria do Patrimônio da 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_10 - Plataforma de Análise de Dados da Administração Pública - [GovData](http://govdata.gov.br/)**
 
-O GovData disponibiliza uma infraestrutura de Datalake, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
+O GovData disponibiliza uma infraestrutura de _datalake_, que permite a hospedagem e o cruzamento de grandes volumes de dados. Nele é possível compartilhar informações entre órgãos, mantendo o sigilo e confidencialidade de dados.
 
 Esta ação pretende catalogar a API de acesso ao catálogo das bases de dados que integram a plataforma.
 
