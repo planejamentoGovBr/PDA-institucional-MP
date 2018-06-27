@@ -32,7 +32,7 @@ Nessa trilha, são detalhados os principais normativos aplicáveis ao tema, assi
 
 A partir das diretrizes estratégicas, este Plano de Dados Abertos prevê no seu Plano de Ação, as ações necessárias para o alcance da sustentabilidade dos resultados pretendidos, estabelecendo a matriz de responsabilidade, a periodicidade e os responsáveis pela atualização constante das bases de dados; além de prever os canais de comunicação e as formas de interação com a sociedade, bem como a matriz de governança e obediência às metodologias e padrões para a correta catalogação e publicação dos dados a serem disponibilizados. 
 
-O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018 foi revisado quanto ao cumprimento das metas dos Plano de Dados anteriores e a inserção de novos dados que serão abertos para a sociedade.
+O presente Plano, referente ao Biênio 2018-2019 e com edição registrada para Julho/2018 foi revisado quanto ao cumprimento das metas dos Plano de Dados anteriores ([2014-15](~/../public/pdas-antigos/pda-mp-2014-2015.pdf "Plano de Dados Abertos do Ministério do Planejamento entre 2014 e 2015") e [2016-17](~/../public/pdas-antigos/pda-mp-2016-2017.pdf "Plano de Dados Abertos do Ministério do Planejamento entre 2016 e 2017")) e a inserção de novos dados que serão abertos para a sociedade.
 
 O Plano possui periodicidade bienal, com eventuais novas edições, dentro dessa mesma periodicidade, identificadas no mês de sua liberação, as quais, podem ser motivadas pela revisão do _status_ das metas ou novas inserções de abertura de dados. Esse será divulgado à sociedade por meio de sua publicação no [Portal Brasileiro de Dados Abertos](http://dados.gov.br/) e no sítio eletrônico do MP.
 
