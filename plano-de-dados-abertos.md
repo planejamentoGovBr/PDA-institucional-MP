@@ -897,6 +897,32 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SCDP]: Sistema de Concessão de Diárias e Passagens
 *[SIAPE]: Sistema Integrado de Administração de Pessoal
 *[SIOP]: Sistema Integrado de Planejamento e Orçamento
+*[PDTIC]: Plano Diretor de Tecnologia da Informação e Comunicação
+*[EGD]: Estratégia de Governança Digital
+*[OGP]: Open Government Partnership
+*[INDA]: Infraestrutura Nacional de Dados Abertos
+*[INDE]: Infraestrutura Nacional de Dados Espaciais
+*[e-VoG]: Vocabulários e ontologias de Governo Eletrônico
+*[e-MAG]: Modelo de Acessibilidade de Governo Eletrônico
+*[e-PING]: Padrões de Interoperabilidade de Governo Eletrônico
+*[PDA]: Plano de Dados Abertos
+*[CGINDA]: Comitê Gestor da Infraestrutura Nacional de Dados Abertos
+*[PPA]: Plano Plurianual
+*[CIGA]: Comitê Interministerial de Governo Aberto
+*[SIASG]: Sistema Integrado de Administração e Serviços Gerais
+*[Siconv]: Sistema de Gestão de Convênios e Contratos de Repasse
+*[LAI]: Lei de Acesso à Informação
+*[RFFSA]: Rede Ferroviária Federal
+*[ABIN]: Agência Brasileira de Inteligência
+*[PLDO]: Projeto de Lei de Diretrizes Orçamentárias
+*[CGU]: Ministério da Transparência e Controladoria-Geral da União
+*[PDV]: Programa de Desligamento Voluntario
+*[ODS]: Objetivos de Desenvolvimento Sustentável
+*[APIs]: Applications Programming Interface
+*[API]: Application Programming Interface
+*[SERPRO]: Serviço Federal de Processamento de Dados
+*[Cofiex]: Comissão de Financiamentos Externos
+*[DEIOP]: Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY3MTkwMTQwNSwtMTgxNzE4NTExNSwxND
