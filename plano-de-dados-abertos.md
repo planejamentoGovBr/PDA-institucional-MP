@@ -923,6 +923,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[SERPRO]: Serviço Federal de Processamento de Dados
 *[Cofiex]: Comissão de Financiamentos Externos
 *[DEIOP]: Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação
+*[SE]: Secretaria Executiva
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY3MTkwMTQwNSwtMTgxNzE4NTExNSwxND
