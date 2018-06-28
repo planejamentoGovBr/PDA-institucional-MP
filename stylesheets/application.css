@@ -2241,6 +2241,8 @@ header.masthead .container {
     color: #3F51B5;
 }
 
+
+
 @media (max-width:760px){
   #menu-de-navegacao {
       text-align: center;
@@ -2269,6 +2271,7 @@ header.masthead .container {
       height: 46px;
       width: 186px;
       line-height: 25px;
+      font-size: 23px
   }
   body > header.masthead #site_logo {
       float: left;
@@ -2295,5 +2298,9 @@ header.masthead .container {
       line-height: 25px;
       top: -4px;
   }
-
+  span#portal-description {
+    display: block;
+    width: 286px;
+    margin-left: 20px;
+  }
 }
