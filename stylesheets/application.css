@@ -2315,3 +2315,9 @@ header.masthead .container {
     max-width: 100%;
   }
 }
+
+
+div#barra-brasil {
+    position: relative;
+    z-index: 1;
+}
