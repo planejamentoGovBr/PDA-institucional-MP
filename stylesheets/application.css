@@ -2282,6 +2282,7 @@ header.masthead .container {
       overflow: hidden;
       display: block;
       height: 101px;
+      max-width: 100%;
       clear: left;
   }
   ul#news {
@@ -2302,5 +2303,15 @@ header.masthead .container {
     display: block;
     width: 286px;
     margin-left: 20px;
+  }
+
+  table {
+    overflow-y: hidden;
+    overflow-x: scroll;
+    display: block;
+  }
+
+  img {
+    max-width: 100%;
   }
 }
