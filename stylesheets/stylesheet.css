@@ -480,20 +480,21 @@ Small Device Styles
     display: none;
   }
 }
-/*
+
 *:hover > .anchorjs-link {
   opacity: .75;
-  /* To fade links as they appear, change transition-property from 'color' to 'all' *//*
+  /* To fade links as they appear, change transition-property from 'color' to 'all' */
   -webkit-transition: color .16s linear;
   transition: color .16s linear;
 }
 
 *:hover > .anchorjs-link:hover,
 .anchorjs-link:focus {
-  text-decoration: none !important; /* do not underline *//*
+  text-decoration: none !important; /* do not underline */
   opacity: 1;
 }
-*/
+
+/*
 
 .anchorjs-link {
   transition: all .25s linear;
@@ -501,9 +502,6 @@ Small Device Styles
 *:hover > .anchorjs-link {
   margin-left: -1.125em !important;
 }
-/*
-.anchorjs-link {
-    opacity: inherit !important;
-}*/
 
+*/
 
