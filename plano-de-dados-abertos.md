@@ -882,7 +882,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 
 
  
-*[MP]: Ministério do Planejamento, Desenvolvimento e gestão
+*[MP]: Ministério do Planejamento, Desenvolvimento e Gestão
 *[ASCOM]: Assessoria de Comunicação
 *[SOF]: Secretaria de Orçamento Federal
 *[SEAIN]: Secretaria de Assuntos Internacionais
