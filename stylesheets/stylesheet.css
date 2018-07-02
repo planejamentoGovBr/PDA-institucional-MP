@@ -481,11 +481,8 @@ Small Device Styles
   }
 }
 
-*:hover > .anchorjs-link {
-  opacity: .75;
-  /* To fade links as they appear, change transition-property from 'color' to 'all' */
-  -webkit-transition: color .16s linear;
-  transition: color .16s linear;
+h1:hover a.anchorjs-link, h2:hover a.anchorjs-link, h3:hover a.anchorjs-link, h4:hover a.anchorjs-link, h5:hover a.anchorjs-link, h6:hover a.anchorjs-link   {
+    opacity: 1 !important;
 }
 
 *:hover > .anchorjs-link:hover,
