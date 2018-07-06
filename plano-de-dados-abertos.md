@@ -244,6 +244,14 @@ Para fomentar a participação social e, em observância aos princípios da tran
 7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional de redes sociais; e
 8.	Outros espaços de divulgação.
 
+## **Programação fomentoPeso dos Critérios**
+
+| Critério | Nome do Critério  | Peso |
+|--:|:--|:--:|
+| **C1** | Grau de Relevância ao Cidadão |**4** |
+| **C2** | Estímulo ao Controle Social| **3** |
+| **C3** | Obrigatoriedade legal ou compromisso assumido| **1** |
+
 # **V. Definição das Ações de Abertura dos Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
@@ -933,5 +941,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDE0MzU4XX0=
+eyJoaXN0b3J5IjpbNTg4MjI2NzQ0LDg5MjAxNDM1OF19
 -->
