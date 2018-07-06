@@ -366,10 +366,8 @@ Destaca-se que o MP optou por não explicitar o responsável por cada atividade,
 ## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a Serem Abertos
 O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura dos Conjuntos de Dados candidatos a fazerem parte do presente plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão neste momento. Apresentamos abaixo a relação de itens que foram para consulta publica e que não tem plano de ação para este plano devidamente justificados.
 
-1. SIAPE |	Pensionistas do Poder Executivo Federal	| Base de Pensionistas do Poder Executivo Federal Civil,  administração direta, autarquias e fundações. Não contempla servidores do Banco Central do Brasil nem as Carreiras de Inteligência da ABIN -  SGP.
-As informação sobre pensionistas do Poder Executivo Federal - Aguardando texto da SGP.
+1. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 
-2. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
 3. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
@@ -945,5 +943,6 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMwNTYzODUsODkyMDE0MzU4XX0=
+eyJoaXN0b3J5IjpbMTQzNTM1Mzg3NSwtMjAxMzA1NjM4NSw4OT
+IwMTQzNThdfQ==
 -->
