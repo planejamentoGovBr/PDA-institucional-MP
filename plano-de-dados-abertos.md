@@ -252,7 +252,7 @@ Para fomentar a participação social e, em observância aos princípios da tran
 | **2** | Workshop para sociedade sobre de Dados Abertos | **dezembro/2018** |
 | **3** | Consulta Pública para avaliação qualidade dos dados publicados| **junho/2019** |
 | **4** | Publicação Relatório Anual de Monitoramento e Controle| **setembro/2019** |
-| **5** | Divulgar os principais informações (estatísticos, indicadores) dos dados abertos| **setembro/2019** |
+| **5** | Criar canais on-line daas principais informações (estatísticas, indicadores) dos dados abertos| **novembro/2019** |
 
 
 
@@ -945,5 +945,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMyMTU1OTQsODkyMDE0MzU4XX0=
+eyJoaXN0b3J5IjpbLTE2NTgyNTQ5NzIsODkyMDE0MzU4XX0=
 -->
