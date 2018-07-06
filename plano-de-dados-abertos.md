@@ -250,7 +250,7 @@ Para fomentar a participação social e, em observância aos princípios da tran
 |--:|:--|:--:|
 | **1** | Semana de divulgação de Dados Abertos |**novembro/2018** |
 | **2** | Workshop para sociedade sobre de Dados Abertos | **dezembro/2018** |
-| **3** | Consulta Pública para avaliação qualidade Obrigatoriedade legal ou compromisso assumido| **1** |
+| **3** | Consulta Pública para avaliação qualidade dos dados publicados| **junho/2019** |
 
 # **V. Definição das Ações de Abertura dos Dados**
 
@@ -941,5 +941,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTIwMzUzNiw4OTIwMTQzNThdfQ==
+eyJoaXN0b3J5IjpbLTE0OTc0ODY3ODEsODkyMDE0MzU4XX0=
 -->
