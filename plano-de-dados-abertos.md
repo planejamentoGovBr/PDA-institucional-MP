@@ -248,8 +248,8 @@ Para fomentar a participação social e, em observância aos princípios da tran
 
 | Ação | Nome da Ação  | Prazo |
 |--:|:--|:--:|
-| **1** | Evento para sociedade de fomento a utilização abertos |**4** |
-| **2** | Estímulo ao Controle Social| **3** |
+| **1** | Semana de divulgação de Dados Abertos |**4** |
+| **2** | Workshop sociedade de fomento a utilização abertos | **3** |
 | **3** | Obrigatoriedade legal ou compromisso assumido| **1** |
 
 # **V. Definição das Ações de Abertura dos Dados**
@@ -941,5 +941,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzI4MDA0LDg5MjAxNDM1OF19
+eyJoaXN0b3J5IjpbMTE3NjM4MDUyNiw4OTIwMTQzNThdfQ==
 -->
