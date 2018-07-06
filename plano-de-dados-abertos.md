@@ -244,13 +244,13 @@ Para fomentar a participação social e, em observância aos princípios da tran
 7.	Publicação de notícias e releases no site do MP e divulgação em outros canais, como perfil institucional de redes sociais; e
 8.	Outros espaços de divulgação.
 
-## **Programação fomentoPeso dos Critérios**
+## **Programação de promoção e fomento**
 
-| Critério | Nome do Critério  | Peso |
+| Ação | Nome da Ação  | Prazo |
 |--:|:--|:--:|
-| **C1** | Grau de Relevância ao Cidadão |**4** |
-| **C2** | Estímulo ao Controle Social| **3** |
-| **C3** | Obrigatoriedade legal ou compromisso assumido| **1** |
+| **1** | Grau de Relevância ao Cidadão |**4** |
+| **2** | Estímulo ao Controle Social| **3** |
+| **3** | Obrigatoriedade legal ou compromisso assumido| **1** |
 
 # **V. Definição das Ações de Abertura dos Dados**
 
@@ -941,5 +941,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MjI2NzQ0LDg5MjAxNDM1OF19
+eyJoaXN0b3J5IjpbMTIxOTc1MzE3LDg5MjAxNDM1OF19
 -->
