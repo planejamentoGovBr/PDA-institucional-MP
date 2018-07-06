@@ -12,7 +12,7 @@ desc: Este é o Plano de Dados Abertos do Ministério do Planejamento.
 ----------
 
 
-Versão α - RASCUNHO [2.x.9](https://github.com/planejamentogovbr/PDA-institucional-MP/releases/) de julho/18 - Vigência 2018/2019
+Versão [3.0.0](https://github.com/planejamentogovbr/PDA-institucional-MP/releases/) de julho/18 - Vigência 2018/2019
 
 
 # **Sumário**
@@ -958,6 +958,7 @@ A informação é gerada a partir de algum tratamento ou processamento dos dados
 *[Cofiex]: Comissão de Financiamentos Externos
 *[DEIOP]: Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação
 *[SE]: Secretaria Executiva
+*[INFOVIA]: A Infovia Brasília é uma infraestrutura de rede ótica metropolitana de comunicações construída para fornecer Internet aos órgãos do Governo Federal situados em Brasília
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY3MTkwMTQwNSwtMTgxNzE4NTExNSwxND
