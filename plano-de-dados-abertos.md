@@ -252,7 +252,7 @@ Para fomentar a participação social e, em observância aos princípios da tran
 | **2** | Workshop para sociedade sobre de Dados Abertos | **dezembro/2018** |
 | **3** | Consulta Pública para avaliação qualidade dos dados publicados| **junho/2019** |
 | **4** | Publicação Relatório Anual de Monitoramento e Controle| **setembro/2019** |
-| **5** | Divulgar os principais dados (estatísticos do monitoramento do MP| **setembro/2019** |
+| **5** | Divulgar os principais dados (estatísticos, indicadores)| **setembro/2019** |
 
 
 
@@ -945,5 +945,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1ODQyMjc1LDg5MjAxNDM1OF19
+eyJoaXN0b3J5IjpbLTE3MDQ5NzYwNjgsODkyMDE0MzU4XX0=
 -->
