@@ -248,8 +248,8 @@ Para fomentar a participação social e, em observância aos princípios da tran
 
 | Ação | Nome da Ação  | Período previsto |
 |--:|:--|:--:|
-| **1** | Semana de divulgação de Dados Abertos |**novembro a dezembro/2018** |
-| **2** | Workshop sociedade de fomento a utilização de Dados Abertos | **3** |
+| **1** | Semana de divulgação de Dados Abertos |**novembro/2018** |
+| **2** | Workshop para sociedade sobre de Dados Abertos | **dezembro/2018** |
 | **3** | Obrigatoriedade legal ou compromisso assumido| **1** |
 
 # **V. Definição das Ações de Abertura dos Dados**
@@ -941,5 +941,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU3NzYyMDMsODkyMDE0MzU4XX0=
+eyJoaXN0b3J5IjpbLTY0ODY5NjYxMyw4OTIwMTQzNThdfQ==
 -->
