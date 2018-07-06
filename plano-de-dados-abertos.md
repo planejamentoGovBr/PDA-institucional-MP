@@ -364,13 +364,14 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
 ## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a Serem Abertos
-O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura dos Conjuntos de Dados candidatos a fazerem parte do presente plano. Contudo, observou-se que alguns itens possuem restrições que impedem a inclusão neste momento. Apresentamos abaixo a relação de itens que foram para consulta publica e que não tem plano de ação para este plano devidamente justificados.
+O MP após a fase de Consulta Pública e aplicação de critérios aprofundou na avaliação das ações necessárias para viabilizar a abertura dos Conjuntos de Dados candidatos a fazerem parte do presente plano. As bases de dados pendentes de publicação do PDA 2016-2017 foram cumrpiContudo, observou-se que alguns itens possuem restrições que impedem a inclusão neste momento. Apresentamos abaixo a relação de itens que foram para consulta publica e que não tem plano de ação para este plano devidamente justificados.
 
 1. SIOP	| Informações do Projeto de Lei de Diretrizes Orçamentárias	| Propostas colocadas para o Projeto de Lei de Diretrizes Orçamentárias (textos) - SOF
 
 A caracterização específica dos dados referentes ao PLDO, a serem disponibilizados, ainda não foi definido de forma clara. Esta informação pode mudar muito no decorrer dos anos por se tratar do texto puro da proposta de lei. Além disso, não há recursos de TI para atender tal demanda no momento. Por este motivo estes dados serão objeto de maior discussão e avaliação num próximo PDA
 
-3. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
+2. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
+
 As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
@@ -943,6 +944,6 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTM1Mzg3NSwtMjAxMzA1NjM4NSw4OT
-IwMTQzNThdfQ==
+eyJoaXN0b3J5IjpbLTExMDgyNTQ2MjEsLTIwMTMwNTYzODUsOD
+kyMDE0MzU4XX0=
 -->
