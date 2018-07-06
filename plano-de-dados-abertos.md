@@ -747,7 +747,7 @@ A INFOVIA Brasília é uma infraestrutura de rede ótica metropolitana de comuni
 
 <i class="far fa-calendar-check"></i> **Meta/Prazo:** Janeiro/2019
 
-**Unidade responsável**: Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação (DEIOP/SETIC/MP)
+<i class="far fa-building"></i>**Unidade responsável**: DEIOP/SETIC
 
 ## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Conjuntos de Dados Disponíveis
 
@@ -965,6 +965,6 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjM5NTQ2NiwtMTY2OTgwOTIxMCwtMj
+eyJoaXN0b3J5IjpbLTQ1NjEyOTA3OSwtMTY2OTgwOTIxMCwtMj
 AxMzA1NjM4NSw4OTIwMTQzNThdfQ==
 -->
