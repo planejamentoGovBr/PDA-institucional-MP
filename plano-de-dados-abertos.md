@@ -252,6 +252,7 @@ Para fomentar a participação social e, em observância aos princípios da tran
 | **2** | Workshop para sociedade sobre de Dados Abertos | **dezembro/2018** |
 | **3** | Consulta Pública para avaliação qualidade dos dados publicados| **junho/2019** |
 
+
 # **V. Definição das Ações de Abertura dos Dados**
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
@@ -941,5 +942,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjQ5Mjk3MCw4OTIwMTQzNThdfQ==
+eyJoaXN0b3J5IjpbLTI0NTM1MDU5Niw4OTIwMTQzNThdfQ==
 -->
