@@ -363,7 +363,7 @@ Esta sessão detalha os planos de ação contendo para cada ação prevista nome
 
 Destaca-se que o MP optou por não explicitar o responsável por cada atividade, mantendo como canal único de comunicação com as entidades externas e o público em geral o e-Ouv. Esta decisão visa garantir que toda e qualquer manifestação com relação aos dados abertos possua um registro permitindo uma maior gestão e acompanhamento das dúvidas e problemas na execução das ações previstas neste plano.
 
-Ressalta-se que os conjuntos de dados pendentes de publicação e planejados no PDA 2016-2017 foram divulgados no dados.gov.br antes da publicação do presente Plano, não restando nenhuma pendência a ser pl.
+Ressalta-se que os conjuntos de dados pendentes de publicação e planejados no PDA 2016-2017 foram divulgados no dados.gov.br antes da publicação do presente Plano, não restando nenhuma pendência a ser contemplada neste PDA.
 
 
 ## 1. <i class="fas fa-box-open fa-sm"></i> Conjuntos de Dados a Serem Abertos
@@ -967,6 +967,6 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTE4NTI2NSwtNDU2MTI5MDc5LC0xNj
+eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
