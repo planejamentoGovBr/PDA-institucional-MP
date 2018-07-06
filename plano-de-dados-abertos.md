@@ -728,7 +728,26 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 <i class="far fa-building"></i> **Unidade responsável:** SGP
 
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_17 - Relação de órgãos que utilizam a malha da INFOVIA:**
 
+A INFOVIA Brasília é uma infraestrutura de rede ótica metropolitana de comunicações construída para fornecer aos órgãos e entidades públicos um conjunto de serviços e funcionalidade em um ambiente seguro, de alta performance e disponibilidade. Resumidamente, à Secretaria de Tecnologia da Informação e Comunicação (SETIC/MP) cabe a gestão da rede e dos serviços, e ao Serviço Federal de Processamento de Dados (SERPRO) cabe a operação e a manutenção da infraestrutura ótica e dos equipamentos da rede. Objetivando o atendimento à transparência da gestão administrativa do Governo Federal, esta ação pretende disponibilizar a relação de órgãos e entidades públicos que utilizam a rede INFOVIA.
+
+**Atividades**:
+
+1. Definição do conjunto de dados sobre a INFOVIA que serão disponibilizados.  
+2. Definição do modelo de recebimento das informações a partir do SERPRO.  
+3. Conferência dos dados e elaboração do dicionário de dados.  
+4. Publicação no Portal Brasileiro de Dados Abertos.
+
+**Produtos**:
+
+1. Dados disponibilizados.
+
+**Frequência de Atualização**: Mensal
+
+**Meta/Prazo**: Janeiro/2019
+
+**Unidade responsável**: Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação (DEIOP/SETIC/MP)
 
 ## 2. <i class="fas fa-university fa-sm"></i> Melhoria dos Conjuntos de Dados Disponíveis
 
@@ -946,6 +965,6 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk4MDkyMTAsLTIwMTMwNTYzODUsOD
-kyMDE0MzU4XX0=
+eyJoaXN0b3J5IjpbLTMyOTA0Njg4NSwtMTY2OTgwOTIxMCwtMj
+AxMzA1NjM4NSw4OTIwMTQzNThdfQ==
 -->
