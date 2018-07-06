@@ -236,7 +236,7 @@ O cidadão poderá usar a Ouvidoria do MP para informar o Ministério sobre prob
 Para fomentar a participação social e, em observância aos princípios da transparência e da publicidade, serão utilizadas as seguintes ferramentas:
 
 1.	Uso de ambiente colaborativo (Wiki) para repositório de conteúdo relacionado às entregas e discussões dos grupos de trabalho afetos ao tema, a exemplo da wiki.dados.gov.br;
-2.	Promoção de eventos de dados abertos e concurso de aplicativos, fomentado o uso e reuso de dados públicos;
+2.	Promoção de eventos de dados abertos, fomentado o uso e reuso de dados públicos;
 3.	Consultas Públicas;
 4.	Criação de trilhas de participação social;
 5.	Catalogação das informações em URL fixa no âmbito do MP, além da publicação no www.inde.gov.br e www.dados.gov.br, conforme natureza do dado;
@@ -941,5 +941,5 @@ g3NzY1NzAwXX0=
 eyJoaXN0b3J5IjpbLTEyODMxODcwNl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc0ODY3ODEsODkyMDE0MzU4XX0=
+eyJoaXN0b3J5IjpbMTMyMjQ5Mjk3MCw4OTIwMTQzNThdfQ==
 -->
