@@ -730,7 +730,7 @@ Objetivando o  atendimento a transparência da gestão administrativa  do Govern
 
 <i class="far fa-building"></i> **Unidade responsável:** SGP
 
-### <i class="fas fa-cubes fa-lg"></i> **MP_I_17 - Relação de órgãos que utilizam a malha da INFOVIA:**
+### <i class="fas fa-cubes fa-lg"></i> **MP_I_17 - Relação de órgãos que utilizam a malha da INFOVIA**
 
 A INFOVIA Brasília é uma infraestrutura de rede ótica metropolitana de comunicações construída para fornecer aos órgãos e entidades públicos um conjunto de serviços e funcionalidade em um ambiente seguro, de alta performance e disponibilidade. Resumidamente, à Secretaria de Tecnologia da Informação e Comunicação (SETIC/MP) cabe a gestão da rede e dos serviços, e ao Serviço Federal de Processamento de Dados (SERPRO) cabe a operação e a manutenção da infraestrutura ótica e dos equipamentos da rede. Objetivando o atendimento à transparência da gestão administrativa do Governo Federal, esta ação pretende disponibilizar a relação de órgãos e entidades públicos que utilizam a rede INFOVIA.
 
@@ -972,5 +972,5 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkyNzA2MTddfQ==
+eyJoaXN0b3J5IjpbOTc5NzY5MDQ1XX0=
 -->
