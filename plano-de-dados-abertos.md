@@ -217,10 +217,8 @@ O subcomitê terá dentre as suas atribuições:
   -  Avaliar se as ações adotadas estão aderentes à
   - Política de Dados Abertos; 
   - Monitorar a aplicação de critérios de qualidade e acurácia de dados;
-  -  Propor alteração ou inciativas
-   voltadas para melhoria dos dados publicados e uma melhor adequação a
-   política pública; Monitorar o atendimento as regras da INDA e INDE; e
-   Elaborar um Relatório Anual reportando o cumprimento dos Planos de
+  -  Propor alteração ou inciativas voltadas para melhoria dos dados publicados e uma melhor adequação a política pública; Monitorar o atendimento as regras da INDA e INDE; e
+  - Elaborar um Relatório Anual reportando o cumprimento dos Planos de
    Dados Abertos, com recomendações sobre as medidas indispensáveis à
    implementação e ao aperfeiçoamento da Política de Dados Abertos.
 
@@ -984,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNjgyMzU4LDQ1NTg0Nzk4MCwxMzMxMz
-MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMTUyMjYyODEsNDU1ODQ3OTgwLDEzMz
+EzMzE5NDcsLTI2NjAwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0
+NV19
 -->
