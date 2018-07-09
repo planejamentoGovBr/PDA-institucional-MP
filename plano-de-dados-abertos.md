@@ -137,14 +137,16 @@ O MP, em virtude do seu papel dentro do Estado Brasileiro, é a instituição re
 
 ## Premissas
 
-1. Publicar os dados considerados relevantes para a sociedade, no formato disponível informando as eventuais limitações de qualidade dos dados;
-2. Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
-3. Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
-5. Integrar os conjuntos de dados abertos do Ministério ao Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do Governo Federal;
-6. Catalogar os dados geoespacializados na INDE;
-8. Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade possíveis; 
-9. A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
-10. Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. 
+ - Publicar os dados considerados relevantes para a sociedade, no
+   formato disponível informando as eventuais limitações de qualidade
+   dos dados;
+ - Avaliar a qualidade dos dados publicados e identificar melhorias a serem realizadas;
+ - Sempre que possível publicar dados e seus metadados conforme estabelecido no Plano de Ação da INDA,  seguindo os padrões definidos pela e-PING, pela Infraestrutura Nacional de Dados Abertos - INDA, pela Infraestrutura Nacional de Dados Espaciais – INDE e Governo Eletrônico;
+ - Integrar os conjuntos de dados abertos do Ministério ao Portal Brasileiro de Dados Abertos, ponto central de acesso aos dados do Governo Federal;
+ - Catalogar os dados geoespacializados na INDE;
+ - Manter os dados publicados atualizados e sincronizados com a origem, com a menor periodicidade e maior granularidade possíveis; 
+ - A atualização dos dados deve ocorrer preferencialmente, por meio de sincronização automática, estabelecendo-se um processo contínuo, especialmente no caso de sistemas estruturantes, com ganhos de eficiência em comparação às extrações pontuais;
+ - Utilizar, como forma de disseminação, os ambientes do Portal Brasileiro de Dados Abertos do Governo Federal. 
 
 ## Formatos e Interfaces de acesso aos dados
 
@@ -972,6 +974,6 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTMzMTk0NywtMjY2MDAyMjEzLDE1OT
-A2OTc3NTEsOTc5NzY5MDQ1XX0=
+eyJoaXN0b3J5IjpbNDU1ODQ3OTgwLDEzMzEzMzE5NDcsLTI2Nj
+AwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0NV19
 -->
