@@ -93,7 +93,7 @@ Destacamos abaixo os temas do Plano de Ação da INDA relacionados à abertura d
 * Monitoramento da implementação dos Planos de Dados Abertos publicados.
 
 **[6. Coordenação da Infraestrutura Nacional de Dados Espaciais (INDE)](http://www.planejamento.gov.br/assuntos/planejamento-e-investimentos/inde)**
-O Decreto nº 6.666, de 27/11/2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia (CONCAR).
+O Decreto nº 6.666, de 27 de novembro de 2008, que institui, no âmbito do Poder Executivo federal a INDE, define como seus objetivo principais o ordenamento na geração na disseminação e no uso dos dados geoespaciais do País e a utilização, na produção dos dados geoespaciais pelos órgãos públicos. dos padrões e normas estabelecidos pela Comissão Nacional de Cartografia (CONCAR).
 
 **[7. Comissão Nacional de Cartografia (CONCAR)](http://www.concar.gov.br/)**
 A Secretaria de Planejamento e Assuntos Econômicos (SEPLAN) do MP esta encarregada de, promover, junto aos órgãos da administração pública, acordos e cooperações, visando ao compartilhamento dos seus acervos de dados geoespaciais.
@@ -972,6 +972,6 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NzcyMjUxLDE1OTA2OTc3NTEsOTc5Nz
-Y5MDQ1XX0=
+eyJoaXN0b3J5IjpbLTI2NjAwMjIxMywxNTkwNjk3NzUxLDk3OT
+c2OTA0NV19
 -->
