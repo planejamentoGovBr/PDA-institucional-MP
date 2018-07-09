@@ -766,7 +766,7 @@ A INFOVIA Brasília é uma infraestrutura de rede ótica metropolitana de comuni
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da Administração Pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
-A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, [a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
+A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, de 21[a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
 
 * Divulgação e a realização das licitações
 * Emissão de notas de empenho
@@ -776,7 +776,9 @@ A realização destas aquisições seguem os procedimentos especificados na Lei 
 
 O MP já compartilha dados abertos de compras públicas desde 2013 em [formato de API](http://compras.dados.gov.br/). A abertura destes dados foi uma das primeiras experiências brasileiras de API de dados abertos, servindo de referência para muitas outras iniciativas no setor público. Apesar do carater inovador no uso de padrões modernos, a API não é capaz de fornecer dados atualizados, dificultando o desenvolvimento de aplicaçõs mais interativas. A implementação da atualização tempestiva dos dados é dificultada por uma série de limitações inerentes ao uso de tecnologias antigas como o Adabas.
 
-Com o objetivo de avançar na maturidade da solução de abertura dos dados de compras públicas, o MP realizará um conjunto de melhorias para atingir dois objetivos principais: **1)** A redução do tempo de atualização dos dados através da integração definitiva do extrator de dados; e **2)** O aprimoramento da API com a inclusão de novos métodos para acesso a mais dados da plataforma de compras.
+Com o objetivo de avançar na maturidade da solução de abertura dos dados de compras públicas, o MP realizará um conjunto de melhorias para atingir dois objetivos principais: 
+**1)** A redução do tempo de atualização dos dados através da integração definitiva do extrator de dados; e 
+**2)** O aprimoramento da API com a inclusão de novos métodos para acesso a mais dados da plataforma de compras.
 
 
 <i class="fas fa-cogs"></i> **Atividades**
@@ -982,7 +984,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTQwNzM2OCw0NTU4NDc5ODAsMTMzMT
-MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
-XX0=
+eyJoaXN0b3J5IjpbNTI2MTk3MzYyLDQ1NTg0Nzk4MCwxMzMxMz
+MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
+fQ==
 -->
