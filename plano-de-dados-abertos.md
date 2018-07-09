@@ -426,7 +426,7 @@ Em atendimento à Lei Complementar 131 de 27 de maio de 2009, também conhecida 
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_03 - Patrimônio da União - Valores de depreciação de imóveis**
-Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio da União do MP elaboraram as regras para cálculo de depreciação dos imóveis da união afetados a Administração Pública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
+Em Portaria Conjunta nº 703, de 10/09/2014, a Secretaria do Tesouro Nacional do Ministério da Fazenda e a Secretaria do Patrimônio da União do MP elaboraram as regras para cálculo de depreciação dos imóveis da União afetados a Administração Pública. Desta forma, esse processo que vem sendo realizado mensalmente pela SPU e contabilizado no SIAFI. Sendo assim, a SPU disponibilizará as informações de depreciação mensal dos imóveis de Uso Especial e dará publicidade no portal de Dados Aberto do Governo Federal.
 
    <i class="fas fa-cogs"></i> **Atividades**
    1. Criar Arquivo com Informações dos Valores dos Imóveis depreciáveis;
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODg5NzUzOCw0NTU4NDc5ODAsMTMzMT
+eyJoaXN0b3J5IjpbLTU2Mzg0ODM1NCw0NTU4NDc5ODAsMTMzMT
 MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
 XX0=
 -->
