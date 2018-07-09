@@ -694,7 +694,7 @@ O Boletim das Empresas Estatais Federais é elaborado trimestralmente pela Secre
 
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_15 - Orçamento Federal - Acompanhamento Físico e Financeiro das Ações Orçamentárias**
-O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer mais os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
+O acompanhamento físico das ações orçamentárias é captado pelo SIOP para cada ação com produto e meta definidos e formalizados na Lei Orçamentária Anual. Este conjunto de dados irá enriquecer os dados já abertos da execução financeira das ações orçamentárias e compõem o que se chama de dados físicos do Orçamento. Cabe lembrar que os dados aqui disponibilizados pela Secretaria de Orçamento Federal tratam dos Orçamentos Fiscal e de Seguridade Social nos casos onde não há questões de confidenciabilidade ou protegidas pela legislação vigente
 Mais informações podem ser encontradas no [Orientador do Acompanhamento Orçamentário](https://www1.siop.planejamento.gov.br/siopdoc/doku.php/acompanhamento_orcamentario:orientador_acompanhamento_orcamentario).
 
 
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Mzg0ODM1NCw0NTU4NDc5ODAsMTMzMT
-MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
-XX0=
+eyJoaXN0b3J5IjpbNDcwMjE4Njk2LDQ1NTg0Nzk4MCwxMzMxMz
+MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
+fQ==
 -->
