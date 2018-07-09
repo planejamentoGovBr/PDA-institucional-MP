@@ -338,7 +338,7 @@ Considerando que a abertura de dados deve, sobretudo, garantir os princípios da
 
 ## **Matriz de Aplicação de Critérios**
 
-A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação  [(sessão VI)](#vi-plano-de-ação) que levou em consideração as informações das diversas áreas de negócios do MP, além da capacidade de execução do Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
+A partir da priorização resultante da Matriz de Critérios , foi elaborado o plano de ação  [(seção VI)](#vi-plano-de-ação) que levou em consideração as informações das diversas áreas de negócios do MP, além da capacidade de execução do Departamento de Implementação e Operações de Soluções de Tecnologia da Informação e Comunicação. O resultado de todo esse processo de aplicação de critérios consta na tabela abaixo e subsidia a abertura ou melhoria da disponibilização de dados em formato aberto.
 
 | Nome da Base de Dados | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | Total |
 |--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:| :--:|
@@ -386,7 +386,7 @@ A caracterização específica dos dados referentes ao PLDO, a serem disponibili
 
 2. SIOP	| Alterações orçamentárias (créditos)	| Detalhes das alterações feitas no orçamento federal em execução - SOF
 
-As informação sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
+As informações sobre Alterações Orçamentárias envolvem vários outros órgãos e poderes da União de forma que o debate de como deve ser exposta ainda é motivo de discussão. Além disso, não há recursos na área de TI da Secretaria de Orçamento Federal para abarcar tal iniciativa neste momento.
 
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_01 - Patrimônio da União - Arrecadação Patrimonial**
 Informações sobre a arrecadação anual aferidas pela União deve dar publicidade ao total de receitas arrecadadas em cada unidade da Federação, discriminando as relativas ao foro, taxas de ocupação, laudêmio e outros.
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzQwNTU0OCw0NTU4NDc5ODAsMTMzMT
-MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
-XX0=
+eyJoaXN0b3J5IjpbODE5NzU3OTc4LDQ1NTg0Nzk4MCwxMzMxMz
+MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
+fQ==
 -->
