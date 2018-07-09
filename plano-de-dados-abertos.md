@@ -407,7 +407,7 @@ Informações sobre a arrecadação anual aferidas pela União deve dar publicid
 
  
 ### <i class="fas fa-cubes fa-lg"></i> **MP_I_02 - Patrimônio da União - Imóveis Funcionais da União**
-Em atendimento à Lei Complementar 131 de 27 de 2009, também conhecida como Lei da Transparência, a Secretaria do Patrimônio da União, publicará as informações dos imóveis destinados a moradia no Distrito Federal e os servidores que ocupam imóveis funcionais, no Portal de Dados Abertos. Essas informações estão disponíveis atualmente no Portal da Transparência, sitiada na página de mesmo nome do Ministério da Transparência e Controladoria-Geral da União (CGU).
+Em atendimento à Lei Complementar 131 de 27 de maio de 2009, também conhecida como Lei da Transparência, a Secretaria do Patrimônio da União, publicará as informações dos imóveis destinados a moradia no Distrito Federal e os servidores que ocupam imóveis funcionais, no Portal de Dados Abertos. Essas informações estão disponíveis atualmente no Portal da Transparência, sitiada na página de mesmo nome do Ministério da Transparência e Controladoria-Geral da União (CGU).
 
 <i class="fas fa-cogs"></i> **Atividades**
 
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMyMTMyMzQsNDU1ODQ3OTgwLDEzMz
-EzMzE5NDcsLTI2NjAwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0
-NV19
+eyJoaXN0b3J5IjpbLTgzMDYzNzM1NSw0NTU4NDc5ODAsMTMzMT
+MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
+XX0=
 -->
