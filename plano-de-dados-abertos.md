@@ -766,7 +766,7 @@ A INFOVIA Brasília é uma infraestrutura de rede ótica metropolitana de comuni
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da Administração Pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
-A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, de 21[a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
+A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, de 21 de junho de 1993,[a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
 
 * Divulgação e a realização das licitações
 * Emissão de notas de empenho
@@ -984,7 +984,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MTk3MzYyLDQ1NTg0Nzk4MCwxMzMxMz
+eyJoaXN0b3J5IjpbMzA3NjgyNDgyLDQ1NTg0Nzk4MCwxMzMxMz
 MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
 fQ==
 -->
