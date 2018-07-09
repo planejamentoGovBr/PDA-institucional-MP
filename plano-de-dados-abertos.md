@@ -233,7 +233,7 @@ No presente plano adotamos como premissa a disponibilização de dados relevante
 
 
 ## Comunicação e Participação social
-A institucionalização do Plano de Dados Abertos (PDA), sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
+A institucionalização do PDA, sua governança e revisões serão comunicadas a todo o MP e à sociedade. Dessa forma, são envolvidos os setores responsáveis pela publicação dos dados catalogados de modo a disseminar a cultura da transparência e internalizar a publicação de dados na rotina do órgão. Sempre que ocorrer a atualização ou a inserção de dados, ações específicas de comunicação serão realizadas, coordenadas pela ASCOM, de forma a haver ampla divulgação interna e externa ao MP.
 
 Este PDA é oficialmente publicado no sítio do [MP](http://www.planejamento.gov.br/servicos/central-de-conteudos/publicacoes/plano-de-dados-abertos-pda)  no formato HTML. Dessa forma, o documento é facilmente compartilhável e pode ser lido tanto em telas grandes ou pequenas. 
 
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUyMjYyODEsNDU1ODQ3OTgwLDEzMz
-EzMzE5NDcsLTI2NjAwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0
-NV19
+eyJoaXN0b3J5IjpbLTQzNzY3NzIwNiw0NTU4NDc5ODAsMTMzMT
+MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
+XX0=
 -->
