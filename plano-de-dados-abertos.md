@@ -168,7 +168,7 @@ Atualmente, o MP vem investindo cada vez mais no uso de tecnologias de análise 
 
 O PDA está submetido às diretrizes da INDA e da Parceria para Governo Aberto (OGP). A evolução dos compromissos específicos do MP nos Planos de Ação da INDA e OGP é acompanhada pelos respectivos Comitês Gestores CGINDA e CIGA. 
 
-De acordo com § 4º do art. 5º do Decreto 8777/2016, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
+De acordo com § 4º do art. 5º do Decreto n° 8777/2016, a autoridade designada nos termos do art. 40 da Lei nº 12.527, de 2011, será responsável por assegurar a publicação e a atualização do Plano de Dados Abertos, e exercerá as seguintes atribuições:
 
 I - orientar as unidades sobre o cumprimento das normas referentes a dados abertos;
 II - assegurar o cumprimento das normas relativas à publicação de dados abertos, de forma eficiente e adequada;
@@ -974,6 +974,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1ODQ3OTgwLDEzMzEzMzE5NDcsLTI2Nj
-AwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0NV19
+eyJoaXN0b3J5IjpbLTExNDUwNjYzOCw0NTU4NDc5ODAsMTMzMT
+MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
+XX0=
 -->
