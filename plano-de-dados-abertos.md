@@ -76,11 +76,11 @@ O PDA está diretamente ligado a um Objetivo Estratégico **"Consolidar a Reorga
 O PDTIC/MP tem como objetivo atender as necessidades de tecnologia da informação e comunicação das unidades deste Ministério alinhadas aos objetivos estratégicos, visando agregar valor ao negócio. Nesse sentido, ele auxiliará na aplicação dos recursos tecnológicos para a execução das ações deste plano.
 
 **3. Comitê Estratégico de Tecnologia da Informação e Comunicação (CETIC)**
-O CETIC criado pela Portaria Nº 385, de 17 de novembro de 2017, possui caráter estratégico permanente de natureza deliberativa e consultiva e tem por finalidade promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
+O CETIC criado pela Portaria MP Nº 385, de 17 de novembro de 2017, possui caráter estratégico permanente de natureza deliberativa e consultiva e tem por finalidade promover a integração entre os objetivos e as diretrizes estratégicas da área de Tecnologia da Informação e Comunicação - TIC com as outras áreas do MP, assim como deliberar e assessorar colegiado superior ou a alta administração sobre políticas, diretrizes e planos relativos à TIC.
 
 **[4. Estratégia de Governança Digital (EGD)](http://www.planejamento.gov.br/EGD)**
 O propósito da EGD é orientar e integrar as iniciativas de transformação digital dos órgãos e entidades do Poder Executivo Federal, por meio da expansão do acesso às informações governamentais, da melhoria dos serviços públicos digitais e da ampliação da participação social.
-O instrumento foi regulamentado pela Portaria nº 68/2016 do MP, a qual vincula-se ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
+O instrumento foi regulamentado pela Portaria MP nº 68/2016 de 7 de , a qual vincula-se ao Decreto nº 8.638/2016, que instituiu a Política de Governança Digital.
 
 **[5. Comitê Gestor da Infraestrutura Nacional de Dados Abertos (CGINDA)](http://wiki.dados.gov.br/Comite-Gestor-da-INDA.ashx)**
 O CGINDA criado conforme o art. 5º da Instrução Normativa nº 4, de 12 de abril de 2012, da Secretaria de Logística e Tecnologia da Informação - SLTI, tem por finalidade a gestão da Infraestrutura Nacional de Dados Abertos - INDA, que objetiva formular políticas e estabelecer diretrizes para garantir e facilitar o acesso pelos cidadãos, pela sociedade e, em especial, pelas diversas instâncias do setor público aos dados e informações públicas.
@@ -972,6 +972,6 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzM3Mjc1NiwxNTkwNjk3NzUxLDk3OT
-c2OTA0NV19
+eyJoaXN0b3J5IjpbLTE5ODE3ODQwNzUsMTU5MDY5Nzc1MSw5Nz
+k3NjkwNDVdfQ==
 -->
