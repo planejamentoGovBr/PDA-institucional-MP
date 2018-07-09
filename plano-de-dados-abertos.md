@@ -766,7 +766,7 @@ A INFOVIA Brasília é uma infraestrutura de rede ótica metropolitana de comuni
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_01 - Compras Públicas do Governo Federal** 
 Os órgãos da Administração Pública federal possuem necessidades de aquisição de produtos e serviços com o objetivo de suprir de recursos as unidades organizacionais daquela instituição para a implementação das políticas públicas. As aquisições variam desde produtos e serviços gerais administrativos (como produtos de manutenção predial, serviços de segurança e coperagem, aquisição de computadores e televisores, etc) até serviços especializados como parte de projetos institucionais(como serviços de marketing e comunicação, serviços de desenvolvimento de portais e aplicativos, etc).
 
-A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, de 21 de junho de 1993,[a Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
+A realização destas aquisições seguem os procedimentos especificados na Lei nº 8.666, de 21 de junho de 1993, [Lei de Licitações](http://www.planalto.gov.br/ccivil_03/Leis/L8666cons.htm), e devem ser operacionalizadas no Sistema Integrado de Administração e Serviços Gerais - [SIASG](https://www.comprasgovernamentais.gov.br/). O Sistema inclui:
 
 * Divulgação e a realização das licitações
 * Emissão de notas de empenho
@@ -801,7 +801,7 @@ Com o objetivo de avançar na maturidade da solução de abertura dos dados de c
 
   
 ### <i class="fas fa-cubes fa-lg"></i> **MP_M_02 - COFIEX - Financiamentos  Externos do Setor Público** 
-Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, distrito federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
+Os financiamentos externos junto a organismos financeiros internacionais de desenvolvimento bilaterais e multilaterais atendem a projetos da união, estados, Distrito Federal e municípios. As operações de crédito reembolsáveis no âmbito das esferas estaduais e municipais contam com o aval da União, isto é, são garantidas pela união e a análise é feita pela Comissão de Financiamentos Externos ([Cofiex](http://www.planejamento.gov.br/assuntos/assuntos-internacionais/cofiex)). Ainda passam pela Cofiex, as operações não reembolsáveis como por exemplo as cooperações técnicas.
 
 As informações sobre estes projetos constam no site de dados abertos desde o início da iniciativa, porém, quando o site foi reformulado para disponibilizar as bases mediante links, dada a indisponibilidade de recursos adequados para extrair e disponibilizar as informações, a base ficou fora do site de dados abertos. A expectativa é que até o mês de setembro de 2018 as informações estejam novamente disponíveis no site e com atualizações automáticas e diárias. 
 
@@ -984,7 +984,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NjgyNDgyLDQ1NTg0Nzk4MCwxMzMxMz
+eyJoaXN0b3J5IjpbMTk1ODU3MDY3LDQ1NTg0Nzk4MCwxMzMxMz
 MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
 fQ==
 -->
