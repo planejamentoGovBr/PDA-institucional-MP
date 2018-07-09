@@ -270,9 +270,9 @@ Para fomentar a participação social e, em observância aos princípios da tran
 
 A garantia dos princípios da publicidade e da transparência da Administração Pública é o pilar deste Plano. Parte-se do pressuposto de que a divulgação dos dados é a regra a ser seguida, tratando-se o sigilo como exceção. Para a definição da priorização das informações a serem disponibilizadas à sociedade, faz-se necessário estabelecer diretrizes para a abertura de bases de dados considerando-se os princípios da legalidade, economicidade e eficiência.
 
-Para tanto foram realizadas dinâmicas com a participação de representantes de todas as secretarias do MP, iniciando com a avaliação dos PDAs anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos à abertura neste plano.
+Para tanto foram realizadas dinâmicas com a participação de representantes de todas as Secretarias do MP, iniciando com a avaliação dos PDAs anteriores até a aplicação de critérios de priorização dos conjuntos de dados candidatos à abertura neste plano.
 
-Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões pelos canais permanentes de comunicação além da realização de uma consulta pública. 
+Também foi considerada a colaboração da sociedade no processo de melhoria da qualidade através do recebimento de sugestões pelos canais permanentes de comunicação, além da realização de uma consulta pública. 
 
 ## Identificação de Conjunto de Dados
 Apresentamos o detalhamento do processo de identificação de conjunto de dados nos itens abaixo:
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzY3NzIwNiw0NTU4NDc5ODAsMTMzMT
-MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
-XX0=
+eyJoaXN0b3J5IjpbLTExNDE5NTUwMDYsNDU1ODQ3OTgwLDEzMz
+EzMzE5NDcsLTI2NjAwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0
+NV19
 -->
