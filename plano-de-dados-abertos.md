@@ -288,7 +288,7 @@ Um insumo importante considerado neste processo foram as informações do Relat�
 * Os normativos e compromissos formalmente assumidos pelo Ministério;
 
 **c) Inventário de Bases de Dados**
-O grupo de trabalho constituído desenvolveu, dentre as suas atividades, detalhamento maior do inventário de bases do MP observando se já encontravam-se divulgados no Portal de Dados Abertos todos os conjuntos de informações organizadas, constantes de sistemas,  inclusive os estruturantes, planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv.
+O grupo de trabalho constituído desenvolveu, dentre as suas atividades, detalhamento maior do inventário de bases do MP, observando se já encontravam-se divulgados no Portal de Dados Abertos todos os conjuntos de informações organizadas, constantes de sistemas,  inclusive os estruturantes, planilhas atualizadas regularmente, informações já publicadas em relatórios, sítio institucional, Portal da Transparência, ou ainda, as já organizadas para atender demandas frequentes via e-SIC e e-Ouv.
 
 Este trabalho resultou em uma relação de bases contendo cerca de 40 (quarenta) sistemas em uso no MP, além dos 10 (dez) sistemas estruturantes de uso obrigatório transversal para órgãos da Administração Pública Federal (APF).
 
@@ -982,7 +982,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE5NTUwMDYsNDU1ODQ3OTgwLDEzMz
-EzMzE5NDcsLTI2NjAwMjIxMywxNTkwNjk3NzUxLDk3OTc2OTA0
-NV19
+eyJoaXN0b3J5IjpbMTY3NzQwNTU0OCw0NTU4NDc5ODAsMTMzMT
+MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
+XX0=
 -->
