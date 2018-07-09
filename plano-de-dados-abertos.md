@@ -207,7 +207,7 @@ O PDA será monitorado e acompanhado pela autoridade de monitoramento designada 
  - Chefe de Assessoria de Comunicação;
  - Autoridade máxima da unidade setorial de TIC;
  - Representantes de cada Secretaria;
- - Subsecretario de Assuntos Administrativos; e 
+ - Subsecretário de Assuntos Administrativos; e 
  - Subsecretário de Planejamento e Orçamento.
 
 O subcomitê terá dentre as suas atribuições:
@@ -977,7 +977,7 @@ eyJoaXN0b3J5IjpbMTAyODc1MDc2MywtNDU2MTI5MDc5LC0xNj
 Y5ODA5MjEwLC0yMDEzMDU2Mzg1LDg5MjAxNDM1OF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzI3MTQwMCw0NTU4NDc5ODAsMTMzMT
-MzMTk0NywtMjY2MDAyMjEzLDE1OTA2OTc3NTEsOTc5NzY5MDQ1
-XX0=
+eyJoaXN0b3J5IjpbNzA1MjU2OTM2LDQ1NTg0Nzk4MCwxMzMxMz
+MxOTQ3LC0yNjYwMDIyMTMsMTU5MDY5Nzc1MSw5Nzk3NjkwNDVd
+fQ==
 -->
