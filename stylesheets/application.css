@@ -2314,6 +2314,10 @@ header.masthead .container {
   img {
     max-width: 100%;
   }
+
+  .texto-link-pdf {
+    display: none !important;
+  }
 }
 
 
