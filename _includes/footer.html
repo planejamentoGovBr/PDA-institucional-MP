@@ -73,6 +73,9 @@ jQuery(document).ready(function() {
 
     jQuery('#toc').toc({ listType: 'ul', showEffect: 'fadeIn',  minimumHeaders: 0 });
 
+    jQuery('#toc').find("li").first().remove();
+    jQuery('#toc').find("li").first().remove();
+
 /*    
    if (window.location.href.indexOf('#') == 0) {
     let hash = encodeURIComponent(window.location.href.split('#')[1]);
