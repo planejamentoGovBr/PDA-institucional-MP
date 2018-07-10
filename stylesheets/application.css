@@ -2318,6 +2318,10 @@ header.masthead .container {
   .texto-link-pdf {
     display: none !important;
   }
+
+  section#main_content p:first-of-type {
+    margin-right: 40px;
+  } 
 }
 
 
