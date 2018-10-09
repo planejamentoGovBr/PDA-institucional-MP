@@ -818,7 +818,7 @@ As informações sobre estes projetos constam no site de dados abertos desde o i
 
 <i class="fas fa-sync-alt"></i> **Frequência de Atualização:** Diário
 
-<i class="far fa-calendar-check"></i> **Meta/Prazo:** Agosto/2018
+<i class="far fa-calendar-check"></i> **Meta/Prazo:** Setembro/2018
 
 <i class="far fa-building"></i> **Unidade responsável:** SEAIN
 
