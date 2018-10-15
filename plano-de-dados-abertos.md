@@ -12,7 +12,7 @@ desc: Este é o Plano de Dados Abertos do Ministério do Planejamento.
 ----------
 
 
-Versão [3.0.0](https://github.com/planejamentoGovBr/PDA-institucional-MP/releases/tag/v3.0.0) de julho/18 - Vigência 2018/2019
+Versão [3.0.1](https://github.com/planejamentoGovBr/PDA-institucional-MP/releases/tag/v3.0.1) de julho/18 - Vigência 2018/2019
 
 
 # **Sumário**
