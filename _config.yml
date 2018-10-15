@@ -3,3 +3,5 @@ highlighter: pygments
 github: [Repository metadata]
 title: Plano de Dados Abertos do Ministério do Planejamento
 baseurl: /
+
+theme: jekyll-theme-slate
